@@ -1,0 +1,35 @@
+# Abaikan semua file
+*
+
+# ========================
+# REPO ESSENTIALS
+# ========================
+!.gitignore
+!README.md
+!LICENSE
+!DLC_CHECKLIST.md
+
+# ========================
+# COPILOT INSTRUCTIONS
+# ========================
+!.github/
+!.github/**
+
+# ========================
+# BASE GAME TRANSLATIONS
+# ========================
+!Base/
+!Base/Assets/
+!Base/Assets/Text/
+!Base/Assets/Text/id_ID/
+!Base/Assets/Text/id_ID/*.xml
+
+# ========================
+# DLC TRANSLATIONS
+# ========================
+!DLC/
+!DLC/*/
+!DLC/*/Assets/
+!DLC/*/Assets/Text/
+!DLC/*/Assets/Text/id_ID/
+!DLC/*/Assets/Text/id_ID/*.xml
