@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_UI_PEDIA_TITLE">
+			<Text>CIVILOPEDIA</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CIVILIZATIONS">
+			<Text>Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GEOGRAPHY_AND_SOCIAL_DATA">
+			<Text>Geografi & Data Sosial</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERENCES">
+			<Text>Preferensi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_AGENDAS">
+			<Text>Agenda</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERRED_RELIGION">
+			<Text>Agama</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADERS">
+			<Text>Pemimpin</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS">
+			<Text>Sungai</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS_FOOTNOTE">
+			<Text>(juga lebih menyukai sungai)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
+			<Text>Infrastruktur Khusus</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
+			<Text>Unit Khusus</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SUZERAIN">
+			<Text>Menjadi Suzerain Of</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_START_BIAS">
+			<Text>Mulai Bias</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_DESCRIPTION">
+			<Text>Deskripsi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BELIEF_CLASS">
+			<Text>Kelas Kepercayaan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
+			<Text>Kelas Promosi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRAITS">
+			<Text>Ciri-ciri</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MADE_OBSOLETE_BY">
+			<Text>Dibuat usang oleh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_APPLIES_TO">
+			<Text>Berlaku Untuk</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REPLACES">
+			<Text>Mengganti</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
+			<Text>Kewarganegaraan yang dibutuhkan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_TECHNOLOGIES">
+			<Text>Teknologi yang Dibutuhkan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNLOCKS">
+			<Text>Membuka kunci</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BOOSTS">
+			<Text>Meningkatkan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_FOLLOWERS">
+			<Text>Pengikut</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROGRESSION">
+			<Text>Kemajuan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
+			<Text>Mengarah ke Kewarganegaraan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_TECHS">
+			<Text>Mengarah ke Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PRODUCTION_COST">
+			<Text>Biaya Produksi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PURCHASE_COST">
+			<Text>Biaya Pembelian</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAITENANCE_COST">
+			<Text>Biaya Pemeliharaan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CULTURE_COST">
+			<Text>Biaya Budaya</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RESEARCH_COST">
+			<Text>Biaya Penelitian</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BASE_COST">
+			<Text>Biaya Dasar: {1_Number: #} {2_ResultIcon} {3_Result Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIREMENTS">
+			<Text>Persyaratan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BUILD_CHARGES">
+			<Text>Membangun Biaya</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_HEAL_CHARGES">
+			<Text>Menyembuhkan Biaya</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
+			<Text>Poin Gerakan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
+			<Text>Kekuatan Jarak Dekat</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
+			<Text>Kekuatan Jarak Jauh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
+			<Text>Kekuatan Bombard</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
+			<Text>Kekuatan Agama</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
+			<Text>Kekuatan Anti Udara</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
+			<Text>Biaya Penyebaran</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RANGE">
+			<Text>Jangkauan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REPLACED_BY">
+			<Text>Digantikan oleh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNLOCKED_BY">
+			<Text>Dibuka oleh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BUILT_BY">
+			<Text>Dibangun oleh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE">
+			<Text>Penggunaan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
+			<Text>Membuka Kunci Bangunan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
+			<Text>Membuka Unit</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
+			<Text>Dapat Membangun</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT">
+			<Text>Penempatan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADJACENCY">
+			<Text>Kedekatan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
+			<Text>Saling Eksklusif Dengan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
+			<Text>Harus ditempatkan di Pantai, berdekatan dengan daratan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_CITY">
+			<Text>Harus berdekatan dengan Pusat Kota, serta Sungai, Danau, Oasis, atau Gunung yang berdekatan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_NOT_ADJ_TO_CITY">
+			<Text>Tidak boleh berdekatan dengan Pusat Kota</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
+			<Text>Bonus Kedekatan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
+			<Text>Hasil Warga Negara (per warga negara)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_YIELDS">
+			<Text>Hasil Perdagangan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_ORIGIN">
+			<Text>Asal</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_DOMESTIC_DESTINATION">
+			<Text>Tujuan Domestik</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_INTERNATIONAL_DESTINATION">
+			<Text>Tujuan Internasional</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UPGRADES_TO">
+			<Text>Upgrade ke</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UPGRADE_FROM">
+			<Text>Tingkatkan Dari</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNIQUE_TO">
+			<Text>Unik Untuk</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
+			<Text>Kemampuan Unik</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTIONS">
+			<Text>Promosi(-promosi)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROJECTS">
+			<Text>Proyek(-proyek)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
+			<Text>Jenis Kota-Negara Bagian</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CREATES">
+			<Text>Menciptakan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CREATED_BY">
+			<Text>Dibuat oleh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ESPIONAGE_MISSIONS">
+			<Text>Misi Spionase</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_TURNS">
+			<Text>Belok: {1_Name} (Kecepatan Standar)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_BASE_PROBABILITY">
+			<Text>Probabilitas Dasar: {1_Name}%</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_TARGET_DISTRICT">
+			<Text>Distrik Target: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_IMPROVED_BY">
+			<Text>Ditingkatkan oleh</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_HARVEST">
+			<Text>Panen</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES">
+			<Text>Membutuhkan: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_VALID_RESOURCES">
+			<Text>Sumber daya yang valid</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
+			<Text>{1_ActionName} ({2_AmountCost} { 2_Amount of Cost: plural 1? cost; other? cost;})</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GREAT_WORKS">
+			<Text>Karya Besar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
+			<Text>Pegunungan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
+			<Text>Perbukitan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_WATER">
+			<Text>Air</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
+			<Text>Air Dangkal</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
+			<Text>Tidak bisa dilewati</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
+			<Text>Tidak aktif</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
+			<Text>Persyaratan khusus harus dipenuhi untuk mengaktifkannya.  Lihat deskripsi untuk rincian lebih lanjut.</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
+			<Text>Dihapus jika game dimulai setelah</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
+			<Text>Harus berdekatan dengan sungai</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
+			<Text>Harus berdekatan dengan gunung</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
+			<Text>Harus dibangun di pesisir pantai</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
+			<Text>Harus dibangun di atas danau</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
+			<Text>Tidak dapat dibangun di atas danau</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
+			<Text>Harus mendirikan sebuah agama</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
+			<Text>Bangunan (apa saja)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
+			<Text>[ICON_Movement] Perubahan Gerakan: {1_Number}</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

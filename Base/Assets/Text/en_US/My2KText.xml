@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<FrontEndText>
+		<Row Tag="TXT_KEY_MY2K">
+			<Text>Akun 2K</Text>
+		</Row>		
+		
+		<!-- String needed for MY2K but not (yet) provided by the server system... -->
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
+			<Text>Mendaftar untuk Akun 2K</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
+		  <Text>Untuk mendaftar Akun 2K, masukkan alamat email yang valid pada kolom di bawah ini. Email verifikasi akan dikirim ke alamat ini untuk konfirmasi pendaftaran.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
+			<Text>Keluar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
+			<Text>Apakah Anda ingin keluar?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_YES">
+			<Text>Ya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_NO">
+			<Text>Tidak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
+		  <Text>Masuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_OK">
+		  <Text>BAIKLAH.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
+		  <Text>Batal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_READ">
+		  <Text>Baca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
+		  <Text>Buat Pengguna Baru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
+		  <Text>Daftar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
+		  <Text>Masalah Koneksi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
+		  <Text>Koneksi ke Civilization VI tidak dapat dibuat. Fitur-fitur Civilization VI mungkin tidak dapat diakses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOTD">
+		  <Text>Transmisi Masuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
+			<Text>Selamat datang kembali!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
+			<Text>Masuk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
+			<Text>Pemberitahuan Masuk Senyap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
+			<Text>Anda harus masuk secara manual ke Akun 2K Anda.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
+			<Text>Koneksi Dipulihkan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
+			<Text>Tautkan ke Akun yang Sudah Ada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
+			<Text>Akun platform sudah ditautkan ke Akun 2K.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
+			<Text>Tidak dapat menautkan akun platform ke Akun 2K Anda.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
+			<Text>Putuskan Tautan Akun</Text>
+		</Row>
+    <Row Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
+      <Text>Tautkan Akun</Text>
+    </Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
+			<Text>Apakah Anda yakin ingin memutuskan tautan Akun 2K Anda? Anda dapat mengelola akun Anda atau meninjau kebijakan hukum dan privasi secara online di www.2k.com.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGIN_PENDING">
+			<Text>Login akun tertunda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
+      <Text>Offline</Text>
+    </Row>
+		<Row Tag="TXT_KEY_MY2K_MODE_AGE_RESTRICTED">
+			<Text>Usia Dibatasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_MODE_AGE_RESTRICTED_TOOLTIP">
+			<Text>Usia yang terkait dengan Akun 2K yang ditautkan ini tidak memenuhi persyaratan usia yang sah untuk mengakses bagian tertentu dari game. Silakan hubungi dukungan pelanggan untuk mendapatkan bantuan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
+      <Text>Tertaut - Online</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
+      <Text>Tertaut - Offline</Text>
+    </Row>
+	<Row Tag="TXT_KEY_MY2K_MODE_UNLINKED_TOOLTIP">
+      <Text>Daftar Akun 2K untuk membuka hadiah Kucing Pengintai dan Julius Caesar (perlu memulai ulang game) dan mengaktifkan penyimpanan cloud lintas platform sehingga Anda dapat memulai game dan melanjutkannya di platform lain. Selain itu, Anda akan menerima berita terbaru dari Sid Meier's Civilization!</Text>
+    </Row>
+	<Row Tag="TXT_KEY_MY2K_MODE_LINKED_TOOLTIP">
+      <Text>Akun 2K ditautkan. Penyimpanan cloud lintas platform diaktifkan. Hadiah Scout Cat dan Julius Caesar tidak terkunci (lihat di bawah "Konten Tambahan").</Text>
+    </Row>
+  </FrontEndText>
+</GameData>

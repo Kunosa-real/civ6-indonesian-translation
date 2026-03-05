@@ -21,6 +21,8 @@
 !Base/
 !Base/Assets/
 !Base/Assets/Text/
+!Base/Assets/Text/en_US/
+!Base/Assets/Text/en_US/*.xml
 !Base/Assets/Text/id_ID/
 !Base/Assets/Text/id_ID/*.xml
 
@@ -31,5 +33,7 @@
 !DLC/*/
 !DLC/*/Assets/
 !DLC/*/Assets/Text/
+!DLC/*/Assets/Text/en_US/
+!DLC/*/Assets/Text/en_US/*.xml
 !DLC/*/Assets/Text/id_ID/
 !DLC/*/Assets/Text/id_ID/*.xml

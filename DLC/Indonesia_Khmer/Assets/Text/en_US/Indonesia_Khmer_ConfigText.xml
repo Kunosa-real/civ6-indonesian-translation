@@ -1,0 +1,128 @@
+<GameData>
+	<EnglishText>
+		<!--Indonesia-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GITARJA">
+			<Text>Pemberani Gitarja, ratu Majapahit sepuluh ribu pulau, lautan Indonesia adalah kekuatan terbesarmu. Sebagai Dewi Tiga Dunia yang Agung, Anda harus menyebarkan pengaruh ilahi Anda ke semua perairan yang tersentuh matahari. Andalkan armada setia Anda, ratu pemberani! Melepaskan badai yang mengerikan kepada mereka yang membawa perselisihan ke wilayah Indonesia.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDONESIA_NAME">
+			<Text>Indonesia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
+			<Text>Kerajaan Indonesia</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>kampung</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Kampung, unik di Indonesia.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Produksi dan +1 [ICON_Housing] Perumahan. +1 [ICON_FOOD] Makanan untuk setiap Kapal Nelayan yang berdekatan. Tambahan Produksi [ICON_PRODUCTION], Perumahan [ICON_Housing], dan Pariwisata [ICON_TOURISM] seiring kemajuan Anda melalui Teknologi dan Pohon Civics. Harus ditempatkan di petak Pantai atau Danau yang berdekatan dengan sumber daya laut.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GITARJA_NAME">
+			<Text>Gitarja</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Kemajuan unik Indonesia: Kampung</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
+			<Text>Nusantara Besar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+			<Text>Ubin Pantai dan Danau memberikan bonus kedekatan kecil untuk distrik Situs Suci, Kampus, Zona Industri, dan Alun-Alun Teater. +1 [ICON_AMENITIES] Fasilitas mulai dari hiburan hingga setiap Kompleks Hiburan yang berdekatan dengan ubin Pantai atau Danau.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Satuan unik Indonesia: Jong</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
+			<Text>Dewi Tiga Dunia yang Agung</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
+			<Text>Unit angkatan laut dapat dibeli dengan [ICON_FAITH] Iman. Unit keagamaan tidak membayar pergerakan untuk naik atau turun. +2[ICON_FAITH] Keyakinan pada Pusat Kota yang berdekatan dengan Pantai atau Danau Genteng.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Jong</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
+			<Text>Satuan Angkatan Laut khas Indonesia era Abad Pertengahan yang menggantikan Fregat. Semua unit formasi mewarisi kecepatan Gerakan [ICON_Movement] pengawal dan +5 [ICON_Strength] Kekuatan Tempur saat berada dalam formasi.</Text>
+		</Row>
+		<!--Khmer-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN">
+			<Text>Jayavarman yang bijaksana, orang ketujuh yang menyandang nama itu, orang Khmer mengagumi dedikasi Anda terhadap kesejahteraan mereka. Penguasaan Anda atas air segar di daratan memungkinkan Anda memberi makan orang-orang yang kelaparan, sama seperti hal itu membawa Anda semakin dekat ke Surga. Majulah, arsitek ilahi! Bangunlah sebuah kerajaan yang mendekati kesempurnaan—dan semoga musuhmu menemukan ajalnya di bawah gajah perangmu yang perkasa.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_NAME">
+			<Text>Prasat</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Khmer. Menggantikan Kuil. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. Misionaris yang dibeli di kota ini menerima kemampuan Martyr yang memberikan Relik [ICON_GreatWork_Relic] jika Misionaris ini mati dalam Pertempuran Teologis.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION1_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Iman. Sebuah bangunan unik di Khmer. Menggantikan Kuil. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. +0.5 [ICON_Culture] Budaya untuk setiap [ICON_CITIZEN] penduduk di kota ini. Setelah Penerbangan diteliti menerima +10 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 10 atau lebih dan +20 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 20 atau lebih.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION2_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Iman. Sebuah bangunan unik di Khmer. Menggantikan Kuil. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. +0.5 [ICON_Culture] Budaya untuk setiap [ICON_CITIZEN] penduduk di kota ini. Setelah Penerbangan diteliti menerima +10 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 10 atau lebih dan +20 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 20 atau lebih.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KHMER_NAME">
+			<Text>Khmer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
+			<Text>Kekaisaran Khmer</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JAYAVARMAN_NAME">
+			<Text>Jayawarman VII</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
+			<Text>Bangunan unik Khmer: Prasat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
+			<Text>Baray Agung</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
+			<Text>+3 [ICON_FAITH] Iman dan +1 [ICON_AMENITIES] Fasilitas hiburan di setiap kota dengan Saluran Air. Peternakan menyediakan +2 [ICON_FOOD] Makanan jika berdekatan dengan Saluran Air.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION1_DESCRIPTION">
+			<Text>Kota dengan Saluran Air menerima +1 [ICON_AMENITIES] Fasilitas dari hiburan dan +1 [ICON_FAITH] Keyakinan untuk setiap [ICON_CITIZEN] populasi. Peternakan menyediakan +2 [ICON_FOOD] Makanan jika berdekatan dengan Saluran Air dan +1 [ICON_FAITH] Iman jika berdekatan dengan Situs Suci.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION">
+			<Text>Kota dengan Saluran Air menerima +1 [ICON_AMENITIES] Fasilitas dari hiburan dan +1 [ICON_FAITH] Keyakinan untuk setiap [ICON_CITIZEN] populasi. Peternakan menyediakan +2 [ICON_FOOD] Makanan jika berdekatan dengan Saluran Air dan +1 [ICON_FAITH] Iman jika berdekatan dengan Situs Suci.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
+			<Text>Unit unik Khmer: Domrey</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME">
+			<Text>Biara Raja</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
+			<Text>Situs Suci menyediakan +2 [ICON_FOOD] Makanan dan +1 [ICON_HOUSING] Perumahan jika ditempatkan di sungai. Situs Suci memicu Bom Budaya.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
+			<Text>Situs Suci diberikan kedekatan Utama dengan Sungai, Bom Budaya, [ICON_FOOD] Makanan setara dengan bonus kedekatannya, dan +2 [ICON_Housing] Perumahan jika berada di Sungai.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
+			<Text>Situs Suci diberikan kedekatan Utama dengan Sungai, Bom Budaya, [ICON_FOOD] Makanan setara dengan bonus kedekatannya, dan +2 [ICON_Housing] Perumahan jika berada di Sungai.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KHMER_DOMREY_NAME">
+			<Text>Domrey</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
+			<Text>Unit pengepungan era Abad Pertengahan unik Khmer yang menggantikan Trebuchet. Unit ini memiliki Kekuatan Jarak Dekat dan Jangkauan [ICON_Strength] yang lebih tinggi daripada Trebuchet. Ia dapat bergerak dan menembak dalam giliran yang sama dan menggunakan zona kendali.</Text>
+		</Row>
+		<!--Map-->
+		<Row Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+			<Text>Lokasi Awal Sejati Asia Timur</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Peradaban dimulai dari lokasi ibu kota bersejarah mereka di peta Asia.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+			<Text>Asia Timur</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Representasi Asia Timur dengan sumber daya, medan, dan fitur yang mencerminkan lokasi bersejarahnya.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
+			<Text>Teluk Ha Long</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
+			<Text>Dua keajaiban alam yang dapat ditemukan di daerah pesisir dan menyediakan +3 [ICON_FOOD] Makanan, +1 [ICON_PRODUCTION] Produksi, dan +1 [ICON_CULTURE] Budaya. +15 [ICON_Strength] Kekuatan Tempur saat bertahan di ubin ini.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

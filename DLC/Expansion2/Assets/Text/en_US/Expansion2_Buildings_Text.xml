@@ -1,0 +1,150 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--New for XP2-->
+		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_NAME">
+			<Text>Penghalang Banjir</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_DESCRIPTION">
+			<Text>Melindungi Dataran Rendah Pesisir di kota ini dari banjir. Biaya pembangunan awal dan pemeliharaan per putaran bervariasi berdasarkan jumlah Dataran Rendah Pesisir di kota ini dan permukaan laut saat ini. Jika dibangun setelah sebagian ubin kota terendam banjir, ubin tersebut dapat diperbaiki seluruhnya. Namun ubin yang terendam tidak dapat dipulihkan.[NEWLINE][NEWLINE]Harus dibangun di kota dengan satu atau lebih ubin Dataran Rendah Pesisir. Tidak akan dijarah jika kotanya direbut.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_ALT_DESCRIPTION">
+			<Text>Melindungi Dataran Rendah Pesisir di kota ini dari banjir. Biaya pembangunan awal dan pemeliharaan per putaran bervariasi berdasarkan jumlah Dataran Rendah Pesisir di kota ini dan permukaan laut saat ini. Jika dibangun setelah sebagian ubin kota terendam banjir, ubin tersebut dapat diperbaiki seluruhnya. Namun ubin yang terendam tidak dapat dipulihkan.[NEWLINE][NEWLINE]Harus dibangun di kota dengan satu atau lebih ubin Dataran Rendah Pesisir. Tidak akan dijarah jika kotanya direbut. Insinyur Militer dapat mengeluarkan biaya untuk menyelesaikan 20% produksi Penghalang Banjir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_NAME">
+			<Text>Bendungan Pembangkit Listrik Tenaga Air</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_DESCRIPTION">
+			<Text>Menyediakan kota +6 [ICON_Power] Listrik dari sumber air terbarukan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_NAME">
+			<Text>Pembangkit Listrik Tenaga Batubara</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION">
+			<Text>Secara otomatis mengkonversi sejumlah [ICON_RESOURCE_COAL] Batubara menjadi [ICON_Power] Listrik untuk kota-kota dalam 6 ubin yang membutuhkannya setiap putaran, dengan laju:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_COAL] Batubara [ICON_PowerRight] 4 [ICON_Power] Listrik[NEWLINE][ICON_Bullet]CO2 yang berat ke atmosfer</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME">
+			<Text>Pembangkit Listrik Tenaga Minyak</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION">
+			<Text>Secara otomatis mengkonversi sejumlah [ICON_RESOURCE_OIL] Minyak menjadi [ICON_Power] Listrik untuk kota-kota dalam 6 ubin yang membutuhkannya setiap putaran, dengan laju:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_OIL] Minyak [ICON_PowerRight] 4 [ICON_Power] Kekuatan[NEWLINE][ICON_Bullet]CO2 sedang ke atmosfer[NEWLINE]Bonus produksi [ICON_Production]-nya diperluas ke semua Pusat Kota dalam 6 ubin yang belum mendapat bonus dari gedung Pembangkit Listrik.</Text>
+		</Row>
+		<!--Wonders-->
+		<Row Tag="LOC_BUILDING_GREAT_BATH_NAME">
+			<Text>Mandi Besar</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_BATH_DESCRIPTION">
+			<Text>Ubin Dataran Banjir di sepanjang sungai yang berisi Pemandian Besar kini kebal terhadap kerusakan akibat Banjir (meskipun [ICON_FOOD] Makanan dan [ICON_PRODUCTION] Bonus produksi dari banjir turun sebesar 50%). Ubin dataran banjir milik kota ini memperoleh +1 [ICON_FAITH] Keyakinan setiap kali kerusakan akibat banjir dikurangi.[NEWLINE][NEWLINE]Harus dibangun di atas ubin dataran banjir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_NAME">
+			<Text>Kuil Meenakshi</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_DESCRIPTION">
+			<Text>Memberikan 2 Guru. Gurus 30% lebih murah untuk dibeli. Unit keagamaan yang berdekatan dengan Guru menerima +5 [ICON_Religion] Kekuatan Keagamaan dalam Pertempuran Teologis dan +1 [ICON_Movement] Gerakan. Harus dibangun berdekatan dengan Situs Suci dan Anda harus mendirikan Agama.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_NAME">
+			<Text>Universitas Sankore</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Peradaban Lain ke kota ini menyediakan +1 [ICON_SCIENCE] Sains dan +1 [ICON_GOLD] Emas untuk mereka. +2 [ICON_SCIENCE] Sains untuk setiap [ICON_TradeRoute] Jalur Perdagangan ke kota ini. Rute Perdagangan [ICON_TradeRoute] Domestik memberikan tambahan +1 [ICON_FAITH] Keyakinan pada kota ini.[NEWLINE][NEWLINE]Harus dibangun di Gurun atau Perbukitan Gurun, dan berdekatan dengan kawasan Kampus dengan Universitas.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_NAME">
+			<Text>Machu Picchu</Text>
+			<Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_DESCRIPTION">
+			<Text>Ubin gunung memberikan bonus kedekatan standar ke distrik Pusat Komersial, Lapangan Teater, dan Zona Industri di semua kota.[NEWLINE][NEWLINE]Harus dibangun di atas ubin Gunung yang tidak terdapat Gunung Berapi.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORSZAGHAZ_NAME">
+			<Text>Országház</Text>
+			<Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORSZAGHAZ_DESCRIPTION">
+			<Text>+100% [ICON_Favor] Bantuan Diplomatik per giliran dari memulai giliran sebagai Penguasa Negara-Kota.[NEWLINE][NEWLINE]Harus dibangun di Sungai.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PANAMA_CANAL_NAME">
+			<Text>Terusan Panama</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_PANAMA_CANAL_DESCRIPTION">
+			<Text>Setelah selesai, 1 atau 2 distrik Canal yang berdekatan secara otomatis dibangun. Ubin ajaib Kanal sekarang dapat dilintasi oleh unit angkatan laut. [ICON_TradeRoute] Jalur Perdagangan yang melewatinya dapat melipatgandakan [ICON_Gold] Emas yang diperoleh dari distrik di tempat tujuan.[NEWLINE][NEWLINE]Harus dibangun di atas tanah datar yang terdapat dua ubin yang berdekatan tepat melintasi ubin bangunan satu sama lain yang memenuhi kriteria berikut: satu ubin yang berdekatan harus secara sah dapat menampung distrik Kanal yang menghubungkan ke ubin konstruksi Terusan Panama; yang lainnya harus berupa kota, ubin air, atau ubin lain yang dapat menampung Kanal penghubung.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_NAME">
+			<Text>Jembatan Gerbang Emas</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_DESCRIPTION">
+			<Text>Unit darat dapat menyeberang tanpa perlu berangkat. Bertindak sebagai Jalan Modern dan menciptakan Jalan Modern (jika tidak ada) pada ubin tanah di kedua ujungnya. Kota mendapatkan +3 [ICON_Amenities] Fasilitas. Semua ubin di kota ini +4 Banding. +100% [ICON_Tourism] Pariwisata dari perbaikan dan Taman Nasional di kota ini. [ICON_TradeRoute] Jalur Perdagangan yang melewatinya dapat melipatgandakan [ICON_Gold] Emas yang didapat dari distrik di tempat tujuan.[NEWLINE][NEWLINE]Harus dibangun di atas ubin Pesisir. Jembatan harus melintasi segi enam di antara dua ubin tanah yang berhadapan langsung satu sama lain. Setidaknya satu ubin air harus ada di sisi kiri dan kanan jembatan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_EXPANSION2_DESCRIPTION">
+			<Text>Penghargaan 6 [ICON_RESOURCE_IRON] Besi per putaran. Memberikan +4 [ICON_Faith] Iman ke semua kota Anda yang berada dalam 6 ubin.[NEWLINE][NEWLINE]Harus dibangun di medan Gurun (Perbukitan).</Text>
+		</Row>
+		<!-- Other balance changes -->
+		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 Slot kebijakan ekonomi.  +50% [ICON_Gold] Emas. [NEWLINE][NEWLINE]Harus dibangun di sebelah Sungai yang berdekatan dengan kawasan Pusat Komersial dengan Bank.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_EXPANSION2_DESCRIPTION">
+			<Text>+2 Poin Kemenangan Diplomatik dan memberikan 2 Rasul saat dibangun.[NEWLINE][NEWLINE]Harus dibangun di Hutan yang berdekatan dengan distrik Situs Suci dengan Kuil, dan Anda harus mendirikan Agama.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_EXPANSION2_DESCRIPTION">
+			<Text>+4 Poin Kemenangan Diplomatik saat dibangun. Semua kota Anda dalam 6 ubin selalu 100% Setia. [NEWLINE][NEWLINE]Harus dibangun di Pesisir, berdekatan dengan daratan dan kawasan Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_EXPANSION2_DESCRIPTION">
+			<Text>+1 slot kebijakan diplomatik.  +1 Poin Kemenangan Diplomatik.[NEWLINE][NEWLINE]Harus dibangun di Bukit yang berdekatan dengan Gunung.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>+50% pengalaman tempur untuk unit udara yang dilatih di kota ini. +1 slot unit udara di distrik Aerodrome. Memungkinkan kemampuan untuk mengangkut unit darat antara distrik Aerodrome dengan Bandara setelah sipil Rapid Deployment dibuka.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk unit udara yang dilatih di kota ini. +1 slot unit udara di distrik Aerodrome.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME">
+			<Text>Pembangkit Listrik Tenaga Nuklir</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION">
+			<Text>Secara otomatis mengkonversi sejumlah [ICON_RESOURCE_URANIUM] Uranium menjadi [ICON_Power] Listrik untuk kota-kota dalam 6 ubin yang membutuhkannya setiap putaran, dengan laju:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_URANIUM] Uranium [ICON_PowerRight] 16 [ICON_Power] Power[NEWLINE][ICON_Bullet]Sangat kecil CO2 ke atmosfer[NEWLINE]Setelah dibangun, seiring bertambahnya usia Pembangkit Listrik Tenaga Nuklir, terdapat meningkatkan peluang terjadinya Kecelakaan Nuklir. Bonus [ICON_Production] Produksi dan [ICON_Science] Sains diperluas ke semua Pusat Kota dalam 6 ubin yang belum memiliki bonus dari gedung Pembangkit Listrik.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_EXPANSION2_DESCRIPTION">
+			<Text>+1 Slot kebijakan ekonomi[NEWLINE][NEWLINE]Segera setelah konstruksi [ICON_GOLD] Emas di perbendaharaan meningkat sebesar 50%. Harus dibangun di sebelah Sungai yang berdekatan dengan distrik Pusat Komersial dengan Bank.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_EXPANSION2_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit darat jarak dekat dan jarak jauh yang dilatih di kota ini.[NEWLINE]Stok Sumber Daya Strategis meningkat +10 (pada Kecepatan Standar).[NEWLINE][NEWLINE]Tidak boleh dibangun di distrik Perkemahan yang sudah memiliki Kandang.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_EXPANSION2_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit kelas kavaleri dan pengepungan yang dilatih di kota ini.[NEWLINE]Stok Sumber Daya Strategis meningkat +10 (pada Kecepatan Standar).[NEWLINE][NEWLINE]Tidak boleh dibangun di distrik Perkemahan yang sudah memiliki Barak.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_EXPANSION2_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit darat yang dilatih di kota ini.[NEWLINE]Stok Sumber Daya Strategis meningkat +10 (pada Kecepatan Standar).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_EXPANSION2_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit darat yang dilatih di kota ini.[NEWLINE]Stok Sumber Daya Strategis meningkat +10 (pada Kecepatan Standar).[NEWLINE]Memungkinkan Korps dan Tentara untuk dilatih secara langsung. Biaya pelatihan Korps dan Angkatan Darat berkurang 25%.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_EXPANSION2_DESCRIPTION">
+			<Text>Bonus Produksi [ICON_Production] diperluas ke semua Pusat Kota dalam 6 ubin yang belum memiliki bonus dari jenis bangunan ini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_EXPANSION2_DESCRIPTION">
+			<Text>Meningkatkan kekuatan pertahanan luar Anda. Menyediakan 2 [ICON_TOURISM] Pariwisata setelah maju ke Konservasi Civic. Kota ini tidak terpengaruh oleh Battering Rams.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_EXPANSION2_DESCRIPTION">
+			<Text>Meningkatkan kekuatan pertahanan luar Anda ke tingkat setinggi mungkin. Menyediakan 3 [ICON_TOURISM] Pariwisata setelah maju ke Konservasi Civic. Kota ini tidak terpengaruh oleh Siege Towers atau Battering Rams.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION2_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit angkatan laut yang dilatih di kota ini. +1 [ICON_FOOD] Makanan di semua ubin Pantai untuk kota ini. +2 [ICON_HOUSING] Perumahan jika kota ini berbatasan dengan pantai. +1 [ICON_TradeRoute] Kapasitas Jalur Perdagangan, apabila kota ini belum mempunyai gedung Pasar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_EXPANSION2_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit angkatan laut yang dilatih di kota ini. Bonus [ICON_Production] Produksi sama dengan bonus kedekatan distrik Pelabuhan. +1 [ICON_PRODUCTION] Produksi semua ubin Pesisir dan Danau yang belum diperbaiki untuk kota ini. </Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PAGODA_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Favor] Bantuan Diplomatik per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
+			<Text>+1 tambahan [ICON_FAITH] Iman untuk setiap era sejak dibangun atau terakhir diperbaiki. Tidak bisa dijarah oleh bencana alam.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_EXPANSION2_DESCRIPTION">
+			<Text>+3 [ICON_Favor] Bantuan Diplomatik. Memanfaatkan Negara Kota membutuhkan biaya setengah [ICON_Gold] Emas.[NEWLINE]Unit Negara Kota memperoleh +4 [ICON_Strength] Kekuatan Tempur jika Anda adalah Penguasa Negara Kota (termasuk Unit Leveraged).[NEWLINE]Penghargaan +1 [Icon_Governor] Gelar Gubernur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

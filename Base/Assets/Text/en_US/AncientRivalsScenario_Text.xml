@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Musuh Tua</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Perluas wawasan Anda dan kembangkan peradaban dalam skenario eksplorasi dan budaya yang berlatar di Era Kuno. Berlangsung selama 50 giliran.[NEWLINE]Syarat Kemenangan[NEWLINE]Pada batas giliran, kemenangan diberikan kepada pemain yang memenuhi syarat terbanyak dari kondisi berikut. Seri diselesaikan berdasarkan skor.[NEWLINE][ICON_Bullet]Berbudaya - Meneliti paling banyak bidang peradaban.[NEWLINE][ICON_Bullet]Penjelajah - Mengungkap paling banyak heks di peta.[NEWLINE][ICON_Bullet]Penjarah Kuno - Merampok paling banyak heks.[NEWLINE][ICON_Bullet]Keajaiban Dunia Kuno - Memiliki paling banyak keajaiban.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Musuh Tua</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>Pada batas giliran, kemenangan diberikan kepada pemain yang memenuhi syarat terbanyak dari kondisi berikut. Seri diselesaikan berdasarkan skor.[NEWLINE][ICON_Bullet]Cultured - Meneliti paling banyak bidang ilmu pengetahuan.[NEWLINE][ICON_Bullet]Explorer - Mengungkap paling banyak heks di peta.[NEWLINE][ICON_Bullet]Perampok Kuno - Merampok paling banyak heks.[NEWLINE][ICON_Bullet]Keajaiban Dunia Kuno - Memiliki paling banyak keajaiban.[NEWLINE]</Text>
+		</Row>	
+
+		<!-- Victories -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Berikan aku tuas yang cukup panjang dan titik tumpu untuk meletakkannya, dan aku akan memindahkan dunia. - Archimedes</Text>
+		</Row>		
+		
+		<!-- Scenario Package -->
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Skenario Multiplayer: Musuh Bebuyutan Kuno</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Perluas wawasan Anda dan nikmati petualangan budaya dalam skenario yang berlatar belakang Zaman Kuno ini. Berlangsung selama 50 giliran.</Text>
+		</Row>	
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Syarat Kemenangan[NEWLINE]Pada batas giliran, kemenangan diberikan kepada pemain yang memenuhi syarat terbanyak dari kondisi berikut. Seri diselesaikan berdasarkan skor.[NEWLINE]Cultured - Meneliti paling banyak bidang ilmu pengetahuan.[NEWLINE]Explorer - Mengungkap paling banyak heks di peta.[NEWLINE]Ancient Raider - Merampok paling banyak heks.[NEWLINE]Wonder of the Ancient World - Memiliki paling banyak keajaiban.[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Batasan Putaran {Putaran yang Telah Berlalu}/{Putaran Minimum Permainan} {Ikon Status}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Poin Kemenangan {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Hexes yang Dieksplorasi {HexesExplored} {ExploredStatusIcon}[NEWLINE]Ubin yang Dirampok {UbinDirampok} {IkonStatusDirampok}[NEWLINE]Civics yang Selesai {CivicsSelesai} {IkonStatusCivics}[NEWLINE]Keajaiban yang Dimiliki {KeajaibanDimiliki} {IkonStatusKeajaiban}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

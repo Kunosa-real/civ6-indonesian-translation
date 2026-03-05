@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CITY_MAKE_RANGED_ATTACK">
+			<Text>Serang dengan kotamu!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
+			<Text>Saat bertahan, {2_UnitName} Anda ({5_Num} kerusakan) telah membunuh {LOC_GRAMMAR_A_AN &lt;&lt;{3_EnemyAdjective}} {4_EnemyUnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
+			<Text>Saat bertahan, Kota {2_CityName} Anda ({5_Num} kerusakan) telah membunuh {LOC_GRAMMAR_A_AN &lt;&lt;{3_EnemyAdjective}} {4_EnemyUnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
+			<Text>Kota Anda {1_CityName} telah direbut oleh pasukan musuh {2_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
+			<Text>Unit Anda {1_UnitName} ({2_Num} kerusakan) telah merebut Kota Musuh {3_CityName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
+			<Text>Unit Anda {1_UnitName} telah menangkap unit musuh {2_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
+			<Text>Unit Anda {1_UnitName} telah ditangkap oleh unit musuh {2_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
+			<Text>Unit Anda {1_UnitName} ({2_Num} kerusakan) telah menghancurkan unit musuh {3_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+			<Text>Unit penyerang Anda {1_UnitName} tewas akibat serangan musuh {2_EnUName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+			<Text>Unit penyerang Anda {1_UnitName} tewas akibat serangan musuh {2_EnUName} ({3_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
+			<Text>Unit Anda {1_UnitName} tewas saat menyerang musuh {2_EnUName} (menyebabkan {3_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
+			<Text>Unit Anda {1_UnitName} tewas saat menyerang Kota Musuh {2_EnUName} (menyebabkan {3_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+			<Text>Serangan Anda terhadap {2_UnitName} ({3_Num} kerusakan) telah dihancurkan oleh {LOC_GRAMMAR_A_AN &lt;&lt;{4_EnemyAdjective}} {5_EnemyUnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+			<Text>Serangan Anda terhadap {2_UnitName} ({3_Num} kerusakan) dihalangi oleh {LOC_GRAMMAR_A_AN &lt;&lt;{4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
+			<Text>{1_UnitName} Anda ({2_Num} kerusakan) menyerang musuh {3_EnUName} ({4_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
+			<Text>Unit Anda {1_UnitName} ({2_Num} kerusakan) menyerang Kota Musuh {3_CityName} ({4_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
+			<Text>Unit kami {1_UnitName} telah mundur dari serangan jarak dekat musuh.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
+			<Text>Unit Anda {1_UnitName} ({2_Num} kerusakan) diserang oleh musuh {3_EnUName} ({4_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+			<Text>Unit Anda {1_UnitName} ({2_Num} kerusakan) berhasil mencegat musuh {3_EnUName} ({4_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+			<Text>Saat melakukan intercep, unit Anda {2_UnitName} dihancurkan oleh {LOC_GRAMMAR_A_AN &lt;&lt;{4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
+			<Text>Saat bertahan, {2_UnitName} Anda dihancurkan oleh {LOC_GRAMMAR_A_AN &lt;&lt;{3_EnemyAdjective}} {4_EnemyUnitName} ({5_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
+			<Text>Unit Anda {1_UnitName} menyerang musuh {2_EnUName} dan menyebabkan {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
+			<Text>Bom Anda {1_UnitName} menghancurkan musuh {2_EnUName} dan menyebabkan {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
+			<Text>Unit Anda {1_UnitName} diserang oleh musuh {2_EnUName} dan menerima {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+			<Text>Unit Anda {1_UnitName} telah merusak musuh {2_EnUName} ({3_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
+			<Text>Bom Anda {1_UnitName} menghantam musuh {2_EnUName} dan menyebabkan {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
+			<Text>Unit Anda {1_UnitName} diserang oleh musuh {2_EnUName} dan menerima {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+			<Text>Serangan senjata pemusnah massal (WMD) Anda terhadap {1_UnitName} berhasil!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+			<Text>Serangan senjata pemusnah massal (WMD) Anda terhadap {1_UnitName} gagal karena kerusakan yang parah.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+			<Text>Anda gagal menghentikan serangan senjata pemusnah massal (WMD) oleh {LOC_GRAMMAR_A_AN &lt;&lt;{1_EnemyAdjective}} {2_EnemyUnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+			<Text>Anda berhasil menghentikan serangan senjata pemusnah massal (WMD) dari {1_EnemyAdjective} {2_EnemyUnitName} dengan menyebabkan {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
+			<Text>Saat bertahan, {1_UnitName} Anda dihancurkan oleh {2_EnUName} yang menyamar ({3_Num} kerusakan)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
+			<Text>Unit Anda {1_UnitName} menyerang musuh {2_Name} dan menyebabkan {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
+			<Text>{1_Name} Anda diserang oleh musuh {2_EnUName} dan menerima {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
+			<Text>Unit Anda {1_UnitName} menyerang musuh {2_Name} (menyebabkan {3_Num} kerusakan pada {2_Name}, dan {4_Num} kerusakan pertahanan)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
+			<Text>{1_Name} Anda diserang oleh musuh {2_EnUName} ({3_Num} kerusakan {2_Name}, {4_Num} kerusakan pertahanan)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
+			<Text>{1_Name} menyerang musuh {2_EnUName}! ({3_Damage} kerusakan)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
+			<Text>{1_Name} menyerang musuh {2_EnUName}! ({3_Damage} kerusakan)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
+			<Text>{1_Name} Anda diserang oleh musuh {2_EnUName} dan menerima {3_Num} kerusakan!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ICBM_DESTROYED">
+			<Text>ICBM berhasil dicegat dan dihancurkan.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_UNIT_HEALED">
+			<Text>Jarahan dari perampokanmu telah menyembuhkan {1_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_CULTURE">
+			<Text>Anda telah menerima {1_Num} [ICON_Culture] Budaya dari hasil jarahan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_FAITH">
+			<Text>Anda menerima {1_Num} [ICON_Faith] Keyakinan dalam jarahan dari aksi perampokan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_GOLD">
+			<Text>Anda telah menerima {1_Num} [ICON_Gold] Emas dari hasil jarahan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_SCIENCE">
+			<Text>Anda menerima {1_Num} [ICON_Science] Ilmu Pengetahuan dalam jarahan dari penjarahan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_KILL_CULTURE">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH_PLUS">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH_MINUS">
+			<Text>[COLOR_RED]-{1_Number} {2_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_GOLD">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_SCIENCE">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_GREATPERSON_BONUS">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson} Poin[ENDCOLOR]</Text>
+		</Row>
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] Kesehatan</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] Kesehatan</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] Pertahanan</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] Pertahanan</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_HEADER">
+			<Text>KOTA YANG DIKUASAI</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_TRADED">
+			<Text>KOTA MENERIMA</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_NAME_LABEL">
+			<Text>Nama Kota:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_POPULATION_LABEL">
+			<Text>Populasi:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
+			<Text>Jumlah Kabupaten yang Hadir:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<Text>Membebaskan sebuah kota akan mengembalikannya kepada salah satu pemilik sebelumnya, yang mungkin akan membawa peradaban tersebut kembali ke dalam permainan.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+			<Text>Membebaskan sebuah kota memberikan [COLOR_MEDIUM_GREEN]PENURUNAN YANG SIGNIFIKAN[ENDCOLOR] terhadap hukuman yang sebelumnya diperoleh akibat tindakan agresif.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
+			<Text>Pertahankan kota ini dalam kekaisaranmu untuk saat ini. Kota ini akan menjadi kota yang kurang produktif dan diduduki hingga kepemilikannya pasca-perang dibahas di meja perundingan perdamaian.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
+			<Text>Jaga kota ini dalam kerajaanmu.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+			<Text>Denda bagi pemicu perang yang mempertahankan kota ini sekarang adalah: {1_WarmongerLevel}[NEWLINE][NEWLINE]Denda akan dikembalikan atau digandakan pada akhir perang tergantung apakah Anda mempertahankan kota tersebut atau tidak.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Denda Perang Agresif untuk mempertahankan kota terakhir seorang pemain didasarkan pada denda Perang Mendadak untuk era ini. Nilai ini [COLOR_RED]DIGANDAKAN[ENDCOLOR] jika penaklukan kota ini menghilangkan peradaban besar (bukan negara kota).</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
+			<Text>Hancurkan kota dan hapus seluruh distrik serta bangunannya dari peta. Opsi ini harus dipilih pada giliran ketika kota tersebut dikuasai.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+			<Text>[COLOR_RED]Meratakan sebuah kota dapat memberikan Anda hukuman Warmonger yang serius![ENDCOLOR] [NEWLINE][NEWLINE]Hukuman Warmonger untuk meratakan kota ini sekarang adalah: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>Denda Perang Agresor adalah [COLOR_RED]TIGA KALI LIPAT[ENDCOLOR] denda Perang Resmi untuk era ini ketika Anda menghancurkan kota terakhir pemain.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
+			<Text>Anda tidak dapat menghancurkan ibu kota asli peradaban besar atau kota yang Anda atau sekutu Anda dirikan atau miliki pada awal perang ini.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
+			<Text>Membebaskan kepada Pendiri ({1_CivName})</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
+			<Text>Kembalikan kepada Pemilik Sebelum Perang ({1_CivName})</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
+			<Text>Jaga Kota</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
+			<Text>Kota Raze</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+	 <Row Tag="LOC_EXPANSION1_MOD_TITLE">
+      <Text>Ekspansi: Bangkit dan Jatuh</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION1_MOD_TEASER">
+      <Text>Paket Ekspansi dengan Abad Pertengahan, Kesetiaan, Gubernur, Keadaan Darurat, peradaban dan pemimpin baru, dan masih banyak lagi!</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+      <Text>Ini adalah permainan yang menggunakan Ekspansi Bangkit dan Jatuh, yang meliputi Zaman Keemasan, Kesetiaan, Gubernur, dan Keadaan Darurat. Dapatkah Anda memimpin rakyat Anda menuju Zaman Keemasan yang penuh kemakmuran? Atau akankah kekaisaranmu menghadapi tantangan Zaman Kegelapan?</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

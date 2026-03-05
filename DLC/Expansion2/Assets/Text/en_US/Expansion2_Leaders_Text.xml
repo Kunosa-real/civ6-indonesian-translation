@@ -1,0 +1,260 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
+			<Text>Kekaisaran Angevin</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
+			<Text>Pasukan Ekspedisi Kanada</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KAITIAKITANGA_NAME">
+			<Text>Kaitiakitanga</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAWGIVER_NAME">
+			<Text>Pemberi hukum</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LORD_OF_MINES_NAME">
+			<Text>Tuan Pertambangan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAVEN_BANNER_NAME">
+			<Text>Spanduk Gagak</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PATRON_OF_ARTS_NAME">
+			<Text>Bibliofil</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAPA_INCA_NAME">
+			<Text>Sapa Inca</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SICILIAN_WARS_NAME">
+			<Text>Perang Sisilia</Text>
+		</Row>
+		<!--Random Agenda Names-->
+		<Row Tag="LOC_AGENDA_DEMAGOGUE_NAME">
+			<Text>Demagog</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DESTINATION_CIV_NAME">
+			<Text>Sipil Tujuan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPANSIONIST_NAME">
+			<Text>Ekspansionis</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLAT_EARTHER_NAME">
+			<Text>Penganut Bumi Datar</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
+			<Text>Armada Putih Besar</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INTOLERANT_NAME">
+			<Text>Intoleran</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIBERTARIAN_NAME">
+			<Text>Libertarian</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PILLAGER_NAME">
+			<Text>penjarah</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TURTLER_NAME">
+			<Text>Penyu</Text>
+		</Row>
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
+			<Text>Membangun kota-kota berpenduduk padat. Menyukai peradaban yang kota terdekatnya memiliki Populasi [ICON_Citizen] yang tinggi. Tidak menyukai peradaban dengan kota-kota kecil di dekatnya yang mudah menjadi tidak setia.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
+			<Text>Menanggapi sebanyak mungkin Keadaan Darurat dan Kompetisi Skor. Menyukai mereka yang juga berpartisipasi dalam kegiatan tersebut; tidak menyukai mereka yang tidak terlibat.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
+			<Text>Mempertahankan fitur alam di kerajaan mereka dan membangun Taman Nasional. Menyukai masyarakat sipil yang menghargai lingkungan; tidak menyukai mereka yang memperlakukan planet ini dengan buruk.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAWGIVER_DESCRIPTION">
+			<Text>Membuat warganya bahagia dan setia. Terkesan oleh mereka yang memiliki prioritas serupa, terutama jika kota mereka didirikan oleh banyak pemain. Tidak menyukai mereka yang memiliki masalah kebahagiaan/kesetiaan atau kota yang sedikit direbut.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
+			<Text>Mencoba memaksimalkan [ICON_Gold] keluaran Emas dari kota dan [ICON_TradeRoute] Jalur Perdagangan. Menghargai peradaban yang melakukan hal serupa, tidak menyukai mereka yang tidak melakukan hal serupa.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
+			<Text>Memungut pasukan dari negara-kota. Menyukai peradaban yang juga menggunakan pasukan negara kota, tidak menyukai peradaban yang menghindari tentara bayaran semacam itu.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
+			<Text>Ingin memiliki lebih banyak Karya Hebat daripada orang lain. Menyukai orang yang menyerahkan Karya Besar kepadanya, tidak menyukai orang yang juga memiliki banyak Karya Besar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAPA_INCA_DESCRIPTION">
+			<Text>Ingin menetap di dekat Pegunungan. Menyukai orang-orang yang mewariskan daerah dekat Pegunungan kepadanya, tidak menyukai orang-orang yang juga menetap di dekat Pegunungan.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
+			<Text>Ingin menetap di kota pesisir. Menyukai mereka yang menetap di pedalaman. Tidak menyukai mereka yang sebagian besar kotanya berada di pesisir pantai.</Text>
+		</Row>
+		<!--Updated Base Game Agenda Descriptions-->
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Jangan pernah menyerahkan hal-hal dalam kesepakatan damai, dan menyukai peradaban yang cocok dengan pendekatan itu. Tidak menyukai peradaban yang menyerah atau tidak pernah berperang. Keluhan terhadap pemimpin ini berkurang dua kali lipat dibandingkan biasanya.</Text>
+		</Row>
+		<!--Random Agenda Descriptions-->
+		<Row Tag="LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
+			<Text>Ingin menjadi peradaban yang memperoleh [ICON_FAVOR] Bantuan Diplomatik paling banyak, tidak menyukai mereka yang berkompetisi dalam [ICON_FAVOR] Bantuan Diplomatik.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
+			<Text>Ingin menjadi peradaban dengan [ICON_Tourism] Pariwisata terbanyak, tidak menyukai mereka yang berkompetisi di [ICON_Tourism] Pariwisata.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
+			<Text>Ingin menghalangi umat manusia mengelilingi dunia atau pergi ke luar angkasa.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
+			<Text>Tidak menyukai peradaban mana pun yang berusaha sekuat tenaga untuk memenangkan Kemenangan Diplomatik.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PILLAGER_DESCRIPTION">
+			<Text>Mencoba menjarah ubin sebanyak mungkin. Menghormati peradaban lain yang menjarah.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TURTLER_DESCRIPTION">
+			<Text>Ingin tetap aman dari penaklukan. Tidak menyukai mereka yang telah menaklukkan ibukota asli pemain lain.</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_AKKAD_NAME">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AKKAD_DESCRIPTION">
+			<Text>Negara kota Akkad</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AKKAD_ADJECTIVE">
+			<Text>Akkadia</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
+			<Text>Bonus Penguasa Akkad</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
+			<Text>Serangan jarak dekat dan unit anti-kavaleri menimbulkan kerusakan penuh pada Tembok kota.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_NAME">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
+			<Text>Negara kota Bologna</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
+			<Text>Bonus Penguasa Bologna</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
+			<Text>Distrik Anda yang memiliki gedung memberikan +1 [ICON_GreatPerson] poin Orang Hebat dari tipenya ([ICON_GreatWriter] Penulis Hebat, [ICON_GreatArtist] Artis Hebat, dan [ICON_GreatMusician] Musisi Hebat untuk distrik Lapangan Teater yang memiliki gedung).</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
+			<Text>orang Bologna</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_NAME">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
+			<Text>Negara kota Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
+			<Text>Bonus Penguasa Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan peningkatan Cahokia Mounds.[NEWLINE][NEWLINE]Cahokia Mounds menyediakan +3 [ICON_GOLD] Emas. Kota menerima +1 [ICON_AMENITIES] Fasilitas dari perbaikan Cahokia Mound pertama mereka. Setelah menemukan Natural History, kota menerima +1 [ICON_AMENITIES] Fasilitas dari perbaikan Cahokia Mound yang kedua. +1 [ICON_FOOD] Makanan untuk setiap 2 Distrik yang berdekatan setelah Feodalisme ditemukan atau untuk setiap Distrik yang berdekatan setelah Bagian yang Dapat Diganti diteliti. Menyediakan +1 [ICON_HOUSING] Perumahan. Menerima Perumahan [ICON_HOUSING] tambahan setelah Warisan Budaya ditemukan. Tidak dapat dibangun berdekatan dengan Cahokia Mounds lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_NAME">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
+			<Text>Negara-kota Cardiff</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
+			<Text>Cardiffian</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
+			<Text>Bonus Kerajaan Cardiff</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
+			<Text>Kota menerima +2 [ICON_Power] Listrik untuk setiap bangunan Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_NAME">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_DESCRIPTION">
+			<Text>Negara kota Fez</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_ADJECTIVE">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_FEZ_NAME">
+			<Text>Bonus Raja Fez</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
+			<Text>Saat Anda menggunakan unit keagamaan untuk mengonversi suatu kota untuk pertama kalinya, dapatkan 20 [ICON_SCIENCE] Sains per [ICON_Citizen] Populasi kota tersebut (pada Kecepatan Standar).</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
+			<Text>Kota Meksiko</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
+			<Text>Negara kota Mexico City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
+			<Text>Kota Meksiko</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
+			<Text>Memberi Anda 2 dari setiap sumber daya Strategis per giliran yang telah Anda ungkapkan tetapi belum ditingkatkan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
+			<Text>Bonus Penguasa Kota Meksiko</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
+			<Text>Efek regional dari distrik Zona Industri, Taman Air, dan Kompleks Hiburan Anda mencapai 3 ubin lebih jauh.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_NAME">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_DESCRIPTION">
+			<Text>Negara kota Nazca</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_ADJECTIVE">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
+			<Text>Bonus Penguasa Nazca</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan peningkatan Jalur Nazca.[NEWLINE][NEWLINE]Garis Nazca memberikan +1 [ICON_Faith] Keyakinan pada ubin yang berdekatan. +1 [ICON_Faith] Keyakinan pada ubin yang berdekatan dengan sumber daya. +1 [ICON_FOOD] Makanan ke ubin Gurun dan Bukit Gurun yang berdekatan setelah menemukan Layanan Sipil. +1 [ICON_PRODUCTION] Produksi ke ubin datar yang berdekatan setelah meneliti Produksi Massal. +1 Banding. Hanya dapat dibangun di Gurun yang datar. Ubin ini tidak dapat dikerjakan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
+			<Text>Negara kota Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
+			<Text>Bonus Perguruan Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
+			<Text>Unit tempur atau Dukungan darat 20% lebih murah untuk dibeli dengan [ICON_GOLD] Emas untuk setiap gedung distrik Perkemahan di kota itu.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_NAME">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
+			<Text>Negara kota Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
+			<Text>Bonus Perguruan Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan peningkatan Moai.[NEWLINE][NEWLINE]Moai memberikan +1 [ICON_Culture] Budaya. +1 [ICON_Culture] Budaya untuk setiap 2 Moai yang berdekatan. +2 [ICON_Culture] Budaya jika berada pada atau berdekatan dengan ubin Tanah Vulkanik. +1 [ICON_Culture] Budaya jika berdekatan dengan ubin Pantai atau Danau . Tambahan [ICON_Culture] Budaya dan [ICON_Tourism] Pariwisata saat Anda maju melalui Civics dan Pohon Teknologi. Dapat dibangun di Dataran, Dataran Perbukitan, Padang Rumput, Perbukitan Padang Rumput, atau Tanah Vulkanik. Tidak dapat ditempatkan berdekatan dengan ubin Hutan atau Hutan Hujan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan perbaikan Biara.[NEWLINE][NEWLINE]Biara menyediakan +2 [ICON_Faith] Iman. +15 HP penyembuhan untuk unit relijius ramah pada ubin ini yang belum menyerang pada giliran ini. +1 [ICON_FAITH] Iman untuk setiap 2 Distrik yang berdekatan. Menyediakan +1 [ICON_HOUSING] Perumahan. Dapatkan Perumahan [ICON_HOUSING] tambahan setelah Kolonialisme ditemukan. Tidak dapat dibangun di sebelah Biara lain.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan peningkatan Kepala Kolosal.[NEWLINE][NEWLINE]Kepala Kolosal memberikan +2 [ICON_Faith] Iman. +1 [ICON_Faith] Iman untuk setiap 2 Hutan Hujan yang berdekatan atau untuk setiap Hutan Hujan yang berdekatan setelah Humanisme ditemukan. +1 [ICON_Faith] Iman untuk setiap 2 Hutan yang berdekatan atau untuk setiap Hutan yang berdekatan setelah Humanisme ditemukan. [ICON_TOURISM] Pariwisata dari [ICON_FAITH] Keyakinan setelah Penerbangan ditemukan. Tidak dapat dibangun di atas Salju atau Bukit Salju.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan peningkatan Alcázar.[NEWLINE][NEWLINE]Alcázar menyediakan +2 [ICON_Culture] Budaya. Memberikan [ICON_SCIENCE] Sains setara dengan 50% Banding ubin. Unit yang menduduki menerima +4 [ICON_Strength] Kekuatan Pertahanan, dan secara otomatis memperoleh 2 putaran benteng. Menyediakan Pariwisata [ICON_TOURISM] setelah meneliti Penerbangan. Tidak dapat dibangun di samping Alcázar lain.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

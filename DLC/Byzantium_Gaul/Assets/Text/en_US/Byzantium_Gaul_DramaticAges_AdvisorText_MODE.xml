@@ -1,0 +1,14 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+    <Row Tag="LOC_TUTORIAL_FIRST_TIME_DRAMATIC_AGES">
+      <Text>Dengan mengaktifkan Dramatic Ages, taruhan setiap Usia jauh lebih tinggi! Selain Zaman awal, setiap Zaman akan berwarna Emas atau Gelap, bergantung pada Skor Era peradaban Anda. Anda memperoleh Skor Era dengan menyelesaikan Teknologi dan Civics dari Era sekarang atau lebih baru. Jika Anda memperoleh Zaman Keemasan, kelebihan Skor Era akan berubah menjadi tekanan Loyalitas ekstra, yang bisa menjadi faktor penting jika tetangga Anda jatuh ke dalam Zaman Kegelapan. Selain itu, Anda akan memiliki akses ke kartu Kebijakan yang kuat yang dapat Anda gunakan di slot Wildcard pemerintah Anda, tetapi hati-hati – memasuki Zaman Kegelapan berarti beberapa kota Anda akan memberontak!</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_GOLDEN_AGE">
+      <Text>Anda telah memasuki Zaman Keemasan! Anda sekarang memiliki akses ke Kebijakan Emas yang dapat Anda gunakan di slot Wildcard di pemerintahan Anda. Selain itu, kelebihan Skor Era dari Zaman terakhir telah diubah menjadi peningkatan tekanan Loyalitas – sekaranglah waktunya untuk menggunakannya!</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_DARK_AGE">
+      <Text>Peradaban Anda telah memasuki Zaman Kegelapan. Beberapa kota Anda telah memberontak dan bergabung dengan Kota Bebas – ini akan menjadi permusuhan! Sebagai hiburan, Anda sekarang memiliki akses ke Kebijakan Gelap yang dapat Anda gunakan untuk mencoba membalikkan keadaan.</Text>
+    </Row>
+  </EnglishText>
+</GameData>

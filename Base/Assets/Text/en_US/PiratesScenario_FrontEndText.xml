@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- Pirates Main Menu Multiplayer Buttons -->
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES">
+			<Text>Bermain Bajak Laut</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_OFFLINE">
+			<Text>[ICON_CheckFail] Bermain Bajak Laut</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_NEW_MODE">
+			<Text>[ICON_Exclamation] Bermain Bajak Laut</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_TT">
+			<Text>Secara otomatis menemukan dan bergabung dengan permainan Bajak Laut.[NEWLINE][NEWLINE] Menjarah lautan lepas selama Zaman Keemasan Bajak Laut.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_OFFLINE_TT">
+			<Text>Bajak Laut Multipemain tidak tersedia saat Steam offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_PIRATES">
+			<Text>Cara Bermain Bajak Laut</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_PIRATES_TT">
+			<Text>Lihat tutorial singkat tentang Bajak Laut.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_PIRATES_NEW_MODE_TT">
+			<Text>Mode Bajak Laut baru tersedia!</Text>
+		</Row>
+		
+		<!-- Pirates How to Play -->
+		<Row Tag="LOC_PIRATES_INTRO_NEXT">
+			<Text>Berikutnya</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_INTRO_PREVIOUS">
+			<Text>Sebelumnya</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_INTRO_PLAY">
+			<Text>Bermain Bajak Laut</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_INTRO_BODY">
+			<Text>Pirates adalah skenario 60 giliran yang bergerak cepat tentang Zaman Pembajakan untuk 1-4 pemain. Tujuannya adalah untuk mengumpulkan Infamy terbanyak pada batas giliran. Permainan ini dapat dimainkan di Karibia yang bersejarah atau Kepulauan Bajak Laut yang dibuat secara acak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_INTRO_DETAILS">
+			<Text>Bajak laut tidak membutuhkan kota. Anda mulai dengan kapal yang layak laut dan mencuri kapal tambahan dari waktu ke waktu.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_CREW_BODY">
+			<Text>Semakin besar armadanya, semakin besar pula jarahannya. Gunakan Kru untuk menangkap kapal musuh yang rusak dan menambahkannya ke kerajaan bajak laut Anda yang sedang berkembang.  Kru juga dapat digunakan untuk mengerahkan Pihak Pantai untuk mencari dan mengubur harta karun. Anda merekrut Kru dengan menggunakan aksi unit Visit Tavern saat kapal Anda berdekatan dengan pusat kota pelabuhan. Kedai minuman juga menyediakan peta harta karun yang baru setiap kali Anda berkunjung.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_CREW_DETAILS">
+			<Text>Waspadalah! Kelompok bajak laut Anda menuntut keuntungan dan petualangan. Anda kehilangan emas per giliran untuk setiap kapal di armada Anda. Kapal-kapal Anda akan memberontak jika pundi-pundi emas mengering terlalu lama.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_TREASURE_BODY">
+			<Text>Harta karun adalah batu kunci kehidupan bajak laut. Peti harta karun dapat ditemukan mengambang di laut atau terkubur di darat. Anda dapat mengubah emas Anda menjadi Infamy dengan mengubur harta karun. Peti harta karun berisi emas dan Peninggalan Bajak Laut. Sembunyikan harta karun Anda dengan baik karena bajak laut lain bertujuan untuk mencuri emas dan Infamy Anda.[NEWLINE][NEWLINE] Peninggalan Bajak Laut adalah artefak yang kuat yang memiliki efek dan bonus gameplay khusus. Relik terkadang dapat ditemukan di peti harta karun, kapal harta karun, dan saat mengunjungi kedai minuman. Anda dapat melengkapi tiga relik sekaligus dan menggantinya kapan saja.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_TREASURE_DETAILS">
+			<Text>Armada Harta Karun sesekali akan berlayar ke Eropa. Armada Harta Karun berlayar dengan membawa harta karun berupa emas dan peninggalan, namun dijaga dengan baik.[NEWLINE][NEWLINE] Bajak Laut Terkenal dari sejarah juga mengarungi lautan yang tidak bersahabat. Anda dapat menenggelamkan mereka untuk meningkatkan Infamy Anda sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_SCORING_BODY">
+			<Text>Keburukan dinilai dari tiga kategori: [NEWLINE][NEWLINE] Harta Karun; Bajak Laut Terkenal; dan Pertarungan.[NEWLINE][NEWLINE]Harta Karun[NEWLINE][ICON_Bullet]+30 - Mengubur peti harta karun[NEWLINE][ICON_Bullet]+20 - Menenggelamkan kapal harta karun[NEWLINE][ICON_Bullet]+5 - Merampas peti harta karun[NEWLINE][ICON_Bullet]+2 - Menjarah bangunan atau distrik[NEWLINE][ICON_Bullet] +1 - Menjarah rute perdagangan[NEWLINE][ICON_Bullet] +1 - Menjarah perbaikan[NEWLINE][ICON_Bullet][NEWLINE] Bajak Laut Terkenal[NEWLINE][ICON_Bullet][NEWLINE][ICON_Bullet][NEWLINE][+15 -  Menghancurkan atau menangkap unit pemain bajak laut[NEWLINE][ICON_Bullet]+5 - Menghancurkan atau menangkap unit kolonial[NEWLINE][ICON_Bullet]+5 - Menghancurkan atau menangkap unit bajak laut[NEWLINE][ICON_Bullet]+1 - Bertahan dalam pertempuran</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

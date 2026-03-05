@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--UI-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_HEROES_NAME">
+			<Text>Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_HEROABILITIES_TITLE">
+			<Text>Kemampuan Heroik</Text>
+		</Row>
+		<!-- Game Mode Concept -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CONTENT_TITLE">
+			<Text>Pahlawan &amp; Legenda</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_WELCOME_TITLE">
+			<Text>Selamat datang</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_WELCOME_PARA_1">
+			<Text>Dalam pengaturan game, pemain dapat mengaktifkan mode permainan Pahlawan &amp; Legenda, memperkenalkan beragam unit Pahlawan yang luar biasa dan kuat kepada dunia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_TITLE">
+			<Text>Menemukan Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_1">
+			<Text>Ada dua belas Pahlawan unik yang tersedia dalam mode permainan ini, dan masing-masing harus ditemukan sebelum dia dapat diklaim oleh peradaban Anda. Pahlawan ditemukan secara kebetulan saat Anda menjelajahi dunia dan bertemu orang-orangnya. Setiap aktivitas berikut memberikan peluang untuk menemukan Pahlawan baru:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_2">
+			<Text>[ICON_BULLET] Bertemu dengan Desa Adat[NEWLINE][ICON_BULLET] Mengirim Utusan [ICON_ENVOY] ke Negara-Kota[NEWLINE][ICON_BULLET] Menjadi Raja Negara-Kota untuk pertama kalinya[NEWLINE][ICON_BULLET] Menemukan Benua baru[NEWLINE][ICON_BULLET] Menemukan Keajaiban Alam</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_3">
+			<Text>Selain peluang penemuan alami ini, Anda juga dapat menyelesaikan Proyek Kota [COLOR:ProductionDark]Kisah Pahlawan[ENDCOLOR] yang berulang untuk menemukan Pahlawan baru yang acak. Proyek ini tidak terkunci untuk kota mana pun yang membangun gedung [COLOR:Civ6Yellow]Monument[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_4">
+			<Text>Informasi lengkap tentang semua Pahlawan yang Anda temukan termasuk kekuatan, kemampuan, dan statusnya dapat ditemukan di layar Pahlawan &amp; Orang Hebat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_TITLE">
+			<Text>Mengklaim Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_1">
+			<Text>Ketika Anda menemukan satu atau lebih Pahlawan, Anda dapat mengklaim Pahlawan pilihan Anda dengan menyelesaikan Proyek Kota [COLOR:ProductionDark]Pengabdian Pahlawan[ENDCOLOR] mereka. Proyek-proyek ini unik untuk setiap Pahlawan dan terbuka ketika kota membangun gedung [COLOR:Civ6Yellow]Monumen[ENDCOLOR]. Menyelesaikan Proyek Pengabdian akan secara permanen mengasosiasikan Monumen dengan Pahlawan dan memanfaatkannya untuk peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_2">
+			<Text>Pahlawan bersifat unik secara global. Hanya peradaban pertama yang mendedikasikan sebuah Monumen untuk Pahlawan yang akan mengklaimnya, dan setiap Monumen hanya dapat didedikasikan untuk satu Pahlawan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_3">
+			<Text>Untuk mengklaim beberapa Pahlawan, Anda dapat membangun beberapa Monumen di beberapa kota dan mengklaim Pahlawan berbeda di masing-masing kota. Namun, biaya semua proyek Hero Devotion meningkat seiring dengan setiap klaim yang Anda selesaikan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_TITLE">
+			<Text>Unit Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_1">
+			<Text>Pahlawan adalah unit kuat dengan karakteristik khusus. Masing-masing memiliki satu atau lebih kemampuan atau perintah unik yang hanya dapat dilakukan oleh mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_2">
+			<Text>Kekuatan dan kemampuan Pahlawan tumbuh berdasarkan Era kemunculannya. Saat Anda memanggil Pahlawan beberapa kali selama pertandingan, mereka akan kembali lebih kuat di Era selanjutnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_3">
+			<Text>Detail lengkap mengenai kemampuan terkini dari setiap Pahlawan yang Anda klaim atau temukan dapat ditemukan di layar Pahlawan &amp; Orang Hebat.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_TITLE">
+			<Text>Umur Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_PARA_1">
+			<Text>Semua unit Pahlawan memiliki karakteristik khusus yang disebut [ICON_Lifespan] Umur. Saat Pahlawan memasuki permainan, mereka memiliki jumlah giliran terbatas yang bisa mereka jalani. Jika Pahlawan tidak dibunuh atau dihancurkan sebelum Masa Hidup [ICON_Lifespan] mereka berakhir, mereka secara otomatis akan keluar dari permainan pada giliran Masa Hidup [ICON_Lifespan] mereka mencapai nol. Umur [ICON_Lifespan] Pahlawan ditampilkan di HUD ketika Pahlawan dipilih.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_TITLE">
+			<Text>Mengingat Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_PARA_1">
+			<Text>Setelah Pahlawan keluar dari permainan, mereka dapat dipanggil kembali setiap Era dengan membelinya menggunakan [ICON_Faith] Iman di kota yang sama yang awalnya mengklaimnya. Pahlawan dapat dipanggil kembali beberapa kali sepanjang Era, namun biaya untuk memanggil kembali Pahlawan tertentu meningkat setiap kali.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_PARA_2">
+			<Text>Hanya pemain yang mengaku asli yang dapat mengingat Pahlawan, dan hanya di kota tempat Monumen mereka berada. Jika Anda kehilangan kendali atas kota tempat Anda mengklaim Pahlawan, Anda tidak akan dapat memanggil kembali Pahlawan tersebut sampai Anda mendapatkan kembali kendali atas kota tersebut. Jika kota dihancurkan, Anda tidak akan dapat mengingat kembali Pahlawan tersebut sama sekali.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_TITLE">
+			<Text>Karya Hebat yang Heroik</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_1">
+			<Text>Mode ini mencakup Karya Hebat jenis baru: Relik Pahlawan. Ketika Monumen dikhususkan untuk Pahlawan, ia memperoleh dua slot Karya Hebat Relik Pahlawan. Setelah kemunculan pertama Pahlawan dalam game selesai (entah karena mereka terbunuh atau Masa Hidup [ICON_Lifespan] mereka habis), mereka meninggalkan dua Relik Pahlawan [ICON_GreatWork_HeroRelic] yang unik: Epik Pahlawan dan Simbol Pahlawan. Epik Heroik secara otomatis ditempatkan di Monumen di kota asal Pahlawan. Simbol Pahlawan disembunyikan sebagai Situs Purbakala [ICON_RESOURCE_ANTIQUITY_SITE] dan dapat digali oleh Arkeolog setelah Anda membuka kemampuan itu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_2">
+			<Text>[ICON_BULLET] Heroic Epic adalah kronik kehidupan dan perbuatan Pahlawan. Secara otomatis dibuat dan ditempatkan di gedung Tugu Pahlawan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_3">
+			<Text>[ICON_BULLET] Simbol Pahlawan adalah objek terkenal yang diasosiasikan dengan Pahlawan. Itu ditempatkan sebagai Situs Purbakala [ICON_RESOURCE_ANTIQUITY_SITE] di plot dekat dengan tempat Pahlawan berada ketika mereka meninggalkan permainan. Saat Anda membuka kunci Arkeolog dan dapat menggali situs tersebut, Simbol Pahlawan dapat dipulihkan dan ditempatkan di gedung Monumen Pahlawan.</Text>
+		</Row>
+		<!--Hero Units-->
+		<!--Anansi-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_1">
+			<Text>Anansi telah melakukan perjalanan jauh, demi seekor laba-laba. Tokoh protagonis yang terkadang berwujud manusia, terkadang laba-laba, dan terkadang keduanya penipu dalam sejumlah kisah suku Akan di Ghana saat ini, Anansi adalah pahlawan dalam kisah-kisah yang selalu bepergian bersama orang-orang Afrika Barat ke mana pun mereka pergi, khususnya di antara orang-orang Afrika yang diperbudak di Dunia Baru. Di sini, Anansi, terkadang berganti nama menjadi &quot;Kompa Nanzi&quot; atau bahkan &quot;Bibi Nancy&quot; (walaupun Anansi biasanya digambarkan sebagai laki-laki), tetap menjadi sumber inspirasi bagi mereka yang berada dalam posisi kurang berkuasa yang ingin menggunakan kecerdasan dan kelicikan mereka untuk membalikkan keadaan. Jika pahlawan dan dewa lain mungkin memiliki senjata yang kuat, Anansi punya cerita.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_2">
+			<Text>Sebelumnya, dewa langit Nyame menyimpan semua cerita itu untuk dirinya sendiri. Anansi pergi dan meminta mereka, tapi Nyame memberinya serangkaian tugas yang tampaknya mustahil yang melibatkan pengumpulan makhluk paling berbahaya di dunia. Anansi melakukan hal ini tidak secara langsung, tetapi menggunakan kesombongan dan kebanggaan para binatang besar untuk melawan mereka. Misalnya, dia membiarkan ular piton besar itu &quot;secara tidak sengaja&quot; mendengar Anansi berspekulasi bahwa ular itu tidak sepanjang cabang di dekatnya, dan ketika ular piton itu berbaring di samping pohon untuk menunjukkan panjangnya kepada Anansi, Anansi mengikatnya ke dahan dan menangkapnya. Setelah Nyame melihat kepintaran Anansi, dia setuju bahwa sejak saat itu, semua cerita harus menjadi milik laba-laba, dan inilah sebabnya orang Afrika Barat menceritakan cerita Anansi, dan bukan cerita Nyame.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_3">
+			<Text>Anansi tidak selalu merupakan pahlawan yang berbudi luhur. Seperti banyak penipu lainnya, dia sering kali bersikap egois, dan terutama pada saat-saat seperti ini, rencananya sering kali menjadi kacau. Tapi dia adalah pahlawan yang cocok bagi mereka yang harus mengandalkan pemikiran cepat untuk bertahan hidup.</Text>
+		</Row>
+		<!--Arthur-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Kisah Raja Arthur telah diceritakan dan diceritakan kembali dalam berbagai cara yang memusingkan, mulai dari legenda lisan hingga romansa abad pertengahan, sastra klasik Romantis, hingga fiksi ilmiah. Telah berkali-kali diceritakan bahwa menemukan asal muasal legenda itu sulit, meskipun mengungkap pastiche yang dibintangi Lancelot, Guinevere, Arthur, dan Round Table tidaklah sulit. Di hampir semua cerita, Arthur adalah raja bijaksana yang telah mengumpulkan sekelompok ksatria mulia yang melakukan pencarian berbahaya namun sering kali saleh. Meskipun wilayah-wilayah di seluruh Kepulauan Inggris mengklaim beberapa referensi tentang Arthur, dalam kisah-kisah paling awal, Arthur adalah pahlawan Welsh atau Breton yang mempertahankan tanah dari penjajah - sesuatu yang pasti ada dalam pikiran bangsa Celtic Brythonic (Inggris) yang menghadapi invasi dari bangsa Angles Jerman, Saxon, dan Denmark selama Abad Kegelapan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_2">
+			<Text>Dalam bentuk abad pertengahan, kisah Arthur adalah kisah yang tragis. Sebagai seorang anak, dia meramalkan takdirnya dengan menarik pedang ajaib Excalibur dari batu, menandakan bahwa suatu hari dia akan menjadi raja Inggris. Seiring waktu, ia menjadi raja yang saleh. Ksatria Meja Bundar dan dia memiliki sejumlah petualangan, yang paling terkenal adalah pencarian Cawan Suci – cawan yang konon menampung darah Yesus Kristus saat dia digantung di kayu salib. Ksatria paling terkenal, Lancelot, jatuh cinta pada ratu Arthur, Guinevere, dan keduanya mulai berselingkuh. Arthur, yang marah, menghukum ratu sampai mati, tetapi Lancelot dengan gagah berani menyelamatkannya, sehingga memicu perang antara dua mantan temannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_3">
+			<Text>Pengetahuan lokal mengatakan bahwa dia beristirahat di suatu tempat di tanah Avalon, menunggu untuk menyelamatkan hari ketika Inggris kembali terancam. Meskipun ada penggambaran yang populer, dia dapat menghitung sampai tiga tanpa langsung melompat ke lima dan tampaknya tidak memiliki masalah yang tidak biasa dengan kelinci.</Text>
+		</Row>
+		<!--Beowulf-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_1">
+			<Text>Kisah Beowulf ditulis dalam bahasa Inggris Kuno sekitar tahun 1000 M, menjadikannya salah satu karya pertama yang bertahan dalam bahasa tersebut. Beowulf adalah pahlawan Geats, suku yang mendiami wilayah yang sekarang disebut Swedia. Dia tiba di aula Hrothgar, seorang raja Denmark, yang tanahnya diserang oleh monster bernama Grendel – binatang kanibal yang mungkin secara tematis terkait dengan troll mitos Skandinavia, tetapi puisi itu diidentifikasi sebagai keturunan terkutuk dari Kain dalam Alkitab.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_2">
+			<Text>Beowulf memasang jebakan untuk Grendel. Dia berpura-pura tidur di aula, seperti yang dilakukan para korban monster itu. Malam itu, kabut dingin menyelimuti dan, bersamanya, monster itu. Beowulf meninggalkan senjatanya, ingin menguji kekuatannya melawan binatang itu secara setara. Kedua tangan saling mengunci dan, setelah pertarungan sengit, Beowulf merobek salah satu lengan Grendel dengan tangan kosong. Troll itu, yang terluka parah, berjalan tertatih-tatih kembali ke rumahnya. Di sana, ibu penyihir rawa Grendel menerima putranya yang sekarat dan diliputi amarah, dan Beowulf harus kembali berperang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_3">
+			<Text>Beowulf kembali ke negeri Geat dengan penuh kemenangan, tempat ia memerintah selama bertahun-tahun, namun kejahatan baru yang lebih mematikan muncul. Seekor naga muncul dari sarangnya, membakar pedesaan dengan nafasnya. Beowulf, yang sombong seperti biasanya, bersikeras melawan binatang itu sendirian, tetapi seorang prajurit muda, Wiglaf, melihat bahwa raja tua akan mati, tidak patuh dan tetap berada di sisi raja. Dalam pertarungan tersebut, naga tersebut dibunuh, namun Beowulf digigit oleh taringnya yang beracun dan mati. Wiglaf menguburkan raja di sebuah gerobak tinggi di tepi laut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_4">
+			<Text>Beowulf tidak selalu dianggap klasik seperti sekarang ini. J. R. R. Tolkien menganjurkan agar puisi tersebut dianggap serius sebagai sebuah epik, dan bukan sekadar cerita rakyat.  Hal ini disertai dengan apresiasi terhadap kekuatan seorang pejuang dan peringatan terhadap kesombongan – kebanggaan Hrothgar atas kekayaannya, dan kebanggaan Beowulf atas kekuatannya sendiri. Secara historis, Beowulf tetap menjadi artefak saat populasi yang awalnya menganut agama Kristen berjuang melawan masa lalu pagan mereka, dan menjadi ikon warisan Skandinavia di Inggris.</Text>
+		</Row>
+		<!--Hercules-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_1">
+			<Text>Heracles – lebih dikenal dalam bahasa Inggris dengan nama Romawinya, Hercules – adalah putra Zeus, dan seorang pahlawan yang melambangkan kekuatan, bahkan penilaian yang baik. Hera, istri Zeus, membenci Heracles karena dia adalah hasil dari banyak urusan Zeus, dan berusaha menghancurkannya sebisa mungkin. Ini dimulai sejak masih dalam buaian, ketika Hera mengirim ular untuk membunuh bayi Heracles. Meski begitu, anak laki-laki itu sudah cukup kuat untuk mengalahkan ular-ular itu, dan kekuatannya semakin bertambah. Namun kebijaksanaannya tidak sebanding dengan kekuatan fisiknya: Heracles membunuh guru musiknya dengan kecapi, melemparkan teman dekatnya (yang ayah dan saudara laki-lakinya juga dia bunuh) ke atas tembok, melemparkan pembawa berita Lichas ke laut, dan, yang paling tragis, membunuh anak-anaknya sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_2">
+			<Text>Tindakan terakhir ini dilakukan karena kegilaannya setelah dia dikutuk sekali lagi oleh Hera. Untuk menebus tindakan ini, Heracles melakukan tugasnya yang terkenal: membunuh seekor singa raksasa (yang kemudian dia kenakan kulitnya); mengalahkan hydra, ular berkepala banyak yang darahnya beracun, dan akan menumbuhkan kembali dua kepala setiap kali salah satu kepalanya dipotong; mencuri ikat pinggang Hippolyta, Ratu Amazon; dan sejumlah tindakan lain seperti pembunuhan binatang, pencurian ternak, pembersihan kandang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_3">
+			<Text>Kisah Heracles berakhir tragis. Saat centaur mencoba mencuri istrinya, Heracles menembaknya dengan anak panah yang dicelupkan ke dalam darah beracun hydra. Saat centaur itu mati, dia berbisik kepada istri Heracles bahwa tuniknya, yang direndam dalam darah centaur yang sehat, akan menyebabkan Heracles semakin jatuh cinta padanya. Dia meyakinkannya untuk melakukannya, dan Heracles mati mengenaskan karena racun tersebut, memberi kita semua pelajaran yang kuat tentang manfaat tidak mengenakan kemeja ketika seseorang memiliki fisik dewa Yunani.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_4">
+			<Text>Heracles memiliki karir yang panjang setelah kematiannya. Kisah seorang pahlawan yang dibunuh secara tragis, putra dewa tertinggi, merupakan kisah yang menarik di Mediterania selama era Romawi, dan Hercules mempunyai banyak pengikut. Bahkan di India, pematung Gandhara yang terinspirasi dari Yunani menggambarkan Vajrapani, pelindung Buddha, sebagai Hercules dengan tongkat ikonik dan kulit singa.</Text>
+		</Row>
+		<!--Himiko-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_1">
+			<Text>Meskipun hanya sosok legenda saat ini, Ratu Himiko kemungkinan besar adalah orang sungguhan. Dia adalah ratu Yamatai, di pulau yang oleh orang Cina disebut Wa – sekarang Jepang. Dalam catatan Tiongkok, Himiko mengirimkan hadiah kepada kerajaan Cao Wei: kerajaan paling utara dari tiga negara bagian yang membagi Tiongkok di antara mereka pada abad ke-3 M. Dalam catatan ini Himiko dijuluki &quot;Ratu Wa (Jepang), dan teman Wei&quot; oleh kaisar Tiongkok.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_2">
+			<Text>Yang menarik dari cerita Himiko adalah tuduhan sihirnya. Sumber-sumber Tiongkok menceritakan bahwa dia menyihir semua penduduk Wa agar tunduk pada pemerintahannya, bagaimana dia tinggal di sebuah kastil besar yang seluruhnya dilayani oleh pelayan dan penjaga wanita (kecuali satu pria, yang membawakan makanannya), dan jarang pergi. Reputasi mistis ini diperparah dalam catatan Jepang, yang mengidentifikasi Himiko dengan sejumlah makhluk ilahi: sebagai dukun tertinggi dewi matahari Jepang Amaterasu, atau istri perdukunan ular dewa. Dalam cerita terakhir ini, Himiko (diidentifikasi dengan nama Yamato-toto-hi-momo-so-bime no Mikoto) menikah bahagia dengan makhluk ilahi, tetapi hanya berkunjung di malam hari. Dia memintanya untuk tinggal sampai pagi sehingga dia bisa melihatnya di bawah sinar matahari, tapi dia keberatan. Akhirnya, dia meyakinkannya, dan dia mengatakan kepadanya bahwa dia akan melihatnya di kotak toiletnya, tapi dia harus berjanji untuk tidak terkejut dengan penampilannya. Keesokan paginya, saat dia membuka kotaknya, ada seekor ular putih cantik melingkar di dalamnya. Himiko tersentak kaget, dan ular dewa itu berubah kembali ke wujud manusianya. Dia marah, mengatakan padanya bahwa dia telah diperingatkan untuk tidak bereaksi, dan sekarang dia harus meninggalkannya. Himiko, dalam kesedihannya, menusuk dirinya sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_3">
+			<Text>Beragam cerita seputar Himiko melukiskan potret seorang wanita yang luar biasa. Dia menggabungkan ciri-ciri seorang ratu dan dukun, sesuatu yang pasti mengganggu para penulis sejarah yang sebagian besar bersifat patriarki pada masanya. Kisahnya berbicara tentang pengaruh dunia lain yang dimiliki orang-orang karismatik terhadap kita. Dalam representasi populer di Jepang, dia kadang-kadang seorang penggoda dan kadang-kadang seorang ratu tua yang bijaksana, tapi dia tetap populer seperti biasanya.</Text>
+		</Row>
+		<!--Hippolyta-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_1">
+			<Text>Hippolyta adalah ratu Amazon, suku pejuang yang semuanya perempuan yang dianggap sebagai putri Ares, dewa perang Yunani. Mereka senang berperang dan menolak suami dan anak laki-laki, meskipun mereka mengunjungi laki-laki dari suku tetangga setahun sekali. Orang Yunani menempatkannya tepat di luar perbatasan timurnya, biasanya di Asia Kecil di tepi Laut Hitam. Mungkin legenda mereka adalah cara bagi orang-orang Yunani untuk membayangkan masyarakat yang berbeda di luar batas-batas yang mereka anggap sebagai peradaban, atau mungkin ada semacam preseden sejarah mengenai prajurit wanita di antara orang Skit atau masyarakat lain di wilayah tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_2">
+			<Text>Hippolyta adalah tokoh dalam beberapa cerita yang menampilkan Heracles (Hercules). Dia memiliki sabuk ajaib yang melindunginya dalam pertempuran, dan salah satu tugas Heracles adalah mencurinya – sebuah tantangan yang cukup menantang bahkan bagi orang kuat legendaris tersebut. Menurut beberapa versi legenda, Heracles memesona Amazon, sehingga membuat Hera marah sehingga sang dewi menghasut suku Amazon milik Hippolyta untuk menyerang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_3">
+			<Text>Nama &quot;Amazon&quot; telah banyak digunakan selama bertahun-tahun sejak Hippolyta. Penjelajah Spanyol Francisco de Orellana memberikan gelar kepada masyarakat adat yang ia temui di tempat yang kemudian menjadi Brasil karena cara perempuan berjuang bersama laki-laki. Mereka bertempur dengan sangat baik, sehingga de Orellana harus mati di sungai yang dia beri nama, setelah pertempuran kecil dengan kelompok lokal.</Text>
+		</Row>
+		<!--Hunahpu & Xbalanque-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_1">
+			<Text>Banyak mitologi penduduk asli Amerika memiliki kisah tentang sepasang saudara kembar yang ajaib. Dalam Popol Vuh Maya K&apos;iche&apos;, &quot;Pahlawan Kembar&quot; ini adalah Hunahpú dan saudaranya Xbalanqué. Kisah mereka adalah kisah tentang bagaimana para dewa dunia bawah yang mengerikan, Xibalba, kehilangan kekuatan mereka. Ini dimulai dengan sekelompok saudara lelaki lainnya: ayah dan paman si Kembar, yang dikhianati oleh para dewa dunia bawah. Mereka diundang untuk memainkan permainan bola Mesoamerika di Xibalba, namun permainan tersebut dicurangi dan yang kalah dikorbankan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_2">
+			<Text>Bertahun-tahun kemudian, Hunahpú dan Xbalanqué menemukan perlengkapan permainan bola tua milik ayah mereka, mengetahui ceritanya, dan mulai berlatih untuk pertandingan mereka sendiri. Melihat hal tersebut, para penguasa kegelapan mengajak si kembar untuk bertanding. Pahlawan Kembar tahu itu jebakan, tapi mereka tetap pergi. Permainannya sangat buruk – sebuah bola dengan bilah tersembunyi, tempat tinggal atlet yang dipenuhi pisau cukur terbang, dan, akhirnya, sebuah malam di sarang Camazotz, dewa kelelawar yang mengerikan, yang membuat Hunahpú kehilangan kepalanya (sementara).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_3">
+			<Text>Meskipun si Kembar memenangkan setiap pertandingan, pada saat kemenangan, mereka tampaknya menjadi korban jebakan terakhir, masuk ke dalam oven yang membakar mereka berdua. Para penguasa Xibalba tidak tahu bahwa Pahlawan Kembar telah menguasai seni kebangkitan. Meski terbakar menjadi abu, mereka terlahir kembali di Xibalba, dan tinggal di antara para penghuni sana, tersembunyi dari pandangan mata. Mereka berpura-pura menjadi penyihir yang bisa menghidupkan kembali orang mati dan menawarkan untuk menunjukkan trik mereka kepada para penguasa kegelapan dengan membunuh mereka, lalu membawa mereka kembali. Tapi ini adalah trik lain – ketika Pahlawan Kembar membunuh dewa tertinggi dunia bawah, mereka mengungkapkan identitas mereka dan dengan senang hati menolak untuk membangkitkan kembali para pembunuh ayah mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_4">
+			<Text>Seperti permainan bola, cerita Pahlawan Kembar menyebar jauh. Mereka dapat ditemukan dalam mitologi mulai dari Maya hingga Navajo, Mississippian hingga Ho-Chunk.</Text>
+		</Row>
+		<!--Maui-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_1">
+			<Text>Istilah &quot;Polinesia&quot; bersifat longgar, mencakup wilayah dari Maori Aotearoa (Selandia Baru) hingga Hawaii dan sebagian di antaranya. Meskipun menyebut seluruh wilayah ini dengan satu istilah, &quot;Polinesia&quot;, merupakan penyederhanaan yang sangat besar, terdapat mitos dan legenda yang tersebar luas, konsep yang masuk ke dalam bahasa Inggris sebagai kata tabu dan mana. Salah satu mitos yang dibagikan adalah mitos Maui.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_2">
+			<Text>Dalam mitos Maori, Maui bukanlah permulaan yang terbaik. Dia dilempar ke laut oleh ibunya, dan hanya bertahan karena dewa Ragni mengasuhnya. Ketika dia kembali, dia dihadapkan dengan empat saudara laki-laki yang skeptis, yang mampu dia menangkan dengan menunjukkan keajaiban yang dia pelajari secara mendalam. Dia kemudian membantu menciptakan dunia seperti yang kita kenal. Ketika saudara-saudaranya menolak memberinya umpan pancing, dia mengambil tulang rahang ajaib dan mengumpankannya dengan darahnya sendiri untuk menangkap ikan besar yang menjadi Pulau Utara Selandia Baru. Saat dia pergi mencari pendeta (tohunga) untuk melakukan ritual yang diperlukan, saudara-saudaranya datang dan mulai mengukir ikan, itulah sebabnya Aotearoa memiliki pegunungan dan lembah, dan bukan dataran mulus, seperti sisi ikan. Dia terus mengubah dunia: menemukan api untuk manusia, menciptakan anjing pertama, dan sejenisnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_3">
+			<Text>Tugas terakhirnya adalah memenangkan keabadian bagi umat manusia, dan untuk melakukan ini dia harus merangkak melewati tubuh dewi yang sedang berbaring. Dia harus melakukan ini, begitulah ceritanya, tanpa ada yang menertawakannya. Jika dia bisa melewatinya, sang dewi akan mati, dan umat manusia akan hidup selamanya. Teman-temannya, kawanan burung yang beragam, berusaha semaksimal mungkin, namun mereka tidak bisa menahan tawa, sehingga Maui pun mati, begitu pula kami semua.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_4">
+			<Text>Maui tetap menjadi tokoh penting di seluruh Polinesia ketika masyarakat Polinesia kembali menegaskan diri mereka setelah kolonialisme. Penghormatan baru terhadap mitos dan tradisi lokal di Aotearoa, Hawaii, Tonga, Tahiti dan Samoa, dan tempat-tempat lain, berarti penceritaan baru mengenai kisah Maui, serta interpretasi dan makna baru terhadap mitosnya.</Text>
+		</Row>
+		<!--Mulan-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Balada Mulan abad ke-6 dimulai, &quot;Suara desahan demi desahan / Saat Mulan berjalan di ambang pintu.&quot; Keluarga gadis itu adalah bawahan dari Khan dari Tuoba, seorang nomaden Turki atau Mongolia yang mendirikan Dinasti Wei Utara di Tiongkok, dan ayahnya yang sudah lanjut usia telah diwajibkan untuk berperang di pasukan Khan. Mulan memutuskan untuk mendaftar menggantikan ayahnya, bertempur dengan gagah berani di ketentaraan tanpa rekan-rekannya mengetahui bahwa dia sebenarnya seorang wanita.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_2">
+			<Text>Begitulah ceritanya, setidaknya menurut puisi kuno. Namun legenda tentang kesalehan anak, tugas, dan keberanian menginspirasi para pencerita di kemudian hari. Kisah Romantis Sui Tang berlatarkan kisah pada Dinasti Sui, sekitar masa penulisan Balada, dan pada masa perang. Di sini, ada sejumlah elemen baru dalam kisah tersebut. Mulan masih menjadi subjek Khan Turki, namun ditangkap oleh pemberontak Dou Jiande, di mana dia dengan cepat berteman dengan putri Dou. Belakangan, kedua wanita tersebut menyerahkan nyawa mereka saat Dou diadili karena pemberontakan melawan kaisar Tiongkok. Kaisar sangat terkesan dengan kesetiaan mereka sehingga dia menawarkan untuk merelokasi keluarga Mulan ke lahan pertanian yang kaya, namun ketika Mulan kembali ke rumah, dia menemukan ayahnya sudah lama meninggal dan ibunya menikah lagi. Tragisnya, Mulan bunuh diri, setidaknya dalam versi ini. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Mulan mungkin bukan tokoh sejarah, tapi ketenarannya tidak bergantung pada sejarahnya. Dalam pengabdiannya kepada ayahnya dan kesediaannya untuk mempertaruhkan nyawa demi ayahnya, ia melambangkan kebajikan Tiongkok yaitu xiào – berbakti – rasa hormat dan hormat kepada orang tua dan leluhur, serta keberanian di medan perang. </Text>
+		</Row>
+		<!--Oya-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika badai melanda pantai Karibia dan Afrika Barat, ketika tornado melanda sebuah desa, ketika angin topan datang, para pengikut agama Yoruba dan Afrika Dunia Baru percaya bahwa inilah kekuatan Oya. Masyarakat Yoruba di Afrika Barat mempunyai tradisi keagamaan yang kaya, dengan empat ratus satu dewa yang berbeda. Ketika Yoruba diperbudak dan dibawa ke koloni di Karibia, tradisi mereka menyatu dengan agama Kristen sehingga melahirkan agama baru seperti Vodun Haiti. Di Afrika, Oya adalah orisha, dewi yang dulunya adalah manusia (atau roh, lalu menjadi daging). Namanya secara harfiah berarti &quot;dia merobek&quot;, dan karena itu dia adalah dewi perubahan, angin, dan badai, serta penguasa sungai Niger. Di Haiti, Oya diubah menjadi loa Irlandia (orisha versi Haiti) Maman Brigette – yang, bagi umat Katolik, adalah Santo Brigid dari Kildare.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_2">
+			<Text>Oya adalah saudara perempuan istri Shango, dewa petir, dan merupakan satu-satunya istri Shango yang tetap setia pada dewa yang bermulut keras itu. Ketika mereka berangkat berperang, mereka melakukannya bersama-sama, dengan Oya membawa angin terlebih dahulu, dan Shango menyusul setelahnya dengan petir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_3">
+			<Text>Keduanya juga terkadang saling bertarung. Suatu ketika, Oya mempunyai dua tanduk kerbau di kepalanya, dan di tengah perkelahian, dia menyerang Shango dengan tanduk tersebut, bermaksud menanduknya. Shango tidak melawan; sebaliknya, dia menyajikan makanan favoritnya: akara (kue kacang). Oya sangat senang sehingga dia menyerahkan tanduknya padanya. Sekarang, jika Shango mendapati dirinya dalam masalah, yang harus dia lakukan untuk memanggil Oya adalah dengan membunyikan klaksonnya, dan dia datang dengan segenap keganasan angin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_4">
+			<Text>Oya masih aktif disembah di Afrika dan Karibia. Ketika seorang pengikut memasuki kondisi trance dan menjadi kerasukan, dia terkenal keras dan bermulut kotor, namun, seperti angin, berjanji untuk mengguncang apa pun yang tampaknya sudah mengakar kuat.</Text>
+		</Row>
+		<!--Sinbad-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_1">
+			<Text>Kisah Sinbad sang pelaut berasal dari versi terbaru Seribu Satu Malam dan berlatarkan zaman keemasan Arab, pada masa pemerintahan Haroun Al-Rashid. Kisah Sinbad adalah kisah di mana keberanian, kecerdasan, dan pesonanya memungkinkan dia bertahan dalam serangkaian pelayaran yang semakin berbahaya. Struktur cerita Sinbad sederhana saja: ia berlayar, bertemu dan mengatasi (atau mengecoh) serangkaian binatang buas atau musuh lainnya yang fantastik dan berbahaya, dan kembali dengan kekayaan. Ini adalah formula yang bekerja dengan baik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_2">
+			<Text>Dalam satu perjalanan, Sinbad mendapati dirinya terbuang di sebuah pulau yang sebenarnya adalah seekor ikan paus, dan kemudian dibawa pergi oleh burung roc raksasa, seekor elang yang hidup di lembah bertabur berlian dan memburu ular raksasa untuk makan malamnya. Dalam perjalanan lain, Sinbad harus memikat para raja, menghadapi raksasa bermata satu, dan tetap waras di sebuah pulau di mana penduduk desanya kecanduan tanaman narkotika.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_3">
+			<Text>Jika beberapa dari cerita ini terdengar familiar, Anda tidak salah. Beberapa cerita Sinbad diambil dari pelayaran Odysseus, seperti cyclop dan pemakan teratai. Ketika Eropa Barat terjebak dalam kekacauan Abad Kegelapan, Timur Tengah merupakan gudang bagi semua kebijaksanaan dan pembelajaran dari Yunani dan Roma dan terkait dengan kejayaan Jalur Sutra. Yang terakhir ini juga merupakan sumber cerita: legenda burung roc dan ular sangat mirip dengan cerita India tentang burung garuda yang mengerikan dan mangsa naganya yang berbentuk ular. Pelayaran Sinbad mencerminkan kekayaan dan imajinasi sebuah kerajaan di jantung dunia.</Text>
+		</Row>
+		<!--Sun Wukong-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_1">
+			<Text>Salah satu karakter paling terkenal dan paling dicintai dari legenda Tiongkok, Sun Wukong – Raja Kera, memiliki banyak sekali cerita seputar dirinya. Inspirasinya berasal dari berbagai sumber. Ketika Tiongkok mengimpor agama Buddha dari India pada masa Dinasti Han sekitar tahun 150 M, sejumlah legenda India muncul, termasuk Ramayana yang bintang pendukung terbaiknya adalah Hanuman, penguasa kera dan sahabat setia pahlawan Rama. Karena monyet telah dipandang sebagai hewan yang membawa keberuntungan pada dinasti Tiongkok sebelumnya, gagasan tentang raja monyet ajaib menjadi sangat populer dan memiliki kehidupan tersendiri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_2">
+			<Text>Sun Wukong bukanlah pahlawan yang paling mulia. Dia terkadang egois, terkadang tidak dapat diprediksi, dan selalu nakal. Tapi tidak seperti dewa penipu yang lebih jahat seperti Loki, Sun Wukong pada akhirnya adalah kekuatan untuk kebaikan… begitu dia bisa dikendalikan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_3">
+			<Text>Matahari lebih kuat dari semua bala tentara Surga. Dia menggunakan senjata yang dia curi dari raja naga laut, termasuk tongkat emas yang sangat berat sehingga tidak ada makhluk lain yang dapat menggunakannya, namun mampu mengecil hingga sangat kecil sehingga Raja Kera dapat menyimpannya di telinganya; sepatu terbang; dan baju besi ajaib. Ketika dia dijatuhi hukuman mati karena pencurian ini, dia hanya mencuri Buku Kehidupan dan Kematian dan menghapus namanya dari buku tersebut (serta nama semua monyet yang dia kenal). Jadi, ketika semua dewa dan semua bala tentara Surga tidak dapat menghentikannya, para dewa memohon kepada Buddha, yang kekuatannya paling besar, dan yang memenjarakan monyet di telapak tangannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_4">
+			<Text>Namun, hal ini tidak berlaku untuk kisah Sun Wukong. Berabad-abad kemudian, dewi Guan Yin merekrut pahlawan tersebut untuk melindungi biksu Tang Sanzang, yang melakukan perjalanan ke India untuk menerima sutra suci Buddha. Untuk mengendalikannya, Guan Yin menipunya dengan mengenakan lingkaran sihir yang mengencangkan dengan menyakitkan saat dia membacakan Sutra Pengetatan – terkadang, bahkan Dewi Pengasih pun harus bersikap keras. Para pelancong menghadapi monster dan medan yang fantastis saat mereka melakukan perjalanan ke India, di mana Buddha yang hidup menyerahkan teks suci kepada biksu tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_5">
+			<Text>Sun Wukong tetap menjadi tokoh populer di media Tiongkok, dan telah menjadi bintang di banyak film. Dia juga populer di Asia Timur, dan di diaspora Tiongkok di Asia Tenggara.</Text>
+		</Row>
+		<!--Questing Knight-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Ksatria Meja Bundar, menurut legenda Prancis dan Inggris pada abad ke-12 dan seterusnya, adalah sekelompok prajurit yang dibentuk oleh Raja Arthur. Kisah-kisah ini – klasik dari roman kesatria abad pertengahan dan dongeng modern – berfokus pada perbuatan para ksatria ini. Dalam cerita-cerita klasik, pencarian mereka berkisar pada pembelaan kehormatan atau kesalehan Kristen. Dalam kisah Gawain, misalnya, sang kesatria ditantang oleh “Ksatria Hijau” aneh yang mengolok-olok kehormatan Meja Bundar. Ksatria Hijau menantang Gawain untuk memenggal kepalanya, selama Gawain setuju untuk membiarkan Ksatria Hijau melakukan hal yang sama padanya. Gawain, seorang ksatria kasar dari pulau terluar Orkney, menurutinya, tapi yang mengejutkan, Ksatria Hijau hanya meletakkan kepalanya yang terpenggal di pundaknya dan mengumumkan bahwa dia akan menerima Gawain tahun depan. Tentu saja ini adalah ujian kehormatan – akankah Gawain menunjukkan kematiannya, atau akankah dia, seperti yang dikatakan oleh Sir Robin yang non-kanonik, “dengan gagah berani keluar?” Gawain tetap setia, tentu saja, dan kehormatan Table tetap terjaga.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_2">
+			<Text>Pencarian yang paling terkenal, tentu saja, adalah untuk mendapatkan Cawan Suci, cawan yang konon berisi darah Yesus Kristus saat ia mati di kayu salib (setidaknya dimulai dengan penuturan Robert de Boron pada abad ke-12 dan ke-13), meskipun penuturan lain menyebutkan Cawan tersebut sebagai tempat wafer Komuni, atau sebuah batu yang berisi para malaikat yang tetap netral selama pemberontakan Lucifer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_3">
+			<Text>Sedangkan ksatria yang paling terkenal antara lain Galahad, yang suci; Lancelot, si pemberani; Gawain, yang perkasa; dan Percival, “yang-murni-sebelum-Galahad-muncul-di-adegan;” ada ratusan lainnya, termasuk Kay, Bedivere, Bors, dan, tentu saja, “Tuan Tidak Muncul-dalam-Game-Ini.”</Text>
+		</Row>
+	</EnglishText>
+</GameData>

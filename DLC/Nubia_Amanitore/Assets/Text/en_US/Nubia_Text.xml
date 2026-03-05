@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_DESCRIPTION">
+			<Text>Kekaisaran Nubia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_ADJECTIVE">
+			<Text>Nubia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_LOCATION">
+			<Text>Afrika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_SIZE">
+			<Text>Pada puncaknya, luasnya diperkirakan 486.000 mil persegi (1,26 juta km persegi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_POPULATION">
+			<Text>Perkiraan. 1,15 juta (pada puncaknya)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_CAPITAL">
+			<Text>Kerma, Nepata, Meroe</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMANITORE">
+			<Text>Amanitore, Ratu Nubia yang waspada, kekaisaran yang Anda pimpin akan mengklaim cakrawala sebagai perbatasannya. Jangan takut pada mereka yang mengingini emasmu yang melimpah, karena pemanahmu bisa membelah rambut mereka dalam jarak lima ratus langkah. Kota-kotamu akan merasakan kemakmuran dan kesalehan, ratu yang bijaksana, karena Negeri Busur menghormati masa lalunya sama seperti ia membangun masa depannya sendiri.</Text>
+		</Row>
+		<!-- Leader Agenda-->
+		<Row Tag="LOC_AGENDA_CITY_PLANNER_NAME">
+			<Text>Perencana Kota</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_PLANNER_DESCRIPTION">
+			<Text>Selalu berusaha untuk menjaga jumlah maksimum distrik di setiap kota. Menghormati peradaban lain yang juga mengembangkan kotanya dengan cara ini.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_MEROE">
+			<Text>Meroe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KERMA">
+			<Text>Kerma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAPATA">
+			<Text>Napata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NURI">
+			<Text>Nuri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EL_KURRU">
+			<Text>El-Kurru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAWA">
+			<Text>Kawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEDEINGA">
+			<Text>Sedeinga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEH">
+			<Text>Hehe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QASR_IBRIM">
+			<Text>Qasr Ibrahim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARAS">
+			<Text>Faras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAAT">
+			<Text>Shaat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IKEN">
+			<Text>Iken</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ABU_SIMBEL">
+			<Text>Abu Simbel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUHEN">
+			<Text>Buhen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DANGEIL">
+			<Text>Dangeil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIAM">
+			<Text>Miami</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOMBOS">
+			<Text>Tombo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KURGUS">
+			<Text>Kurgus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOSHKA">
+			<Text>Toshka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOLEB">
+			<Text>Soleb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAD_BAN_NAQA">
+			<Text>Wad melarang Naqa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEBBA">
+			<Text>Debba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUGDUMBUSH">
+			<Text>Bug bodoh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAKI">
+			<Text>kue</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMARA">
+			<Text>Amara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUSAWWARAT_ES_SUFRA">
+			<Text>Musawwarat es-Sufra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EL_FURA">
+			<Text>El Fura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UKMA">
+			<Text>Ukma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEDEME">
+			<Text>Pedeme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEFEIA">
+			<Text>kekalahan</Text>
+		</Row>
+		<!-- Citizen Names -->
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_1">
+			<Text>Alara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_2">
+			<Text>Amanislo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_3">
+			<Text>Apedema</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_4">
+			<Text>Arensnuphis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_5">
+			<Text>Arqamani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_6">
+			<Text>Dedun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_7">
+			<Text>Mandulis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_8">
+			<Text>Mut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_9">
+			<Text>Piye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_10">
+			<Text>Sebiumeker</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_1">
+			<Text>Amanikhatashan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_2">
+			<Text>Amanirena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_3">
+			<Text>Amanishakheto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_4">
+			<Text>Amenirdis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_5">
+			<Text>Amesemi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_6">
+			<Text>Kadimalo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_7">
+			<Text>Khales</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_8">
+			<Text>hidung</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_9">
+			<Text>Shanakdakheto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_10">
+			<Text>Tabiry</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_1">
+			<Text>Barschanbu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_2">
+			<Text>Douddil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_3">
+			<Text>Eirpanome</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_4">
+			<Text>Masshhouda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_5">
+			<Text>Orinourta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_6">
+			<Text>Qalidurut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_7">
+			<Text>semamun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_8">
+			<Text>Shekanda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_9">
+			<Text>Siti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_10">
+			<Text>Tapara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_1">
+			<Text>Aideosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_2">
+			<Text>Anthelia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_3">
+			<Text>Damasti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_4">
+			<Text>Eikkir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_5">
+			<Text>Eitou</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_6">
+			<Text>Genseoua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_7">
+			<Text>Iesousyko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_8">
+			<Text>Kel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_9">
+			<Text>Yaareno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_10">
+			<Text>Pongita</Text>
+		</Row>
+		<!-- Wonders-->
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_NAME">
+			<Text>Jebel Barkal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_DESCRIPTION">
+			<Text>Penghargaan 2 [ICON_RESOURCE_IRON] Besi. Memberikan +4 [ICON_Faith] Iman ke semua kota Anda yang berada dalam 6 ubin.[NEWLINE][NEWLINE]Harus dibangun di medan Gurun (Perbukitan).</Text>
+		</Row>
+		<!-- Trait Info-->
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LEADING">
+			<Text>Amanitore senang Anda mengisi kota Anda dengan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LAGGING">
+			<Text>Amanitore tidak senang Anda tertinggal dalam membangun distrik.</Text>
+		</Row>
+		<!-- Dialog Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Kata-kata hangatmu bertahan seperti matahari sore. Kami mendapat kehormatan untuk memanggil Anda teman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Mungkin, suatu hari nanti, dengan usaha keras dari Anda, Nubia akan menganggap Anda sebagai teman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Orang-orang Nubia memuji Anda sendiri. Mari kita meresmikan persahabatan kita dengan deklarasi publik!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Betapa murah hati Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Sayang sekali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Seperti yang diperkirakan, Anda hanya tahu cara mengambilnya. Ayo—pilih cara kekalahanmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Kami memiliki anak panah, diasah dengan halus. Kami akan mengirimkannya dengan bebas ke tenggorokan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Delegasi kami membawa niat baik. Juga, hati unta segar. Jangan membuat kesalahan dengan memasaknya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Kita harus menolaknya. Banjir musiman menjadikan saat ini waktu yang buruk untuk menerima tamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Delegasi Anda tiba tanpa cedera. Sungguh menyenangkan bisa mengajak mereka berkeliling ibu kota kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Saya tidak akan bertanya bagaimana Anda berani mengatakan hal keji seperti itu. Bersamamu, aku selalu mengharapkan yang terburuk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Anda adalah jenis banjir yang paling buruk—ketika Anda berkenan untuk muncul, Anda menutupi semua yang Anda sentuh dengan kotoran. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMANITORE_ANY">
+			<Text>Saya Amanitore dari Nubia. Semua orang diterima di kota kita yang megah—asalkan mereka datang sebagai teman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMANITORE_ANY">
+			<Text>Selagi berada di dekatnya, bolehkah Anda mengunjungi kota kami? Piramida kami menawarkan pemandangan cakrawala yang mengesankan, terutama saat fajar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>Tawaran yang bisa diterima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMANITORE_ANY">
+			<Text>Saya akan bercerita tentang ibu kota kami yang mulia jika Anda berbagi cerita Anda sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AMANITORE_ANY">
+			<Text>Anda mungkin berbicara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Kota Anda dibangun dengan benar. Untuk setiap tugas, ada tempat untuk menyelesaikannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AMANITORE_REASON_ANY">
+			<Text>(Anda telah mengisi kota Anda dengan distrik.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Kota-kotamu penuh dengan kekotoran. Mengapa tidak memanfaatkan lahan Anda untuk penggunaan yang lebih produktif?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AMANITORE_REASON_ANY">
+			<Text>(Anda tidak mengisi kota Anda dengan semua distrik yang ada.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Ya. Terlalu banyak kehancuran yang terjadi. Kita masing-masing harus membangun kembali apa yang telah hilang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Tidak mungkin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Rakyat kami lelah berperang. Mereka berupaya mengakhiri perang ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Tentu saja. Pelajari prinsip-prinsip komposisi kota kami dan jadikan prinsip Anda sesuai dengan keinginan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Tanah Nubia adalah tanah suci. Penguasa yang lebih curiga akan mengira Anda sedang mempersiapkan invasi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Dengan perbatasan yang terbuka, kita masing-masing dapat belajar dari beragam pendekatan terhadap perencanaan sipil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMANITORE_ANY">
+			<Text>Negeri Busur tidak menyetujui kedekatan pasukan Anda. Saya mendorong Anda untuk mengingatnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMANITORE_ANY">
+			<Text>Tentara bayaran Nubia pergi ke mana pun mereka mau. Saya tidak mengontrol gerakan mereka!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>Anda bermurah hati karena memberi tahu saya tentang kesalahan yang disayangkan ini. Saya akan menariknya untuk menunjukkan niat baik kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Meskipun Nubia menurun, piramida kami akan tetap ada lama setelah rencanamu gagal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Mengecewakan sekali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Betapa murah hati Anda.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

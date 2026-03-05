@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_GOLDEN_AGE_WAR">
+			<Text>[SIZE_16]Menyatakan Perang Zaman Keemasan[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_WAR_OF_RETRIBUTION">
+			<Text>[SIZE_16]Menyatakan Perang Retribusi[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_IDEOLOGICAL_WAR">
+			<Text>[SIZE_16]Menyatakan Perang Ideologi[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_CASUS_BELLI_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Kekuatan target pasti baru-baru ini mengingkari janjinya kepada Anda.</Text>
+		</Row>
+		<Row Tag="LOC_CASUS_BELLI_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Kekuasaan yang menjadi target harus mempunyai pemerintahan Tingkat 3 yang berbeda dengan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_CASUS_BELLI_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>Anda pasti berada di Zaman Keemasan dengan &quot;To Arms!&quot; sebagai Dedikasi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Permintaan Pembaruan Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} telah meminta untuk memperluas Aliansi antar peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Pembaruan Aliansi Diterima</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} telah menerima perpanjangan Aliansi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Pembaruan Aliansi Ditolak</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} telah menolak perpanjangan Aliansi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Aliansi kami telah memberikan manfaat besar bagi masyarakat kami berdua.  Saya mengusulkan agar kita memperbaruinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Saya senang Anda setuju.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Sial, kupikir kita akan menjadi sekutu selamanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Kedengarannya itu ide yang bagus.  Kami menerima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Kami tidak ingin melanjutkan tindakan ini dengan Anda saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_POSITIVE">
+			<Text>Kami akan dengan senang hati memperluas Aliansi kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>Kami tidak ingin memperpanjang Aliansi ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_1">
+			<Text>Ya, demi kesejahteraan kita di masa depan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_2">
+			<Text>Ya, ini bermanfaat bagi peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_3">
+			<Text>Ya, mari kita perbarui aliansi ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_GILGAMESH">
+			<Text>Tentu saja! Bukankah kita sudah lama bertengkar bersama? Musuh kita menyebut nama kita dengan rasa takut!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_ALEXANDER">
+			<Text>Tentu saja! Bukankah kita sudah lama bertengkar bersama? Musuh kita menyebut nama kita dengan rasa takut!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_TEDDY">
+			<Text>Sudah sewajarnya kita melanjutkan Aliansi kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CATHERINE">
+			<Text>Ya, saya tidak suka melepaskan keuntungan dari perusahaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CLEOPATRA">
+			<Text>Ya. Saya menyambut setiap kesempatan untuk melanjutkan hubungan dekat kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_1">
+			<Text>Segalanya sekarang berbeda dari sebelumnya. Kami tidak dapat memperbarui Aliansi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_2">
+			<Text>Tidak. Aliansi ini tidak lagi menjadi kepentingan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_3">
+			<Text>Tidak. Tidak perlu memperbarui Aliansi ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_GILGAMESH">
+			<Text>Tidak. Ini tidak bisa seperti dulu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_ALEXANDER">
+			<Text>Tidak. Ini tidak bisa seperti dulu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_TEDDY">
+			<Text>Amerika akan menempuh jalannya sendiri, sebagaimana layaknya negara dengan kekuatan kelas satu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CATHERINE">
+			<Text>Saya harus menolak teman dekat Anda. Untuk saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CLEOPATRA">
+			<Text>Tidak. Kecintaanku pada Aliansi ini telah memudar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_1">
+			<Text>Aliansi kami telah membawa perdamaian dan kemakmuran bagi peradaban kami. Mari kita perbarui.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_2">
+			<Text>Kita harus memperbarui Aliansi yang telah sangat bermanfaat bagi peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_3">
+			<Text>Akankah kita memperbarui Aliansi kita? Kami berdua mendapat manfaat dari perjanjian ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_GILGAMESH">
+			<Text>Perbarui aliansi kita, teman! Kita akan menemukan kegembiraan bersama saat kita mengalahkan musuh kita!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_ALEXANDER">
+			<Text>Perbarui aliansi kita, teman! Kita akan menemukan kegembiraan bersama saat kita mengalahkan musuh kita!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_TEDDY">
+			<Text>Mari kita perbarui Aliansi kita! Kalau begitu mari kita rayakan kesempatan ini dengan pertandingan gulat yang penuh semangat!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CATHERINE">
+			<Text>Akankah kita melanjutkan Aliansi kita? Anda akan menyesal jika melewatkan pesta saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CLEOPATRA">
+			<Text>Kami telah tumbuh begitu dekat dalam Aliansi ini. Tentunya kamu tidak akan menjauh dariku sekarang?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_1">
+			<Text>Bagus sekali. Kedua peradaban kita akan tumbuh lebih kuat melalui hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_2">
+			<Text>Sangat bagus. Perdamaian dan kemakmuran akan terus berlanjut.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_3">
+			<Text>Saya senang Anda melihat manfaat yang diberikan Aliansi ini kepada kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_GILGAMESH">
+			<Text>Mari kita bersukacita atas kekuatan gabungan kita! Saya mendengar gigi musuh kita bergemeletuk ketakutan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_ALEXANDER">
+			<Text>Mari kita bersukacita atas kekuatan gabungan kita! Saya mendengar gigi musuh kita bergemeletuk ketakutan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_TEDDY">
+			<Text>Menggertak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CATHERINE">
+			<Text>Oh bagus. Saya tidak suka jika Anda melewatkan sesuatu yang penting.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CLEOPATRA">
+			<Text>saya senang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_1">
+			<Text>Keputusan yang mengecewakan, tentu saja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_2">
+			<Text>Saya harap Anda tidak menyesali keputusan ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_3">
+			<Text>Sayang sekali Anda merasa seperti itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_GILGAMESH">
+			<Text>Apa pun. Aku punya cukup kekuatan tanpamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_ALEXANDER">
+			<Text>Apa pun. Aku punya cukup kekuatan tanpamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_TEDDY">
+			<Text>Kekuatan Amerika semakin meningkat. Anda akan bijaksana untuk menerima tawaran saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CATHERINE">
+			<Text>Betapa mengecewakan dan piciknya Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CLEOPATRA">
+			<Text>Tidak diragukan lagi ada peradaban lain yang menarik perhatian Anda. Temukan kenyamanan Anda bersama mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_ACCEPT">
+			<Text>Perbarui Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_REJECT">
+			<Text>Akhiri Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_GOLDEN_AGE_WAR">
+			<Text>(Menyatakan Perang Zaman Keemasan melawanmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_EMERGENCY_WAR">
+			<Text>(Telah bergabung dalam Keadaan Darurat melawan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_WAR_OF_RETRIBUTION">
+			<Text>(Menyatakan Perang Pembalasan terhadap Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_IDEOLOGICAL_WAR">
+			<Text>(Menyatakan Perang Ideologis melawan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_GOLDEN_AGE_WAR">
+			<Text>(Menyatakan Perang Zaman Keemasan bersama melawan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_WAR_OF_RETRIBUTION">
+			<Text>(Menyatakan Perang Pembalasan bersama terhadap Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_IDEOLOGICAL_WAR">
+			<Text>(Menyatakan Perang Ideologi bersama melawan Anda)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Adalah baik jika hubungan kita dibangun di atas kekuatan mengetahui rahasia orang lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Anda harus menikmati laporan utusan dan mata-mata Anda sama seperti saya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Lain kali saya mengirimkan delegasi kepada Anda, pemimpin akan memiliki dokumen besar dan gemuk yang penuh dengan rahasia bagus. Pastikan tidak ada orang di sekitar saat Anda membukanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Mungkin Anda pernah mendengar bisikan bahwa saya menganggap Anda sebagai salah satu sumber terbaik saya. Tapi siapa yang mendengarkan apa yang orang katakan? Selain kamu dan aku tentunya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>Saya sering bertanya-tanya mengapa Anda berkata begitu sedikit. Saya yakin tidak ada hal menarik yang ingin Anda katakan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Para penyair dan filsuf kami menganggap peradaban Anda sebagai terang dunia, dan saya harus setuju dengan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Keagungan pribadi Anda tercermin dalam kejayaan peradaban Anda!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Orang-orang dari setiap peradaban memandang Anda dengan heran. Anda adalah inspirasi bagi dunia!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Saya melihat peradaban Anda dan karya-karyanya, dan saya memahami mengapa masyarakat Anda dipuji dalam lagu dan cerita di seluruh dunia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Peradaban Anda adalah model yang akan saya gunakan untuk membangun Rusia baru!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Apa yang lebih baik daripada dikelilingi oleh para penyair, dramawan, orang suci, dan ilmuwan seperti itu? Saya selalu berpikir bahwa bangsa yang besar adalah wujud dari nikmat Yang Maha Kuasa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Ya! Keunggulan Anda—Arete Anda—benar-benar layak untuk ditiru! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>Bercita-citalah untuk menjadi teladan yang lebih berharga bagi seluruh dunia! Orang-orang Anda akan mencintai Anda jika Anda memimpin mereka menuju kejayaan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Peradaban kami mengagumi cara Anda menanggung masalah Anda saat ini dengan ketabahan dan keteguhan hati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Anda menanggung penderitaan Zaman Kegelapan Anda dengan kemuliaan seperti itu! Saya berharap subjek saya sama kuatnya dengan Anda!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Saya mengirimi Anda hadiah: Sebuah cincin bertuliskan “Ini Juga Akan Berlalu.” Semoga itu menghibur Anda di saat-saat sulit.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Pemimpin yang lebih rendah tidak akan mampu melakukan apa yang Anda lakukan: Mempertahankan kendali yang kuat atas peradaban Anda di saat krisis.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GENGHIS_KHAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Saya mengagumi cara Anda memerintah. Saya menghargai tidak harus memikirkan strategi yang rumit untuk menaklukkan peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Hatimu pasti sedih atas penderitaan rakyatmu. Polandia memahami penderitaan Anda, dan kami berdoa untuk Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LAUTARO_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Anda juga tahu apa artinya melawan kekejaman pihak yang berkuasa. Mapuche menghormati apa yang Anda lakukan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JAYAVARMAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Anda terikat pada siklus samsara sekarang. Saya berdoa tanpa henti agar Anda segera dibebaskan dan damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Bagi saya, &quot;usia kejayaan&quot; orang-orang Anda terlihat seperti menyombongkan diri. Saya menantikan hari kejatuhan Anda.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>(Kamu tidak cukup bergosip.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>(Anda berada di zaman kegelapan.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>(Anda berada di zaman keemasan.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Gran Colombia-->
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_1">
+			<Text>Feliciano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_2">
+			<Text>Vicente</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_3">
+			<Text>Fernando</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_4">
+			<Text>Fransisco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_5">
+			<Text>Joaquín</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_6">
+			<Text>Atanasio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_7">
+			<Text>antonio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_8">
+			<Text>Mariano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_9">
+			<Text>Onofre</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_10">
+			<Text>Ramon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_1">
+			<Text>Josefina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_2">
+			<Text>Manuela</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_3">
+			<Text>Maria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_4">
+			<Text>Nicolasa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_5">
+			<Text>Bernardina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_6">
+			<Text>Joaquina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_7">
+			<Text>Margarita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_8">
+			<Text>Fransiska</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_9">
+			<Text>Pancha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_10">
+			<Text>Polikarpa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_1">
+			<Text>Diego</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_2">
+			<Text>Luis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_3">
+			<Text>Tomas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_4">
+			<Text>Narsis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_5">
+			<Text>Rafael</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_6">
+			<Text>Jacinto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_7">
+			<Text>Florentino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_8">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_9">
+			<Text>Liborio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_10">
+			<Text>Jerman</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_1">
+			<Text>Carmen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_2">
+			<Text>Juana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_3">
+			<Text>Ana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_4">
+			<Text>Rosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_5">
+			<Text>Antonia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_6">
+			<Text>Natalya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_7">
+			<Text>Dolores</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_8">
+			<Text>Teresa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_9">
+			<Text>Dominga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_10">
+			<Text>mercedes</Text>
+		</Row>
+		<!--Maya-->
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_1">
+			<Text>Jaguar Batu Terikat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_2">
+			<Text>Tupai Merokok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_3">
+			<Text>Gulir Ular</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_4">
+			<Text>Jaguar Bulan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_5">
+			<Text>Tengkorak Perisai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_6">
+			<Text>Gigi Penyu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_7">
+			<Text>Tuan Cokelat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_8">
+			<Text>Cakar Burung</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_9">
+			<Text>Badai Langit</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MALE_10">
+			<Text>Gopher Perbukitan Putih</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_1">
+			<Text>Dua Belas Bayi Macaw </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_2">
+			<Text>Rumah Bintang </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_3">
+			<Text>Nyonya Putih Quetzal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_4">
+			<Text>Bayi jaguar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_5">
+			<Text>Nyonya Tengkorak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_6">
+			<Text>Gulir di tangan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_7">
+			<Text>Tangan Teratai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_8">
+			<Text>bintang malam </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_9">
+			<Text>Bintang Kerang</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_10">
+			<Text>Nyonya Buaya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_1">
+			<Text>Burung Hantu Pelempar Tombak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_2">
+			<Text>Stokes-the-Sky</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_3">
+			<Text>Delapan Belas Kelinci</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_4">
+			<Text>Kepala Kauac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_5">
+			<Text>Asap Jaguar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_6">
+			<Text>Dewa Hujan Cabang Pohon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_7">
+			<Text>Kelabang Bulan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_8">
+			<Text>Katak Merokok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_9">
+			<Text>Burung Bulan Nol </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_10">
+			<Text>Bintang Monyet</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_1">
+			<Text>Batzek</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_2">
+			<Text>Bunga Hebat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_3">
+			<Text>Nyonya Hijau Quetzal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_4">
+			<Text>Nyonya Perisai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_5">
+			<Text>Hiu Bumi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_6">
+			<Text>Binding-K&apos;inich</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_7">
+			<Text>Tempat Jantung Angin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_8">
+			<Text>Yohl Ik&apos;nal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_9">
+			<Text>Burung jaguar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_10">
+			<Text>Bunga Penuh</Text>
+		</Row>
+	</EnglishText>
+</GameData>

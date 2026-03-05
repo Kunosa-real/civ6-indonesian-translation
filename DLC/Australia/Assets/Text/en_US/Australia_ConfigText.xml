@@ -1,0 +1,65 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+			<Text>Mendarat di Bawah</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Perumahan di kota pesisir. Padang rumput memicu Bom Budaya. Hasil dari Kampus, Pusat Komersial, Tempat Suci, dan Lapangan Teater diberi +1 di ubin dengan Daya Tarik Menawan, +3 di Menakjubkan. </Text>
+		</Row>
+		<!-- Feature Info -->
+		<Row Tag="LOC_FEATURE_ULURU_NAME">
+			<Text>Uluru</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ULURU_DESCRIPTION">
+			<Text>Satu ubin keajaiban alam yang tak bisa dilewati. Memberikan +2 [ICON_CULTURE] Budaya dan +2 [ICON_FAITH] Keyakinan ke ubin yang berdekatan. Memberikan +4 Daya Tarik ke ubin yang berdekatan, bukan +2 seperti biasanya.</Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Stasiun Pedalaman</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Stasiun Pedalaman, unik di Australia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Makanan dan +1 [ICON_PRODUCTION] Produksi. +1 [ICON_Food] Makanan untuk setiap Padang Rumput yang berdekatan. Tambahan [ICON_FOOD] Pangan dan [ICON_PRODUCTION] Produksi seiring kemajuan Anda melalui Teknologi dan Civic Pohon untuk Stasiun Pedalaman dan Padang Rumput yang berdekatan. Hanya dapat dibangun di ubin Gurun, Bukit Gurun, Padang Rumput, dan Dataran.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_JOHN_CURTIN_NAME">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
+			<Text>Perdana Menteri Curtin, Anda akan memimpin Australia melewati tantangan demi tantangan, dan rakyat Anda akan menjadi lebih kuat karenanya. Orang lain akan mencari persahabatan untuk kekuatan Anda. Jika teman-teman ini terbukti setia, kekuatan dan perlindungan Anda akan membawa Anda jauh. Namun tetaplah waspada, karena agresi bukanlah hal yang alami bagi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
+			<Text>Benteng Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
+			<Text>+100% [ICON_Production] Produksi jika mereka telah menerima deklarasi perang dalam 10 putaran terakhir atau jika mereka telah membebaskan kota dalam 20 putaran terakhir.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_DIGGER_NAME">
+			<Text>Penggali</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+			<Text>Unit era Modern unik Australia yang menggantikan Infanteri. +10 [ICON_Strength] Kekuatan Tempur saat bertarung di ubin Pesisir. +5 [ICON_Strength] Kekuatan Tempur saat bertarung di Wilayah Netral atau Asing.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_NAME">
+			<Text>Penggali</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Kekuatan Tempur saat bertarung di ubin Pesisir. +5 [ICON_Strength] Kekuatan Tempur saat bertarung di Wilayah Netral atau Asing.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur di Ubin Pesisir</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur di luar Wilayah Persahabatan</Text>
+		</Row>
+		<!-- XP2-->
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION">
+			<Text>+100% [ICON_PRODUCTION] Produksi jika mereka telah menerima deklarasi perang atau membebaskan kota dalam 10 putaran terakhir.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

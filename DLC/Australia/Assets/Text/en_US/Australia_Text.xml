@@ -1,0 +1,375 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION">
+			<Text>Kekaisaran Australia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE">
+			<Text>Australia</Text>
+		</Row>
+		<!-- Leader Agenda-->
+		<Row Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME">
+			<Text>Selalu Berjaga-jaga</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION">
+			<Text>Menyukai peradaban yang membebaskan kota. Tidak menyukai peradaban dalam perang yang menduduki kota musuh.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AUSTRALIA_LOCATION">
+			<Text>Benua Australia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AUSTRALIA_SIZE">
+			<Text>Sekitar 2,97 juta mil persegi (7,7 juta km persegi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AUSTRALIA_POPULATION">
+			<Text>Sekitar 24 juta (perkiraan tahun 2017)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL">
+			<Text>Melbourne, sekarang Canberra</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_CANBERRA">
+			<Text>Canberra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SYDNEY">
+			<Text>Sidney</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MELBOURNE">
+			<Text>Melbourne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRISBANE">
+			<Text>Brisbane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADELAIDE">
+			<Text>Adelaide</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PERTH">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOBART">
+			<Text>Hobart</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEELONG">
+			<Text>Geelong</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAUNCESTON">
+			<Text>Launceston </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BALLAARAT">
+			<Text>balarat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROCKHAMPTON">
+			<Text>Rockhampton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOOWOOMBA">
+			<Text>Terlalu Woomba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOWNSVILLE">
+			<Text>Kotaville</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BENDIGO">
+			<Text>Bendigo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BROKEN_HILL">
+			<Text>Bukit Rusak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAITLAND">
+			<Text>tanah Mait</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WOLLONGONG">
+			<Text>Wollongong</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAIRNS">
+			<Text>Cairns</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARWIN">
+			<Text>Darwin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOULBURN">
+			<Text>Goulburn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUNDABERG">
+			<Text>Bundaberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAGGA_WAGGA">
+			<Text>Wagga Wagga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LISMORE">
+			<Text>Lismore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LITHGOW">
+			<Text>Litgow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARYBOROUGH">
+			<Text>Maryborough</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALBURY">
+			<Text>Albury</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORANGE">
+			<Text>Oranye</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FREMANTLE">
+			<Text>Fremantle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TWEED_HEADS">
+			<Text>Kepala Wol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COFFS_HARBOUR">
+			<Text>Pelabuhan Coffs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HERVEY_BAY">
+			<Text>Teluk Hervey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALGOORLIE">
+			<Text>Kalgoorlie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PORT_MACQUARIE">
+			<Text>Pelabuhan Macquarie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALICE_SPRINGS">
+			<Text>Mata Air Alice</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BATHURST">
+			<Text>mandi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLADSTONE">
+			<Text>batu senang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUEANBEYAN">
+			<Text>Queanbeyan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PORT_PIRIE">
+			<Text>Pelabuhan Pirie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
+			<Text>Boomahnooomoonah</Text>
+		</Row>
+		<!-- Citizen Names -->
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_1">
+			<Text>Anatjari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_2">
+			<Text>Colebee</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_3">
+			<Text>Djalu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_4">
+			<Text>Gurumarra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_5">
+			<Text>Jarli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_6">
+			<Text>Mandawuy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_7">
+			<Text>Toba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_8">
+			<Text>Yarran</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_9">
+			<Text>Warrin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MALE_10">
+			<Text>Waku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1">
+			<Text>Bindi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2">
+			<Text>Kalinda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3">
+			<Text>Kirra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4">
+			<Text>Ellin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5">
+			<Text>Jeddah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6">
+			<Text>Lena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7">
+			<Text>Marindah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8">
+			<Text>Parara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9">
+			<Text>tatali</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10">
+			<Text>Wintjiya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1">
+			<Text>Yakobus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2">
+			<Text>Lukas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3">
+			<Text>Jackson</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4">
+			<Text>Cody</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5">
+			<Text>Mitch</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6">
+			<Text>Blake</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7">
+			<Text>Hugo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8">
+			<Text>Brenden</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9">
+			<Text>Yordania</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10">
+			<Text>Michael</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1">
+			<Text>Nicole</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2">
+			<Text>Olivia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3">
+			<Text>Zoë</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4">
+			<Text>Holly</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5">
+			<Text>Paige</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6">
+			<Text>Kathleen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7">
+			<Text>Louisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8">
+			<Text>Michele</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9">
+			<Text>Elizabeth</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10">
+			<Text>Alicia</Text>
+		</Row>
+		<!-- Feature Info-->
+		<Row Tag="LOC_FEATURE_ULURU_QUOTE">
+			<Text>&quot;Sungguh pemandangan yang menakjubkan di musim hujan; air terjun di segala arah!&apos;&apos;[NEWLINE]– William Gosse</Text>
+		</Row>
+		<!-- Trait Info-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Peningkatan unik Australia: Outback Station</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Kami akan dengan senang hati mengakui persahabatan yang kuat antara negara-negara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya harap Anda mengerti, kami tidak dapat berkomitmen pada tindakan resmi apa pun saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya percaya persahabatan kita dibangun atas dasar kepentingan bersama dalam menjaga stabilitas dan melindungi mereka yang membutuhkan. Saya harap Anda setuju.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya menghargai semua yang telah Anda lakukan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Giliran yang tidak diinginkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Kami akan memobilisasi segala cara perlawanan untuk menghentikan pelanggaran terhadap bangsa kami!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Setelah melalui pertimbangan yang matang, Australia mendapati dirinya berada di persimpangan jalan. Persiapkan dirimu, perang ada di depan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Australia dengan hangat menyambut delegasi yang Anda kirimkan untuk mengunjungi ibu kota kami. Saya berencana bertemu mereka secara pribadi untuk membahas upaya terbaru kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya dengan hormat menolak delegasi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya telah mengirimkan delegasi perdagangan ke wilayah Anda dengan sejumlah kecil pilihan daging yang disumbangkan oleh peternak kami. Saya harap Anda akan menerimanya dengan ucapan terima kasih yang tulus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Fitnah Anda terhadap Australia dan rakyatnya akan diketahui secara luas ketika negara Anda yang lemah runtuh!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Perkataan dan tindakan tercela yang Anda tunjukkan hanya akan membawa rakyat Anda ke jalan kebodohan dan kemiskinan. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY">
+			<Text>John Curtin, saya berbicara mewakili rakyat Australia sebagai Perdana Menteri mereka. Kami mencari sekutu yang simpatik dalam perang melawan kelompok elang perang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY">
+			<Text>Jika Anda mau, saya akan meminta Anda mengunjungi kota terdekat kami. Mungkin kami bisa menggoda Anda dengan kacang macadamia panggang?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY">
+			<Text>Tentu saja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya pikir pertukaran pengetahuan, mungkin kisah-kisah tentang ibu kota kita, akan menjadi keuntungan besar bagi persahabatan kita yang sedang berkembang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY">
+			<Text>Senang bertemu denganmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY">
+			<Text>Saya memuji ketekunan Anda. Kami memiliki kepentingan yang sama dalam melindungi mereka yang seringkali tidak dapat melindungi diri mereka sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY">
+			<Text>Perang hanya akan membawa kerugian bagi kita. Hilangnya nyawa, hilangnya produktivitas, hilangnya kemanusiaan kita!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Apakah Anda ingin membentuk aliansi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY">
+			<Text>Kami akan menyambut perdamaian abadi di antara kedua negara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY">
+			<Text>Tidak, itu tidak akan berhasil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Negara-negara yang ingin hidup dalam persahabatan harus membayar harga demi perdamaian. Kami bersedia. Pertanyaannya adalah, apakah Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Selama upaya Anda dalam semangat niat baik, kami tidak mempermasalahkan hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Dengan iklim dan pijakan pasukan Australia saat ini, saya khawatir hal tersebut tidak bijaksana saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Untuk menjaga perdamaian, pasukan Australia mungkin perlu melewati wilayah Anda. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY">
+			<Text>Anda dapat membayangkan bagaimana pengerahan pasukan Anda di sepanjang perbatasan kita? Saya berasumsi itu semacam kesalahan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Prinsip-prinsip yang telah kita perjuangkan akan bertahan lebih lama dibandingkan negara mana pun yang pernah Anda bangun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Giliran yang tidak diinginkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Maka kita sepakat!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE">
+			<Text>John Curtin senang Anda membebaskan sebuah kota</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY">
+			<Text>John Curtin tidak senang Anda menduduki kota musuh</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

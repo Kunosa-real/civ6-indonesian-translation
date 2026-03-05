@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Sections -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_LEADERS_TITLE">
+			<Text>Peradaban/Pemimpin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNORS_TITLE">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_MOMENTS_TITLE">
+			<Text>Momen Bersejarah</Text>
+		</Row>
+		<!-- Page Groups -->
+		<Row Tag="LOC_PEDIA_PAGEGROUP_CIVILIZATIONS_NAME">
+			<Text>Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGEGROUP_LEADERS_NAME">
+			<Text>Pemimpin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNORS_PAGEGROUP_GOVERNORS_NAME">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNORS_PAGEGROUP_PROMOTIONS_NAME">
+			<Text>{1_GovernorShortTitle} Judul</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_MOMENTS_PAGEGROUP_MAJOR_NAME">
+			<Text>Momen Besar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_MOMENTS_PAGEGROUP_MINOR_NAME">
+			<Text>Momen Kecil</Text>
+		</Row>
+		<!-- Traits -->
+		<Row Tag="LOC_UI_PEDIA_TITLES">
+			<Text>Judul:</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ERA_SCORE">
+			<Text>Skor Era: {1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_INTEREST_LEVEL">
+			<Text>Tingkat Minat: {1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MIN_ERA">
+			<Text>Era Minimal: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAX_ERA">
+			<Text>Era Maks: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES_DARK_AGE">
+			<Text>Zaman Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTION_BASE">
+			<Text>Tingkat: Dasar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTION_LEVEL">
+			<Text>Tingkat: {1_Level}</Text>
+		</Row>
+		<!-- Progression -->
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_GOVERNOR_PROMOTIONS">
+			<Text>Mengarah ke Judul</Text>
+		</Row>
+		<!-- Concepts -->
+		<!-- Updated Concepts from base game -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Anda harus mengumpulkan tingkat Visibilitas Diplomatik secara individual untuk setiap peradaban. Anda akan menerima bonus pertempuran karena memiliki tingkat visibilitas yang lebih tinggi pada lawan Anda daripada yang mereka miliki pada Anda. Level dapat diperoleh dengan mengumpulkan berbagai sumber Gosip, termasuk:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Dengan memilih Pemukim, lokasi kota yang ideal akan ditampilkan di peta dengan ikon. Selain itu, setiap Pemukim setelah yang pertama akan menampilkan Lensa Pemukim, memberi Anda gambaran tentang lokasi di peta yang akan menyediakan sumber air terbaik untuk kota Anda, dan menunjukkan ubin yang tidak tersedia. Berhati-hatilah terhadap lokasi yang memiliki penanda Loyalitas negatif, karena lokasi tersebut setia kepada peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Menarik. Menunjukkan tingkat daya tarik setiap ubin.[NEWLINE][NEWLINE]Benua. Menunjukkan luas geografis masing-masing benua.[NEWLINE][NEWLINE]Penempatan Distrik. Menunjukkan lokasi penempatan yang valid untuk keajaiban dan distrik, serta bonus kedekatan apa pun yang tersedia untuk distrik. Ini hanya akan muncul ketika mencoba membangun distrik atau keajaiban.[NEWLINE][NEWLINE]Pemerintah. Menunjukkan distribusi pemerintahan di seluruh peta.[NEWLINE][NEWLINE]Politik. Menunjukkan pemilik setiap ubin.[NEWLINE][NEWLINE]Agama. Menunjukkan distribusi agama mayoritas dan penganut agama di seluruh peta. Ini muncul setiap kali unit Keagamaan dipilih.[NEWLINE][NEWLINE]Pemukim. Menunjukkan lokasi kota yang direkomendasikan dan ketersediaan air, selain penalti Loyalitas di setiap ubin.[NEWLINE][NEWLINE]Pariwisata. Menunjukkan jumlah [ICON_Tourism] Wisatawan yang menarik ubin.[NEWLINE][NEWLINE]Kekaisaran. Menunjukkan perbatasan kota dan lokasi distrik Anda dengan bonus kedekatan.[NEWLINE][NEWLINE]Daya. Menampilkan sumber listrik di kota Anda beserta jangkauan listrik regional.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Anda juga akan menyatakan perang terhadap sasaran Darurat Militer, Darurat Negara-Kota, Darurat Nuklir, dan Darurat Pengkhianatan, jika Anda bergabung dalam Keadaan Darurat tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
+			<Text>+2: Setiap Keajaiban Alam dan Taman Kota yang berdekatan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
+			<Text>+1: Setiap Lapangan Golf, Château, dan Sphinx yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_4">
+			<Text>Gedung Badan Intelijen yang dibangun di Government Plaza juga akan menambah kapasitas Spy dan Spy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_3">
+			<Text>Berhasil menyelesaikan misi spionase Fabrikasi Skandal akan menghapus Utusan [ICON_ENVOY] saingan dari negara-kota yang ditargetkan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Pakta Pertahanan adalah kesepakatan antara dua pemimpin untuk saling membantu ketika menjadi sasaran Deklarasi Perang. Jika salah satu anggota Pakta Pertahanan menjadi sasaran, anggota lainnya juga akan menyatakan perang melawan agresor. Jika dua pemimpin berada dalam Aliansi, mereka secara otomatis akan memiliki Pakta Pertahanan di antara mereka. Pakta Pertahanan tidak lagi tersedia sebagai item baris dalam kesepakatan diplomatik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Ada beberapa kasus di mana Pakta Defensif tidak secara otomatis menyebabkan seorang pemimpin terlibat dalam perang karena berada dalam Pakta Defensif. Misalnya, Gilgamesh dan Cleopatra memiliki Pakta Pertahanan, dan Pedro dan Peter memiliki Pakta Pertahanan. Gilgamesh menyatakan perang terhadap Pedro, dan karena Pakta Pertahanan, Peter menyatakan perang terhadap Gilgamesh. Namun, Cleopatra tidak secara otomatis menyatakan perang terhadap Pedro atau Peter. Keadaan darurat juga tidak memicu Pakta Pertahanan. Menggunakan contoh kita sebelumnya, jika terjadi Keadaan Darurat terhadap Pedro, dan Gilgamesh berperang melawan Pedro, maka Peter tidak secara otomatis menyatakan perang terhadap Gilgamesh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Sekutu. Aliansi memiliki bagiannya sendiri di Civilopedia yang menjelaskannya secara rinci. Ini hanya dapat dibuat antara Teman yang Dinyatakan, dan memberikan Perbatasan Terbuka dan Pakta Pertahanan antar mitra selain keuntungan Aliansi. Peradaban dalam Aliansi tidak dapat menyatakan perang satu sama lain. Anda harus memiliki Pegawai Negeri Sipil Civic untuk membuat Aliansi. [NEWLINE][NEWLINE]Dinyatakan sebagai Teman. Ketika Anda memilih untuk menyatakan persahabatan Anda dengan seorang pemimpin, Anda tidak boleh menyatakan perang formal terhadap satu sama lain, dan kesepakatan yang Anda buat satu sama lain akan lebih menguntungkan. Status hubungan ini diperlukan untuk membuat Aliansi.[NEWLINE][NEWLINE]Ramah. Ini berarti pemimpin berpikir positif tentang Anda dan Anda memiliki peluang lebih besar untuk mendapatkan kesepakatan yang menguntungkan dengan mereka.[NEWLINE][NEWLINE]Netral. Anda tidak melakukan apa pun yang membuat pemimpin kecewa atau terkesan, dan interaksi Anda dengan mereka akan menjadi standar.[NEWLINE][NEWLINE]Tidak ramah. Karena alasan tertentu, Anda telah melakukan sesuatu yang membuat pemimpin ini kesal, dan berurusan dengan mereka kemungkinan besar tidak akan menguntungkan Anda, atau Anda dapat memilih untuk mengajukan tuntutan kepada mereka. [NEWLINE][NEWLINE]Dikecam. Pemimpin ini telah memberi tahu para pemimpin lain di dunia bahwa Anda telah melakukan sesuatu yang menyinggung perasaan mereka. Kesepakatan Anda dengan mereka akan tidak menguntungkan jika mereka mau mewujudkannya, namun Anda dapat mendeklarasikan Perang Formal melawan mereka dan mengajukan tuntutan.[NEWLINE][NEWLINE]Berperang. Permusuhan terbuka telah pecah di antara Anda, dan Anda dapat menyerang atau menyerang pemimpin ini tetapi Anda akan mendapat hukuman penghasut perang dan kelelahan perang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_3">
+			<Text>Loyalitas. Menunjukkan Loyalitas kota, dan sumber Loyalitas yang mempengaruhinya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_2">
+			<Text>1. Anda tidak menerima [ICON_Gold] Emas, [ICON_Science] Sains, [ICON_Culture] Budaya, atau [ICON_Faith] Iman dari sumber mana pun.[NEWLINE]2. Anarki tidak memiliki bonus khusus atau Warisan pemerintah.[NEWLINE]3. Polis Anda tidak memberikan manfaat dan tidak dapat ditempatkan.[NEWLINE]4. Anda tidak akan dapat mengubah pemerintahan sampai keadaan Anarki berakhir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Tidak terkunci melalui Pohon Civics, pemerintahan yang tersedia akan berubah seiring kemajuan Anda seiring berjalannya waktu. Pada awalnya, Anda akan memiliki pemerintahan sederhana dengan hanya sedikit slot. Namun seiring Anda mencapai era berikutnya, lebih banyak slot dalam kombinasi berbeda akan dibuka. Selain itu, pemerintah juga mempunyai bonus khusus; pemerintah Teokrasi, misalnya, akan menambah Kekuatan [ICON_Strength] Keagamaan dalam Pertempuran Teologis, [ICON_Faith] Keyakinan per Warga di kota-kota dengan [ICON_GOVERNOR] Gubernur, dan memungkinkan Anda membeli unit tanah dengan [ICON_Faith] Keyakinan dan menawarkan diskon untuk pembelian [ICON_Faith] Keyakinan saat aktif.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Seorang pemain hanya dapat mempertahankan Rute Perdagangan [ICON_TradeRoute] aktif dalam jumlah terbatas. Kapasitas ini ditentukan terutama oleh jumlah bangunan Pasar dan Mercusuar yang dimilikinya, namun dapat ditingkatkan dengan cara lain juga. Perhatikan bahwa [ICON_TradeRoute] Rute Perdagangan dari Pasar dan bangunan Mercusuar tidak bertumpuk di kota yang sama—manfaatnya hanya berlaku pada kota pertama yang Anda bangun.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Ada 6 jenis kebijakan berbeda, dan 4 slot kebijakan. Semua jenis harus diterapkan pada slot kosong dengan jenis yang sama di pemerintahan, namun slot Wildcard dapat menampung semua jenis kebijakan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Wildcard: Kebijakan ini memiliki efek yang bervariasi dan kuat, namun hanya dapat digunakan dengan slot kebijakan Wildcard.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_6">
+			<Text>Pemerintah: Kebijakan-kebijakan ini memberikan bonus warisan yang kuat untuk berbagai jenis Pemerintahan. Kuncinya terbuka saat Anda membangun distrik Government Plaza dan salah satu bangunan yang sesuai dengan tingkat Pemerintahan. Misalnya, jika Anda mengadopsi Pemerintahan Republik Klasik, lalu membangun Tahta Panglima Perang, Balai Leluhur, atau Ruang Audiensi, Anda akan membuka Kebijakan Warisan Partai Republik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_7">
+			<Text>Zaman Kegelapan: Jika Anda memasuki Zaman Kegelapan, Anda bisa mendapatkan akses ke Kebijakan khusus yang hanya berlaku saat Anda berada di Zaman Kegelapan. Pemilihan Kebijakan Zaman Kegelapan akan berubah seiring kemajuan Era. Kebijakan ini dapat memberi Anda keuntungan khusus yang mungkin membantu Anda, namun memiliki biaya yang mungkin membatasi Anda dalam hal lain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY">
+			<Text>Di awal permainan, satu-satunya keunggulan Amerika adalah +5 [ICON_Strength] Kekuatan Tempur di benua asal mereka. Mereka ingin memperluas wilayah mereka dengan cepat dan bergerak untuk mendapatkan dukungan dari negara-negara kota terdekat. Dengan berubahnya slot kebijakan diplomatik menjadi wildcard, pilihan pemerintah mereka menjadi penting, meskipun Republik Klasik dan Republik Pedagang adalah yang paling membantu dalam preferensi Amerika: Kemenangan Budaya. Mereka juga harus mempertimbangkan untuk membangun Museum Sejarah Nasional di Plaza Pemerintahan mereka. Dengan Studio Film, bonus Taman Nasional, dan dua unit unik pasca-Industri, mereka bersinar sejak abad ke-20 dan seterusnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Menyatakan perang terhadap peradaban lain akan memberikan Anda hukuman dalam menghadapi peradaban lain di dalam game, yang disebut hukuman penghasut perang. Hal ini mencerminkan ketidakpercayaan atau ketakutan pemimpin lain terhadap tindakan Anda. Cara paling umum untuk menyatakan perang, dan metode yang digunakan untuk menghitung semua hukuman penghasut perang, adalah Perang Formal. Dalam hal ini, sebuah peradaban pertama-tama mengecam peradaban target dan kemudian mendeklarasikan Perang Formal.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Hukuman bagi penghasut perang meningkat setiap eranya, karena perang menjadi solusi yang kurang dapat diterima terhadap perselisihan antar peradaban di dunia. Hukuman penghasut perang juga diubah berdasarkan jenis perang yang Anda nyatakan. Dalam kebanyakan kasus, mendeklarasikan perang dan merebut kota musuh akan memberi Anda hukuman penghasut perang pada masa itu, dan menghancurkan sebuah kota akan memberi Anda hukuman tiga kali lipat dari hukuman penghasut perang pada masa itu. Casus Belli tertentu (lihat bagian Casus Belli di bawah Diplomasi) dapat mengubah hukuman penghasut perang ini, mengurangi hukuman untuk tindakan tertentu, atau menjadikannya lebih mahal. Tindakan lain, seperti menggunakan senjata nuklir, juga akan mengubah hukuman penghasut perang Anda. 
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Menjarah suatu distrik membutuhkan 3 Poin Pergerakan, atau seluruh pergerakan Anda. Setiap bangunan di suatu distrik harus dijarah secara terpisah, dan memberikan semacam penjarahan berdasarkan distrik tersebut. Lihat halaman distrik untuk mengetahui hasil spesifik. Setelah dijarah, suatu bangunan tidak dapat dijarah lagi sampai bangunan tersebut dioperasikan kembali oleh pemiliknya (dilakukan melalui Menu Produksi dan memakan 25% dari [ICON_Production] biaya Produksi awal pembangunan gedung tersebut.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Science] Sains berasal dari berbagai sumber, termasuk [ICON_Citizen] Warga Anda (0,5 per [ICON_Citizen]), Istana Anda, beberapa Kebijakan, beberapa Keyakinan Agama, beberapa sumber daya, keajaiban, perdagangan, dan tentu saja kawasan Kampus dan bangunannya. Telusuri Civilopedia untuk menemukan sumber [ICON_Science] Sains.</Text>
+		</Row>
+		<!-- New Concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_EXPANSION_NAME">
+			<Text>Bangkit dan Jatuh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_PRIDE_MOMENTS_1_CHAPTER_CONTENT_TITLE">
+			<Text>Momen Bersejarah</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_PRIDE_MOMENTS_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Momen Bersejarah adalah peristiwa penting yang terjadi sepanjang sejarah permainan, mulai dari pertama kali memilih bentuk pemerintahan baru, membangun Unit Unik, hingga menemukan Keajaiban Alam. Ada lusinan Momen Bersejarah sepanjang permainan, yang mewakili pencapaian pertama di dunia dan pertama bagi pemain. Momen-momen ini berbeda seiring waktu. Contohnya, menyelesaikan Perkemahan Barbar di Era Kuno merupakan pencapaian penting, namun menyelesaikan Perkemahan Barbar di Era Modern bahkan tidak pantas mendapat pengakuan. Anda dapat melihat Momen Bersejarah Anda kapan saja di game Anda dengan mengklik Timeline Riwayat di toolbar kiri atas. [NEWLINE][NEWLINE]Setiap Momen Bersejarah menambah Skor Era Anda untuk era tersebut, yang merupakan ukuran apakah Anda akan naik ke Zaman Keemasan atau tenggelam ke dalam Zaman Kegelapan di era berikutnya. Jika Anda mendapatkan banyak Momen Bersejarah di suatu era, berarti kemungkinan besar Anda akan memasuki Zaman Keemasan di era berikutnya. Jika Anda adalah pemain pertama di dunia yang mendapatkan Momen Bersejarah, Anda akan memperoleh lebih banyak poin Skor Era. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Abad Keemasan dan Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Seiring berjalannya permainan dari zaman ke zaman, peradaban Anda bisa memasuki Zaman Keemasan atau Zaman Kegelapan. Jika kinerja Anda lebih baik dibandingkan peradaban lain atau menyelesaikan banyak Momen Bersejarah, besar kemungkinan Anda akan memasuki Zaman Keemasan di era berikutnya. Jika Anda mulai tertinggal, Anda mungkin akan jatuh ke dalam Zaman Kegelapan. [NEWLINE][NEWLINE]Masa Keemasan adalah masa kemakmuran besar bagi rakyat Anda. Loyalitas Anda berkurang pada tingkat yang lebih rendah dari biasanya. Kota Anda tidak hanya cenderung tetap berada dalam peradaban Anda, tetapi Anda bahkan mungkin mengubah kota-kota terdekat menjadi peradaban Anda juga. Selain itu, Anda dapat memilih Dedikasi untuk era selanjutnya. Dedikasi adalah bonus kuat yang berlaku untuk bagian tertentu dari peradaban Anda. Namun ketahuilah bahwa memperoleh Zaman Keemasan membuat lebih sulit untuk memperoleh Zaman Keemasan berikutnya, dan lebih mudah untuk jatuh ke dalam Zaman Kegelapan.[NEWLINE][NEWLINE]Zaman Kegelapan adalah periode waktu yang sulit bagi orang-orang Anda. Loyalitas Anda berkurang lebih cepat dari biasanya, yang mungkin menyebabkan kota-kota di tepi peradaban Anda meninggalkan dan menjadi kota mandiri, atau ditaklukkan oleh pemain lain dan diintegrasikan ke dalam peradaban mereka. Anda dapat membantu mencegah hal ini dengan menggunakan [ICON_GOVERNOR] Gubernur Anda, atau dengan memilih kota yang akan hilang secara strategis (dan mungkin berharap untuk merebutnya kembali nanti.)[NEWLINE][NEWLINE]Jangan khawatir atau terlalu kesal jika Anda jatuh ke dalam Zaman Kegelapan karena Anda memiliki kesempatan untuk memasuki Zaman Pahlawan. Ambang batas Anda untuk memasuki Zaman Keemasan akan lebih rendah jika Anda berada di Zaman Kegelapan, dan jika Anda melewati ambang Usia Keemasan tersebut, Anda akan memasuki Zaman Pahlawan. Era Pahlawan memungkinkan Anda memilih tiga Dedikasi di era berikutnya! Hal ini mungkin membuat Anda lebih unggul dari pemain yang beralih dari Zaman Keemasan ke Zaman Keemasan, jika Anda dapat memanfaatkan kemampuan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Jika Anda melampaui ambang Skor Era untuk Zaman Kegelapan, namun tidak memiliki skor yang cukup tinggi untuk memasuki Zaman Keemasan, maka Anda masuk ke dalam Zaman Normal. Selama Usia Normal Anda masih dapat memilih Dedikasi untuk usia tersebut, namun Anda tidak mendapatkan bonus atau penalti lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Abad Kegelapan juga memberi Anda akses ke Kebijakan Zaman Kegelapan khusus. Kebijakan wildcard ini dapat memberi Anda pilihan untuk keluar dari Zaman Kegelapan, namun ada konsekuensinya. Misalnya, Kebijakan Isolasionisme memberikan bonus kepada Rute Perdagangan [ICON_TradeRoute] internal, namun mencegah Anda membangun atau membeli Pemukim atau menetap di kota baru. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_4">
+			<Text>Anda dapat menyelesaikan Dedikasi selama Zaman Normal dan Zaman Kegelapan untuk meningkatkan Skor Era, sehingga memberi Anda peluang lebih besar untuk memperoleh Zaman Keemasan di masa depan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_TITLE">
+			<Text>Loyalitas</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Loyalitas adalah ukuran pengabdian kota terhadap peradaban Anda. Setiap kota memiliki nilai Loyalitas dari 0 hingga 100, yang mencerminkan seberapa besar [ICON_Citizen] Warga kota ingin tetap menjadi bagian dari peradaban Anda. Ketika Loyalitas turun di bawah 75, hasil dan pertumbuhan kota akan dikenakan sanksi sebesar 25%. Ketika Loyalitas turun di bawah 25, hasil panen kota akan dikenakan sanksi sebesar 50% dan pertumbuhan akan dikenakan sanksi sebesar 75%. Ketika Loyalitas mencapai 0, kota tersebut memberontak melawan pemiliknya dan menjadi Kota Bebas. Kota Bebas bukan milik peradaban dan akan berusaha mempertahankan diri dari gangguan militer. Jika Loyalitas Kota Bebas turun menjadi 0, eksperimen kemerdekaannya gagal, dan mereka berusaha untuk bergabung dengan sebuah peradaban. Peradaban mana yang mereka minta untuk bergabung bergantung pada siapa yang memberikan tekanan paling besar pada Kota Bebas selama kemerdekaan mereka. Dengan cara ini, Kota Bebas dapat dihadirkan secara damai ke dalam peradaban Anda (atau dibawa kembali ke dalam peradaban Anda).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Loyalitas berubah setiap giliran berdasarkan banyak faktor, namun faktor yang paling penting adalah tekanan dari [ICON_Citizen] Warga yang tinggal di dalam atau dekat kota. Jika tekanan dari [ICON_Citizen] Warga Anda melebihi tekanan dari peradaban lain, Loyalitas kota akan meningkat (hingga +20 per giliran). Jika tekanan peradaban lain lebih kuat, Loyalitas kota akan berkurang (turun hingga -20 per giliran). Setiap warga [ICON_Citizen] memberikan tekanan dasar sebesar 1, tetapi dapat dimodifikasi. Misalnya, [ICON_Citizen] Warga di Ibu Kota memberikan tekanan tambahan 1. Zaman Keemasan dan Zaman Pahlawan menambah 0,5 untuk semua Warga [ICON_Citizen], sedangkan Zaman Kegelapan mengurangi 0,5. [ICON_Citizen] Tekanan warga ini mempengaruhi kota-kota dalam jarak 9 ubin, namun 10% kurang efektif per jarak ubin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Tingkat [ICON_GOVERNOR] Gubernur dan Kebahagiaan kota adalah faktor kuat lainnya yang mempengaruhi Loyalitas per giliran kota. Selain itu, kota-kota yang ditaklukkan dengan kekuatan militer akan menerima hukuman Loyalitas berdasarkan Keluhan sang penakluk terhadap pemilik asli kota tersebut, namun hal ini dapat dikurangi dengan mempertahankan unit militer yang ditempatkan di kota tersebut. Gunakan lensa Loyalitas untuk mendapatkan gambaran tentang faktor Loyalitas, termasuk sumber tekanan dari kota-kota terdekat lainnya. Perincian lengkap mengenai faktor-faktor yang mempengaruhi Loyalitas suatu kota dapat dilihat di bagian Loyalitas dan Gubernur pada panel Detail Kota.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_4">
+			<Text>Untuk pemain yang mendirikan Agama, kota mendapatkan +3 Loyalitas jika mengikuti Agama tersebut, namun -3 Loyalitas per giliran jika mengikuti Agama pemain lain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_TITLE">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Gubernur [ICON_GOVERNOR] memungkinkan pemain untuk mengelola kota dalam peradaban mereka dengan cara berikut:[NEWLINE][ICON_BULLET] Menunjuk Gubernur dengan kekuatan dan kemampuan unik untuk melayani dalam peradaban mereka.[NEWLINE][ICON_BULLET] Mempromosikan Gubernur yang ditunjuk untuk membuka kemampuan dan efek baru.[NEWLINE][ICON_BULLET] Menugaskan Gubernur yang ditunjuk ke kota tertentu dalam peradaban mereka.[NEWLINE][ICON_BULLET] Menggunakan kemampuan khusus Gubernur yang ditugaskan untuk mendapatkan berbagai efek unik di dalamnya kota.[NEWLINE][ICON_BULLET] Menggunakan Gubernur yang ditugaskan untuk meningkatkan proses membangun Loyalitas yang lebih kuat di kota.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Terdapat 8 Gubernur berbeda yang dapat direkrut dan dipromosikan:[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_AMBASSADOR_NAME} &apos;{LOC_GOVERNOR_THE_AMBASSADOR_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_BUILDER_NAME} &apos;{LOC_GOVERNOR_THE_BUILDER_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME} &apos;{LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_CARDINAL_NAME} &apos;{LOC_GOVERNOR_THE_CARDINAL_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_EDUCATOR_NAME} &apos;{LOC_GOVERNOR_THE_EDUCATOR_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_MERCHANT_NAME} &apos;{LOC_GOVERNOR_THE_MERCHANT_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_DEFENDER_NAME} &apos;{LOC_GOVERNOR_THE_DEFENDER_TITLE}&apos;[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_IBRAHIM_NAME} &apos;{LOC_GOVERNOR_IBRAHIM_TITLE}&apos; (Gubernur unik Suleiman)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Pengangkatan Gubernur:[NEWLINE] Gubernur dan kenaikan pangkatnya diperoleh dengan menggunakan Gelar Gubernur. Gelar Gubernur dibuka sepanjang permainan, terutama melalui pohon Civics, tetapi juga melalui pembangunan distrik Government Plaza dan gedung-gedungnya, dan pembangunan Casa de Contratación Wonder. Setelah seorang Gubernur diangkat, mereka dapat ditugaskan ke suatu kota untuk menjalankan tugasnya. Pemain hanya dapat memiliki satu Gubernur dari setiap jenis di peradabannya, dan hanya satu Gubernur yang dapat ditugaskan ke sebuah kota dalam satu waktu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_4">
+			<Text>Mempromosikan Gubernur:[NEWLINE]Pemain juga dapat menggunakan Gelar Gubernur untuk mempromosikan Gubernur yang telah mereka tunjuk sebelumnya. Setiap tipe Gubernur memiliki pohon promosi yang unik. Memilih promosi akan membuka kemampuan baru yang dapat diterapkan oleh Gubernur setelah mereka ditetapkan di kota tempat mereka ditugaskan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_5">
+			<Text>Efek Gubernur:[NEWLINE]Ada berbagai cara yang bisa dilakukan Gubernur untuk mempengaruhi suatu kota di mana mereka ditugaskan:[NEWLINE][ICON_BULLET] Mendapatkan identitas di kota terhadap peradabannya, sehingga meningkatkan Loyalitas Warga [ICON_Citizen] nya.[NEWLINE][ICON_BULLET] Menerapkan kemampuan khusus Gubernur di kota itu dengan menjadi mapan di sana.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_6">
+			<Text>Menjadi Mapan:[NEWLINE]Pada saat seorang Gubernur pertama kali ditempatkan di suatu kota, terdapat jangka waktu tertentu sebelum mereka mulai berkuasa di kota tersebut. Jangka waktu ini mewakili jumlah waktu yang dibutuhkan seorang Gubernur untuk membuat kebijakan dan undang-undang, mengusulkan perubahan, dan menetapkan kekuasaan dan pengaruhnya terhadap kota tersebut. Lamanya waktu &apos;transisi&apos; bergantung pada Gubernur. Ketika seorang Gubernur tertentu telah menetap di suatu kota dan kemudian pergi, masa jabatan mereka di sana akan mulai berkurang seiring berjalannya waktu. Setelah jangka waktu yang ditentukan, kemampuan khusus Gubernur mulai berlaku. Ini termasuk kemampuan dasar mereka, serta promosi apa pun yang diberikan kepada mereka. Kemampuan ini bersifat pasif, karena tidak perlu diaktifkan oleh pemain, juga bukan efek sekali pakai.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_7">
+			<Text>Mengubah Penugasan Gubernur:[NEWLINE]Terkadang selama bermain game, Anda perlu mengubah lokasi penugasan Gubernur Anda. Gubernur dapat dipindahkan ke kota lain kapan saja, namun perlu diingat bahwa setelah ditugaskan ke kota lain, akan memerlukan waktu agar mereka dapat ditetapkan di kota tersebut. Jika seorang Gubernur ditugaskan ke sebuah kota yang sudah berisi seorang Gubernur, Gubernur yang ada akan dikeluarkan dari kota tersebut dan dimasukkan kembali ke dalam kumpulan Gubernur Anda, siap untuk ditugaskan ke lokasi baru.[NEWLINE][NEWLINE]Gubernur hanya dapat ditugaskan ke kota-kota dalam peradabannya dengan dua pengecualian. Gubernur &apos;Diplomat&apos; memiliki keunikan karena ia dapat ditugaskan di negara-kota serta kota mana pun dalam peradabannya. Pemimpin Ottoman Suleiman memiliki Gubernur unik &apos;Grand Visier&apos; yang dapat ditugaskan ke ibu kota peradaban besar lainnya serta kota domestik mana pun. &apos;Diplomat&apos; dan &apos;Grand Visier&apos; tidak dapat ditugaskan ke kota tempat pemain sedang berperang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ALLIANCES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ALLIANCES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Aliansi adalah hubungan antara dua peradaban yang berbeda, kesepakatan bersama untuk bekerja sama dalam beberapa hal. Untuk masuk ke dalam Aliansi, Anda harus terlebih dahulu Dinyatakan Berteman dengan peradaban, dan kedua peradaban tersebut harus pernah meneliti Kepegawaian Sipil.[NEWLINE][NEWLINE]Ada beberapa jenis Aliansi, masing-masing memberikan keuntungan timbal balik yang berbeda sesuai dengan jenisnya. Efek dari level ini bersifat kumulatif, jadi jika Anda berada di Aliansi Level 3, Anda juga mendapatkan efek Level 1 dan Level 2. Saat kamu berada dalam Aliansi dengan Pemain lain, kamu memperoleh Poin Aliansi di setiap kesempatan. Mengumpulkan cukup akan meningkatkan Level Aliansi Anda, sehingga menghasilkan lebih banyak manfaat dari Aliansi Anda. Kamu bisa meningkatkan tingkat perolehan Poin Aliansi dengan berdagang bersama Sekutumu.[NEWLINE][NEWLINE]Setiap Aliansi, apa pun jenisnya, memberikan Perbatasan Terbuka dan Pakta Pertahanan kepada kedua belah pihak. Anggota Aliansi tidak dapat menyatakan perang terhadap satu sama lain.[NEWLINE][NEWLINE]Anda hanya boleh memiliki satu jenis aliansi dengan peradaban lain, dan setelah Anda membuat aliansi tersebut, Anda tidak dapat menjalinnya dengan peradaban lain, meskipun Anda mungkin memiliki jenis aliansi lain dengan mereka. Misalnya, Anda mungkin memiliki Aliansi Riset dengan Korea, jadi Anda tidak dapat membuat Aliansi Riset baru dengan Cree. Namun, Anda dapat membentuk Aliansi Militer, Budaya, Agama, atau Ekonomi dengan Cree. Perhatikan bahwa ini membatasi Anda hingga total lima Aliansi dalam satu game.[NEWLINE][NEWLINE]Aliansi Riset[NEWLINE][ICON_BULLET]Level 1: [ICON_TradeRoute] Rute Perdagangan antar sekutu memberikan tambahan [ICON_Science] Sains.[NEWLINE][ICON_BULLET]Level 2: Sekutu berbagi 1 Peningkatan Teknologi setiap 30 putaran (pada Kecepatan Standar).[NEWLINE][ICON_BULLET]Level 3: Memberikan bonus [ICON_Science] Sains saat mempelajari teknologi yang sama dengan sekutu Anda atau teknologi yang telah diselesaikan sekutu Anda, dan saat sekutu Anda sedang meneliti teknologi yang telah Anda selesaikan.[NEWLINE][NEWLINE]Aliansi Budaya[NEWLINE][ICON_BULLET]Level 1: Sekutu tidak memberikan tekanan Loyalitas satu sama lain, dan [ICON_TradeRoute] Jalur Perdagangan antar sekutu memberikan tambahan [ICON_CULTURE] Budaya.[NEWLINE][ICON_BULLET]Level 2: Ketika kota Anda memiliki [ICON_TradeRoute] Rute Perdagangan dengan sekutu Anda, dapatkan tambahan [ICON_GreatPerson] poin Orang Hebat di kota asal berdasarkan distrik di kota tersebut.[NEWLINE][ICON_BULLET]Level 3: Anda mendapatkan sebagian dari [ICON_Tourism] Pariwisata dan [ICON_CULTURE] Budaya sekutu Anda dari kota.[NEWLINE][NEWLINE]Aliansi Militer[NEWLINE][ICON_BULLET]Level 1: Sekutu mendapatkan bonus [ICON_Strength] Kekuatan Tempur melawan peradaban yang telah dinyatakan perang oleh kedua sekutu.[NEWLINE][ICON_BULLET]Level 2: Sekutu berbagi visibilitas dan mendapatkan bonus [ICON_Production] Produksi untuk unit militer ketika salah satu sekutu sedang berperang.[NEWLINE][ICON_BULLET]Level 3: Unit dimulai dengan promosi bonus.[NEWLINE][NEWLINE]Aliansi Keagamaan[NEWLINE][ICON_BULLET]Level 1: Kota-kota sekutu tidak memberikan tekanan Agama satu sama lain, dan [ICON_TradeRoute] Jalur Perdagangan antar sekutu memberikan tambahan [ICON_Faith] Keyakinan.[NEWLINE][ICON_BULLET]Level 2: Sekutu mendapatkan [ICON_Religion] Kekuatan Tempur religius melawan Agama yang tidak didirikan oleh keduanya sekutu.[NEWLINE][ICON_BULLET]Level 3: Anda memperoleh Iman berdasarkan jumlah [ICON_Citizen] Warga yang mengikuti Agama sekutu Anda, dan bonus Tekanan Keagamaan di kota-kota tanpa pengikut Agama sekutu Anda.[NEWLINE][NEWLINE]Aliansi Ekonomi[NEWLINE][ICON_BULLET]Level 1: [ICON_TradeRoute] Jalur Perdagangan antar sekutu memberikan tambahan [ICON_Gold] Emas.[NEWLINE][ICON_BULLET]Level 2: Dapatkan [ICON_ENVOY] poin Utusan untuk setiap Negara-Kota dengan Sekutu Anda sebagai Suzerain.[NEWLINE][ICON_BULLET]Level 3: Sekutu berbagi bonus Suzerain dari semua negara-kota di mana mereka menjadi Suzerain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Keadaan darurat</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Keadaan darurat dipicu sebagai respons terhadap tindakan serius yang dilakukan suatu peradaban, seperti penaklukan suatu negara kota, mengubah Kota Suci, atau melancarkan serangan nuklir. Peradaban lain dalam game akan mempunyai kesempatan untuk bergabung melawan pemain yang memicu Keadaan Darurat. Peradaban yang Dinyatakan Sebagai Teman atau Sekutu dengan peradaban target hanya diundang untuk bergabung melawan Keadaan Darurat Pengkhianatan.[NEWLINE][NEWLINE]Warga yang bergabung akan bekerja menuju tujuan tertentu yang harus dicapai dalam batas waktu. Mungkin juga ada bonus bagi anggota grup untuk membantu mereka mencapai tujuan. Jika tujuannya tercapai, semua anggota yang berpartisipasi dalam Keadaan Darurat akan menerima hadiah khusus, tetapi jika waktu habis terlebih dahulu, akan ada penalti yang diberikan dan target akan menerima hadiah sebagai gantinya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Ini adalah Keadaan Darurat dalam game:[NEWLINE][NEWLINE][ICON_BULLET]Darurat Militer: Sebuah peradaban yang memimpin dalam beberapa jenis kemenangan baru saja merebut kota peradaban lain. Anggota harus merebut kota-kota dari Target. Anggota menerima bonus Gerakan [ICON_Movement] di wilayah Target, dan memiliki Perdamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain. Semua Anggota akan berperang dengan Target dan Kekuatan [ICON_Strength] Target berkurang saat melawan mereka. Jika berhasil, mereka menerima bonus penyembuhan di wilayah Target di masa depan. Jika Anggota tidak dapat menguasai cukup banyak kota pada akhir Masa Darurat, maka Target menang dan menerima bonus permanen untuk Kekuatan [ICON_Strength] dari serangan jarak jauh kota mereka. [NEWLINE][NEWLINE][ICON_BULLET]Darurat Negara-Kota: Sebuah peradaban telah menguasai dan menduduki suatu negara-kota. Anggota harus membebaskan negara-kota. Semua Anggota akan berperang melawan Target dan memiliki Perdamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain. Jika Anggota membebaskan negara-kota, maka mereka menerima [ICON_GOLD] Emas per giliran untuk masing-masing Utusan [ICON_ENVOY] mereka di sana. Jika Target tetap menguasai negara-kota, maka dia menang, dan menerima bonus [ICON_GOLD] Emas per giliran untuk setiap [ICON_TradeRoute] Rute Perdagangannya di sana. [NEWLINE][NEWLINE][ICON_BULLET]Darurat Keagamaan: Suatu peradaban telah mengubah Kota Suci Agama lain melalui aksi Penyebaran Keagamaan. Para Anggota harus mengubah Kota Suci dari Agama barunya, selama beberapa putaran, sebelum Masa Darurat berakhir. Jika berhasil, setiap anggota menerima Relik. Target menang jika Anggota tidak mampu menjauhkannya dari Agama baru selama jumlah putaran yang sesuai sebelum berakhirnya Keadaan Darurat. Kemudian akan ada gelombang tekanan dari Agama baru.[NEWLINE][NEWLINE][ICON_BULLET]Darurat Nuklir: Sebuah peradaban telah menggunakan senjata nuklir di sebuah kota. Anggota harus merebut kota-kota dari Target. Anggota menerima bonus Gerakan [ICON_Movement] di wilayah Target, dan memiliki Perdamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain. Semua Anggota akan berperang dengan Target dan Kekuatan [ICON_Strength] Target berkurang saat melawan mereka. Jika Anggota berhasil, maka satuan militer Target mendapat hukuman yang lebih besar dan permanen dalam Kekuatan [ICON_Strength] ketika melawan Anggota. Jika gagal, maka semua kota Anggota akan mengalami pengurangan Loyalitas. [NEWLINE][NEWLINE][ICON_BULLET]Darurat Pengkhianatan: Sebuah peradaban telah menyatakan perang terhadap peradaban lain, yang dengannya mereka memiliki Aliansi tingkat tinggi. Anggota harus merebut kota-kota dari Target. Anggota menerima bonus Gerakan [ICON_Movement] di wilayah Target, dan memiliki Perdamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain. Semua Anggota akan berperang dengan Target dan Kekuatan [ICON_Strength] Target berkurang saat melawan mereka. [ICON_TradeRoute] Jalur Perdagangan antara Anggota dan Target dibatalkan, dan [ICON_TradeRoute] Jalur Perdagangan antar anggota juga menyediakan [ICON_PRODUCTION] Produksi. Jika Anggota menang, maka satuan militer Target mendapat hukuman permanen dalam [ICON_Strength] Kekuatan versus Anggota. Jika Anggota tidak dapat menguasai cukup kota pada akhir Masa Darurat, maka Target menang dan memperoleh pengurangan Kelelahan Perang secara permanen saat melawan Anggota. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Kemampuan suatu peradaban untuk berpartisipasi dalam Keadaan Darurat ditentukan oleh hubungan diplomatik mereka dengan peradaban lain dan negara kota dalam permainan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FREE_CITIES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Kota Bebas</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FREE_CITIES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Kota Bebas adalah kota yang meninggalkan peradaban aslinya karena hilangnya Loyalitas. Ini bukan Negara-Kota, karena mereka cenderung ingin bergabung kembali dengan salah satu peradaban besar dalam permainan ini. Kota Bebas memiliki Loyalitas yang harus dipertahankan seperti kota pada umumnya, dan menerima tekanan Loyalitas dari Peradaban lain. Jika Loyalitasnya mencapai 0, ia akan bergabung dengan Peradaban yang telah memberikan tekanan Loyalitas paling besar sejak Kota Bebas merdeka. Artinya ada perlombaan melawan peradaban lain saat ingin menarik Kota Bebas ke dalam peradaban Anda. Memaksimalkan tekanan Loyalitas Anda akan meningkatkan peluang Anda mengumpulkan Loyalitas paling banyak dan memenangkan kota. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FREE_CITIES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Kota Bebas akan memperbaiki perbaikan yang dijarah dan menelurkan unit untuk mempertahankan diri, dan mungkin membangun tembok untuk mempertahankan diri. Jika diserang oleh suatu peradaban, Kota Bebas akan mencoba membalas salah satu kota peradaban tersebut. Jika tidak, warganya akan melakukan aktivitas mereka sendiri, menunggu peradaban dunia mana yang paling menarik bagi mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_TITLE">
+			<Text>Dedikasi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_1">
+			<Text>Dedikasi adalah cara untuk memfokuskan pertumbuhan peradaban Anda di awal setiap Era, dimulai dari Era Klasik. Daftar Dedikasi yang tersedia di awal suatu Era berubah sepanjang permainan, dan beberapa Dedikasi tersedia melalui beberapa Era. Selama Zaman Kegelapan, Dedikasi adalah cara yang dapat diandalkan untuk meningkatkan Skor Era Anda saat Anda berupaya menuju Zaman Pahlawan. Saat Anda memasuki Zaman Keemasan, Dedikasi ini menjadi lebih kuat, tidak lagi memberikan Skor Era, namun kini memberikan bonus besar bagi peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_2">
+			<Text>Permintaan Gratis: Dapatkan +1 Skor Era setiap kali Anda memicu [ICON_TechBoosted] Eureka. +1 Skor Era untuk membangun gedung yang memberikan Sains sebagai hasil dasar. Jika dipilih pada awal Zaman Keemasan, [ICON_TechBoosted] Eurekas memberikan tambahan 10% biaya teknologi. Bonus kedekatan Emas [ICON_GOLD] di distrik Pusat Komersial dan Pelabuhan juga menyediakan [ICON_Science] Sains. Era Klasik dan Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_3">
+			<Text>Pena, Kuas, dan Suara: Dapatkan Skor Era +1 setiap kali Anda memicu Inspirasi [ICON_CivicBoosted]. +1 Skor Era untuk membangun gedung dengan Slot Kerja Hebat. Jika dipilih pada awal Masa Keemasan, [ICON_CivicBoosted] Inspirasi memberikan tambahan 10% biaya sipil. Setiap kota menerima +1 [ICON_Culture] Budaya untuk setiap distrik khusus. Era Klasik dan Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_4">
+			<Text>Keluaran Para Penginjil: Dapatkan +2 Skor Era setiap kali Anda mengubah sebuah kota menjadi Agama yang Anda dirikan untuk pertama kalinya. Jika dipilih pada awal Zaman Keemasan, +2 Gerakan [ICON_Movement] untuk semua Misionaris, Rasul, dan Inkuisitor. Selain itu, orang yang baru dilatih mendapat Biaya +2. +4 [ICON_GreatProphet] Poin Nabi Hebat per giliran. Klasik hingga Era Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_5">
+			<Text>Monumentalitas: Dapatkan Skor Era +1 setiap kali Anda membangun Distrik khusus baru. Jika dipilih pada awal Zaman Keemasan, +2 Gerakan [ICON_Movement] untuk semua Pembangun. Dapat membeli unit sipil dengan [ICON_Faith] Iman. Pembangun dan Pemukim 30% lebih murah untuk membeli dengan [ICON_FAITH] Iman dan [ICON_GOLD] Emas. Klasik hingga Era Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_6">
+			<Text>Hic Sunt Dracones: Dapatkan +3 Skor Era setiap kali Anda menemukan Benua baru atau keajaiban alam. Dapatkan +1 Skor Era setiap kali Anda membunuh unit angkatan laut non-Barbar dalam pertempuran. Jika dipilih pada awal Zaman Keemasan, +3 memulai [ICON_Citizen] Populasi kota yang menetap di benua berbeda dari kota pertama Anda. +2 [ICON_Movement] Pergerakan unit angkatan laut dan unit yang berangkat. +2 Loyalitas per giliran untuk kota-kota yang bukan di [ICON_Capital] benua Ibu Kota asli Anda. Renaisans hingga Era Modern.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_7">
+			<Text>Reformasi Koin: Dapatkan +1 Skor Era setiap kali Anda berhasil menyelesaikan Rute Perdagangan [ICON_TradeRoute].  Jika dipilih pada awal Zaman Keemasan, Pedagang Anda tidak dapat dijarah. Rute Perdagangan Internasional [ICON_TradeRoute] menyediakan +3 [ICON_Gold] Emas per distrik khusus di kota asing. Renaisans hingga Era Modern.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_8">
+			<Text>Detak Jantung Uap: Dapatkan Skor Era +2 untuk setiap bangunan Industri atau yang lebih baru yang dibangun. Jika dipilih pada awal Zaman Keemasan, +10% [ICON_Production] Produksi menuju era Industri dan keajaiban selanjutnya. Bonus kedekatan Sains [ICON_SCIENCE] di distrik kampus juga menyediakan [ICON_PRODUCTION] Produksi. Industri melalui Era Atom.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_9">
+			<Text>Untuk Senjata!: Dapatkan +1 Skor Era setiap kali Anda membunuh Korps non-Barbar dalam pertempuran dan +2 Skor Era setiap kali Anda membunuh Tentara non-Barbar dalam pertempuran. Jika dipilih pada awal Zaman Keemasan, buka Casus Belli khusus yang memberikan hukuman penghasut perang 75% lebih sedikit dibandingkan perang formal dan dapat digunakan segera setelah Mengecam target. +15% [ICON_Production] Produksi untuk unit militer. Industri melalui Era Atom.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_10">
+			<Text>Pengawal Kebohongan: Dapatkan Skor Era +1 untuk setiap operasi Mata-mata ofensif yang berhasil. Jika dipilih pada awal Zaman Keemasan, Spies tidak memerlukan waktu lama untuk membangun kehadirannya di kota musuh. Waktu untuk menyelesaikan semua misi ofensif berkurang 25%. Era atom dan selanjutnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_11">
+			<Text>Seandainya Anda Berada di Sini: Dapatkan Skor Era +1 untuk setiap Artefak yang diekstraksi. Jika dipilih pada awal Zaman Keemasan, Kota dengan [ICON_Governor] Gubernur menerima +50% [ICON_Tourism] Pariwisata dari Keajaiban Dunia. +100% [ICON_Tourism] Pariwisata ke seluruh Taman Nasional. Era atom dan selanjutnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_12">
+			<Text>Langit dan Bintang: Mendapatkan Skor Era +1 untuk setiap bangunan Aerodrome yang dibangun. Dapatkan +1 Skor Era setiap kali [ICON_GreatPerson] Orang Hebat diperoleh atau dibeli. Jika dipilih pada awal Zaman Keemasan, akan membuka [ICON_TechBoosted] Eureka untuk Satelit, Fusi Nuklir, dan Nanoteknologi jika berada di Era Informasi. Saat dipilih di Era Masa Depan, [ICON_TechBoosted] Eureka untuk Material Cerdas, Sistem Prediktif, dan Misi Luar Dunia akan terbuka. +100% XP diperoleh untuk semua Unit Udara. Tambang aluminium mengumpulkan +2 sumber daya lebih banyak per giliran. Informasi dan Era Masa Depan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_13">
+			<Text>Automaton Warfare: Dapatkan +1 Skor Era setiap kali Anda membunuh unit non-Barbar dengan Robot Kematian Raksasa. Jika dipilih pada awal Zaman Keemasan, dapatkan Robot Kematian Raksasa di ibu kota Anda. Dapatkan 3 [ICON_Resource_Uranium] Uranium per giliran. [ICON_Resource_Uranium] Tambang Uranium mengumpulkan +1 sumber daya lebih banyak per giliran. Informasi dan Era Masa Depan.</Text>
+		</Row>
+		<!-- Features -->
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_REEF_CHAPTER_HISTORY_PARA_1">
+			<Text>Terumbu karang terbentuk di bawah permukaan perairan terbuka dan berfungsi sebagai speedbump bagi kapal. Meskipun beberapa di antaranya tersusun dari bahan anorganik seperti pasir, batu, atau akumulasi bangkai kapal di terumbu yang terbuat dari pasir dan batu, terumbu karang yang paling hidup adalah terumbu karang yang ditemukan di perairan tropis.</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_TURTLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Karena sulitnya menangkap penyu dan menyiapkan dagingnya, mereka secara historis dikaitkan dengan kelompok elit di masyarakat, sehingga menyebabkan perburuan berlebihan. Namun, dalam beberapa tahun terakhir, perlindungan hukum terhadap penyu liar dan operasi peternakan telah diterapkan untuk melestarikan hewan-hewan ini.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_OLIVES_CHAPTER_HISTORY_PARA_1">
+			<Text>Minyak dan buah zaitun penting bagi manusia di dalam negeri sejak Zaman Perunggu. Namun, bangsa Romawi menyebarkan penggunaan dan budidaya minyak zaitun antara abad pertama dan ketiga M, bahkan sampai menuntut minyak zaitun sebagai bagian dari pengumpulan pajak mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_AMBER_CHAPTER_HISTORY_PARA_1">
+			<Text>Amber dihargai karena nilai dekoratifnya sejak era Neolitikum, dan juga berperan penting dalam praktik keagamaan. Bukan hanya batunya yang mengkilat, aroma amber juga membuatnya segera bisa diperdagangkan oleh umat Katolik Eropa pada masa Reformasi, yang menganggapnya sebagai berkah dari Tuhan.</Text>
+		</Row>
+		<!-- Districts -->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Meskipun suatu pemerintahan mungkin ada dalam hati dan pikiran serta persetujuan dari yang diperintah, pelaksanaan pemerintahan yang sebenarnya memerlukan meja kerja, arsip untuk menyimpan catatan, dan ruang pertemuan untuk membahas urusan kenegaraan. Akan sangat membantu jika pemerintah dapat menyediakan ruang bagi para juru tulis, pegawai negeri sipil, orang-orang yang tidak punya banyak uang, dan politisi yang berdedikasi untuk bekerja secara efisien, sehingga urusan-urusan kenegaraan dapat terselesaikan tepat pada waktunya. Sepanjang sejarah, banyak peradaban telah mengkonsolidasikan birokrasi mereka di wilayah pusat, menciptakan Plaza Pemerintahan dengan kantor-kantor terpusat yang didedikasikan untuk pemerintahan. Westminster di London, atau Kremlin di Moskow, atau Eixo Monumental di Brasil mungkin dianggap sebagai contoh Government Plaza. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_WATER_STREET_CARNIVAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Copacabana merupakan salah satu kawasan pantai paling terkenal di dunia (dan yang menarik, namanya diambil dari sebuah tempat di dataran tinggi Bolivia) yang menonjol dalam identitas Brasil di dalam negeri dan di seluruh dunia. Secara resmi terletak di antara Fort Copacabana di ujung selatan dan Fort Duque de Caxias di ujung utara, kawasan ini merupakan lingkungan mewah bagi kaum elit Rio de Janeiro sepanjang sejarahnya, dengan Copacabana Palace Hotel sebagai landmark terbesarnya. Pada tahun 1970-an ketika pantai sempit tersebut diperluas dan kawasan tersebut menjadi tujuan wisata yang berkembang pesat bagi para berjemur dan wisatawan dari semua kelas sosial. Tempat ini pernah menjadi tempat konser besar-besaran, perayaan Malam Tahun Baru, dan bahkan Misa kepausan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_CHAPTER_HISTORY_PARA_1">
+			<Text>Sepanjang sejarah, salah satu aktivitas paling populer di sebuah kota adalah meninggalkan kota saat musim panas mulai terik. Ketika transportasi umum menawarkan pilihan yang lebih keren kepada lebih banyak orang selama Revolusi Industri, kota resor pantai mengalami lonjakan popularitas, dan memperluas jangkauan penawaran mereka dengan menyertakan fasilitas seperti jalan kayu dan wahana taman hiburan selain pantai (atau danau, atau sungai besar, atau fitur perairan lokal apa pun… unggulan) dan berperahu. Tempat yang tadinya hanya diperuntukkan bagi orang-orang kaya dan berkuasa kini tersedia bagi jutaan orang, dan saat matahari terbit, taman air ini dibuka untuk menghibur orang-orang dan menyejukkan diri di tengah teriknya sinar matahari musim panas.</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FOOD_MARKET_CHAPTER_HISTORY_PARA_1">
+			<Text>Jauh dari pusat produksi makanan komersial yang diterangi lampu neon saat ini, pasar terbuka merupakan tempat bagi para petani untuk menjual hasil panen dan ternak mereka yang berlebih. Pelanggan, pada gilirannya, akan dapat memeriksa kebersihan (relatif) makanan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FOOD_MARKET_CHAPTER_HISTORY_PARA_2">
+			<Text>Pasar pangan akan menjadi fitur penting di kota-kota yang beralih dari wilayah produksi pangan—sebagian berupa perdagangan, sebagian lagi merupakan upaya masyarakat untuk menjaga agar penduduknya tetap mendapatkan makanan. Beberapa pasar dibangun di samping kota tempat pasar tersebut didirikan; misalnya, para pedagang telah menjual keju dan daging di Suq Bab al-Lūq di Kairo sejak tahun 969 M.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_TALL_CHAPTER_HISTORY_PARA_1">
+			<Text>Dengan berkembangnya sistem pemerintahan yang monarki dan berpusat pada penguasa, muncullah ritualisasi pelaksanaan urusan kenegaraan oleh penguasa. Hal ini tercermin dalam arsitektur, karena terdapat banyak manfaat nyata dari penciptaan ruang khusus di mana penguasa dapat melihat dan dilihat perannya sebagai kepala negara. Pertama-tama, Anda dapat membuat tempat itu terlihat mewah atau sangat berornamen, dan membuat siapa pun yang masuk ke dalamnya akan kagum bahkan sebelum mereka mulai menanyakan sesuatu kepada Anda. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_TALL_CHAPTER_HISTORY_PARA_2">
+			<Text>Ruang audiensi adalah ruang yang dirancang khusus untuk akses kepada penguasa dalam perannya sebagai penguasa. Ruang tersebut mungkin berisi singgasana (dan dikenal sebagai ruang singgasana), atau mungkin tidak memiliki singgasana (walaupun biasanya ada cara untuk memperjelas siapa yang berkuasa), atau penguasa mungkin begitu penting sehingga ia hanya mengirimkan antek-anteknya, sambil duduk di ruang singgasana yang sebenarnya, sehingga menunjukkan bahwa ia terlalu sibuk untuk bertemu dengan siapa pun saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_WIDE_CHAPTER_HISTORY_PARA_1">
+			<Text>Aula Leluhur adalah bangunan yang diasosiasikan dengan pemujaan terhadap leluhur, dan contoh terbaiknya berasal dari Tiongkok (walaupun varian konsep tersebut telah dibangun di tempat lain sepanjang sejarah). Mereka ada untuk berfungsi sebagai tempat di mana orang yang masih hidup dapat menunjukkan rasa hormat dan hormat mereka terhadap generasi sebelumnya dalam garis keturunan mereka, dan untuk melakukan upacara penting keluarga, seperti pernikahan dan pemakaman. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_WIDE_CHAPTER_HISTORY_PARA_2">
+			<Text>Sebagai tempat kedudukan suatu garis keturunan, mereka berperan sebagai lokus penting dalam identitas sebuah keluarga. Tidak peduli seberapa jauh sebuah keluarga pindah, mereka tahu bahwa mereka dapat kembali ke balai leluhurnya dan terhubung kembali dengan cara yang penting ke tempat asal mereka. Landasan identitas ini merupakan sumber kekuatan bagi orang-orang ini, membuat mereka merasa seperti bagian dari rantai upaya dan pencapaian manusia yang tidak terputus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CONQUEST_CHAPTER_HISTORY_PARA_1">
+			<Text>Kata Inggris &quot;Panglima Perang&quot; berasal dari mata uang yang relatif modern (pertama kali muncul pada tahun 1850-an) tetapi konsep pemimpin militer suatu peradaban dengan kekuatan yang sangat besar adalah konsep kuno. Istilah serupa seperti &quot;Dux Bellorum&quot; dalam bahasa Latin (asal mula gelar bangsawan &quot;duke&quot;), atau junfa dalam bahasa Tiongkok pada abad ke-20, telah muncul secara independen berkali-kali sepanjang sejarah, yang pasti terkait dengan gagasan tentang seorang pemimpin militer yang kekuasaan aktualnya melebihi penguasa yang dicita-citakannya. Meskipun raja mungkin memerintah, panglima perang sering kali memerintah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CONQUEST_CHAPTER_HISTORY_PARA_2">
+			<Text>Seorang panglima perang yang berhasil adalah orang yang dapat menerjemahkan keberhasilan di medan perang menjadi modal politik, dan akibatnya banyak panglima perang yang sukses sepanjang sejarah dapat ditemukan mendirikan monumen-monumen kejayaan mereka (seperti tiang Trajan), memodifikasi monumen-monumen yang sudah ada (seperti Jarum Cleopatra, yang sejarahnya menarik namun namanya menyesatkan), membawa serta para hagiografer (seperti yang ada pada Alexander Agung), atau mengelilingi diri mereka dengan istana pengikut mereka sendiri (seperti Cao Cao, pendiri Kerajaan Wei). Terkadang hal ini berarti menciptakan sebuah gedung di mana panglima perang dapat merencanakan kampanye militer dan politik serta berunding dengan penasihat terpercaya mereka -- tentunya semata-mata demi kebaikan negara.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_FAITH_CHAPTER_HISTORY_PARA_1">
+			<Text>Meski jarang, ordo militer religius merupakan perpaduan menarik antara spiritual dan duniawi. Yang terbaik adalah tentara elit, dan telah menempati tempat dalam imajinasi budaya jauh melampaui dampak historisnya. Di barat, terdapat ordo Tentara Salib seperti Ksatria Templar, Ksatria Hospitalier, dan Ordo Teutonik. Jepang menghasilkan sohei, sebuah ordo biksu militer Buddha. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_FAITH_CHAPTER_HISTORY_PARA_2">
+			<Text>Di Barat, pemimpin ordo militer religius biasanya disebut Grand Master, dan dia menggabungkan kepemimpinan spiritual dan militer dalam pribadi dan perannya. Seorang Grand Master diharapkan menjadi teladan bagi cita-cita para pengikutnya, namun juga diberi hak istimewa dan hak prerogatif tertentu. Hal ini mungkin termasuk hak istimewa untuk mendapatkan tempat ibadah dan doa pribadi, di mana ia dapat beristirahat untuk merenung, dan untuk mendapatkan kekuatan yang diperlukan untuk membawa kemenangan kepada kekuatan surga di bumi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CITYSTATES_CHAPTER_HISTORY_PARA_1">
+			<Text>Hubungan antara peradaban dan bangsa telah lama ditentukan oleh formalitas, karena sopan santun membantu meredakan kesalahpahaman dan mencegah pecahnya perang. Hal ini tentu saja mengarah pada peradaban yang merekrut orang-orang untuk menjadi diplomat, dan peradaban lain juga akan menerima diplomat-diplomat tersebut, dan ketika keadaan menjadi semakin rumit, maka akan menambah seluruh kelas orang ke dalam sistem sipil yang bertanggung jawab untuk berinteraksi dengan para diplomat atas nama pemerintah. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CITYSTATES_CHAPTER_HISTORY_PARA_2">
+			<Text>Kementerian Luar Negeri menangani semua urusan diplomat, duta besar, kredensial, dan pengakuan pemerintah lain dan menterinya. Jabatan ini sering dipandang sebagai salah satu, bahkan mungkin yang paling penting, jabatan kepala negara, karena berfungsi sebagai lembaga yang mewakili bangsa atau peradaban di panggung dunia. Menteri dan Pejabat Luar Negeri biasanya diuji dan diperiksa secara ketat, karena pentingnya hubungan baik antar masyarakat saat ini sama pentingnya dengan ketika Mesir dan Babylon saling bertukar salam diplomatik di zaman dahulu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SPIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Ada banyak urusan kenegaraan yang perlu ditangani secara bijaksana. Ada beberapa permasalahan yang solusi praktisnya bertentangan dengan gambaran publik tentang negara dan kepemimpinannya. Oleh karena itu, para penguasa cenderung mengandalkan sekelompok kecil profesional yang memiliki keleluasaan dan kemampuan untuk menangani urusan rahasia negara.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SPIES_CHAPTER_HISTORY_PARA_2">
+			<Text>Ada banyak contoh yang terkenal sepanjang sejarah. Kisah mata-mata ditemukan dalam Perjanjian Lama. Risalah tentang praktik terbaik untuk memata-matai, penipuan, dan penyesatan ditulis di India dan Tiongkok klasik. Seni Perang karya Sun Tzu memiliki satu bab penuh berjudul &quot;Intelijen dan Spionase&quot;, dan Arthashastra memiliki satu bab tentang mata-mata, kontra intelijen, dan perang informasi. Raja David IV dari Georgia memiliki mstovaris yang terus memberinya informasi tentang berbagai plot di seluruh wilayah kekuasaannya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SPIES_CHAPTER_HISTORY_PARA_3">
+			<Text>Namun dinas intelijen modern dapat ditelusuri ke pekerjaan yang dilakukan oleh Francis Walsingham, kepala mata-mata yang tidak diragukan lagi dan pelayan setia Ratu Elizabeth I. Kepada dia dan stafnya, kita dapat menelusuri praktik-praktik metodis dalam pengkodean dan pemecahan kode, pengawasan terhadap agen lapangan, dan membaca surat orang lain. Kita tidak dapat mengkonfirmasi atau menyangkal bahwa dia memiliki seluruh tim yang membuat gadget pintar untuk mata-mata mereka, seperti pena laser dan mobil sport dengan kursi ejector.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_MILITARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Departemen Perang (atau Kementerian Pertahanan) bersaing dengan Kementerian Luar Negeri untuk mendapatkan gelar &quot;kantor kepala negara yang paling penting&quot;. Hal ini merupakan akibat dari perpaduan sejumlah kekuatan: Meningkatnya kompleksitas pemerintahan, bangkitnya militer profesional dan korps perwira staf, serta kesadaran bahwa menempatkan panglima perang karismatik yang tidak terkendali sebagai penanggung jawab militer dapat menimbulkan konsekuensi buruk bagi kelangsungan hidup pemerintah dalam jangka panjang. Bagi para pelajar sejarah militer, sungguh luar biasa bagaimana gagasan yang dulunya kontroversial mengenai kendali sipil atas militer kini secara efektif dikodifikasikan di negara-negara besar di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_MILITARY_CHAPTER_HISTORY_PARA_2">
+			<Text>Saat ini, Departemen Pertahanan Amerika Serikat adalah Departemen Perang terbesar. Berkantor pusat di gedung Pentagon yang sangat besar di pinggiran Washington D.C., negara ini merupakan perusahaan dengan lapangan kerja terbesar di dunia, mengawasi militer terbesar di dunia, dan menghabiskan anggaran militer terbesar di antara negara mana pun (melebihi lebih dari selusin gabungan militer berikutnya). </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CULTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika suatu bangsa mulai mengembangkan identitasnya, bangsa tersebut mencari cara untuk merayakan identitas tersebut dan melestarikan unsur-unsur sejarah yang berkontribusi terhadap hal tersebut, dan dengan demikian lahirlah Museum Sejarah Nasional. Tujuannya adalah untuk menceritakan kisah bangsa dan masyarakatnya melalui pengumpulan dan pelestarian artefak dan catatan penting, dan kemudian menafsirkan dan menampilkannya kepada warga dan pengunjung.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CULTURE_CHAPTER_HISTORY_PARA_2">
+			<Text>Museum Sejarah Nasional, dalam bentuk terbaiknya, merayakan pencapaian sejarah dan budaya bangsa dan seluruh kelompok konstituennya. Di era modern, ketika pengakuan terhadap kelompok etnis dan budaya minoritas menjadi semakin penting, kisah-kisah kelompok ini lebih sering diceritakan dan lebih rinci. Meskipun hal ini membuahkan hasil yang menantang mitos-mitos nasional yang ada, dedikasi terhadap kebenaran dan penemuan kembali para kontributor yang terlupakan memberikan gambaran yang lebih akurat tentang masa lalu bangsa ini, dan, kami berharap, kejelasan visi tentang bagaimana melangkah menuju masa depan yang lebih baik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SCIENCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Penguasa yang tercerahkan adalah orang yang sadar akan keterbatasan ilmunya. Seorang penguasa yang sangat cerdik akan terus mempekerjakan sejumlah cendekiawan dan filsuf untuk membantu memperbaiki kekurangan-kekurangan ini, dan yang mungkin, dari waktu ke waktu, terbujuk untuk mengerjakan hal-hal ilmiah yang menghasilkan keuntungan praktis bagi kerajaan atau negara. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SCIENCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Royal Society yang asli didirikan di Inggris, berdasarkan piagam Raja Charles II, yang bertemu dari waktu ke waktu dan melakukan eksperimen dalam filsafat alam atau fisiologi. Kebetulan hal ini terjadi tepat ketika Periode Modern Awal sedang berlangsung dan para raksasa seperti Isaac Newton dan Robert Hooke masih hidup, dan hasilnya adalah salah satu perkembangan ilmu pengetahuan paling produktif yang pernah berkembang. Kami menuai hasil kerja Royal Society bahkan hingga saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SCIENCE_CHAPTER_HISTORY_PARA_3">
+			<Text>Sejak Royal Society pertama tersebut, sejumlah badan sains nasional telah dibentuk di seluruh dunia, yang terdiri dari para sarjana terbaik dari setiap disiplin ilmu, yang menyelidiki misteri alam dan alam semesta dengan semangat penyelidikan bebas. Namun semuanya menganut moto asli Royal Society &quot;Nullius in verba&quot;—Jangan mengambil kata-kata yang tidak perlu dipertanyakan lagi. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SHOPPING_MALL_CHAPTER_HISTORY_PARA_1">
+			<Text>Pusat perbelanjaan modern ini merupakan perpanjangan dari pasar umum Roma Kuno—walaupun memiliki akses yang lebih baik ke anjing pretzel panggang segar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SHOPPING_MALL_CHAPTER_HISTORY_PARA_2">
+			<Text>Mal, atau pusat perbelanjaan, kumpulan toko terpusat di satu lokasi. Beberapa di antaranya, seperti Pasar Al-Hamidiyah di Damaskus pada abad ke-19, pada dasarnya adalah pasar tertutup, sementara Great Gostiny Dvor di St. Petersburg menawarkan pengalaman mal &apos;tradisional&apos; yang lebih awal pada tahun 1785.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SHOPPING_MALL_CHAPTER_HISTORY_PARA_3">
+			<Text>Pada pertengahan abad ke-20, kompleks perbelanjaan tertutup seperti yang kita kenal akan hadir pada tahun 1955 bersama Appleton, Pusat Perbelanjaan Valley Fair di Wisconsin, dan mal yang dirancang oleh Ralph Erskine di Lulea, Swedia. Stand yogurt beku akan menyusul tidak lama kemudian.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FERRIS_WHEEL_CHAPTER_HISTORY_PARA_1">
+			<Text>Membutuhkan kecerdikan seorang insinyur jembatan, sepasang mesin berkekuatan 1.000 tenaga kuda, dan sedikit dinamit, Ferris Wheel pertama akan menjadi salah satu pencapaian puncak Pameran Kolumbia Dunia tahun 1893 di Chicago.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FERRIS_WHEEL_CHAPTER_HISTORY_PARA_2">
+			<Text>Sekarang menjadi fitur di pameran modern, karnaval, dan taman hiburan, Ferris Wheel pertama adalah gagasan insinyur Chicago George Washington Gale Ferris Jr. sebagai jawaban terhadap Menara Eiffel (fitur menonjol dari Pameran Dunia 1889).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FERRIS_WHEEL_CHAPTER_HISTORY_PARA_3">
+			<Text>Pada abad ke-20, jalan tengah dan pameran akan meminjam desain Ferris (bersama dengan wahana lainnya), sehingga memperluas aktivitas rekreasi ini melampaui kelas atas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUARIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Akuarium modern menghadirkan kenikmatan melihat binatang-binatang besar di kedalaman laut tanpa membahayakan anggota tubuh. Mereka akan menjadi jembatan antara tontonan dan pendidikan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUARIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>Bangsa Romawi memulai permainan tangki ikan dengan akuarium marmer awal mereka dengan satu panel kaca sekitar tahun 50 M. Namun, akuarium publik pertama baru muncul pada tahun 1853, dengan dibangunnya &apos;Rumah Ikan&apos; di Kebun Binatang London.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUARIUM_CHAPTER_HISTORY_PARA_3">
+			<Text>Saat ini, Atlanta, Georgia memiliki akuarium terbesar di dunia yang memiliki tangki hiu berkapasitas 24 juta galon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUATICS_CENTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Ada sesuatu yang bisa dikatakan tentang pengalaman komunal dalam menikmati kenikmatan aktivitas air tanpa bahaya makhluk liar laut dan danau yang mengganggu kesenangan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUATICS_CENTER_CHAPTER_HISTORY_PARA_2">
+			<Text>Kolam renang dan pusat perairan telah menjadi fitur kota selama beberapa waktu; ambil contoh &apos;Pemandian Besar&apos; di Pakistan, salah satu kolam paling awal yang diketahui. Dibangun sekitar tahun 3000 SM, kemungkinan besar ini merupakan bangunan keagamaan (seperti yang ditunjukkan oleh kurangnya perosotan dan papan loncat).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUATICS_CENTER_CHAPTER_HISTORY_PARA_3">
+			<Text>Bandingkan konstruksi sederhana berukuran 11,88 x 7,01 meter dengan kolam Y-40 besar sedalam 40 meter di Italia (dibuka pada tahun 2014) dan Anda dapat melihat luas dan dalamnya pengalaman berenang.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRONE_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika abad ke-20 berganti dengan abad ke-21, peperangan modern dan spionase pun berubah. Drone (juga disebut “kendaraan udara tak berawak” atau “UAV”) memungkinkan tentara mengamati dan menyerang musuh tanpa membahayakan tentaranya sendiri. Meskipun tidak ada orang yang secara fisik menerbangkan drone, mereka memerlukan pilot—baik dengan pola penerbangan yang telah diprogram sebelumnya, atau pilot manusia yang menyampaikan perintah melalui satelit. Mereka dapat berfungsi sebagai “mata di langit” untuk area berbahaya, baik di medan perang atau zona bencana alam, dan bahkan dapat melakukan tugas yang paling sepele—pengantaran pizza dan paket.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRONE_CHAPTER_HISTORY_PARA_2">
+			<Text>Anehnya, senjata-senjata ini bukanlah penemuan baru—walaupun penggunaan praktis dan efisiensi tempur dari upaya sebelumnya masih dipertanyakan. (Rencana “kelelawar pembawa bom”, yang diusulkan oleh seorang dokter gigi Amerika selama Perang Dunia II, tidak pernah berhasil sebagai senjata yang efektif bagi Sekutu.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_1">
+			<Text>Tentara Spanyol mengembangkan taktik pertahanan yang menyeluruh setelah pengalaman buruk mereka di Pertempuran Seminara. Terdiri dari pikemen dan arquebusier (infanteri dengan senjata api awal), unit ini bergerak sebagai blok yang kohesif: pikemen di tengah, dengan kelompok arquebusier mengelilinginya. Arquebusier dapat menyerang musuh dalam jangkauannya, dan kemudian mundur ke belakang “dinding tirai” pikemen ketika terancam oleh infanteri atau kavaleri musuh. Ini berhasil dengan baik bagi para arquebusier Spanyol, yang dapat memuat persenjataan mereka yang terkenal rumit dengan sedikit rasa takut akan terinjak-injak kuda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPPLY_CONVOY_CHAPTER_HISTORY_PARA_1">
+			<Text>Dengan munculnya infanteri mekanis, logistik menjadi semakin kompleks. Tentara bermotor hanya dapat melakukan perjalanan sejauh bahan bakar tersedia, itulah sebabnya konvoi pendukung menjadi sumber kehidupan peperangan modern. Transportasi bermotor dapat mengangkut makanan, bahan bakar, dan pasokan medis dengan lebih andal dan efisien dibandingkan gerobak yang ditarik oleh binatang pengangkut. Mereka juga memungkinkan relokasi yang lebih cepat terhadap rumah sakit lapangan bergerak atau depot bahan bakar ketika beroperasi di dekat daerah yang lebih cair.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SPEC_OPS_CHAPTER_HISTORY_PARA_1">
+			<Text>Beberapa masalah militer memiliki risiko kegagalan yang besar jika diselesaikan dengan solusi militer murni—dampak politik yang sensitif, kondisi cuaca ekstrem/bahaya lingkungan, atau masyarakat lokal yang marah dan menentang. Operasi khusus (singkatan dari “operasi khusus”) adalah tentara yang dilatih secara unik untuk menangani situasi sulit ini, mulai dari pertempuran dan pengintaian hingga urusan politik atau sipil. Mereka mengandalkan keterampilan, taktik, dan peralatan yang unggul untuk menyelesaikan pekerjaan yang tidak mungkin dilakukan oleh unit yang lebih besar, pelatihan bahasa asing, dan adat istiadat di ruang operasional mereka. Kekuatan mereka terletak pada pendekatan kreatif mereka dalam menghadapi musuh dan kemampuan mereka untuk bertindak tanpa ragu-ragu, tidak peduli seberapa tidak lazim atau berbahayanya situasi yang ada.</Text>
+		</Row>
+		<!-- City States -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_1">
+			<Text>Penyair Joseph Brodsky menggambarkan Venesia sebagai “keabadian itu sendiri.” Demikian pula, penyair Tuscan, Petrarch, pada abad ke-14, menggambarkan Venesia sebagai “mundus alter” – “dunia lain.” Mereka tidak sendirian dalam pujian mereka. Penulis, pembuat film, dan penyair seperti Lord Byron, Thomas Mann, William Shakespeare, Daphne du Maurier, dan banyak lagi lainnya telah menemukan inspirasi di kota tua yang menempel di tepi laut. Jantung kota ini dibangun di sebuah pulau di tengah laguna, dan dengan demikian Venesia adalah kota yang hidup erat dengan air. Mengingat sejarah perdagangannya, kota ini selalu melakukan hal ini. Faktanya, Doge (istilah yang berasal dari kata Latin untuk “duke,” bukan “doge” seperti dalam meme Internet) Venesia secara simbolis akan “menikahi” laut pada acara-acara khusus. Istilah yang tepat untuk negara seperti Venesia adalah thalassocracy – sebuah republik maritim. Sebuah negara laut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_2">
+			<Text>Asal muasal Venesia berasal dari invasi Jerman dan Hun pada akhir Kekaisaran Romawi. Ketika pemerintahan Romawi di Italia runtuh, keluarga-keluarga kaya Romawi, yang berusaha mempertahankan kekayaan mereka dan tidak secara tidak sengaja mentransfernya ke keluarga Hun yang akan segera menjadi kaya, pindah ke pulau tersebut. Ketika Italia berantakan, Venesia bersekutu dengan sisa-sisa Roma – Bizantium – namun akhirnya memisahkan diri dan menjadi negara kota yang merdeka. Ketika kekuasaan Byzantium melemah, dan terutama setelah Konstantinopel dijarah oleh Tentara Salib pada tahun 1204, Venesia mampu menguasai pasar perdagangan dengan kekuatan Arab yang baru tiba di Mediterania. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_3">
+			<Text>Selama periode ini, Venesia berada pada puncak kekuasaannya. Seni Venesia sangat berpengaruh. Seniman Venesia termasuk keluarga Bellini, yang menekankan fokus pada interaksi antara lukisan dan cahaya yang tersedia. Seniman lainnya termasuk Titian, Giorgione, dan Veronese, semuanya seniman yang bereksperimen dengan tekstur dan sensualitas, cahaya dan lanskap. Karnaval Venesia, dengan topeng dan kostumnya yang rumit, tetap menjadi gambaran populer tentang kelebihan dan sensualitas, dan peniupan kaca Venesia tetap menjadi seni yang sangat terampil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_4">
+			<Text>Kerajaan Venesia adalah kerajaan perdagangan. Namun perdagangan mempunyai kerentanan. Kematian Hitam dan wabah penyakit berikutnya, yang dibawa melalui kulit tikus yang kemudian bersembunyi di palka kapal, menghancurkan kota berulang kali. Selanjutnya, pada abad ke-15, Venesia menerima dua pukulan besar – satu dari timur, dan satu lagi dari barat. Di timur, Venesia mendukung sekutu lamanya, Byzantium, saat mereka bertahan melawan Turki Utsmani, sebuah hal yang tidak dimaafkan atau dilupakan oleh Sultan Utsmaniyah, dan Venesia melihat kapal-kapalnya dijarah dan pelabuhan-pelabuhannya diputus ketika Utsmaniyah memperoleh kekuasaan di Mediterania timur. Lebih jauh lagi, ke arah barat, para pelaut Portugis menyempurnakan perdagangan jarak jauh melalui laut ke Asia Timur, sehingga menghilangkan kebutuhan untuk berurusan dengan kapal-kapal Mediterania (dan kapal-kapal Venesia).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_5">
+			<Text>Venesia kehilangan kemerdekaannya ketika Napoleon menaklukkannya dalam perang di awal abad ke-19 yang menggunakan nama diktator Prancis. Di Venesia, penaklukan Napoleon, meski mengakhiri kemerdekaan kota, tidak semuanya buruk. Napoleon mendobrak gerbang Ghetto – wilayah kota yang menjadi tempat tinggal penduduk Yahudi di Venesia – dan mengizinkan orang-orang Yahudi di kota tersebut untuk menetap di mana pun mereka mau, menjadikannya semacam pahlawan bagi sebagian warga Venesia. Setelah kekalahan Napoleon, Venesia tidak kembali ke kemerdekaannya, namun diserahkan kepada Austria dan, kemudian, kepada Kerajaan Italia yang baru lahir. Saat ini, bahasa Italia tetap ada.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_6">
+			<Text>Kota ini kini menjadi salah satu lokasi wisata paling terkenal di dunia. Ia juga tenggelam ke Laut Adriatik. Perubahan iklim dan kenaikan permukaan air laut menimbulkan ancaman serius bagi kota ini, karena posisinya yang sebelumnya menguntungkan, yaitu sebuah pulau berawa di laguna air asin, telah berubah menjadi fitur yang paling berbahaya: misalnya, pada tahun 2019, 80 persen wilayah kota ini dilanda banjir. Pernikahan dengan laut tampaknya menjadi lebih intim daripada yang diinginkan Doge. Wow. Banyak air.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_1">
+			<Text>Seni Elam melibatkan kombinasi bentuk manusia dan hewan dengan cara yang sangat sensitif dan indah. Misalnya, “Banteng Berlutut dengan Kapal” proto-Elam, yang sekarang disimpan di Museum Seni Metropolitan New York, adalah patung perak berbentuk manusia yang lembut dan berdaging dengan kepala dan kuku banteng yang memegang cangkir. Ia sekaligus bersifat feminin dan maskulin, hewan dan manusia. Berbeda dengan “Banteng Berlutut”, patung batu kapur “Guennol Lioness” adalah bentuk manusia berkelamin dua yang berotot dan kuat dengan cakar, ekor, dan kepala singa betina – memancarkan kekuatan namun pada saat yang sama berkelamin dua. Stempel Elam – silinder bundar yang menjadi gambar ketika digulung menjadi tanah liat basah – sangat rumit dan, meskipun patung dan gambar lainnya mungkin memiliki makna keagamaan, segel digunakan untuk identifikasi pribadi dalam perdagangan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_2">
+			<Text>Peradaban naik dan turun, namun Anshan tetap signifikan. Pada tahun 2700 SM, Anshan sempat ditaklukkan oleh bangsa Sumeria, dan pada saat lain jatuh di bawah kekuasaan kelompok-kelompok terdekat dari wilayah yang sekarang disebut Iran, namun wilayah tersebut tidak bertahan lama. Lebih dari seribu tahun kemudian, pada tahun 1500, Anshan menjadi pusat kerajaan baru, yang berperang melawan Babylon dan bahkan menjarah kota besar tersebut, membawa kembali patung raja dewa Babylon Marduk sebagai piala. Namun dominasi Elam tidak bertahan lama, dan kota ini mulai mengalami kemunduran pada tahun 500-an SM. Nabi Yehezkiel dalam Alkitab menggambarkan kemunduran Elam sebagai berikut: </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_3">
+			<Text>“Di sana ada Elam dan seluruh rakyatnya, di sekeliling kuburnya, semuanya terbunuh dan tewas oleh pedang, yang turun ke bagian bumi yang paling bawah tanpa bersunat, yang menimbulkan kengerian di negeri orang-orang hidup; sekarang mereka menanggung aib bersama-sama dengan orang-orang yang turun ke dalam lubang kubur” (Yehezkiel 32:24).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_4">
+			<Text>Seiring waktu, orang Persia pindah ke Anshan, mengubah karakter wilayah tersebut dan merevitalisasi kota. Untuk sementara waktu, Anshan menjadi ibu kota Persia, dan Cyrus Agung yang legendaris lahir di sana. Meskipun kita mungkin menganggap Cyrus berasal dari zaman kuno – ia memerintah pada tahun 550-an SM, namun ia dilahirkan di sebuah kota yang sudah berusia 2.500 tahun. Artinya, Anshan sama tuanya ketika Cyrus memerintah di sana seperti halnya Cyrus saat ini. Apakah dia masih hidup. Yang bukan dia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_5">
+			<Text>Namun perhatian Persia berpindah ke tempat lain, dan ketika Kekaisaran membangun ibu kota baru di Persepolis, Anshan hanya menjadi desa biasa. Dan kemudian, kehancuran. </Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_FISHERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Budaya yang bergantung pada penangkapan ikan untuk berkembang pada akhirnya harus menghadapi ancaman penangkapan ikan yang berlebihan. Semakin banyak ikan yang ditarik dari laut, semakin sedikit jumlah ikan yang dihasilkan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_FISHERY_CHAPTER_HISTORY_PARA_2">
+			<Text>Salah satu solusi yang telah dicoba dan diuji adalah perikanan sederhana, yang membesarkan stoknya di dalam kurungan untuk menghasilkan jumlah ikan yang dapat diprediksi. Berbagai budaya telah mempraktikkan “aquafarming” ini selama ribuan tahun, mulai dari perikanan ikan mas Tiongkok kuno hingga kandang salmon pesisir modern. Praktek-praktek seperti ini akan berhasil bagi semua pihak yang terlibat—kecuali, tentu saja, ikannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CITY_PARK_CHAPTER_HISTORY_PARA_1">
+			<Text>Lingkungan perkotaan menawarkan sejumlah keuntungan bagi aktivitas manusia, namun lingkungan perkotaan juga dapat menimbulkan stres bagi penduduknya seiring berjalannya waktu. Untuk mencapai tujuan ini, ruang-ruang yang dibangun dan dipelihara secara publik menawarkan peluang untuk menghadirkan lebih banyak elemen alami ke dalam kota. Kepekaan romantis terhadap alam dan sikap progresif terhadap ruang rekreasi publik pada abad ke-19 dan ke-20 mempengaruhi pendirian beberapa taman paling terkenal (seperti Central Park di New York) dan pembukaan taman yang sebelumnya dilarang (seperti Regent&apos;s Park di London atau Casa de Campo di Madrid).  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CITY_PARK_CHAPTER_HISTORY_PARA_2">
+			<Text>Taman Kota akan disukai oleh warga kota, karena menyediakan banyak hal: Sebuah oase alam, ruang untuk berkumpul dan berinteraksi dengan masyarakat, dan terkadang sebagai tempat pertunjukan seni. Di sini, di bawah pepohonan, masyarakat dapat meluangkan waktu sejenak untuk menjadi manusia, dan bukan sekadar peran yang mereka mainkan dalam urusan sehari-hari.</Text>
+		</Row>
+		<!-- Great People -->
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Timur (sering dikenal sebagai &quot;Timur yang Lame&quot; atau &quot;Tamerlane&quot; di Barat) adalah seorang panglima perang Mongol keturunan Turki pada abad ke-12, seorang penguasa yang kejam dan tidak diragukan lagi, yang bangkit dari latar belakang sederhana untuk mendirikan sebuah dinasti di Iran dan Asia Tengah pada saat kematiannya, yang mengarah ke era budaya yang berkembang setelahnya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_2">
+			<Text>Ia dilahirkan pada tahun 1336 dekat Samarkand. Itu adalah bagian dunia yang penuh perpecahan, di era yang penuh perpecahan. Kurang dari satu abad sebelumnya, Jenghis Khan dan Kekaisaran Mongol telah menguasai Asia Tengah dan membagi wilayah tersebut menjadi kerajaan-kerajaan penerusnya. Timur lahir di Chagatai Khanate, keturunan dari kelompok Mongol yang menetap di wilayah Uzbekistan saat ini. Timur bermula sebagai pemimpin sebuah kelompok nomaden kecil, dan dengan menggunakan perpaduan peperangan yang tidak konvensional, intrik politik, negosiasi diplomatik, dan reputasi yang mengerikan seperti Jenghis Khan, ia naik untuk memerintah seluruh Transoxania sebelum ia berusia 40 tahun. Ia menghabiskan sisa hidupnya dalam peperangan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_3">
+			<Text>Timur mengaku sebagai pemulih Kekaisaran Mongol, dan daftar penaklukan serta kampanye suksesnya sangat mengesankan. Ia mulai melawan Persia, kemudian melakukan penaklukan di India Utara, Rusia, Georgia, Mesopotamia, Suriah, dan Mesir, sebelum meninggal pada awal kampanyenya melawan Tiongkok pada tahun 1405. Namun ia bukanlah penakluk yang murah hati; Kampanye Timur terkenal dengan kebrutalan dan pertumpahan darah. Dia memperbudak semua pengrajin di kota Aleppo dan menyeret mereka dengan rantai kembali ke ibu kotanya, Samarkand. Dia meninggalkan kota Delhi dan Bagdad sebagai reruntuhan. Penulis kontemporer menuduhnya menciptakan menara dan piramida dari tengkorak musuh-musuhnya, yang tampaknya tidak masuk akal. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_4">
+			<Text>Dia telah menghabiskan banyak waktu di ibukota Samarkand selama hidupnya, meskipun hanya menghabiskan sedikit waktu di sana. Setelah kematiannya, kota ini menjadi pusat seni dan budaya, yang dipenuhi dengan kontribusi Turki Seljuk (seperti arsitektur) dan Persia (seperti seni dan sastra) serta tradisi panjang perdagangan dan perniagaan. Keturunannya menguasai wilayah yang ia taklukkan selama hampir satu abad, sebelum kekaisaran Timurid runtuh akibat pembunuhan saudara dan perselisihan internal.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_5">
+			<Text>Dalam kisah-kisah kebijaksanaan Nasreddin, Timur kadang-kadang muncul sebagai lawan yang kejam dan kuat terhadap kebijaksanaan Nasreddin yang sederhana dan sederhana. Orang yang tertarik didorong untuk membacanya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang kapten Portugis yang terampil dan navigator dalam dinas Spanyol, Magellan terkenal karena memimpin ekspedisi pertama mengelilingi planet ini, meskipun ia sendiri mengalami akhir yang penuh kekerasan sebelum perjalanannya berakhir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_2">
+			<Text>Lahir pada tahun 1480 dari keluarga bangsawan Portugis, ia sempat menjabat sebagai halaman istana. Ia berlayar ke India sebagai bagian dari kontingen yang melantik raja muda Portugis, dan tinggal di sana selama hampir satu dekade sebelum dipecat dari dinas Portugis karena menjalankan bisnis perdagangan sampingan yang tidak sah. Perjanjian Tordesillas baru-baru ini membagi dunia antara Spanyol dan Portugal, dan menawarkan peluang bagi Magellan untuk menjadi penjelajah dalam dinas Spanyol. Pada bulan Maret 1518, Charles I dari Spanyol memberikan Magellan hibah yang cukup besar untuk menemukan rute ke Kepulauan Rempah-rempah dengan melakukan perjalanan ke barat, dan pada bulan September 1519 Magellan berangkat dengan lima kapal dan 270 orang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Ekspedisi itu merupakan urusan yang penuh tantangan. Menyeberangi Atlantik memakan waktu lebih lama dari yang diperkirakan, dan hampir mengakibatkan pemberontakan. Satu kapal hilang mencari jalur laut melalui Patagonia, dan kapal lainnya meninggalkan ekspedisi. Ketika selat yang melewati ujung Amerika Selatan ditemukan dan dipetakan, dan ekspedisi tersebut memasuki Pasifik, Magellan berasumsi bahwa Kepulauan Rempah-Rempah hanya berjarak beberapa hari perjalanan berlayar, sehingga sama sekali tidak dapat mengantisipasi luasnya Samudra Pasifik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_4">
+			<Text>Magellan terbunuh dalam pertempuran kecil di pulau Mactan di Filipina, setelah terlibat dalam perang lokal antar suku. Pada tanggal 6 September 1522, hanya 18 awak yang selamat dan satu kapal (yang terkecil dari armada asli) kembali ke Spanyol. Para penyintas tidak pernah dibayar penuh gajinya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_5">
+			<Text>Ekspedisi tersebut menghasilkan sejumlah penemuan ilmiah (termasuk memverifikasi ukuran planet yang tepat), namun lebih jauh lagi, membuktikan kemungkinan untuk mengelilingi planet ini. Era Penemuan Eropa kini sedang berkembang pesat.</Text>
+		</Row>
+		<!-- Governors -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_CARDINAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang Kardinal adalah salah satu pendeta tertinggi di Gereja Katolik Roma, meskipun pangkat gerejawi serupa ada di banyak agama lain, seperti Metropolitan Gereja Ortodoks tertentu atau Lama dalam Buddha Vajrayana. Kantor tersebut mungkin memerlukan pengawasan atas sebagian besar properti atau kelompok besar yang bertanggung jawab atas aspek-aspek penting dari iman. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_AMBASSADOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Diplomat adalah perwakilan rakyatnya di belahan dunia lain, dan merupakan salah satu peran yang paling kuno dan dihormati dalam melayani negara. Diplomat secara tradisional diberikan hak istimewa dan rasa hormat, dan pada gilirannya diplomat tersebut menunjukkan kesopanan dan kesopanan kepada tuan rumahnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_DEFENDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang Castellan adalah seorang perwira militer yang bertanggung jawab untuk mengarahkan urusan sehari-hari sebuah kastil atau benteng dan wilayah di sekitarnya. Karena kastil merupakan tempat investasi harta karun dan titik penting kekuatan militer dalam jumlah besar, maka castellan harus kompeten dan dapat diandalkan secara politik. Di masa perang, seorang castellan yang kompeten dapat menentukan nasib kampanye, dan dengan itu, hasil sejarahnya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_RESOURCE_MANAGER_CHAPTER_HISTORY_PARA_1">
+			<Text>Gelar &quot;pengurus&quot; berasal dari Abad Kegelapan, dan diberikan kepada perwakilan tuan rumah yang dapat bertindak atas nama mereka saat mereka tidak ada. Ini adalah posisi yang sangat dipercaya dan penting, dan pengurus yang baik akan bertindak untuk meningkatkan kekayaan harta warisan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_BUILDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Ada sebuah lelucon lama yang mengatakan: &quot;Berinvestasilah pada tanah; mereka sudah berhenti menghasilkannya.&quot; Kenyataannya adalah penggunaan lahan yang efektif adalah pekerjaan yang penting, dan penggunaan ruang yang efisien dimulai dengan memahami apa yang Anda miliki melalui survei dan pemetaan. Survei adalah keahlian lain yang sudah ada sejak zaman dahulu, dan mendapat banyak dukungan dari mereka yang memahami nilai tanah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_EDUCATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Pendidik lebih dari sekedar guru – mereka adalah penjaga pengetahuan selama berabad-abad, dan mengabdikan hidup mereka untuk pelestarian dan penyebaran informasi. Ketika pendidikan menjadi lebih luas dan komprehensif, demikian pula peran pendidik dalam menemukan cara-cara baru dan efektif untuk menyebarkan pengetahuan yang dikumpulkan dari zaman ke siswanya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MERCHANT_CHAPTER_HISTORY_PARA_1">
+			<Text>Pemodal adalah pejabat yang bertugas menyelesaikan masalah anggaran dan keuangan, yang memerlukan pemahaman yang cerdik tentang ekonomi dan psikologi pasar. Bermain-main dengan uang negara bukanlah perkara yang mudah dilakukan.</Text>
+		</Row>
+		<!-- Espionage -->
+		<Row Tag="LOC_PEDIA_ESPIONAGE_FABRICATE_SCANDAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang pemimpin politik tanpa pengikut bukanlah ancaman, dan salah satu cara terbaik untuk menghilangkan pengikut tersebut adalah dengan membuat pemimpin tersebut tidak disukai publik. Skandal yang baik biasanya berhasil, dan mengungkap atau mengarang skandal adalah bagian dari urusan badan intelijen yang kompeten. Bahkan dalam kasus-kasus di mana skandal yang mendasarinya sepenuhnya dibuat-buat, targetnya masih harus membuang modal politik yang berharga untuk menyangkal klaim tersebut. Ada banyak sekali leksikon istilah yang terkait dengan praktik ini, seperti kompromat, honey trap, dan penelitian oposisi. Kampanye skandal yang sukses tidak hanya dapat menjatuhkan seorang pemimpin, namun juga mendiskreditkan seluruh partai dan menyingkirkannya dari kekuasaan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_ESPIONAGE_FOMENT_UNREST_CHAPTER_HISTORY_PARA_1">
+			<Text>Selalu ada perbedaan pendapat dalam urusan pemerintahan. Kadang-kadang sudut pandang yang berbeda pendapat ini mewakili pendapat yang benar-benar marginal dari kelompok pinggiran, namun mempunyai bobot yang sangat besar dalam diskusi politik. Dan terkadang hal ini terjadi karena kelompok tersebut mendapat sedikit bantuan dari pihak luar. Agen intelijen sering kali dilatih untuk mencari pihak-pihak yang berbeda pendapat guna mencari dukungan, melakukan kontak, dan membantu kelompok-kelompok tersebut menjadi lebih efektif dibandingkan jika mereka menggunakan sumber daya mereka sendiri. Hal ini biasanya bertujuan untuk mengganggu atau meremehkan kebijakan dan praktik pemerintah sasaran. Bahkan ada istilah seni untuk perwira intelijen yang ahli dalam praktik ini: Agen provokator. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_ESPIONAGE_NEUTRALIZE_GOVERNOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Salah satu bentuk spionase yang paling disesalkan adalah dengan menghilangkan individu-individu penting—yang secara halus disebut &quot;menetralkan&quot; mereka—dan praktik yang menyedihkan ini sudah cukup kuno untuk dikodifikasikan dalam pedoman kenegaraan India Arthashastra pada abad ke-2 atau ke-3 SM. Beberapa Pemimpin Peradaban VI menjadi sasaran upaya netralisasi. Banyak pemimpin yang mengakhiri karir mereka secara prematur karena netralisasi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_ESPIONAGE_NEUTRALIZE_GOVERNOR_CHAPTER_HISTORY_PARA_2">
+			<Text>Namun, dalam permainan ini, upaya netralisasi tidak pernah berakhir bagi Gubernur, yang tertembak dengan anak panah yang menenangkan dan tertidur selama beberapa waktu, atau mengalami ketakutan dan harus meluangkan waktu untuk menenangkan sarafnya dengan secangkir teh yang enak.</Text>
+		</Row>
+		<!-- Spy Promotions -->
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SPY_LICENSE_TO_KILL_CHAPTER_HISTORY_PARA_1">
+			<Text>Dalam literatur spionase, ada istilah “izin untuk membunuh” – sanksi untuk melakukan eksekusi di luar hukum atas nama negara. Dalam cerita-cerita ini, itu hanya diberikan kepada agen paling elit, untuk misi paling berbahaya. Pada kenyataannya, terdapat banyak pengawasan terhadap eksekusi di luar hukum dan penggunaan kekuatan mematikan, karena kewenangan ini dapat disalahgunakan oleh lembaga-lembaga yang terlibat. Setidaknya begitulah cara kerjanya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SPY_SMEAR_CAMPAIGN_CHAPTER_HISTORY_PARA_1">
+			<Text>Kampanye kotor adalah upaya terkoordinasi untuk menurunkan kedudukan atau popularitas seseorang atau organisasi dengan mengedepankan informasi yang tidak menyenangkan tentang mereka. Akan membantu jika materi tersebut benar secara faktual (dan memalukan) namun kutipan di luar konteks atau informasi yang terlupakan dari masa lalu korban juga dapat digunakan. Terkadang materi dibuat-buat dan dianggap benar, karena penyangkalan korban sering kali hanya menambah perhatian pada fitnah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SPY_COVERT_ACTION_CHAPTER_HISTORY_PARA_1">
+			<Text>Tindakan terselubung (covert action) adalah tindakan politik yang tidak diklaim oleh suatu negara, atau yang akan ditolak jika bukti mengenai tindakan tersebut terungkap. Hal ini mencakup sebagian besar misi spionase dan operasi kontra intelijen yang aktif, serta sejumlah aktivitas lainnya. Hanya sejumlah kecil individu yang diberitahu, merencanakan, atau melaksanakan misi tersebut, untuk meminimalkan kemungkinan bahwa tindakan rahasia tersebut akan bocor ke masyarakat umum. </Text>
+		</Row>
+		<!-- Governor Titles -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_CHAPTER_HISTORY_PARA_1">
+			<Text>Maraknya pemboman strategis terhadap kota-kota di abad ke-20 menyebabkan terciptanya sistem pertahanan udara untuk pusat-pusat kota. Perkembangan sebenarnya dalam pertahanan udara kota dimulai pada Perang Dunia I dengan lampu sorot dan artileri, dan berlanjut hingga awal Perang Dingin dengan jaringan radar dan peluncur rudal. Akhirnya senjata nuklir dan rudal balistik antarbenua menjadi begitu kuat sehingga gagasan pertahanan udara menjadi agak aneh, dan minat terhadap pertahanan udara sipil berkurang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kemakmuran adalah kualitas kekayaan yang berlimpah, biasanya didefinisikan sebagai kekayaan yang cukup sehingga pemiliknya tidak perlu lagi mengkhawatirkan kelangsungan hidupnya, dan dapat mencurahkan uangnya untuk mengejar kesenangan. Uang mungkin tidak bisa membeli kebahagiaan, tapi barang bagus bisa membuat kesedihan lebih mudah ditanggung. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Utusan adalah perwakilan yang dikirim untuk misi diplomatik atau politik tertentu. Seringkali mereka mempunyai mandat khusus, seperti mengamankan perjanjian perdamaian atau menjadi saksi suksesi. Ini adalah peran yang memerlukan diplomasi dan kebijaksanaan. Seorang utusan mungkin tidak diberikan kekebalan yang diberikan kepada diplomat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang utusan resmi adalah orang yang dapat membawa atau menyampaikan pesan atas nama penguasa negara. Meskipun hal ini tampak mudah, namun patut dipertimbangkan bahwa peran utusan dipandang begitu penting sehingga banyak agama memasukkan dewa pembawa pesan ke dalam jajaran mereka. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Prestise adalah rasa hormat dan pengaruh yang timbul dari kesuksesan. Prestise harus diperoleh dari perbuatan, dan tidak diberikan secara langsung. Merupakan hal yang lumrah jika diplomat digunakan untuk mencoba meningkatkan gengsi negaranya di panggung dunia, yang dapat menghasilkan keuntungan politik dalam negosiasi di masa depan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang promotor membawa kesadaran pada suatu acara atau tempat, berupaya menarik orang ke sana. Ada seni dalam promosi, karena promotor harus membuat tujuan mereka begitu menarik sehingga orang dapat mengatasi kelembaman alami mereka dan melihat hal yang sudah sering mereka dengar. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_CHAPTER_HISTORY_PARA_1">
+			<Text>Dalang memanipulasi orang sebagai alat untuk mencapai tujuan yang mereka inginkan, namun dengan cara yang peran mereka dapat dikesampingkan (atau setidaknya tidak terlihat jelas oleh publik.) Dalang harus menjadi politisi ulung, atau memiliki cukup banyak hal yang tidak pantas untuk memaksa mereka berpartisipasi dan diam.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AQUACULTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Dari beberapa budaya pemburu-pengumpul yang paling awal, manusia yang tinggal di pesisir memanfaatkan hasil perikanan alami untuk kepentingan mereka dengan membangun bendungan dan kandang ikan. Ketika pertanian berbasis lahan menjadi lebih mahal dan perikanan alami terancam, gerakan akuakultur mencari cara untuk menciptakan populasi makanan laut yang dikelola dan dikelola secara berkelanjutan. Makanan laut hasil budidaya perikanan menyediakan persentase makanan laut dunia yang terus meningkat saat ini. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_ARCHITECT_CHAPTER_HISTORY_PARA_1">
+			<Text>Bentuk rekreasi dan kesenangan publik adalah cara umum bagi seorang pemimpin untuk mendapatkan popularitas di kalangan masyarakatnya. Kemampuan untuk mengatur dan mengelola hiburan publik yang sukses telah sangat dihargai setidaknya sejak zaman Roma. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Guildmaster adalah ketua dari guild pengrajin. Seorang guildmaster bertanggung jawab untuk menjaga pentingnya guild dalam kehidupan politik dan ekonomi kota, dan untuk memastikan kelancaran transmisi rahasia dan praktik guild dari master ke peserta magang. Kebanyakan guildmaster dipilih oleh rekan-rekan mereka, sehingga ini merupakan posisi yang memiliki prestise dan kepentingan sipil yang besar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_BISHOP_CHAPTER_HISTORY_PARA_1">
+			<Text>Gelar “Uskup” paling sering digunakan oleh para pemimpin Kristen, yang bertanggung jawab atas urusan gerejawi di wilayah geografis yang disebut keuskupan. Kebanyakan keuskupan berpusat di kota-kota, sebuah proses yang dimulai pada masa Kekaisaran Romawi. Para uskup secara historis memperoleh kekuasaan politik sekuler yang cukup besar selain otoritas spiritual mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_CHAPTER_HISTORY_PARA_1">
+			<Text>Sebuah benteng fisik dapat dijiwai makna spiritual, jika konflik yang dibangun di dalamnya mengandung dimensi keagamaan. Mont Saint-Michel adalah contoh yang sangat baik tentang apa yang mungkin dianggap sebagai “Benteng Tuhan”, seperti halnya benteng di Masyaf, rumah terkenal para pembunuh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_CHAPTER_HISTORY_PARA_1">
+			<Text>Ada tradisi desain dan perencanaan arsitektur yang diilhami Tuhan di seluruh dunia. Misalnya, dzong Himalaya (semacam kompleks biara yang besar dan berbenteng) secara tradisional dibangun tanpa menggunakan rencana arsitektur, dengan sang lama memberikan visi yang diilhami oleh dewa, dan para pekerjanya mewujudkan visi tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Inkuisitor Agung adalah inkuisitor agama yang berpangkat sangat tinggi, atau orang yang bertindak sebagai semacam pengadilan banding atas keputusan para inkuisitor. Mereka mungkin menangani negosiasi antara badan-badan sekuler dan agama mengenai yurisdiksi atas kejahatan yang mengandung komponen agama. Sulit membayangkan seseorang mengungkapkan kegembiraannya karena dipanggil ke hadapan inkuisitor agung. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_CHAPTER_HISTORY_PARA_1">
+			<Text>Penumpangan tangan adalah sebuah isyarat keagamaan kuno, melambangkan berkat, pengurapan kekudusan khusus, atau penyembuhan ajaib. Bentuk-bentuk penumpangan tangan dipraktikkan oleh banyak agama besar, dan sedikit banyak dikodifikasikan dalam agama-agama tersebut. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_CHAPTER_HISTORY_PARA_1">
+			<Text>Banyak agama memuji individu suci dan menghubungkan kehidupan mereka dengan tempat dan praktik. Orang suci kemudian dapat menjadi perantara bagi orang-orang dari tempat atau profesi tersebut. Ada banyak sekali santo pelindung, seperti Guan Yu (yang diklaim oleh gangster dan polisi di Hong Kong), Saint Denis, santo pelindung Paris (digambarkan membawa kepalanya sendiri yang terpenggal), atau Saint Gertrude dari Nivelles, santo pelindung kucing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Ada pepatah militer kuno yang mengatakan: “Strategi amatir dipelajari; ahli mempelajari logistik.” Sebuah pasukan tidak bisa berperang jika tidak memiliki peluru atau roti, sehingga pasokan barang-barang tersebut akan menyita banyak waktu seorang jenderal. Jika dilakukan dengan baik, bahkan kekuatan kecil pun bisa menang. Dilakukan dengan buruk, dan perang telah berakhir sebelum dimulai.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Perlombaan senjata biasanya dipandang sebagai hal yang mahal, tidak diinginkan, dan berbahaya bagi negara untuk terlibat di dalamnya, karena hal ini dapat dengan cepat membebani keuangan negara dan berpotensi menyebabkan perang yang tidak disengaja. Namun ada beberapa filsuf politik yang menyatakan bahwa negara terakhir yang bertahan dalam perlombaan senjata akan menjadi pemenangnya, dan jika Anda dapat membuat lawan Anda bangkrut dalam prosesnya, itu lebih baik. Hal ini telah menyebabkan hal-hal seperti perlombaan senjata kapal perang sebelum Perang Dunia Pertama, dan Inisiatif Pertahanan Strategis pada Perang Dingin, yang jika dipikir-pikir sepertinya hal tersebut bukanlah cara yang paling bijak dalam menggunakan dana pajak setiap orang. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Penikmat adalah seseorang yang menghargai nilai halus dan perbedaan kualitas suatu barang, seperti makanan, anggur, atau seni. Kemampuan untuk membedakan dan mengartikulasikan kualitas kenikmatan patut dipuji dalam filsafat hedonis seperti Epicureanisme. Mereka yang tidak suka marah-marah dan tidak berpendidikan lebih cenderung mencemooh kebiasaan dan selera para penikmatnya. Betapa tidak sopannya!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Hibah adalah pemberian uang publik untuk proyek penelitian. Pemerintah mensponsori penelitian utama dengan harapan bahwa hal ini akan memacu penerapan penelitian tersebut, dan pada gilirannya mengarah pada peningkatan kualitas hidup atau produk dan layanan baru. Internet adalah contoh luar biasa dari proyek penelitian yang didanai hibah yang kemudian memberikan dampak besar dalam sejarah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Pustakawan bertanggung jawab memelihara buku-buku perpustakaan, serta memperoleh buku-buku baru yang memenuhi standar perpustakaan. Ini adalah profesi yang relatif kuno, yang memerlukan keahlian langka dalam membaca dan mengevaluasi teks. Pustakawan juga berperan sebagai pengarsip dan pelestari pengetahuan berharga untuk generasi mendatang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>“Penelitian” berasal dari kata Perancis “rechecher,” yang berarti “pergi mencari,” dan dimotivasi oleh keinginan untuk memajukan pengetahuan manusia. Penelitian adalah penciptaan pengetahuan baru melalui observasi atau analisis baru. Jabatan dan peran peneliti telah berubah seiring berjalannya waktu dan lintas budaya, namun sejarah penuh dengan contoh orang-orang yang berkomitmen untuk mencari pengetahuan dan berbagi penemuan mereka secara terbuka. Kami berhutang banyak pada orang-orang ini.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_CHAPTER_HISTORY_PARA_1">
+			<Text>Program luar angkasa sering kali sangat populer di negara ini, dan dukungan publik ini penting mengingat besarnya biaya dan risiko yang terkait dengannya. Inisiatif luar angkasa yang baik dapat menyampaikan kepada masyarakat potensi dan manfaat nyata dari program ilmiah, serta mendapatkan dukungan masyarakat. Dan bahkan, dalam beberapa tahun terakhir, mereka telah meminta para ilmuwan dari masyarakat dan mahasiswa untuk memberikan kontribusi yang berarti terhadap program penelitian yang sedang berlangsung.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EMBRASURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Secara teknis, embrasure adalah celah atau bukaan pada benteng yang memungkinkan senjata jarak jauh menyerang, sekaligus melindungi penggunanya. Hal ini dapat diterapkan secara lebih umum pada penempatan zona tembak jarak jauh sebagai bagian dari sistem pertahanan, sering kali tumpang tindih secara terampil, sehingga menjadikannya sangat berbahaya bagi penyerang. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_GARRISON_COMMANDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Garnisun adalah pasukan tetap yang ditugaskan pada suatu benteng. Komandan garnisun memimpin pasukan ini dan juga bertanggung jawab menjaga benteng. Di masa damai, ini mungkin tugas yang sangat membosankan. Namun pada masa perang, komandan garnisun mungkin memiliki kekuatan yang jauh lebih besar dan menangani operasi militer di wilayah terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_INFRASTRUCTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Infrastruktur adalah permukaan material dimana kehidupan dibangun: jalan, jembatan, pelabuhan, dan sebagainya. Meskipun mungkin tidak terlalu menarik, infrastruktur mempunyai peran penting dalam kesehatan masyarakat. Infrastruktur yang baik menurunkan biaya pengangkutan bahan ke pasar, sehingga meningkatkan efisiensi pasar dan menurunkan harga secara keseluruhan. Peradaban dengan infrastruktur yang baik dapat dengan cepat mengalami kemunduran ketika infrastruktur mulai runtuh.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Pemerintah sering kali mengeluarkan kontrak kepada sektor publik untuk menangani suatu permasalahan, dengan harapan bahwa sektor publik dapat menangani rinciannya secara efisien dan hemat biaya. Proses ini pasti mengarah pada spesialisasi pegawai negeri yang dapat menyusun dan mengawasi kontrak-kontrak ini, mengganggu kontraktor untuk mendapatkan informasi terkini, dan mengajukan laporan status yang tiada habisnya tentang bagaimana kontrak tersebut dijalankan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_CURATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Kurator adalah seseorang yang berspesialisasi dalam penafsiran seni dan artefak, dan menyajikannya kepada publik dengan cara yang memfasilitasi pembelajaran dan pemahaman. Ini adalah posisi yang penting dan bermanfaat, dan dapat memacu imajinasi para peneliti dan kurator generasi berikutnya di suatu bidang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Sejak penciptaan koin, terdapat kesepakatan bahwa tidak semua koin bernilai sama. Dari sini, lahirlah valuta asing, yang memungkinkan para pedagang mendapatkan mata uang yang diterima secara lokal dengan imbalan koin apa pun yang mereka bawa, biasanya memungkinkan penukar untuk menyimpan persentase transaksi. Kata “bank” dalam bahasa Inggris berasal dari bahasa Italia “banca”, yang merupakan nama loket tempat para tukang uang abad pertengahan melakukan penukaran mata uang asing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Syahbandar mengawasi pengoperasian pelabuhan sehari-hari, mencatat kapal-kapal yang masuk dan muatannya, dan mengumpulkan pendapatan dari tarif. Mereka harus memastikan kelancaran dan keteraturan pengoperasian pelabuhan mereka, jangan sampai pelabuhan tersebut kehilangan reputasinya, dan menyebabkan perdagangan yang berharga mencari pelabuhan lain yang lebih ramah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_CHAPTER_HISTORY_PARA_1">
+			<Text>Negara membutuhkan tanah, dan negara akan memperoleh tanah. Metode untuk memperoleh tanah bagi negara sudah kuno, dan sebagian besar negara modern memiliki konsep hukum yang setara dengan “domain unggulan,” yang mana tanah milik pribadi dapat dipaksa dari individu untuk digunakan oleh negara, dengan imbalan nilai pasar yang adil dari tanah tersebut. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Salah satu dari dua hal yang tidak bisa dihindari dalam kehidupan manusia, pemungut pajak adalah pegawai negara yang paling penting dan paling tidak populer. Tanpa pendapatan untuk mendanai operasional negara, banyak barang publik tidak akan mungkin terwujud. Metode pemungutan pajak sepanjang sejarah berkisar dari yang relatif tidak berbahaya hingga yang keterlaluan. Asumsikan bahwa Gubernur Anda yang memiliki keterampilan ini berhasil melakukannya tanpa menimbulkan kemarahan rakyat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_PARKS_RECREATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Meluasnya kesadaran tentang pentingnya lahan publik dan rekreasi publik (terutama di sekitar Era Progresif di abad ke-20) mengarah pada pembentukan lembaga pemerintah untuk mengawasi efektivitas penggunaan barang publik tersebut. Pemandangan taman umum yang sibuk di hari yang menyenangkan diharapkan dapat membangkitkan semangat—tidak hanya Komisi Taman dan Rekreasi, namun juga warga negara yang berpikiran sipil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_REDOUBT_CHAPTER_HISTORY_PARA_1">
+			<Text>Benteng adalah benteng kecil, titik fokus pertahanan lokal dalam sistem pertahanan yang lebih besar. Upaya untuk mengambil (atau mempertahankan) sebuah benteng telah terbukti sangat penting dalam banyak hal dalam sejarah militer, dan menjadi panggung untuk tindakan keberanian yang tidak biasa. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_CHAPTER_HISTORY_PARA_1">
+			<Text>“Pasar gelap” adalah pasar tempat barang-barang ilegal atau tidak berlisensi diperjualbelikan. Beberapa negara menoleransi pasar gelap tertentu, terutama jika mereka merasa barang yang dijual tidak akan bisa menjatuhkan negaranya. Faktanya, akan bermanfaat bagi pemerintah untuk membatasi beberapa barang-barang tersebut, jika barang-barang tersebut perlu diperoleh dengan cara yang tidak dapat disangkal. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_CHAPTER_HISTORY_PARA_1">
+			<Text>Penyediaan adalah penyediaan sesuatu dengan alat dan bahan dasar untuk menuju kesuksesan. Meskipun awalnya mengacu pada pangan, kini maknanya berarti persediaan pokok dalam arti yang lebih umum. Penyediaan yang efektif akan memberikan peluang keberhasilan yang lebih besar bagi perusahaan-perusahaan baru, selama fase pertumbuhan mereka yang rentan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_CHAPTER_HISTORY_PARA_1">
+			<Text>“Breaking ground” adalah permulaan pembangunan suatu bangunan, dan dapat digunakan secara lebih umum sebagai permulaan suatu proyek. Ini adalah titik di mana sebuah rencana berubah dari sekedar teori menjadi kenyataan fisik, dan dengan demikian mempunyai kepentingan seremonial yang cukup besar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang industrialis mengawasi penciptaan atau perluasan suatu industri, membangun pabrik dan mempekerjakan pekerja berdasarkan skornya. Para industrialis yang cerdas melihat peluang ketika peluang pasar mulai muncul, dan berupaya memenuhi (atau menciptakan!) kebutuhan akan barang-barang mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Sesuatu yang baik jika berlebihan akan menyia-nyiakannya. Membawa barang-barang ekstra bagus ke tempat di mana barang-barang bagus langka memang membantu, namun hal ini memerlukan banyak pekerjaan dalam mengatur dan mengangkut barang-barang tersebut ke tempat yang paling membutuhkannya. Untungnya, ada orang-orang yang mempunyai bakat untuk hal semacam ini. Dan itu hal yang bagus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Dalam bisnis, integrasi vertikal adalah proses pengendalian produksi dan distribusi suatu produk di banyak titik dalam rantai pasokannya. Contoh klasiknya adalah perusahaan mobil yang memiliki pabrik baja untuk menyediakan baja yang digunakan untuk membuat mobilnya. Keuntungan dari praktik ini adalah menyediakan sumber bahan yang dapat diandalkan untuk menghasilkan suatu produk. Namun secara ekstrim, integrasi vertikal menciptakan monopoli. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_SECURITY_EXPERT_CHAPTER_HISTORY_PARA_1">
+			<Text>Menjaga individu-individu kunci dan pengetahuan kritis tetap aman dari aktor-aktor yang bermusuhan adalah pekerjaan yang penting, yang melibatkan perenungan terhadap bahaya-bahaya yang tidak mungkin terjadi dan risiko-risiko yang tidak mungkin terjadi, dan memperlakukannya seolah-olah hal-hal tersebut tidak dapat dihindari. Pakar keamanan yang sukses mengantisipasi tindakan musuh dan mencegahnya, menghilangkan titik lemah, dan menyesatkan pelaku kejahatan ke dalam perangkap licik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_CHAPTER_HISTORY_PARA_1">
+			<Text>Zonasi adalah proses menentukan bagaimana lahan digunakan untuk menghindari situasi yang tidak diinginkan seperti masyarakat yang tinggal berdekatan dengan industri atau bisnis yang berbahaya atau berbahaya. Komisaris adalah orang yang mengadili peraturan zonasi, dan dengan demikian mempunyai kekuasaan yang besar dalam menentukan kegiatan tertentu yang dapat dilakukan. Komisaris harus mengevaluasi semua kemungkinan penggunaan lahan, dan memikirkan kebutuhan masa depan masyarakatnya secara seimbang dengan kebutuhan saat ini.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LIMITANEI_CHAPTER_HISTORY_PARA_1">
+			<Text>Limitanei adalah pasukan garnisun perbatasan pada akhir Kekaisaran Romawi Barat dan awal Kekaisaran Bizantium, nama mereka berasal dari akar kata yang sama dengan kata “distrik perbatasan militer”—limau. Seiring berjalannya waktu, pasukan ini berpindah menjadi milisi bersenjata Romawi yang direkrut secara lokal, dan kehilangan sebagian prestise dan profesionalisme kekuatan kekaisaran lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_AFTER_ACTION_REPORTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Para prajurit secara historis merefleksikan keberhasilan mereka, dan banyak contoh sejarah militer yang ditulis oleh para peserta dapat ditemukan sepanjang sejarah dan lintas budaya. Namun Laporan Setelah Tindakan yang modern adalah produk dari peningkatan profesionalisme petugas staf. AAR merupakan urusan formal, berdasarkan pada pandangan analitis terhadap tujuan dan sasaran, hasil, dan rekomendasi untuk tindakan di masa depan. Laporan Setelah Tindakan adalah bagian penting dari kurikulum perwira modern. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SECOND_STRIKE_CAPABILITY_CHAPTER_HISTORY_PARA_1">
+			<Text>Serangan pertama dalam pertukaran nuklir adalah salvo awal. Serangan kedua adalah kemampuan untuk menghancurkan penyerang nuklir dengan serangan balasan, meskipun serangan awal (serangan pertama) mengakibatkan kehancuran penyerang kedua. Singkatnya, ini adalah cara untuk melampaui kubur. Dalam perhitungan teori pencegahan nuklir yang dingin, tidak manusiawi, dan rasional, kemampuan serangan kedua memastikan bahwa negara tersebut tidak akan hancur oleh serangan pertama yang dahsyat. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISSELBANKEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika kota-kota di Belanda menjadi pusat perbankan pada awal era modern, kebutuhan untuk menangani surat wesel di kalangan pedagang juga berkembang dengan cara yang stabil dan dapat dipercaya. Wisselbank bertindak sebagai semacam pemberi pinjaman dan broker komersial, menawarkan tagihannya sendiri untuk memfasilitasi transaksi antar pedagang, dengan cadangan logam berharganya sendiri. Uang kertas bankgeld adalah beberapa contoh mata uang fiat paling awal di Eropa. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Awalnya tenda praetor Romawi di perkemahan Legiun, istilah “Praetorium” kemudian digunakan secara lebih luas untuk merujuk pada gedung tempat kedudukan pengadilan Romawi diadakan. Ini menjadi tempat terjadinya proses hukum dan administrasi eksekutif, dan memiliki ritual dan tradisi tersendiri dalam memberlakukan undang-undang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COMMUNICATIONS_OFFICE_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika diplomasi modern bertemu dengan media massa, kantor komunikasi ikut berperan. Siang atau malam, kantor tersebut bekerja untuk membentuk suasana hati publik, mencegah kritik, meremehkan peristiwa negatif, dan membuat diplomat modern terlihat bijaksana dan tidak mudah terpengaruh setiap saat. Tim profesional ini menyusun pesan untuk setiap acara penting.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CIVIL_PRESTIGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Sponsor swasta pada pekerjaan umum adalah cara untuk meningkatkan prestise individu, dan hal ini lazim dilakukan di Roma pada akhir masa Republik dan awal Kekaisaran. Hal ini merupakan cara untuk mendapatkan dukungan masyarakat melalui pemberian fasilitas umum, seperti pemandian, basilika, dan saluran air, sehingga ketika patron mencalonkan diri untuk pemilihan jabatan yang lebih tinggi, ia dapat memastikan basis dukungan yang dapat diandalkan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DARKAGE_POLICIES_NAME">
+			<Text>Kebijakan Zaman Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONASTICISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Para biksu, yang terisolasi dari dunia sekuler, terkadang bertugas melestarikan pengetahuan yang mungkin hilang selama periode perselisihan sosial. Selama Zaman Kegelapan Eropa setelah jatuhnya Kekaisaran Romawi Barat, misalnya, biara-biara di banyak lokasi menyalin dan melestarikan teks-teks yang hilang di perpustakaan sekuler atau koleksi pribadi. Teks-teks ini mungkin belum diedarkan secara luas saat ini, namun upaya yang dilakukan oleh komunitas keagamaan ini dapat mencegah hilangnya pengetahuan tersebut secara total. Meskipun demikian, alangkah baiknya jika memiliki salinan buku kedua Aristoteles, “The Poetics”, yang masih ada.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TWILIGHT_VALOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Dikatakan bahwa tidak ada yang mempertajam perhatian dan mengilhami kepahlawanan selain kematian yang sudah dekat dan pasti. Pendirian terakhir dari kekuatan-kekuatan yang terkutuk adalah subjek dari puisi-puisi epik yang tak terhitung jumlahnya, lagu-lagu sedih, dan karya sastra lainnya, dari Pemberontakan Rokugo, hingga Alamo, hingga Masada. Mungkin para prajurit yang terkutuk itu mengulur waktu untuk menyelamatkan rekan-rekan mereka; mungkin mereka hanya mempunyai tugas dan saudara seperjuangan mereka sebagai penghiburan. Barangkali, jika mereka beruntung, mereka akan dikenang di zaman-zaman berikutnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INQUISITION_CHAPTER_HISTORY_PARA_1">
+			<Text>Kontra-reformasi yang gencar dalam mengejar ajaran sesat dapat mengharuskan otoritas agama bekerja sama dengan otoritas sekuler untuk mengejar bidah sebagai penjahat, dan mengadili penjahat yang melakukan kejahatan bernuansa agama yang dilakukan oleh inkuisitor. Inkuisisi Spanyol adalah yang paling terkenal (yang terkenal mungkin lebih akurat), tetapi Inkuisisi serupa dilakukan di seluruh Eropa dan Dunia Baru selama Reformasi Protestan.  Proses inkuisisi pada umumnya tidak menguntungkan terdakwa. Akibatnya, hal ini mempunyai dampak yang menekan terhadap kebebasan melakukan penyelidikan secara lebih luas, di negeri-negeri yang paling aktif melakukan inkuisisi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ISOLATIONISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika perdagangan dipandang sebagai permainan zero-sum yang menguntungkan pihak-pihak di luar negara tersebut, dan hal ini disertai dengan perubahan ekonomi yang negatif, maka isolasi ekonomi menjadi sangat menarik sebagai solusi politik. Penutupan Jepang oleh Keshogunan Tokugawa adalah salah satu contoh isolasionisme paling terkenal dalam sejarah, yang berlangsung selama sekitar 250 tahun. Namun tidak adanya perdagangan luar negeri dapat mengakibatkan stagnasi dan kurangnya pertumbuhan, dan pada akhirnya guncangan ketika perekonomian kembali berintegrasi ke dalam dunia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LETTERS_OF_MARQUE_CHAPTER_HISTORY_PARA_1">
+			<Text>Surat Marque dan Pembalasan adalah dokumen yang diterbitkan atas nama pemerintah, yang memberikan hak kepada pemegangnya untuk melakukan pelayaran komersial dari negara lawan selama masa perang. Mereka yang membawa surat-surat ini adalah privateer, yang dibedakan dari bajak laut (karena pembajakan tanpa dukungan negara adalah ilegal.) Letters of Marque adalah alat kebijakan militer yang sangat populer pada akhir abad ke-18 dan awal abad ke-19, dan dapat menjadi investasi yang menguntungkan bagi para pendukung privateer yang sukses. Nilai hadiah yang diperoleh dibagi di antara pendukung dan awak kapal, dan jumlahnya bisa sangat besar, yang cenderung menarik para pelaut berpengalaman, tertarik pada prospek mendapatkan gaji satu tahun di sore hari yang cerah dan cerah. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LETTERS_OF_MARQUE_CHAPTER_HISTORY_PARA_2">
+			<Text>Selama Perang tahun 1812, awak brig “Chasseur” Amerika yang cerdik berhasil merebut hadiah Inggris di Selat Inggris, dan bahkan secara terbuka menyatakan dirinya memberlakukan blokade satu kapal terhadap pulau tersebut—yang tidak memiliki kekuatan praktis yang nyata, namun membuat marah Angkatan Laut Kerajaan, menakuti para pedagang London, dan menyenangkan warga Baltimore. Secara tidak langsung, tindakan mereka juga menyebabkan Gedung Putih dibakar, namun kita kesampingkan hal tersebut sejenak dan kagumi kehebatan tindakan mereka. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ELITE_FORCES_CHAPTER_HISTORY_PARA_1">
+			<Text>Josef Stalin dikatakan telah menciptakan ungkapan “Kuantitas mempunyai kualitas tersendiri,” namun hal ini tidak menghentikan pasukan militer selama berabad-abad untuk mencoba mendapatkan peralatan perang dan pelatihan dengan kualitas terbaik yang mereka bisa. Dimulai dengan pemanah kereta Mesir di zaman kuno, pasukan paling efektif pada suatu zaman sering kali membutuhkan peralatan mahal dan pelatihan panjang untuk mencapai efeknya. Ksatria Perancis pada Abad Pertengahan adalah contoh lain, hasil dari peralatan yang unggul dan pelatihan yang panjang. Datanglah ke masa kini dan tim kecil pasukan operasi khusus di lapangan, didukung oleh teknologi tinggi serangan udara, drone, dan pengawasan medan perang. Terkadang kualitas peralatan dan pelatihan menjadi pembeda antara kemenangan dan kekalahan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COLLECTIVISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Secara tradisional merupakan kebalikan dari kutub filosofis politik dari individualisme, kolektivisme menekankan pembagian kerja dan properti serta identitas dengan kelompok dalam. Hal ini bisa bersifat hierarkis (di mana individu dipuji karena kemampuan mereka untuk menyesuaikan diri dengan hierarki) atau lebih lateral (di mana kesetaraan antar individu dalam kelompok ditekankan.) Berbagai eksperimen ekonomi dan sosial kolektivis telah dilakukan selama berabad-abad, dengan tingkat keberhasilan yang berbeda-beda. Kolektivisasi paksa pertanian Soviet pada tahun 1920-an merupakan sebuah bencana yang tidak tanggung-tanggung. Gerakan teologi Ubuntu di Afrika Selatan menginformasikan kepada Komite Kebenaran dan Rekonsiliasi negara tersebut dan pembongkaran sistem Apartheid. Keuntungan dan bahaya dari tindakan kolektif masih diperdebatkan dengan hangat, dan kemungkinan besar akan terjadi dalam beberapa waktu ke depan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROGUE_STATE_CHAPTER_HISTORY_PARA_1">
+			<Text>Seperti halnya individu, negara-negara mematuhi norma-norma politik tertentu untuk menjaga kelancaran dan keteraturan fungsi satu sama lain. Suatu negara mungkin memilih untuk mengabaikan norma-norma tersebut demi mendapatkan keuntungan, dan jika hal ini dilakukan berulang kali atau secara terang-terangan, negara tersebut akan dicap sebagai “negara nakal”. Hal ini seringkali mengakibatkan isolasi politik bagi rezim yang berkuasa, namun hal ini juga memungkinkan negara yang membangkang tersebut untuk melakukan apa yang diinginkannya, karena biaya yang harus dibayar untuk menghukum negara yang melakukan kejahatan tersebut mungkin lebih tinggi daripada yang bersedia dibayar oleh komunitas negara tersebut. Negara-negara nakal mungkin benar-benar paria politik, atau mereka mungkin mempunyai segelintir negara pelindung yang bersedia mendukung mereka (terkadang negara jahat yang gagal lebih berbahaya daripada negara jahat yang stabil.) Negara-negara lain menganggap hal ini sangat menjengkelkan, dan merupakan pengingat yang tidak menyenangkan akan rapuhnya norma-norma diplomatik. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROBBER_BARONS_CHAPTER_HISTORY_PARA_1">
+			<Text>Sistem usaha bebas kadang-kadang memunculkan individu-individu yang, melalui kebulatan tekad, kekejaman, tipu muslihat, kekerasan, wawasan, keberuntungan yang bodoh, dan sering kali metode-metode yang kurang teliti, kemudian menerapkan kekuatan yang sangat besar terhadap bisnis dan industri. Sebutan “baron perampok” sebelumnya diterapkan pada bangsawan Kekaisaran Romawi Suci yang menggunakan tanah mereka sebagai basis praktik predator, dan kemudian diterapkan pada orang-orang seperti dunia bisnis Carnegies, Rockefeller, Stanfords, Cookes, dan Adipati Zaman Emas. Pada akhirnya, kemarahan masyarakat memaksa pemerintah untuk mengendalikan praktik-praktik mereka, dan banyak dari para baron ini menggunakan sebagian dari kekayaan mereka yang sangat besar untuk merehabilitasi citra mereka melalui karya-karya filantropis. </Text>
+		</Row>
+	</EnglishText>
+</GameData>

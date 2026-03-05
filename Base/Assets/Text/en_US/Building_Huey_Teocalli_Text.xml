@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_BUILDING_HUEY_TEOCALLI_NAME">
+			<Text>Huey Teocalli</Text>
+			<Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_HUEY_TEOCALLI_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas hiburan untuk setiap ubin danau dalam satu ubin dari Huey Teocalli. +1 [ICON_Food] Makanan dan +1 [ICON_Production] Produksi untuk setiap ubin danau di kerajaan Anda. Harus dibangun di ubin danau yang berbatasan dengan daratan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_HUEY_TEOCALLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Di Kekaisaran Aztek, teocalli adalah piramida bertingkat yang di atasnya terdapat sebuah kuil, tempat dilaksanakannya semua upacara keagamaan penting di kota. Yang terbesar terletak di pusat Tenochtitlan, Huey Teocalli (atau, menurut orang Spanyol, Templo Mayor), yang didedikasikan untuk sepasang dewa: Huitzilopochtli, dewa perang, dan Tlatoc, dewa pertanian (sebagai indikasi apa yang penting dalam budaya Aztek). Setiap dewa memiliki kuil terpisah, yang diakses melalui tangga terpisah. Piramida Mesoamerika cenderung dibangun ulang, menggunakan struktur sebelumnya sebagai dasar untuk versi baru yang diperluas. Oleh karena itu, Huey Teocalli dibangun ulang enam kali setelah yang pertama selesai sekitar tahun 1325 M. Yang ketujuh, dan terakhir, adalah yang dihancurkan dan dirusak oleh Cortez dan pasukannya. Mungkin mereka memandang tempat itu dengan sinis, karena tempat itu digunakan untuk perayaan-perayaan aneh… seperti festival Panquetzaliztli yang merayakan Huitzilopochtli, ketika patung dewa yang terbuat dari biji amaranth, tulang, madu, dan darah manusia dipuja, lalu diserahkan kepada masyarakat untuk dimakan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HUEY_TEOCALLI_QUOTE">
+			<Text>&quot;Tetapi amarah Huitzilopochtli sangat besar, dan setiap kali korban persembahan melewati keempat ruangan yang didedikasikan untuk dewa matahari, matahari menghilang atau muncul kembali di langit.&quot;[NEWLINE]– Fray Diego Durán</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

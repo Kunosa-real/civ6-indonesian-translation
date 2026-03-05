@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_NUBIA_MOD_TITLE">
+			<Text>Paket Peradaban Nubia</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_MOD_TEASER">
+			<Text>Peradaban dan Pemimpin Baru - Ratu Amanitore dari Nubia</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_MOD_DESCRIPTION">
+			<Text>Berisi peradaban dan pemimpin baru serta keajaiban dunia baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_TITLE">
+			<Text>Skenario: Hadiah dari Sungai Nil</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_TEASER">
+			<Text>Bisakah Anda menjadi kerajaan yang dominan di lembah Sungai Nil? Berlangsung tidak lebih dari 125 putaran.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_DESCRIPTION">
+			<Text>Dalam skenario 125 putaran ini, Anda harus memperluas kerajaan Anda ke atas dan ke bawah lembah Sungai Nil untuk bersaing menjadi orang yang paling diberkati oleh Dewa Amun.  Bangun 7 bait suci untuk kemuliaan-Nya dan kemenangan ada di tangan Anda!</Text>
+		</Row>
+	</EnglishText>
+</GameData>

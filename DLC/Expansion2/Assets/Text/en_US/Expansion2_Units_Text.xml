@@ -1,0 +1,70 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_SKIRMISHER_NAME">
+			<Text>pertempuran kecil</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
+			<Text>Unit pengintaian Era Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_NAME">
+			<Text>Pemburu kelinci</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_DESCRIPTION">
+			<Text>Unit kavaleri ringan Era Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CUIRASSIER_NAME">
+			<Text>tukang masak</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+			<Text>Unit kavaleri berat Era Industri.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_DEATH_ROBOT_NAME">
+			<Text>Robot Kematian Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
+			<Text>Unit Super Era Informasi. Mampu bergerak dan bertarung di dalam air. Tahan terhadap Senjata Pemusnah Massal. Kemampuan tempur dapat ditingkatkan dengan meneliti teknologi masa depan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Unit pendukung era abad pertengahan. Membutuhkan Gudang Senjata untuk memproduksinya. Dapat membangun perbaikan Jalan, Rel Kereta Api, Benteng, Landasan Udara, Silo Rudal, dan Terowongan Gunung. Salah satu biaya pembangunannya juga dapat digunakan untuk menyelesaikan 20% distrik Kanal atau Bendungan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
+			<Text>Unit pendukung era abad pertengahan. Membutuhkan Gudang Senjata untuk memproduksinya. Dapat membangun perbaikan Jalan, Rel Kereta Api, Benteng, Landasan Udara, Silo Rudal, dan Terowongan Gunung. Salah satu biaya pembangunannya juga dapat digunakan untuk menyelesaikan 20% distrik Kanal, Bendungan, Saluran Air, atau bangunan Penghalang Banjir.</Text>
+		</Row>
+		<!--Rock Band Text-->
+		<Row Tag="LOC_UNIT_ROCK_BAND_NAME">
+			<Text>Band Rock</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCK_BAND_DESCRIPTION">
+			<Text>Dapat melakukan konser rock di tempat yang sah, termasuk di Wonders, di Distrik dengan salah satu gedung yang diwajibkan, atau di target khusus yang diizinkan oleh salah satu promosi band. Statistik Penjualan Album mereka adalah kekuatan Pariwisata [ICON_TOURISM] yang diharapkan pada konser mereka berikutnya. Setelah melakukan konser, Penjualan Album dan Level Band Rock mereka mungkin meningkat. Harus dibeli dengan [ICON_Faith] Iman. Tidak dapat tampil pada ubin yang sama dua kali.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_NAME">
+			<Text>Legenda Batu</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_NAME">
+			<Text>Berita utama</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_NAME">
+			<Text>Bintang Baru</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_NAME">
+			<Text>Undang-Undang Pembukaan</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_NAME">
+			<Text>Perbedaan Kreatif</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_NAME">
+			<Text>Rocker Penuaan</Text>
+		</Row>
+		<!--Updated Text-->
+		<Row Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
+			<Text>Dapat mengurangi kehadiran Agama lain di wilayah mereka sebesar 75%, dan memulai pertarungan teologis dengan unit Agama lain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTERING_RAM_EXPANSION2_DESCRIPTION">
+			<Text>Unit pendukung era kuno. Saat berdekatan dengan kota, unit jarak dekat dan anti-kavaleri yang menyerang akan menimbulkan kerusakan penuh pada Tembok kota. Tidak mempengaruhi kota dengan Tembok Abad Pertengahan atau Renaisans. Tidak Efektif melawan Pertahanan Perkotaan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_EXPANSION2_DESCRIPTION">
+			<Text>Unit pendukung era abad pertengahan. Saat berdekatan dengan kota, unit penyerang jarak dekat dan anti-kavaleri mengabaikan Tembok dan segera menyerang kota tersebut. Tidak mempengaruhi kota dengan Tembok Renaisans. Tidak Efektif melawan Pertahanan Perkotaan.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

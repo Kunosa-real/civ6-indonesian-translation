@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_BUILDING_STAR_FORT_NAME"/>
+		<Delete Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION"/>
+		<Delete Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY"/>
+		<Delete Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- REPLACEMENTS -->
+		<Row Tag="LOC_BUILDING_STAR_FORT_NAME">
+			<Text>Benteng</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Meningkatkan kekuatan pertahanan luar Anda untuk menahan semua serangan kecuali serangan yang paling terkonsentrasi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY">
+			<Text>Kemenangan Mesin Perang</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
+			<Text>Sebagai Jerman, Anda harus menguasai kota Paris dalam batas waktu. Sebagai Prancis, Anda harus mempertahankan Paris dari penangkapan hingga waktu habis.</Text>
+		</Row>
+		<!--HUD-->
+		<Row Tag="LOC_WARMACHINE_CALENDAR_AUGUST">
+			<Text>Agustus {1_Day}, 1914</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_CALENDAR_SEPT">
+			<Text>September {1_Day}, 1914</Text>
+		</Row>
+		<!--Great People-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENERAL_DEFAULT_NAME">
+			<Text>Komandan Lapangan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH">
+			<Text>+3 [ICON_Strength] Kekuatan Tempur untuk mendaratkan unit dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH_MODIFIER">
+			<Text>+3 [ICON_Strength] Bonus Tempur dari Jenderal Besar.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_BUILDING_HEADQUARTERS_NAME">
+			<Text>Markas besar</Text>
+		</Row>
+		<!--Techs-->
+		<Row Tag="LOC_TECH_AIRCRAFT_NAME">
+			<Text>Pesawat terbang</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATIONS_NAME">
+			<Text>Benteng</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATIONS_DESCRIPTION">
+			<Text>+100 titik hit di semua kota.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HEAVY_ARTILLERY_NAME">
+			<Text>Artileri Berat</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HEAVY_ARTILLERY_DESCRIPTION">
+			<Text>+6 [ICON_Strength] Kekuatan Tempur untuk unit Artileri.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LOGISTICS_NAME">
+			<Text>Logistik</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LOGISTICS_DESCRIPTION">
+			<Text>Memungkinkan pembentukan dan pelatihan Tentara.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMMAND_NAME">
+			<Text>Memerintah</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMMAND_DESCRIPTION">
+			<Text>Memberikan 2 Jenderal Besar [ICON_GreatGeneral] gratis di Modal [ICON_Capital] Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIAL_WARFARE_NAME">
+			<Text>Perang Industri</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIAL_WARFARE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk semua unit.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRIAL_WARFARE_COMBAT_STRENGTH_PREVIEW_TEXT">
+			<Text>+{1_Amount} Perang Industri</Text>
+		</Row>
+		<Row Tag="LOC_HEAVY_ARTILLERY_COMBAT_STRENGTH_PREVIEW_TEXT">
+			<Text>+{1_Amount} Artileri Berat</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_WARMACHINE_DESCRIPTION">
+			<Text>Unit pendukung era abad pertengahan. Membutuhkan Gudang Senjata untuk memproduksinya. Dapat membangun perbaikan Rel Kereta Api, Benteng, dan Landasan Udara.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_LILLE">
+			<Text>Lille</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REIMS">
+			<Text>Reims</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NANCY">
+			<Text>Nancy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELFORT">
+			<Text>Belfort</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORLEANS">
+			<Text>Orleans</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARTES">
+			<Text>Grafik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOLN">
+			<Text>Koln</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOBLENZ">
+			<Text>Koblenz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MANNHEIM">
+			<Text>Mannheim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRASSBURG">
+			<Text>Strasburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COLMAR">
+			<Text>Colmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTWERP">
+			<Text>Antwerpen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIEGE">
+			<Text>Bawahan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAMUR">
+			<Text>Namur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONS">
+			<Text>Senin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUXEMBOURG">
+			<Text>Luksemburg</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="LOC_SCENARIO_CATEGORY_CONTROL_OF_PARIS_NAME">
+			<Text>Kontrol Paris</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_LINE_ITEM_CONTROL_OF_PARIS_NAME">
+			<Text>Kontrol Paris</Text>
+		</Row>
+		<!--Historic Rankings-->
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_NAME">
+			<Text>Marsekal Lapangan</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_QUOTE">
+			<Text>Bukti penguasaan militer tidak ditemukan dalam kampanye yang berlarut-larut, namun dalam kemenangan yang menentukan.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_NAME">
+			<Text>Umum</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_QUOTE">
+			<Text>Komando adalah seni mengarahkan kekuatan perang dengan sukses dan mudah.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_NAME">
+			<Text>Kolonel</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_QUOTE">
+			<Text>Keberhasilan atau kegagalan menyeimbangkan informasi dan intuisi.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_NAME">
+			<Text>Besar</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_QUOTE">
+			<Text>Di mana ada keberanian, di situ ada keberanian. Di mana ada keberanian, di situ ada momentum. Di mana ada momentum, di situ ada kemenangan.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_NAME">
+			<Text>Kapten</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_QUOTE">
+			<Text>Kemenangan jika memungkinkan, tapi kehormatan di atas segalanya.</Text>
+		</Row>
+		<!-- ************************************************ -->
+		<!-- CIVILOPEDIA -->
+		<!-- ************************************************ -->
+		<!--Tech-->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_HEAVY_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Jerman mengembangkan senjata pengepungan khusus untuk memecahkan pertahanan lingkaran benteng yang mengelilingi Belgia. Hal ini terbukti sangat berhasil, menyebabkan benteng tersebut runtuh lebih cepat dari perkiraan perencana. Prancis mengembangkan meriam artileri 75mm yang canggih dan kuat yang terbukti tahan lama dan fleksibel. Namun kedua hal tersebut tidak cukup untuk memecahkan kebuntuan parit dengan sendirinya—teknologi baru dalam tank dan pesawat terbang serta taktik unit kecil pada akhirnya akan mampu memecahkan kebuntuan tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Logistik adalah proses memasok material ke tentara untuk menggantikan kerugian dan pengeluaran. Meskipun tidak glamor, kesuksesan dalam peperangan bergantung pada ketepatan detail-detail ini. Amatir mempelajari taktik; para ahli mempelajari logistik. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_COMMAND_CHAPTER_HISTORY_PARA_1">
+			<Text>Setelah era Napoleon, perwira militer profesional mulai memasukkan perencanaan strategis dan operasional ke dalam pekerjaan mereka. Staf komando profesional adalah bagian dari militer yang bertanggung jawab untuk mencapai penerjemahan tujuan politik perang menjadi tujuan militer. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_INDUSTRIAL_WARFARE_CHAPTER_HISTORY_PARA_1">
+			<Text>Dalam perang total, semua sumber daya negara digunakan untuk mencapai tujuan perang. Dalam masyarakat industri, hal ini berarti pengerjaan ulang infrastruktur industri secara total untuk menciptakan persenjataan, melatih sebagian besar penduduk yang bersenjata untuk wajib militer massal, dan mengarahkan perekonomian melalui alat-alat politik yang terang-terangan. Hal ini dapat mengubah masyarakat dengan cara yang dapat bertahan lama setelah konflik berakhir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATIONS_CHAPTER_HISTORY_PARA_1">
+			<Text>Penemuan senapan mesin dan peluru artileri berdaya ledak tinggi yang baru berarti bahwa benteng juga berubah pada tahun-tahun menjelang Perang Dunia pertama. Sistem parit yang luas di Front Barat dapat dilihat sebagai ekspresi fisik dari supremasi pertahanan atas serangan di sebagian besar perang. Begitu pula dengan taktik modern infanteri dan tank yang dikembangkan sejak tahun 1916 dan seterusnya dapat dilihat sebagai upaya untuk mengatasi supremasi pertahanan tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_AIRCRAFT_CHAPTER_HISTORY_PARA_1">
+			<Text>Pada awal Perang Dunia Pertama, penerbangan masih dalam tahap awal, dan pesawat terbang merupakan mesin yang mahal dan tidak dapat diandalkan untuk pengintaian. Pada akhir perang, mereka menjadi kebutuhan pokok setiap militer besar di planet ini dan digunakan untuk serangan taktis dan pemboman strategis, yang telah mengalami evolusi pesat dalam wadah perang. Penelitian dan pengembangan sangat mahal sehingga sebagian besar dilakukan melalui sponsor negara atau kemitraan publik-swasta.</Text>
+		</Row>
+		<!--Leaders-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Setelah Pertempuran Sedan yang membawa bencana selama Perang Perancis-Prusia tahun 1870, para perencana militer Prancis harus pulih dari kerugian besar dan dampak politik yang memalukan untuk membangun kembali angkatan bersenjatanya menjadi salah satu angkatan bersenjata kelas satu di Eropa. Berbeda dengan kecenderungan Jerman terhadap rencana operasional pertempuran yang terperinci, perwira militer Prancis mulai menganut doktrin serangan yang fleksibel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Tentara, diperkirakan, akan mempertahankan momentumnya melalui serangan terus-menerus terhadap garis musuh, dan dengan kejam mengeksploitasi kelemahan apa pun yang terjadi setelahnya. Musuh tidak akan pernah bisa mendapatkan keseimbangan, inisiatif akan tetap ada di pihak Prancis, dan gerak maju musuh-musuh Jerman akan dihadang dengan serangan balik yang cepat. Hal ini berlaku mulai dari tingkat batalion hingga tingkat teater – di mana penyerangnya lemah, di sanalah Prancis akan menyerang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_3">
+			<Text>Ini adalah salah satu paradoks besar pada bulan Agustus 1914 bahwa bahkan ketika Perancis terhuyung-huyung di sepanjang garis depan di Low Countries, mereka menghadapi kemajuan melalui Alsace dan Lorraine, namun hal ini harus dicegah untuk memberikan bala bantuan guna menyelamatkan Paris. Pada akhir tahun itu, semangat “selalu menyerang” telah memudar, dan parit-parit tersebut membentuk Front Barat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1">
+			<Text>Keberhasilan Tentara Prusia pada tahun 1870 selama Perang Perancis-Prusia membuktikan perencanaan tentara yang metodis dan komprehensif, hingga jadwal pergerakan pasukan dan gerbong di rel. Melihat perang di masa depan dengan Prancis mungkin tidak dapat dihindari, Count von Schlieffen, kepala Staf Umum Jerman, menyusun rencana untuk invasi Prancis di masa depan, melewati Negara-Negara Rendah dan turun ke Paris di selatan. Rencana invasi ini memerlukan konsentrasi pasukan di sisi paling barat tentara Jerman agar berhasil – namun rencana keseluruhannya tidak pernah dilaksanakan secara keseluruhan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2">
+			<Text>Dengan adanya perang di dua front, komando tinggi Jerman memindahkan sebagian pasukan yang ditujukan ke sayap barat yang berat ke medan perang yang sama sekali berbeda (dalam hal ini, melawan Rusia). Ketika tentara Jerman berhasil menerobos Negara-Negara Rendah, hal ini juga membuat Angkatan Darat Perancis mundur, dan pembentukan barisan Perancis yang menonjol menjadikan Staf Umum Jerman sebagai target yang menggiurkan. Namun berbagai faktor, termasuk pengurangan kekuatan dalam rencana Schlieffen, gerakan improvisasi pasukan Jerman sebagai respons terhadap Prancis, dan perlawanan keras dari Prancis dan Inggris membuat serangan knockout tersebut tidak pernah mencapai tujuannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3">
+			<Text>Jerman telah berjudi dan kalah, dan perang berubah menjadi neraka selama empat tahun seiring dengan berakhirnya rencana Schlieffen.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Pasukan Ekspedisi Inggris adalah pasukan kecil yang dikerahkan ke lapangan dengan tujuan untuk menarik Inggris lebih dekat ke dalam perjanjian dengan Prancis. Terletak di ujung barat garis pertahanan Prancis, mereka pada awalnya lebih dilihat sebagai sebuah kesopanan politik daripada kekuatan militer yang besar. Namun, ketika Jerman turun melalui Negara-Negara Rendah menuju Paris, BEF melawan pasukan Jerman yang jumlahnya lebih banyak dalam Pertempuran Mons, dan meskipun dianiaya dan akhirnya terpaksa mundur, mereka menyelamatkan Tentara Kelima Prancis dari kehancuran. Pertempuran Mons adalah salah satu pencapaian militer Inggris yang paling terkenal dan dihormati, dan identik dengan BEF.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Negara Belgia didirikan pada akhir Era Napoleon sebagai bagian dari keseimbangan kekuatan Eropa, namun telah lama menjadi sekutu khusus Inggris Raya. Rencana invasi Perancis meminta Angkatan Darat Jerman untuk menyerang melalui Belgia. Memang benar, versi awal dari rencana tersebut menyatakan bahwa Angkatan Darat Belgia akan memberikan penjaga kehormatan di sepanjang jalan bagi Angkatan Darat Jerman yang lewat—yang ternyata merupakan asumsi yang sangat salah. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>Kota Liege dikelilingi oleh serangkaian benteng dan merupakan hambatan militer signifikan pertama bagi Angkatan Darat Jerman pada tahun 1914. Benteng-benteng tersebut, meskipun dalam banyak kasus dapat bertempur dengan baik, tidak mampu bertahan melawan senjata pengepungan khusus yang dibuat khusus untuk tujuan menghancurkan benteng-benteng tersebut. Runtuhnya benteng Liege dan kekejaman tentara Jerman terhadap penduduk Belgia mengubah gelombang opini populer yang menentang Jerman, khususnya di Inggris Raya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_CHAPTER_HISTORY_PARA_1">
+			<Text>Kerajaan kecil Luksemburg terletak di antara Perancis dan Jerman, dan terlebih lagi merupakan pusat persimpangan kereta api utama antar negara. Perebutan rel kereta api ini sangat penting bagi rencana Jerman untuk menyerang Prancis, dan akibatnya invasi ke Luksemburg adalah salah satu tindakan pertama perang pada tahun 1914. </Text>
+		</Row>
+		<!--Civs-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Prancis telah bersiap untuk berperang dengan Jerman sejak bencana Perang Perancis-Prusia pada tahun 1870, ketika tentara Prusia menganiaya tentara lapangan Prancis, menangkap Kaisar, dan mendapatkan konsesi yang memalukan dalam perdamaian yang terjadi setelahnya, termasuk penghentian wilayah Alsace dan Lorraine di timur Prancis.  Seluruh generasi politisi dan perwira Prancis tumbuh dalam bayang-bayang kekalahan ini, dan bertekad untuk mencari pembenaran, atau bahkan membalas dendam atas kekalahan tersebut. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Sekutu militer utama Prancis adalah Rusia dan Inggris Raya, dan deklarasi perang Rusia melawan Kekaisaran Austro-Hungarialah yang memicu masuknya Prancis ke dalam perang atas nama sekutu. Namun, Perancis lebih fokus pada perjuangan mereka sendiri melawan Jerman dibandingkan melawan Austria-Hongaria. Untuk mencapai tujuan tersebut, upaya utama Prancis pada pecahnya perang adalah menyerang Alsace dan Lorraine untuk merebut kembali wilayah tersebut dengan cepat, sehingga perbatasan utara dengan Belgia dan Luksemburg hanya sedikit dipertahankan. Rencana perang Perancis secara kritis meremehkan jumlah pasukan Jerman yang akan menyerang di sepanjang poros tersebut (dianggap bahwa pasukan Jerman akan datang melalui Ardennes), sehingga memaksa tentara tersebut untuk secara tiba-tiba mengubah rencana pada saat pecahnya perang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1">
+			<Text>Satu generasi sebelum pecahnya Perang Dunia I, tentara Prusia telah memberikan kekalahan militer terbesar kepada Prancis sejak akhir Era Napoleon, dan setelahnya mereka membentuk negara modern Jerman. Politisi Jerman memahami dengan jelas bagaimana istilah-istilah yang diambil dari Perancis berkontribusi pada potensi konflik berikutnya—dan kemudian bersiap untuk perang berikutnya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2">
+			<Text>Penandatanganan Triple Entente—aliansi militer Perancis, Inggris Raya, dan Rusia—menempatkan Jerman dalam posisi militer yang genting, karena kini dikepung oleh musuh militer di timur dan barat. Strategi besar yang dirumuskan sebelum Perang Dunia I adalah melancarkan satu pukulan telak besar-besaran kepada Prancis di wilayah barat sebelum Rusia mempunyai kesempatan untuk menggunakan sumber daya manusia yang sangat besar di wilayah timur. Hal ini menjadi tujuan politik pendorong Rencana Schlieffen.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3">
+			<Text>Menjelang Perang Dunia I, hanya ada sedikit tentara di dunia yang terlatih dan siap seperti pasukan militer Jerman. Namun persiapan dan pelatihan tidak cukup untuk mewujudkan tujuan cepat yang diharapkan oleh para perencana.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Partisipasi Inggris dalam Triple Entente (aliansi militer antara Perancis, Inggris, dan Rusia) bukanlah sebuah kepastian. Persaingan militer yang sudah berlangsung lama antara Perancis dan Inggris sejak zaman Napoleon, serta ikatan antara keluarga kerajaan Inggris Raya dan Jerman membuat partisipasi Inggris di Blok Sentral merupakan hasil yang masuk akal. Pada akhirnya Inggris Raya bergabung dengan Entente karena meningkatnya persaingan antara Jerman dan Inggris Raya yang menyebabkan banyak orang berupaya mengendalikan peningkatan kekuatan Jerman. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_2">
+			<Text>Menjelang Perang Dunia I, tidak ada jaminan bahwa Inggris akan mengirimkan pasukan militer ke benua Eropa. Hal ini sebagian besar disebabkan oleh tekanan terus-menerus dari sekelompok kecil perwira baik di angkatan bersenjata Prancis maupun Inggris, sehingga Inggris Raya mengirimkan pasukan kecil ke tanah Prancis. Memang benar, Kaiser sendiri terkejut ketika Inggris menyatakan perang terhadap Jerman, menyatakan bahwa mereka telah melakukan “kesalahan bodoh” hanya karena “secarik kertas”.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Negara Belgia didirikan pada akhir Era Napoleon sebagai bagian dari keseimbangan kekuatan Eropa, namun telah lama menjadi sekutu khusus Inggris Raya. Rencana invasi Perancis meminta Angkatan Darat Jerman untuk menyerang melalui Belgia. Memang benar, versi awal dari rencana tersebut menyatakan bahwa Angkatan Darat Belgia akan memberikan penjaga kehormatan di sepanjang jalan bagi Angkatan Darat Jerman yang lewat—yang ternyata merupakan asumsi yang sangat salah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>Kota Liege dikelilingi oleh serangkaian benteng dan merupakan hambatan militer signifikan pertama bagi Angkatan Darat Jerman pada tahun 1914. Benteng-benteng tersebut, meskipun dalam banyak kasus dapat bertempur dengan baik, tidak mampu bertahan melawan senjata pengepungan khusus yang dibuat khusus untuk tujuan menghancurkan benteng-benteng tersebut. Runtuhnya benteng Liege dan kekejaman tentara Jerman terhadap penduduk Belgia mengubah gelombang opini populer yang menentang Jerman, khususnya di Inggris Raya.</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Komandan lapangan adalah seorang perwira yang bertanggung jawab atas sebagian besar militer negaranya, biasanya di seluruh lini depan. Dia harus memahami rencana operasional pasukannya dan bersedia untuk menyesuaikannya jika ada perubahan yang diperlukan selama perang. Meskipun ia bekerja melalui komandan bawahan dan diberi nasihat oleh staf umum, keberhasilan atau kegagalan tentara bergantung pada penilaiannya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Komandan lapangan adalah seorang perwira yang bertanggung jawab atas sebagian besar militer negaranya, biasanya di seluruh lini depan. Dia harus memahami rencana operasional pasukannya dan bersedia untuk menyesuaikannya jika ada perubahan yang diperlukan selama perang. Meskipun ia bekerja melalui komandan bawahan dan diberi nasihat oleh staf umum, keberhasilan atau kegagalan tentara bergantung pada penilaiannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Komandan lapangan adalah seorang perwira yang bertanggung jawab atas sebagian besar militer negaranya, biasanya di seluruh lini depan. Dia harus memahami rencana operasional pasukannya dan bersedia untuk menyesuaikannya jika ada perubahan yang diperlukan selama perang. Meskipun ia bekerja melalui komandan bawahan dan diberi nasihat oleh staf umum, keberhasilan atau kegagalan tentara bergantung pada penilaiannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Komandan lapangan adalah seorang perwira yang bertanggung jawab atas sebagian besar militer negaranya, biasanya di seluruh lini depan. Dia harus memahami rencana operasional pasukannya dan bersedia untuk menyesuaikannya jika ada perubahan yang diperlukan selama perang. Meskipun ia bekerja melalui komandan bawahan dan diberi nasihat oleh staf umum, keberhasilan atau kegagalan tentara bergantung pada penilaiannya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Komandan lapangan adalah seorang perwira yang bertanggung jawab atas sebagian besar militer negaranya, biasanya di seluruh lini depan. Dia harus memahami rencana operasional pasukannya dan bersedia untuk menyesuaikannya jika ada perubahan yang diperlukan selama perang. Meskipun ia bekerja melalui komandan bawahan dan diberi nasihat oleh staf umum, keberhasilan atau kegagalan tentara bergantung pada penilaiannya.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HEADQUARTERS_CHAPTER_HISTORY_PARA_1">
+			<Text>Markas besar adalah tempat di mana rencana operasional tentara ditugaskan di lapangan. Terhubung dengan komandan bawahan di sepanjang garis pertempuran melalui pengirim pesan dan telegraf, hal ini seringkali hanya bersifat sementara, karena perubahan garis pertempuran memerlukan komando tinggi agar tetap dekat dengan lokasi aksi.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

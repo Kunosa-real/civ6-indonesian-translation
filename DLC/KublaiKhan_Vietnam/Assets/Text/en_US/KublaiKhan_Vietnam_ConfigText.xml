@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Dawn of Man text -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_CHINA">
+			<Text>Kublai Khan, cucu Jenghis Khan, Anda akan membangun sebuah kerajaan untuk menyaingi kerajaannya. Anda tahu kapan harus membungkuk dan kapan harus menyerang untuk mendapatkan keuntungan. Kecerdasan dan kecakapan politik Anda akan membantu Anda, begitu pula keterampilan bela diri Anda dalam penaklukan.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_MONGOLIA">
+			<Text>Kublai Khan, cucu Jenghis Khan, Anda akan membangun sebuah kerajaan untuk menyaingi kerajaannya. Anda tahu kapan harus membungkuk dan kapan harus menyerang untuk mendapatkan keuntungan. Kecerdasan dan kecakapan politik Anda akan membantu Anda, begitu pula keterampilan bela diri Anda dalam penaklukan.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_TRIEU">
+			<Text>Bà Triệu, orang-orangmu akan mengingatmu sebagai seorang dewi. Lawan mereka yang mencoba mengendalikan badai Anda, dan angkat pedang Anda untuk menantang. Baik keluarga maupun musuh tidak akan menahan Anda.</Text>
+		</Row>
+		<!-- Kublai Khan: Leader Info -->
+		<Row Tag="LOC_LEADER_KUBLAI_KHAN_C_NAME">
+			<Text>Kublai Khan (Tiongkok)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_KUBLAI_KHAN_NAME">
+			<Text>Kubilai Khan (Mongolia)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KUBLAI_NAME">
+			<Text>Gerege</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KUBLAI_DESCRIPTION">
+			<Text>Satu slot kebijakan ekonomi tambahan di pemerintahan mana pun. Dapatkan Inspirasi [ICON_TechBoosted] Eureka dan [ICON_CivicBoosted] acak saat mendirikan Pos Perdagangan [ICON_TradingPost] di kota Peradaban lain untuk pertama kalinya.</Text>
+		</Row>
+		<!-- Vietnam: District Info -->
+		<Row Tag="LOC_DISTRICT_THANH_NAME">
+			<Text>Terima kasih</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THANH_DESCRIPTION">
+			<Text>Sebuah distrik unik untuk Vietnam yang menggantikan Perkemahan. +2 [ICON_CULTURE] Kebudayaan untuk setiap distrik yang berdekatan. Setelah Penerbangan diteliti menerima [ICON_TOURISM] Pariwisata sama dengan keluaran [ICON_CULTURE] Kebudayaan. Distrik ini tidak memerlukan jumlah penduduk, biaya pembangunannya lebih murah, tidak dapat dibangun berdekatan dengan pusat kota, tidak menyediakan poin [ICON_GreatPerson] Orang Hebat, dan bukan merupakan distrik khusus.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_MAJOR">
+			<Text>+{1_num} [ICON_Culture] Budaya dari {1_Num : plural 1?district; other?districts;} yang berdekatan.</Text>
+		</Row>
+		<!-- Vietnam: Civilization Info -->
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_NAME">
+			<Text>Vietnam</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>Vietnam Kekaisaran</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_ADJECTIVE">
+			<Text>Vietnambahasa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_NAME">
+			<Text>Delta Sungai Sembilan Naga</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>Semua distrik khusus lahan hanya dapat dibangun di Hutan Hujan, Rawa, atau Hutan. Dapatkan hasil berikut untuk setiap bangunan pada fitur ini: +1 [ICON_CULTURE] Budaya di Hutan, +1 [ICON_SCIENCE] Sains di Hutan Hujan, dan +1 [ICON_PRODUCTION] Produksi di Rawa. Hutan dapat ditanami oleh warga Medieval Faires.</Text>
+		</Row>
+		<!-- Vietnam: Leader Info -->
+		<Row Tag="LOC_LEADER_LADY_TRIEU_NAME">
+			<Text>Bà Triệu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRIEU_NAME">
+			<Text>Usir Para Agresor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRIEU_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk unit yang bertarung di ubin Hutan Hujan, Rawa, atau Hutan. +1 [ICON_Movement] Pergerakan jika mereka memulai giliran di sana. Kedua bonus ini berlipat ganda jika ubin tersebut adalah wilayah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FEATURES_NAME">
+			<Text>Usir Para Agresor</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk unit yang bertarung di ubin Hutan Hujan, Rawa, atau Hutan. +1 [ICON_Movement] Pergerakan jika mereka memulai giliran di sana. Kedua bonus ini berlipat ganda jika ubin tersebut adalah wilayah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur dari sifat Mengusir Agresor</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_UNFRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur dari sifat Mengusir Agresor</Text>
+		</Row>
+		<!-- Vietnam: Unit Info -->
+		<Row Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_DESCRIPTION">
+			<Text>Vietnamunit jarak jauh unik era Abad Pertengahan yang menggantikan Crossbowman. Unit-unit ini memiliki pergerakan tambahan dan dapat bergerak setelah menyerang. Mereka juga lebih kuat saat bertahan, lebih mahal, dan memiliki penglihatan lebih baik.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VOI_CHIEN_DESCRIPTION">
+			<Text>Dapat bergerak setelah menyerang.</Text>
+		</Row>
+		<!-- Preserve text-->
+		<Row Tag="LOC_DISTRICT_PRESERVE_NAME">
+			<Text>Melestarikan</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PRESERVE_DESCRIPTION">
+			<Text>Hibah hingga 3 [ICON_Housing] Perumahan berdasarkan Banding. Budaya mengebom ubin netral yang berdekatan, dan meningkatkan Daya Tariknya sebanyak 1.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GROVE_NAME">
+			<Text>Belukar</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GROVE_DESCRIPTION">
+			<Text>Memberikan +1 [ICON_FOOD] Makanan dan +1 [ICON_FAITH] Keyakinan pada ubin Charming yang belum ditingkatkan di dekatnya.  Meningkat menjadi +2 [ICON_FOOD] Makanan, +2 [ICON_FAITH] Iman, +2 [ICON_CULTURE] Budaya untuk ubin Menakjubkan yang belum ditingkatkan di dekatnya.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SANCTUARY_NAME">
+			<Text>Suaka</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SANCTUARY_DESCRIPTION">
+			<Text>Memberikan +1 [ICON_SCIENCE] Sains dan +1 [ICON_GOLD] Emas ke ubin Charming yang belum ditingkatkan di dekatnya.  Meningkat menjadi +2 [ICON_SCIENCE] Sains, +2 [ICON_GOLD] Emas, +2 [ICON_PRODUCTION] Produksi untuk ubin Menakjubkan yang belum ditingkatkan di dekatnya.</Text>
+		</Row>
+		<!--Monopolies-->
+		<Row Tag="LOC_GAMEMODE_MONOPOLIES_NAME">
+			<Text>Monopolies and Corporations Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_MONOPOLIES_DESCRIPTION">
+			<Text>Kontrol, tingkatkan, dan perluas sumber daya Kemewahan Anda! Mode Monopolies and Corporations memungkinkan Anda membangun Industri yang menguntungkan di sekitar sumber daya Mewah, mendirikan Korporasi untuk melanjutkan pengembangannya, dan memproduksi Produk unik untuk mengamankan tempat Anda dalam sejarah kapitalis.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

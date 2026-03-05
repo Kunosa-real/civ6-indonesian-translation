@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Leader Text-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DIDO_ANY">
+			<Text>Semoga kemakmuran datang ke kota-kota Anda—yang jauh dari pantai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DIDO_ANY">
+			<Text>Kami tidak tertarik pada tanah yang harus kamu klaim, tetapi laut dan pantainya adalah wilayah Fenisia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Saya diberitahu bahwa Anda telah menempatkan kota-kota besar di dekat perbatasan kita bersama, seperti taman mawar yang indah. Menyenangkan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Jika Anda mau bersusah payah membuat kota di dekat perbatasan kita, setidaknya jadikanlah kota itu indah dan makmur, agar saya bisa menikmati pemandangannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Saya diberitahu bahwa Anda telah menempatkan kota-kota besar di dekat perbatasan kita bersama, seperti taman mawar yang indah. Menyenangkan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Jika Anda mau bersusah payah membuat kota di dekat perbatasan kita, setidaknya jadikanlah kota itu indah dan makmur, agar saya bisa menikmati pemandangannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KRISTINA_ANY">
+			<Text>Saya baru saja memperoleh karya baru dan akan segera mengadakan penayangannya. Utusan Anda diundang untuk hadir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KRISTINA_ANY">
+			<Text>Menurutku seni itu bagus jika bisa menyatukan ruangan, dasar filistin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUPE_ANY">
+			<Text>Tanahmu tetap hijau dan airmu bersih dan jernih. Pilihan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUPE_ANY">
+			<Text>Kalian menumpuk kotoran di darat dan membuangnya ke laut! Anda menyia-nyiakan dan merusak dunia!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAURIER_ANY">
+			<Text>Anda telah membuktikan sebagai mitra yang dapat diandalkan dalam menyelesaikan konflik internasional, Kanada memuji Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAURIER_ANY">
+			<Text>Mengapa Anda tidak membantu menyelesaikan krisis yang berdampak pada dunia? Apakah Anda tidak tergerak oleh penderitaan orang lain?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MANSA_MUSA_ANY">
+			<Text>Bergembiralah bersamaku sahabat, karena kita terbebas dari segala keinginan dan dapat mengabdikan waktu kita untuk kehendak Tuhan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MANSA_MUSA_ANY">
+			<Text>Apa yang telah kamu lakukan sehingga Allah menarik karunia-Nya darimu? Pastikan Anda kembali ke kebenaran!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Cara tercepat menuju kesuksesan adalah dengan memanfaatkan kekuatan sekutu kecil Anda, setujukah Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Mereka bilang Anda membayar pendukung Anda dengan patriotisme. Itu dan dua sen akan membelikan mereka bir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PACHACUTI_ANY">
+			<Text>Anda menyadari bahwa suku Inca adalah penguasa ketinggian. Ini menunjukkan kebijaksanaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PACHACUTI_ANY">
+			<Text>Suku Inca adalah penguasa pegunungan. Jangan tantang saya dalam hal ini. Puaslah dengan dataran rendah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ANY">
+			<Text>Anda juga harus memiliki kebijaksanaan Salomo, karena bangsa Anda terdiri dari banyak orang yang hidup harmonis.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULEIMAN_ANY">
+			<Text>Jika Anda ingin menjadi penguasa dunia, pertama-tama Anda harus menjadi penguasa atas rakyat Anda—dan Anda tidak menunjukkan tanda-tanda penguasaan dalam hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+			<Text>Lebih baik Anda tidak memiliki ambisi untuk mengklaim tanah, karena saya yakin Anda tidak memiliki kecerdasan untuk menentukan apa yang akan Anda ambil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+			<Text>Bagaimana Anda berani mengklaim tanah seperti itu untuk diri Anda sendiri, padahal rakyat Anda lemah dan dipimpin dengan buruk?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_EXPANSIONIST">
+			<Text>Saya senang Anda memilih untuk tetap menjadi bangsa barbar, yang kerajaannya hanya menekankan kemuliaan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_EXPANSIONIST">
+			<Text>Akulah Kaisar seluruh kolong langit. Itu berarti semua tanah, termasuk tanah yang ingin Anda miliki, adalah hak milik saya.  Jangan berusaha untuk menyamai saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Saya setuju dengan Anda—Ada terlalu banyak masalah mendesak di bumi sehingga kita tidak bisa menggantungkan harapan kita pada luar angkasa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Bagaimana Anda bisa memikirkan masa depan di luar angkasa, padahal situasi di bumi saat ini seharusnya menarik perhatian Anda sepenuhnya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Berbahagialah orang yang menyerahkan surga kepada para Dewa, dan tidak ingin berjalan di antara mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Jangan mendekati dewa matahari Amun-Ra, atau dewi langit Nut! Ketidaksopanan Anda menyinggung perasaan mereka! Anda akan menyebabkan kehancuran dunia!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Kita yang memiliki angkatan laut yang hebat dapat mewujudkan keinginan kita di seluruh dunia, dan kita adalah penguasa lautan yang sesungguhnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Anda harus berusaha membangun kapal dan memproyeksikan kekuatan Anda melintasi lautan, atau tidak ada negara yang akan menghormati Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Jadi, Anda ingin menantang supremasi kami di laut? Menggertak! Saya menikmati kompetisi ini!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Apakah Anda begitu mudahnya mengakui persaingan di arena lautan? Mengapa dengan sengaja membatasi kedaulatan Anda? Apakah kamu takut? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_FAVOR">
+			<Text>Saya senang Anda siap menerima saya sebagai pemimpin tertinggi planet ini. Yang lain sudah berbisik bahwa waktuku sudah dekat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
+			<Text>Aku memahami kata-kata manismu dan nikmat karimu. Anda mencari kekuatan tertinggi untuk diri Anda sendiri, dan Anda ingin negara-negara memberikannya kepada Anda atas kehendak bebas mereka sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_LOW_FAVOR">
+			<Text>Anda tidak akan pernah merasakan kegembiraan massa yang tanggap terhadap pidato yang baik, karena Anda tidak pernah mempraktikkan seni politik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_AGENDA_HIGH_FAVOR">
+			<Text>Saya akan mengucilkan Anda atas apa yang Anda lakukan! Mempermainkan emosi massa adalah jalanku menuju kekuasaan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_TOURISM">
+			<Text>Kami telah memulai paket wisata untuk warga Anda yang menginginkan liburan kelas dunia. Rupanya, hal seperti ini tidak ada di peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
+			<Text>Saya tahu dunia sedang mencari jalan menuju lokasi wisata Anda, tetapi berhati-hatilah! Orang-orang kami memiliki jeans biru dan musik rock dan tidak takut untuk menggunakannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_LOW_TOURISM">
+			<Text>Orang-orang Anda memiliki budaya yang sederhana. Ini lucu dan agak tragis. Anda bisa belajar dari seluruh dunia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_AGENDA_HIGH_TOURISM">
+			<Text>Budaya yang dinamis dan unik terancam oleh meningkatnya gelombang budaya populer Anda. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+			<Text>Betapa bahagianya negeri yang penguasanya menganut satu agama yang benar, dan melindungi jiwa rakyatnya! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+			<Text>Penghujatan dan ajaran sesat keluar dari bibir rakyatmu! Anda harus memulihkan jiwa masyarakat Anda dengan memulihkan agama yang benar!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+			<Text>Anda tahu bahwa seorang penguasa yang baik menuntun jiwa rakyatnya ke jalan yang benar, dan dengan berbuat demikian ia mendatangkan berkah surga bagi mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+			<Text>Saya khawatir Anda salah mengira menyebarkan ketidaksetiaan agama sebagai karnaval ide yang meriah. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_DIPLOVP">
+			<Text>Kebebasan maksimal hanya bisa didapat dari peradaban yang mengejar kepentingannya sendiri, bukan begitu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
+			<Text>Apa hak Anda memaksakan agenda politik Anda pada peradaban berdaulat saya? Saya tidak setuju untuk diperintah bertentangan dengan keinginan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_AGENDA_LOW_DIPLOVP">
+			<Text>Saya senang Anda menyadari bahwa tindakan politik ini hanyalah permainan belaka, tidak memiliki kekuatan sejati dan tidak menghormati hak untuk memerintah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_AGENDA_HIGH_DIPLOVP">
+			<Text>Upaya Anda untuk menciptakan persatuan politik yang lebih besar hampir saja mencuri otoritas kekuasaan saya. Saya tidak ramah kepada mereka yang tidak menghormati mahkota ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PILLAGE">
+			<Text>Musuhmu mengenalmu dengan nyala api dan ketakutan. Mereka berdoa agar terhindar dari murka-Mu, namun langit diam. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
+			<Text>Musuh-musuhmu berperang melawanmu, tetapi kamu tidak menjarah tanah mereka sebagai balasannya. Apakah itu karena kepengecutan? Atau kesopanan yang berlebihan? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_AGENDA_HIGH_PILLAGE">
+			<Text>Bagus! Kamu menghukum musuhmu dengan api dan pedang sampai mereka gemetar mendengar namamu. Sayang sekali Anda tidak terlahir sebagai seorang Viking.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_AGENDA_LOW_PILLAGE">
+			<Text>Anda tidak memiliki keberanian untuk menghukum musuh Anda, dan Anda tidak memiliki ketabahan untuk membuat tanah mereka menjadi tanah tandus. Menyedihkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_TURTLER">
+			<Text>Pagar yang baik akan menghasilkan tetangga yang baik, dan pertahanan yang baik akan menghasilkan kerajaan yang damai. Saya senang Anda puas melindungi tanah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_TURTLER">
+			<Text>Saat Anda terburu-buru berperang dan melakukan penaklukan, Anda menggerakkan peristiwa-peristiwa yang arahnya tidak dapat Anda duga sebelumnya. Lebih baik tinggal di rumah dan melindungi, daripada pergi ke luar negeri dan menaklukkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_AGENDA_TURTLER">
+			<Text>Ambisi merebut wilayah adalah benih yang menghancurkan dinasti. Saya senang Anda hanya berusaha mempertahankan tanah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_AGENDA_TURTLER">
+			<Text>Saya melihat penaklukan Anda dengan keprihatinan, tetapi tidak dengan ketakutan. Ketahuilah bahwa jika Anda menyerang Jepang, angin dan lautan akan membantu kita.</Text>
+		</Row>
+		 <Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+			<Text>Your treasury is filling up quite nicely. Selalu menyenangkan memiliki penghasilan sebesar itu, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+			<Text>Kerajaan Anda sedang menuju kebangkrutan.  Bagaimana cara bertahan hidup dengan hutang yang menumpuk?</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

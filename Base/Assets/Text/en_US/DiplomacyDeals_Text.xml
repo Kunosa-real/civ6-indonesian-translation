@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
+			<Text>EMAS PER GILIRAN</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
+			<Text>EMAS PER GILIRAN[newline]{1_number} GILIRAN </Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
+			<Text>UNTUK {1_number} PUTARAN</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_FOR_30_TURNS">
+      <Text>UNTUK 30 PUTARAN</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_ONE_TIME">
+      <Text>Tawaran Sekali Seumur Hidup</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
+			<Text>SUMBER DAYA MEWAH</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
+			<Text>SUMBER DAYA STRATEGIS</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
+			<Text>PERJANJIAN</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CITIES">
+			<Text>KOTA-KOTA</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
+			<Text>PEMAIN LAIN</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
+			<Text>Tawanan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
+			<Text>Karya Agung</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
+			<Text>TEKNOLOGI</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
+			<Text>{1_Leader Name}[NEWLINE]{2_Civil Name}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
+			<Text>Setujui Penawaran</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
+			<Text>Menolak Kesepakatan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
+			<Text>Ajukan Penawaran</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
+			<Text>Penawaran Permintaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
+			<Text>Terima Permintaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
+			<Text>Menolak Permintaan</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_GIFT">
+      <Text>Terima Hadiah</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_GIFT">
+      <Text>Tolak Hadiah</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
+			<Text>Berikan Hadiah</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
+			<Text>Tidak apa-apa</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
+			<Text>Batalkan Kesepakatan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
+			<Text>Batalkan Permintaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
+			<Text>Ringkasan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
+			<Text>Barang-barang Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
+			<Text>Barang-barang mereka</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
+			<Text>Apa yang akan kamu berikan padaku?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
+			<Text>Apa yang diperlukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
+			<Text>Tentukan detail penawaran...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
+			<Text>Tentukan detail penawaran...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
+			<Text>{1_DisplayName} ({2_Turns} putaran)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
+			<Text>{1_LeaderName} mengatakan:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
+			<Text>{1_Name}, kembali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
+			<Text>Kembalikan {1_Name} ke {1_LeaderName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
+			<Text>{1_Name}, menyerahlah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
+			<Text>Serahkan {1_Name} kepada {1_LeaderName}</Text>
+		</Row>
+		<!--Deal Error Messages-->
+		<Row Tag="LOC_DEAL_CITY_NOT_FOUND">
+			<Text>Kota tidak ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_DUPLICATE">
+			<Text>Item lain dalam penawaran memiliki kota yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
+			<Text>Tidak cukup emas</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Tidak cukup emas</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
+			<Text>Pekerjaan Hebat tidak ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_INVALID_PLAYER">
+			<Text>Pemain tidak valid</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
+			<Text>Tidak ada slot untuk menempatkan pekerjaan.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
+			<Text>Sumber daya ini tidak cukup.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_SPY_NOT_FOUND">
+			<Text>Spy tidak ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
+			<Text>Populasi: {1_number}</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
+			<Text>Kabupaten:</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
+			<Text>Sumber daya:</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
+			<Text>Karya Agung:</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
+			<Text>Dipindahkan ke {1_CityName}</Text>
+		</Row>		
+		<!-- Diplomactic Actions -->
+		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
+			<Text>Kedutaan Besar</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
+			<Text>Tuntutlah Upah</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
+			<Text>Batas Terbuka</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
+			<Text>Minta Bantuan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
+			<Text>Menyampaikan protes</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
+			<Text>Perang Mendadak</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
+			<Text>Buat Perdamaian</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
+			<Text>Kirim Delegasi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
+			<Text>Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
+			<Text>Menyatakan Persahabatan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
+			<Text>Token Pengaruh Grant</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
+			<Text>Unit Hadiah</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
+			<Text>Permohonan Militer</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
+			<Text>Deklarasikan Perang terhadap Peradaban Kecil</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
+			<Text>Mendeklarasikan Perang</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
+			<Text>Deklarasikan Perang Suci</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
+			<Text>Deklarasikan Perang Pembebasan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
+			<Text>Deklarasikan Perang Penaklukan Kembali</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
+			<Text>Mendeklarasikan Perang Protektorat</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
+			<Text>Mendeklarasikan Perang Kolonial</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
+			<Text>Mendeklarasikan Perang Ekspansi Wilayah</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
+			<Text>Perjanjian Pertahanan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
+			<Text>Perang Bersama</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
+			<Text>Perjanjian Penelitian</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
+			<Text>Janji untuk Tidak Mengintai</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
+			<Text>Janji untuk Tidak Mengubah Kota-Kota</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
+			<Text>Janji untuk tidak menggali artefak</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
+			<Text>Janji untuk tidak menetap terlalu dekat</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_INVALID">
+			<Text>Saya tidak akan melakukan kesepakatan ini dalam keadaan apa pun.</Text>
+		</Row>
+		<!-- Diplomactic Action Tooltips-->
+		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
+			<Text>Buat Perjanjian Riset dengan Mitra Deklarasi atau Anggota Aliansi. Perjanjian Riset memungkinkan dua pihak untuk melakukan riset bersama terhadap teknologi target. Semakin mahal teknologi tersebut, semakin lama durasi perjanjiannya. Selama masa berlaku perjanjian, masing-masing pihak akan mendapatkan Boost untuk teknologi tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
+			<Text>Mendirikan Perang Bersama melawan peradaban target.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
+			<Text>Bentuk Perjanjian Pertahanan. Jika salah satu anggota Aliansi diserang, semua anggota akan secara otomatis menyatakan perang terhadap penyerang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Bentuk Aliansi dengan Sekutu yang Dinyatakan. Sekutu tidak dapat berperang, secara otomatis memiliki Perbatasan Terbuka, dan masing-masing akan menerima Casus Belli terhadap peradaban penyerang jika salah satu sekutunya kehilangan kota.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
+			<Text>Bentuk Kedutaan Besar permanen dengan kekuatan ini. Jika diterima, penerima akan menjadi sedikit lebih ramah, Anda akan mendapatkan tingkat Akses, dan ibu kota [ICON_Capital] penerima akan terungkap.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
+			<Text>Minta hadiah diplomatik dari negara adidaya ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
+			<Text>Minta izin kepada kekuatan ini untuk memungkinkan unit-unit Anda melewati wilayah yang mereka kuasai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
+			<Text>Minta bantuan ini untuk hadiah diplomatik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
+			<Text>Digunakan untuk secara resmi menyatakan ketidakpuasan Anda terhadap kekuasaan ini. Deklarasi perang secara resmi (dengan atau tanpa Casus Belli) dapat dilakukan setelah 5 giliran tambahan berlalu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+			<Text>Digunakan untuk segera memulai perang. Hukuman bagi provokator perang ditingkatkan sebesar 50%.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
+			<Text>Negosiasi kesepakatan untuk mengakhiri perang saat ini dengan kekuatan ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
+			<Text>Kirimkan delegasi dengan hadiah [ICON_Gold] Emas untuk kekuatan ini. Jika diterima, penerima akan menjadi sedikit lebih ramah dan Anda akan mendapatkan tingkat Akses. Berlangsung hingga Anda mendapatkan Layanan Diplomatik Sipil. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
+			<Text>Secara resmi nyatakan niat Anda untuk mempertahankan hubungan persahabatan dengan kekuatan ini. Sebagai sekutu, Anda berhak bergabung dalam Aliansi, tetapi tidak dapat menyatakan perang secara resmi terhadap kekuatan ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap pemain yang telah melaporkan Anda atau yang telah Anda laporkan setidaknya 5 giliran yang lalu. Tidak ada batasan kota mana yang dapat Anda kuasai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap kekuatan yang telah memaksa salah satu kota Anda untuk memeluk agama. Semua hukuman perang dikurangi setengah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap kekuatan yang telah merebut kota dari salah satu teman atau sekutu Anda. Tidak ada hukuman bagi pejuang perang saat membebaskan kota-kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap kekuatan yang telah merebut salah satu kota Anda. Tidak ada hukuman bagi provokator perang yang berlaku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap kekuatan yang telah menyerang salah satu negara kota sekutu Anda. Tidak ada hukuman pecinta perang untuk membebaskan negara kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap kekuatan yang tertinggal dua era teknologi di belakang Anda. Semua hukuman bagi provokator perang dikurangi setengah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Digunakan untuk mendeklarasikan perang terhadap kekuatan yang berbatasan dengan kerajaan Anda. Harus memiliki 2 kota Anda dalam jangkauan 10 ubin dari 2 kota lawan. Penalti Warmonger dikurangi sebesar 25%.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
+			<Text>Mulai negosiasi perdagangan dengan negara ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
+			<Text>Usulkan perjanjian damai dengan kekuatan ini.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
+      <Text>Pilih Teknologi</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
+      <Text>Pilih Aliansi</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
+      <Text>Pilih Target</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
+      <Text>Berapa banyak?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
+      <Text>Saya akan menerima hadiah ini.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
+      <Text>Hadiah akan memperbaiki hubungan Anda.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
+      <Text>Saya lebih memilih untuk bernegosiasi.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
+      <Text>Menuntut akan merusak hubungan Anda.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_UNFAIR">
+      <Text>Saya tidak bisa menerima, ini adalah kesepakatan yang tidak adil.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
+      <Text>Tanyakan apa yang akan diberikan pemimpin ini sebagai imbalan atas tawaran Anda.[NEWLINE]Hal ini hanya akan menambahkan item ke sisi mereka di meja perundingan.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
+      <Text>Saya tidak dapat menerima kesepakatan ini dalam keadaan apa pun.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
+      <Text>Penawaran kesepakatan pemblokiran</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_DEAL_MARK_UNACCEPTABLE">
+			<Text>Tandai item ini sebagai tidak dapat diterima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TEXT">
+			<Text>Menandai item ini sebagai tidak diterima dan menolak kesepakatan ini akan mencegah AI ini untuk pernah meminta item ini lagi. Apakah Anda ingin melanjutkan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TITLE">
+			<Text>Berhenti Bertanya?</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DEAL_REMOVE_ITEM">
+      <Text>Hapus item dari penawaran</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
+			<Text>Bagaimana dengan ini?</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
+      <Text>Saya tidak bersedia menukarnya.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
+      <Text>Saya tidak punya apa-apa yang bersedia saya tukarkan untuk itu.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
+      <Text>Mungkin di masa depan kita akan menemukan kesepakatan yang menguntungkan?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
+      <Text>Lain kali, mungkin?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
+      <Text>Saya terkejut kita tidak bisa mencapai kesepakatan.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
+      <Text>Sayang sekali.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
+      <Text>Saya tidak berani menaikkan tawaran saya lebih tinggi lagi.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
+      <Text>Betapa disayangkan.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
+      <Text>Apa gunanya harta jika tidak digunakan?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
+      <Text>Bagaimanapun caranya, kamu akan memberiku apa yang aku inginkan.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
+      <Text>Saya menerima penolakan Anda—untuk saat ini.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_EXPAND_CATEGORY">
+      <Text>Perluas kategori penawaran.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_COLLAPSE_CATEGORY">
+      <Text>Lipat kategori penawaran.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_EXPAND_CITY_INFO">
+      <Text>Perluas informasi kota.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_COLLAPSE_CITY_INFO">
+      <Text>Tutup informasi kota.</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

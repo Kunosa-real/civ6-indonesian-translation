@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Standard modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NEIGHBOR">
+			<Text>Chandragupta tidak senang karena Kerajaanmu berada di dekatnya</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NOT_NEIGHBOR">
+			<Text>Chandragupta senang karena kerajaanmu jauh dari miliknya</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_HIGH_SCIENCE">
+			<Text>Seondeok senang dengan usaha Anda di bidang Sains</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>Seondeok kecewa karena kamu mengabaikan Sains</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_PEACEFUL">
+			<Text>Robert the Bruce senang Anda menjaga perdamaian dengan tetangga Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_WARLIKE">
+			<Text>Robert the Bruce kecewa karena Anda berkelahi dengan tetangga Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_MANY_ALLIANCES">
+			<Text>Poundmaker menyetujui pembuatan aliansi Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_FEW_ALLIANCES">
+			<Text>Poundmaker tidak senang karena Anda hanya memiliki sedikit aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_HIGH_WALLS">
+			<Text>Tamar senang Anda membentengi kota Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>Tamar kecewa dengan kurangnya tembok di kota Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_GAINING_CITIES">
+			<Text>Lautaro menyetujui memenangkan tanah melalui kesetiaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>Lautaro tidak menyukai orang-orang yang tidak bisa menjamin kesetiaan rakyatnya</Text>
+		</Row>
+	</EnglishText>
+</GameData>

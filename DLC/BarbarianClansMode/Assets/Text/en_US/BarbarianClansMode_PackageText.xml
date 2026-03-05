@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BARBARIAN_CLANS_MODE_TITLE">
+			<Text>Mode Permainan Klan Barbar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLANS_MODE_TEASER">
+			<Text>Mode permainan yang menambahkan beragam kelompok dan strategi Barbar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLANS_MODE_DESCRIPTION">
+			<Text>Berisi mode permainan Klan Barbar, yang menambah keragaman pada kelompok dan strategi Barbar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

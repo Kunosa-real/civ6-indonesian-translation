@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIFFICULTY_SETTLER_NAME">
+			<Text>Pemukim</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
+			<Text>Kepala Suku</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_WARLORD_NAME">
+			<Text>Penguasa Perang</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_PRINCE_NAME">
+			<Text>Pangeran</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_KING_NAME">
+			<Text>Raja</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_EMPEROR_NAME">
+			<Text>Kaisar</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
+			<Text>Kekal</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_DEITY_NAME">
+			<Text>Dewa</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

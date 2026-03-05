@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Civs-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Suku Hyksos tiba di wilayah Nil dari daratan di sebelah timur. Teori-teori menunjukkan bahwa mereka bermigrasi tanpa perlawanan ke Mesir yang terfragmentasi secara politik atau tiba untuk menaklukkan negeri yang dilanda… yah, serangkaian wabah penyakit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Kita tahu bahwa dinasti-dinasti Mesir yang ada runtuh pada tahun 1650 SM. Dalam kekosongan kekuasaan berikutnya, Hyksos mendirikan Dinasti Kelimabelas. Meskipun mereka tetap mempertahankan kekuasaannya di wilayah tersebut selama satu abad berikutnya, penduduk asli Mesir akhirnya mengusir mereka dan menghapus semua jejak kekuasaan mereka. Semua catatan yang tercatat kemudian menggambarkan mereka sebagai penyelundup di tanah Mesir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Kepentingan Asyur dan Mesir sering berbenturan, khususnya dalam penguasaan Kanaan. Bagi orang Asiria, orang Mesir adalah orang asing yang berusaha mencampuri wilayah mereka. Orang Mesir memandang Asyur sebagai kerajaan yang kompak namun mematikan dengan aspirasi kekaisaran. Keduanya benar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Selama berabad-abad, kedua kekuatan regional ini terlibat dalam konflik proksi, kecurangan diplomatik, dan sejumlah besar pertikaian khopesh, namun baru pada tahun 671 SM semuanya mencapai puncaknya. Mesir, yang saat itu diperintah oleh Kerajaan Nubia Kush, kemudian ditaklukkan oleh raja Asiria Esarhaddon. Mesir akan tetap menjadi bawahan Asyur selama 50 tahun ke depan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika putra Cyrus Agung, Cambyses II, berusaha mengikat masa depan Persia dan Mesir melalui pernikahan pada tahun 526 SM, Firaun Amasis mengirim putri yang masih hidup dari sebuah keluarga yang ia perintahkan untuk dibunuh, dengan mengklaim bahwa dia adalah darahnya sendiri. Putri palsu itu segera menjelaskan tipu muslihat firaun kepada raja Persia, karena hampir tidak mungkin mengajak seseorang yang mempunyai rencana konyol jika Anda telah membunuh seluruh keluarga mereka. Cambyses segera menyerbu dan menaklukkan Mesir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Mesir tetap berada di bawah kendali Achaemenid selama lebih dari satu abad. Kematian Darius II pada tahun 404 SM menyebabkan pemberontakan di Mesir, dan pada saat itu Persia menghabiskan waktu puluhan tahun berjuang untuk mendapatkan kembali kendali atas satrapy mereka yang hilang. Mesir menahan serangan Achaemenids sampai tahun 343 SM, ketika Artaxerxes III tiba dengan 350.000 tentara berpengalaman dan segera mengusir dinasti Mesir terakhir dari negara tersebut. Persia akan mempertahankan Mesir yang relatif stabil selama satu dekade--sampai kedatangan Alexander Agung.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_1">
+			<Text>Untuk menyenangkan orang-orang Mesir yang diduduki Persia, Alexander Agung menginvasi Mesir pada tahun 332 SM dan mengklaimnya sebagai wilayah Makedonia. Kebencian yang masih ada dapat diredakan ketika oracle di Memphis menamainya putra dewa Amun yang masih hidup. Dia meninggalkan pahlawan penakluk satrap baru Makedonia, dengan kekayaan Mesir mendukung penaklukan lebih lanjut ke timur. Setelah kematiannya pada tahun 322 SM, jenderal kepercayaan Alexander, Ptolemeus, mengambil alih urusan Mesir. Krisis suksesi di kekaisaran Alexander yang hancur membuat Mesir menjadi sebuah bagian yang sangat besar dan mandiri--kini diperintah oleh orang yang mendeklarasikan dirinya sebagai Raja Ptolemy I Soter.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_2">
+			<Text>Mesir pada masa Ptolemeus bertahan selama tiga abad, meskipun kemundurannya dimulai jauh lebih awal. Penguasa yang semakin lemah menyebabkan keputusan-keputusan yang picik. Perpaduan antara garis keturunan firaun terbaik di Makedonia dan Mesir yang telah berumur ribuan tahun kini berubah menjadi protektorat Republik Romawi yang baru berdiri, yang bertugas memberi makan banyak legiunnya. Namun, akhir sebenarnya dari Ptolemeus Mesir adalah kematian Cleopatra pada tahun 30 SM.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_1">
+			<Text>Republik Romawi yang baru berkuasa mempunyai keinginan untuk melakukan penaklukan. Hal ini membutuhkan sumber makanan yang dapat diandalkan, baik untuk pasukan yang bergerak maupun banyak orang yang tinggal di wilayahnya. Ketika Mesir – lumbung pangan Mediterania – menghadapi kekalahan yang sangat sulit di tangan Makedonia dan Kekaisaran Seleukia, Roma mengambil kesempatan untuk mendeklarasikan aliansi. Ketika tahun-tahun berlalu dan Mesir terus melemah, Roma menjadi semakin penting sampai Mesir yang sangat lemah menyadari bahwa urusannya sendiri menjadi perhatian para dalang Romawi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_2">
+			<Text>Apa yang membuat Roma menyerang protektoratnya sendiri dirinci dalam kisah Cleopatra, namun tindakan tersebut secara efektif mengakhiri tiga milenium pemerintahan dinasti Mesir. Dengan cepat ditingkatkan statusnya menjadi provinsi Romawi, Mesir memberi makan Roma hingga akhirnya dibubarkan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Mesir mengalami cukup banyak konflik dengan suku-suku Libya sehingga membangun benteng pesisir pada abad ke-13 SM. Membentang jauh di barat Delta Nil, benteng ini dapat menunda serangan Libya dari barat dan memperingatkan ibu kota akan adanya invasi. Begitulah teorinya. Benteng tersebut tentu saja tidak efektif pada tahun 1208 SM ketika suku Libu memimpin pasukan Libya untuk menyerang Delta Nil, bersama dengan bantuan Masyarakat Laut yang misterius. Tidak masalah jika Mesir dengan cepat menangkis invasi tersebut. Serangan langsung ke jantung Mesir merupakan pelajaran berharga bagi warga Libya yang masih hidup.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Setelah berpuluh-puluh tahun konflik sengit antara Libya dan Mesir, suku Berber Libya yang dikenal sebagai Meshwesh mengambil pelajaran ini dalam hati. Mereka mengumpulkan sekutunya, termasuk Masyarakat Laut, dan menyerbu pada tahun 1181 SM. Mesir menahan pasukannya dan berbaris di tepi Sungai Nil dengan pemanah untuk melempari penjajah Masyarakat Laut. Invasi tahun 1175 SM yang hanya dipimpin oleh Meshwesh membawa mereka pada kekalahan telak, pengasingan, dan kemudian dimasukkan ke dalam Mesir.</Text>
+		</Row>
+		<!-- City States -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ASHMUNEIN_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Dulu merupakan bagian dari Kerajaan Lama Mesir, kota Ashmunein sekarang terletak di perbatasan Mesir Hulu dan Mesir Hilir.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BAHARIYA_CHAPTER_HISTORY_PARA_1">
+			<Text>“Di sebelah barat Delta Nil adalah oasis Bahariya. Dengan akses tersebut, kami dapat berdagang dengan suku-suku Libya.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BYBLOS_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Kota pohon aras telah ada lebih lama dari pada penduduk Sungai Nil. Hanya barang-barang terbaik yang mengalir melaluinya.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DAKHLA_CHAPTER_HISTORY_PARA_1">
+			<Text>“Oasis Dakhla terletak jauh di Gurun Barat. Ini merupakan perhentian penting bagi para pedagang yang berkelana jauh dari aliran Sungai Nil.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IHNASIYA_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Ihnasiya, Rumah Anak Kerajaan, diduga menjadi ibu kota Mesir Hilir sejak runtuhnya Kerajaan Lama.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IREM_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Bertengger di Sungai Nil di luar Katarak Keenam, daerah terpencil Irem terkenal dengan perdagangan gadingnya.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KHARGA_CHAPTER_HISTORY_PARA_1">
+			<Text>“Banyak emas mengalir melalui Kharga. Oasis penting ini terletak di barat laut Katarak Pertama.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NEKHEN_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Firaun Khasekhemwy memperbaiki Nekhen ketika masih menjadi bagian dari Kerajaan Lama Mesir. Lukisan makamnya merupakan pemandangan yang menginspirasi.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ON_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Piramida Kerajaan Lama Mesir membayangi kota On, dekat ujung Sungai Nil dan delta sungai Nil.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PUNT_CHAPTER_HISTORY_PARA_1">
+			<Text>“Rempah-rempah dari timur melewati kota Punt. Sumber perdagangan di Laut Merah merupakan mitra yang berharga untuk dimiliki.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHARUHEN_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Kamu ingin berdagang dengan Palestina? Sharuhen mengendalikan rute seperti singa di oasis. Yang terbaik adalah menangani mereka ketika mereka sudah kenyang.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SERABIT_EL_KHADIM_CHAPTER_HISTORY_PARA_1">
+			<Text>“Kota pertambangan Serabit el-Khadim diberkati dengan kekayaan yang diambil dari bumi. Sekutu mereka mendapatkan keuntungan dari kelebihan tersebut.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THINIS_CHAPTER_HISTORY_PARA_1">
+			<Text>“Dinasti firaun tertua mengklaim Thinis sebagai ibu kota Mesir. Kota ini tetap menjadi pintu gerbang menuju oasis penting di Gurun Barat.”</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_1">
+			<Text>Cambyses II adalah putra Cyrus Agung. Ia menaklukkan Mesir pada pertempuran Pelusium pada tahun 525 SM, namun kurang berhasil ketika ia mencoba untuk mendorong kampanyenya ke hulu Sungai Nil hingga ke Nubia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_1">
+			<Text>Asurbanipal mewarisi Kekaisaran Asyur pada tahun 668 SM, saat Nubia memerintah Mesir. Dalam serangkaian kampanye, pasukannya mengusir Nubia keluar dari Mesir sehingga memungkinkan dia menjarah kekayaan Thebes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Alexander Agung menaklukkan Mesir pada tahun 332 SM, membebaskannya dari kekuasaan Persia dan mendirikan Aleksandria sebagai ibu kota Mesir Ptolemeus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Masa pemerintahan Osorkon selama tiga puluh lima tahun di Mesir dimulai pada tahun 922 SM, menjadikannya salah satu orang Libya terbesar yang memerintah Mesir sebagai bagian dari Dinasti ke-22.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_1">
+			<Text>Raja Sakir-Har disebut-sebut sebagai salah satu dari tiga penguasa pertama Dinasti ke-15 Mesir, pada masa dominasi Hyksos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Oktavianus, yang kemudian dikenal sebagai Augustus Caesar yang perkasa, mengalahkan pasukan Mark Antony dan Cleopatra di Pertempuran Actium pada tahun 31 SM. Segera setelah itu ia mendaratkan pasukan di Aleksandria dan menjadikan Mesir sebagai provinsi Romawi terbaru.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIGH_PRIESTESS_CHAPTER_HISTORY_PARA_1">
+			<Text>Para pendeta tinggi menjunjung tinggi tradisi keagamaan dan memelihara kuil-kuil di sepanjang Sungai Nil. Mereka mempunyai pengaruh besar di kalangan masyarakat Nil, dan kadang-kadang mempunyai kekuasaan yang lebih besar dibandingkan garis keturunan kerajaan Nubia dan dinasti Mesir. Para penguasa di kemudian hari akan belajar untuk tidak menaruh sebagian besar kekayaan negaranya pada bangunan-bangunan yang dikendalikan oleh para pendeta.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDJAY_CHAPTER_HISTORY_PARA_1">
+			<Text>Dulunya mengacu pada orang-orang dari tanah Medja di Nubia, pada abad ke-16 SM nama “medjay” identik dengan pasukan elit yang mempekerjakan orang Nubia dan Mesir. Ditugaskan melindungi monumen, istana, dan makam, medjay yang sebagian besar otonom melapor kepada kapten daerah yang mengawasi alokasinya.</Text>
+		</Row>
+		<!-- NPC Civs -->
+		<!-- Buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OBELISK_CHAPTER_HISTORY_PARA_1">
+			<Text>Sepasang pilar batu besar ini biasa diapit di pintu masuk kuil-kuil di kawasan Sungai Nil. Pada Milenium Kedua SM mereka dikaitkan dengan dewa matahari Ra (kemudian Amun, dan akhirnya Amun-Ra). Mengukir obelisk sebagai satu kesatuan, memindahkannya, dan akhirnya mengangkatnya ke tempatnya merupakan prestasi teknik kuno yang mengesankan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUBIAN_SHRINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kuil-kuil kecil tersebar di wilayah Nil, didedikasikan untuk para dewa dan orang-orang yang dianggap saleh—walaupun orang-orang yang dianggap saleh—walaupun orang-orang tersebut tampak religius, namun dedikasi semacam itu tentu saja bersifat politis. Kuil-kuil ini berisi artefak keagamaan dan dihadiri oleh para pendeta yang ditugaskan di sana dan para penjaga yang mengusir pencuri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TEMPLE_AMUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Untuk memahami pentingnya dewa Amun bagi wilayah Nil, lihatlah kuilnya. Kuil Amun di Karnak sangat luas sehingga bisa menampung lima Piramida Besar. Kuil Amun di Jebel Barkal di Nubia mungkin akan mencapai kemegahan seperti itu, jika orang Romawi tidak menghancurkannya pada tahun 25 SM.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NILOMETER_CHAPTER_HISTORY_PARA_1">
+			<Text>Penduduk Lembah Nil bergantung pada banjir tahunan (atau “genangan”) untuk kelangsungan hidup mereka. Nilometer yang cerdik mengukur ketinggian air banjir: terlalu tinggi, dan orang-orang bisa memperkirakan akan terjadi banjir yang berbahaya. Terlalu rendah, mereka akan mengalami kelaparan. Angka yang berada di antara angka tersebut menunjukkan musim yang relatif makmur.</Text>
+		</Row>
+		<!-- Terrain/Features-->
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CATARACT_CHAPTER_HISTORY_PARA_1">
+			<Text>Enam katarak sungai Nil bervariasi antara dangkal dan deras. Tergantung pada ketinggian air, katarak dapat diseberangi dengan mengarungi atau dengan perahu. Secara tradisional, Mesir mengklaim bagian Sungai Nil di utara Katarak Pertama, sedangkan Nubia mengklaim bagian di selatan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_NILE_RIVER_CHAPTER_HISTORY_PARA_1">
+			<Text>Mengalir dari Afrika tengah bagian timur ke delta utara di Laut Mediterania, genangan yang sering terjadi di dataran banjir Nil membawa kehidupan ke daerah gurun yang tadinya tidak ramah.  Tanpa Sungai Nil, Mesir dan Nubia tidak akan pernah ada.</Text>
+		</Row>
+		<!-- Techs -->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FISHING_CHAPTER_HISTORY_PARA_1">
+			<Text>Dengan tombak yang diarahkan dengan baik, orang-orang yang bergantung pada Sungai Nil untuk menopang kehidupan mereka dapat memancing untuk mencari makan. Sebuah kail sederhana, umpan, dan tali pancing di tangan sudah cukup untuk memberi makan keluarga mereka. Namun, jaring ikan menyebabkan pengumpulan ikan dalam jumlah besar diperlukan untuk memberi makan seluruh kota.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDICINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Meskipun metodenya kasar, pengetahuan medis di wilayah Nil ternyata sangat komprehensif. Pengetahuan anatomi yang luas mengarah pada praktik higienis, pengetahuan bedah, dan mantra melawan setan yang dianggap menyebarkan penyakit. Pada tahun 1550 SM, sebuah papirus medis mengidentifikasi kanker sebagai “tumor yang melawan dewa Xenus”. Sayangnya, tidak ada pengobatan yang diketahui.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika kekayaan masyarakat Nil meningkat, rasa iri tetangga mereka pun meningkat. Akibatnya, orang Mesir dan Nubia membangun benteng permanen setidaknya sejak Milenium Kedua SM. Permukiman benteng ini biasanya memiliki tembok bata lumpur yang besar, memungkinkan mereka untuk melakukan kontrol di titik-titik strategis Sungai Nil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_TOMB_BUILDING_CHAPTER_HISTORY_PARA_1">
+			<Text>Masyarakat Nil yang mampu membiayai menguburkan jenazah mereka, karena alasan agama dan praktis. Entah itu makam sederhana, piramida Mesir yang besar, atau piramida Nubia yang tidak terlalu mencolok, lapisan batu dan tanah yang tebal melindungi keberadaan anumerta seseorang dan koleksi barang-barang kuburan yang berlimpah.</Text>
+		</Row>
+		<!-- Civics -->
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_ROYAL_DYNASTIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Secara konseptual, dinasti kerajaan itu sederhana—penguasa mengalihkan kekuasaan kepada keturunan yang lahir dari garis keturunan penguasa, sehingga mempertahankan standar konsolidasi kekuasaan yang konsisten. Mesir sangat menikmati konsep stabilitas yang telah terbukti ini sehingga mereka memiliki 30 dinasti kerajaan yang berbeda hingga tahun 343 SM, ketika Artaxerxes dari Persia secara agresif memperkenalkan mereka pada konsep satrapies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_HIEROGLYPHICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Jika Anda ingin kata-kata Anda bertahan selamanya, mengapa tidak mengatakannya secara langsung? Demikianlah pemikiran orang Mesir kuno, yang logogramnya masih ada setelah empat milenium. Kerajaan Meroë mengembangkan variasi yang jauh lebih mudah dipahami, yang masih terlihat pada monumen dan makam Nubia yang dibangun setelah abad ke-2 SM.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MUMMIFICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Praktik penguburan masyarakat Nil berupaya mengawetkan orang yang meninggal melalui proses mumifikasi. Proses ini membuang organ dalam, mencuci bagian dalam dengan rempah-rempah, dan menyegel mayat dalam garam selama beberapa bulan, yang membuat tubuh dehidrasi dan membuatnya tahan terhadap serangga lapar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SCRIBES_CHAPTER_HISTORY_PARA_1">
+			<Text>Ketika peradaban Anda memuja dewa pengetahuan, tulisan, dan matematika, orang-orang yang dipercayakan untuk membaca, menulis, dan ‘berhitung’ dianggap sebagai kasta yang memiliki hak istimewa. Hal serupa terjadi pada para ahli Taurat di wilayah Nil—orang Mesir bahkan menganggap mereka sebagai anggota istana.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOOK_OF_THE_DEAD_CHAPTER_HISTORY_PARA_1">
+			<Text>Buku Orang Mati adalah kumpulan instruksi penguburan yang menawarkan nasihat praktis untuk perawatan mayat dan mantra ritual yang dirancang untuk memandu orang yang baru meninggal melewati Dunia Bawah. Mereka yang mampu untuk menugaskannya menyimpan salinannya di makam mereka—sebuah manual instruksi kehidupan setelah kematian yang tersedia dengan mudah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_INSTITUTION_OF_THE_MUSES_CHAPTER_HISTORY_PARA_1">
+			<Text>Didirikan sekitar abad ketiga SM, “Institusi Muses” di Alexandria menyatukan para pemikir ilmiah, artistik, dan filosofis yang paling cerdas untuk mengajar, mencipta, dan mengembangkan filosofis. Mirip dengan konsep universitas modern, “Musaeum” mungkin pernah menjadi tuan rumah bagi Archimedes muda (sebelum momen Eureka miliknya).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SEPATS_CHAPTER_HISTORY_PARA_1">
+			<Text>Peradaban yang melintasi jalur Sungai Nil tidak dapat dengan mudah mengatur setiap bagian wilayah mereka dari satu lokasi pusat. Masyarakat Nil menyelesaikan masalah ini dengan sepat, atau “nomes”, sebagaimana kemudian disebut oleh kaum Ptolemeus yang berbahasa Yunani. Distrik administratif ini bertanggung jawab atas setiap segmen Sungai Nil atau sebagian Delta Nil. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOARDGAMES_ATHLETICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Masyarakat Nil mengembangkan permainan papan dan atletik sebagai perpanjangan tangan dari perang. Subyek yang bisa berlomba, bergulat dengan lawan, dan menyerang sasaran jauh dengan batu atau anak panah bisa menerapkan pelajaran tersebut dalam perang. Demikian pula, mereka yang bisa mengecoh lawan di senet atau mehen bisa memahami pentingnya siasat di medan perang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AMUN_LORD_OF_ALL_GODS_CHAPTER_HISTORY_PARA_1">
+			<Text>Amun, dewa pelindung Thebes, sangat penting bagi masyarakat Nil. Dewa angin akhirnya diakui sebagai raja para dewa oleh orang Mesir dan kemudian orang Nubia. Berpikir untuk memperjuangkan semua yang baik dan adil, ia diyakini membela orang-orang yang tertindas dari orang-orang yang berbuat salah terhadap mereka.</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1">
+			<Text>Masyarakat Nil memperoleh kekayaan besar dari bijih emas di tanah mereka. Meskipun Mesir mengklaim banyak sumber emas, para firaun dan pendetanya selalu haus akan lebih banyak emas. Tambang emas Nubia yang berlimpah di selatan selalu menjadi titik pertikaian antara kedua peradaban tersebut--Mesir menginginkannya, dan Nubia menolak menyediakannya.</Text>
+		</Row>
+		<!-- Governments -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_KANDAKE_CHAPTER_HISTORY_PARA_1">
+			<Text>Para penguasa Nubia mempraktikkan pemerintahan bersama antara suami dan istri kerajaan. Seorang kandake, atau ratu, memiliki kekuasaan yang sama atau lebih besar dengan suaminya, dengan bentuk hak veto yang tertinggi—jika raja tidak menyenangkan kandake, dia dapat memerintahkan suaminya untuk bunuh diri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PHARAOH_CHAPTER_HISTORY_PARA_1">
+			<Text>Garis panjang raja-raja Mesir menyandang gelar firaun, yang secara kasar berarti &quot;Rumah Besar&quot;. Para penguasa ini mempunyai kekuasaan yang hampir absolut di Mesir, meskipun kekuasaan ini berkurang selama ribuan tahun ketika para imam besar Mesir terbukti mampu mengimbangi otoritas Firaun.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1">
+			<Text>“Kuil yang besar akan memberikan lebih dari sekedar mengesankan tetangga kita—itu akan menyatakan keutamaan kita kepada semua orang yang mengamatinya. Seiring berjalannya waktu, tetangga kita akan menerima hal ini tanpa ragu.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FRONTIER_FORTRESSES_CHAPTER_HISTORY_PARA_1">
+			<Text>“Seiring dengan bertambahnya kekayaan kita, musuh pun juga akan ingin mengambilnya dari kita. Serangkaian benteng yang dibangun di tepi peradaban kita akan memperingatkan kita akan adanya pasukan yang mendekat.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INUNDATION_CALENDAR_CHAPTER_HISTORY_PARA_1">
+			<Text>“Sungai Nil membawa kehidupan dan kematian. Mengetahui kapan banjir tahun ini tiba memungkinkan kita untuk memprediksi banjir tahun depan. Lebih banyak nyawa, lebih sedikit kematian.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MERCENARIES_CHAPTER_HISTORY_PARA_1">
+			<Text>“Perawatan pasukan sangatlah mahal. Untuk sementara kita dapat melengkapi pasukan kita dengan tentara bayaran dengan biaya yang lebih murah – dan jika kita membeli layanan mereka terlebih dahulu, musuh kita tidak akan bisa melakukannya.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_COMMUNICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>“Tidak ada gunanya kita mengirim tentara ke gurun pasir jika mereka tidak bisa mengkoordinasikan gerakan mereka. Kereta cepat kita bisa menyampaikan pesan penting kepada komandan kita.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MUSAEUM_CHAPTER_HISTORY_PARA_1">
+			<Text>“Kita telah lama mendapatkan manfaat dari penemuan-penemuan ilmiah. Membayar para sarjana untuk berkumpul dan menemukan hasil dari kebun intelektual mereka.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_RECORDKEEPING_CHAPTER_HISTORY_PARA_1">
+			<Text>“Catatan yang cermat memungkinkan juru tulis kami melacak disposisi tentara kami dan perbekalan mereka. Beberapa khopesh akan hilang dari kereta kami.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROYAL_BODYGUARDS_CHAPTER_HISTORY_PARA_1">
+			<Text>“Ini adalah kenyataan yang menyedihkan bahwa beberapa orang akan merugikan keluarga kerajaan kita. Kita harus melindungi mereka dengan kader tentara yang setia kepada mahkota.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCORPION_KING_CHAPTER_HISTORY_PARA_1">
+			<Text>“Mengapa kita harus berperang hanya ketika panen sudah selesai? Jika kita memberi makan dan berperang pada sekelompok tentara, kita dapat menyatukan tanah kita kapan pun waktunya.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRADE_AGREEMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>“Pedagang kami telah lama berdagang di wilayah terpencil. Sebuah perjanjian formal akan mengisi pundi-pundi kami dan mencegah tetangga asing kami berperang.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_VALLEY_OF_THE_KINGS_CHAPTER_HISTORY_PARA_1">
+			<Text>“Setelah perjalanan mereka dari dunia ini ke dunia berikutnya, kami menyimpan harta karun di makam para pemimpin kami. Yang terbaik adalah melakukannya di lokasi yang dapat kami jaga terus-menerus.”</Text>
+		</Row>
+		<!-- Beliefs -->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_CREATION_ATUM_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Atum, dewa pertama, menciptakan dirinya dari jurang air. Ramalan menyatakan dia akan hadir di akhir dunia.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WATERY_ABYSS_NUN_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Nun, jurang berair, adalah kumpulan tak berbentuk yang menjadi sumber semua ciptaan.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_MUMMIFICATION_ANUBIS_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Anubis, dewa mumifikasi berkepala anjing, mengantar jiwa ke akhirat. Dia mengawasi kuburan dan makam.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_THE_OASES_ASH_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Ash, dewa oasis, mengawasi pulau kehidupan yang ditemukan di gurun yang keras. Dia memakai kepala binatang yang terhubung dengan Set.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WAR_APEDEMAK_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Apedemak, dewa perang, memperjuangkan rakyat Nubia. Dia berkepala singa—kadang berkepala tiga.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GODDESS_OF_FERTILITY_ISIS_CHAPTER_HISTORY_PARA_1">
+			<Text>“Isis, dewi kesuburan, memberikan lebih dari sekedar berkahnya bagi keturunannya. Memang benar, banjir tahunan Sungai Nil disebabkan oleh air matanya.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GUARDIAN_GOD_SEBIUMEKER_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Sebiumeker, Dewa Penjaga Kush kuno, melindungi kuil Nubia dari penyelundup.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_HOUSE_GOD_BES_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Bes, dewa rumah, melindungi berbagai rumah tangga dari ular. Dia memiliki wajah seperti singa.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_LORD_OF_ALL_GODS_AMUN_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Amun, penguasa semua dewa, telah berkembang sedemikian pentingnya sehingga semua dewa lain dipandang sebagai aspek dari dirinya.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_PROTECTOR_OF_THE_PHARAOHS_HORUS_CHAPTER_HISTORY_PARA_1">
+			<Text>&quot;Horus, pelindung para firaun, adalah putra Isis dan Osiris. Dia berkepala elang—cocok untuk dewa langit.&quot;</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_POSITIVE">
+			<Text>Mereka senang Anda berbagi begitu banyak informasi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_NEGATIVE">
+			<Text>Mereka tidak senang karena mereka tidak bisa mendapatkan gosip dari Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_GOLDEN_AGE">
+			<Text>Mereka senang melihat Anda di Zaman Keemasan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_DARK_AGE">
+			<Text>Mereka kecewa Anda berada di Zaman Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_DARK_AGE">
+			<Text>Mereka mendukung saat Anda melewati Zaman Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Mereka iri dengan Zaman Keemasan Anda</Text>
+		</Row>
+		<!-- Troops on border pledge modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PLEDGE">
+			<Text>Kami melanggar janji kami untuk memindahkan pasukan kami dari perbatasan mereka</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PLEDGE">
+			<Text>Kami menepati janji kami untuk memindahkan pasukan kami dari perbatasan mereka</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NO_PLEDGE">
+			<Text>Kami memutuskan untuk tidak berjanji memindahkan pasukan kami dari perbatasan mereka</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_EMERGENCY">
+			<Text>Kami bergabung dalam keadaan darurat melawan orang yang sama</Text>
+		</Row>
+	</EnglishText>
+</GameData>

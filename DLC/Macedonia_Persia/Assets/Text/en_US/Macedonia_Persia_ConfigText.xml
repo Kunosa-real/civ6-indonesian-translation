@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_MACEDON_NAME">
+			<Text>Makedonia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
+			<Text>Perpaduan Helenistik</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
+			<Text>Dapatkan peningkatan setelah penaklukan kota: [ICON_TechBoosted] Eureka untuk setiap Perkemahan atau Kampus di kota yang ditaklukkan dan Inspirasi [ICON_CivicBoosted] untuk setiap Situs Suci atau Lapangan Teater.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PERSIA_NAME">
+			<Text>Persia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+			<Text>satrapies</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Kapasitas Jalur Dagang dengan Filsafat Politik Kewarganegaraan. Dapatkan +2 [ICON_Gold] Emas dan +1 [ICON_Culture] Budaya untuk rute antar kota Anda sendiri. Jalan yang dibangun di wilayah Anda satu tingkat lebih maju dari biasanya.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Alexander</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>Ke Ujung Dunia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>Kota tidak mengalami kelelahan akibat perang. Semua unit militer pulih sepenuhnya ketika pemain ini merebut kota dengan keajaiban dunia.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CYRUS_NAME">
+			<Text>Cyrus</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
+			<Text>Jatuhnya Babylon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Gerakan untuk 10 putaran pertama setelah mendeklarasikan Perang Kejutan terhadap peradaban besar. Tidak ada penalti terhadap hasil panen di kota-kota yang diduduki. Menyatakan Perang Kejutan hanya dianggap sebagai Perang Formal yang bertujuan untuk menghasut perang dan kelelahan akibat perang.</Text>
+		</Row>
+		<!-- Building Info-->
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Basilikoi Dibayar</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Makedonia.+25% pengalaman tempur untuk semua unit darat jarak dekat, jarak jauh, dan Hetairoi yang dilatih di kota ini. Keuntungan [ICON_SCIENCE] Sains setara dengan 25% biaya unit ketika unit non sipil dibuat di kota ini.[NEWLINE][NEWLINE]Tidak boleh dibangun di distrik Perkemahan yang sudah memiliki Kandang.</Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>berpasangan</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Pairidaeza, unik untuk Persia.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Budaya dan +2 [ICON_GOLD] Emas. +1 Banding. +1 [ICON_CULTURE] Budaya untuk setiap Situs Suci dan Lapangan Teater yang berdekatan. +1 [ICON_GOLD] Emas untuk setiap Pusat Komersial dan Pusat Kota yang berdekatan. Tambahan [ICON_Culture] Budaya dan [ICON_Tourism] Pariwisata seiring kemajuan Anda melalui Teknologi dan Civics Pohon. Tidak dapat dibangun di atas Salju, Tundra, Bukit Salju, atau Bukit Tundra atau berdekatan dengan Pairidaeza lainnya.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
+			<Text>Hippastis</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
+			<Text>Hetairoi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+			<Text>Kekal</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+			<Text>Unit jarak dekat unik Makedonia yang menggantikan Pendekar Pedang. +5 [ICON_Strength] Kekuatan Tempur saat mengepung distrik. Bonus Dukungan Tambahan 50%.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+			<Text>Unit kavaleri berat unik Makedonia yang menggantikan Penunggang Kuda. Tambahan +5 [ICON_Strength] Kekuatan Tempur saat berdekatan dengan Jenderal Besar. +5 Poin Jenderal Hebat saat membunuh unit musuh. Dimulai dengan 1 Promosi gratis.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+			<Text>Unit jarak dekat unik Persia yang menggantikan Pendekar Pedang. Unit kelas jarak dekat dengan serangan jarak jauh, [ICON_Range] Jangkauan 2. Kekuatan pertahanan yang kuat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
+			<Text>+5 saat mengepung sebuah distrik</Text>
+		</Row>
+		<Row Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 Bonus Tempur dari Jenderal Besar yang berdekatan</Text>
+		</Row>
+		<!-- Expansion 1 -->
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Gerakan untuk 10 putaran pertama setelah mendeklarasikan Perang Kejutan terhadap peradaban besar. +5 Loyalitas per giliran di kota-kota yang diduduki dengan unit garnisun. Menyatakan Perang Kejutan hanya dianggap sebagai Perang Formal yang bertujuan untuk menghasut perang dan kelelahan akibat perang.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
+			<Text>Saat menaklukkan kota yang bukan Kota Bebas, terimalah [ICON_TechBoosted] Eureka untuk setiap Perkemahan atau Kampus di kota yang ditaklukkan dan [ICON_CivicBoosted] Inspirasi untuk setiap Situs Suci atau Lapangan Teater.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur saat mengepung distrik.[NEWLINE][ICON_Bullet] +50% Bonus Dukungan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur saat berdekatan dengan Jenderal Besar.[NEWLINE][ICON_Bullet] +5 Poin Jenderal Besar saat membunuh unit musuh.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% pengalaman dalam Pertempuran dari Basilikoi Paides.</Text>
+		</Row>
+		<!-- Expansion 2 -->
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Gerakan untuk 10 putaran pertama setelah mendeklarasikan Perang Kejutan terhadap peradaban besar. +5 Loyalitas per giliran di kota-kota yang diduduki dengan unit garnisun. Menyatakan Perang Kejutan hanya dianggap sebagai Perang Formal untuk tujuan [ICON_STAT_GRIEVANCE] Keluhan dan penghasutan perang.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Makedonia.+25% pengalaman tempur untuk semua unit darat jarak dekat, jarak jauh, dan Hetairoi yang dilatih di kota ini. Mendapatkan [ICON_SCIENCE] Sains setara dengan 25% biaya unit ketika unit non sipil dibuat di kota ini.[NEWLINE][NEWLINE]Stok Sumber Daya Strategis ditingkatkan +10 (pada Kecepatan Standar).[NEWLINE][NEWLINE]Tidak boleh dibangun di distrik Perkemahan yang sudah memiliki Kandang.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Name and Description-->
+		<Row Tag="LOC_BALANCEDMAPS_NAME">
+			<Text>Peta Seimbang Resmi</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_DESCRIPTION">
+			<Text>Peta yang seimbang dan sangat ideal untuk pertandingan multiplayer.</Text>
+		</Row>
+		<!--Map Name-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
+			<Text>Peta Seimbang</Text>
+		</Row>
+		<!--Map Description-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
+			<Text>Peta yang seimbang dan sangat ideal untuk pertandingan multiplayer.</Text>
+		</Row>
+		<!--Map Description-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+			<Text>Daun Semanggi Berdaun Empat</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+			<Text>Peradaban dimulai di empat wilayah yang seimbang. Peta memaksa pemain menuju pusat.</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+			<Text>Bintang Salju Bercabang Enam</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+			<Text>Peradaban dimulai di enam wilayah yang seimbang, dengan Kota-Negara di pulau-pulau terdekat. Peta memaksa pemain untuk bergerak ke arah pusat.</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
+			<Text>Tanah Terjanji</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
+			<Text>Peradaban dimulai dengan lokasi awal yang seimbang dan bersaing untuk wilayah berharga di pusat peta.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

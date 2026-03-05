@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_QUOTE">
+			<Text>“Kolom api yang sangat besar dan tinggi memungkinkan orang-orang di Holt membaca dengan sempurna di malam hari seolah-olah di siang hari.”[NEWLINE]– Liverpool Mercury</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_QUOTE">
+			<Text>“Di sini basal amorf berwarna coklat tua, di sana oker merah, dan di bawahnya lagi ada garis-garis tipis namun jelas dari batu bara kayu.”[NEWLINE]– Dublin Penny Journal</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_QUOTE">
+			<Text>&quot;Di laut ini, dan di tengah kesunyian ini, muncul sebuah jalan besar yang suram—jalan yang tidak ada jejak kaki manusia. Tak seorang pun pernah lewat di sana; tidak ada kapal yang pernah masuk.&quot;[NEWLINE]– Victor Hugo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_NAME">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_NAME">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_NAME">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_NAME">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_NAME">
+			<Text>Muskat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MITLA_NAME">
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_NAME">
+			<!--Kept for backwards compatibility with saves with outdated configurations that still reference Palenque-->
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION">
+			<Text>Negara kota Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_DESCRIPTION">
+			<Text>Negara kota Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_DESCRIPTION">
+			<Text>Negara-kota Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_DESCRIPTION">
+			<Text>Negara kota Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_DESCRIPTION">
+			<Text>Negara kota Muscat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MITLA_DESCRIPTION">
+			<Text>Negara-kota Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_DESCRIPTION">
+			<!--Kept for backwards compatibility with saves with outdated configurations that still reference Palenque-->
+			<Text>Negara-kota Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_ADJECTIVE">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_ADJECTIVE">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_ADJECTIVE">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_ADJECTIVE">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_ADJECTIVE">
+			<Text>Muskat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MITLA_ADJECTIVE">
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_ADJECTIVE">
+			<!--Kept for backwards compatibility with saves with outdated configurations that still reference Palenque-->
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AUCKLAND">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTANANARIVO">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARMAGH">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRANADA">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUSCAT">
+			<Text>Muskat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PALENQUE">
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_NAME">
+			<Text>Bonus Kerajaan Auckland</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_NAME">
+			<Text>Bonus Penguasa Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_NAME">
+			<Text>Bonus Penguasa Armagh</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_NAME">
+			<Text>Bonus Penguasa Granada</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_NAME">
+			<Text>Bonus Kerajaan Muscat</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MITLA_NAME">
+			<Text>Bonus Penguasa Mitla</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION">
+			<Text>Ubin air dangkal yang Anda miliki menyediakan +1 [ICON_Production] Produksi. Tambahan +1 saat Anda mencapai era Industri.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_DESCRIPTION">
+			<Text>Peradaban Anda memperoleh +2% [ICON_Culture] Budaya untuk setiap Orang Hebat yang pernah diperolehnya, hingga total +30%.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan perbaikan Biara.[NEWLINE][NEWLINE]Biara menyediakan +2 [ICON_Faith] Iman. +15 HP penyembuhan untuk unit relijius ramah pada ubin ini yang belum menyerang pada giliran ini. Tidak dapat dibangun di sebelah Biara lain</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan peningkatan Alcázar.[NEWLINE][NEWLINE]Alcázar menyediakan +2 [ICON_Culture] Budaya. Unit yang menduduki menerima +4 [ICON_Strength] Kekuatan Pertahanan, dan secara otomatis memperoleh 2 putaran benteng. Tidak dapat dibangun di samping Alcázar lain.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas di kota-kota dengan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MITLA_DESCRIPTION">
+			<Text>Tingkat pertumbuhan kota 15% lebih tinggi di kota-kota dengan distrik Kampus.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPEAR_OF_FIONN_NAME">
+			<Text>Tombak Fionn</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPEAR_OF_FIONN_DESCRIPTION">
+			<Text>Tombak Fionn: +5 Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ALCAZAR_NAME">
+			<Text>Alcazar</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MONASTERY_NAME">
+			<Text>Biara</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Budaya Alcázar.[NEWLINE][NEWLINE]+2 [ICON_Culture]. Unit yang menduduki menerima +4 [ICON_Strength] Kekuatan Pertahanan, dan secara otomatis memperoleh 2 putaran benteng. Tidak dapat dibangun di samping Alcázar lain.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MONASTERY_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Biara.[NEWLINE][NEWLINE]+2 [ICON_Faith] Iman. +15 HP penyembuhan untuk unit relijius ramah pada ubin ini yang belum menyerang pada giliran ini. Tidak dapat dibangun di sebelah Biara lain.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

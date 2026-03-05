@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
+			<Text>Paket Peradaban Khmer dan Indonesia</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
+			<Text>Peradaban dan Pemimpin Baru - Dyah Gitarja dari Indonesia dan Jayavarman VII dari Khmer</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
+			<Text>Berisi dua peradaban baru, dua pemimpin, keajaiban dunia, keajaiban alam, dan dua peta.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
+			<Text>Skenario: Jalan Menuju Nirwana</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
+			<Text>Sebarkan iman Anda ke seluruh Asia Timur.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>Tanah di sekitar Samudra Hindia berkembang dengan banyak agama dan banyak orang. Surga telah memilih Anda untuk membawa terang ke semua negeri ini. Apakah iman Anda siap menghadapi tantangan ini? Dapatkah Anda meyakinkan orang-orang di Asia Tenggara untuk mengikuti agama Anda?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

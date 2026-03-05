@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+    <Row Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
+      <Text>Skenario: Viking, Pedagang, dan Perampok!</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGS_SCENARIO_TEASER">
+      <Text>Sebagai raja viking, bisakah Anda mengumpulkan kekayaan terbesar? Berlangsung selama 60 putaran.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION">
+      <Text>Bawa Eropa di bawah kekuasaanmu sebagai penguasa Viking terkuat dalam skenario 60 giliran ini. Bermainlah sebagai salah satu dari tiga penguasa Viking yang unik dari Denmark, Norwegia, atau Swedia dan jarah serta seranglah Eropa. Luncurkan invasi angkatan laut ke Inggris, taklukkan Paris, atau berlayarlah di sekitar Gibraltar dan serang Laut Mediterania. [Kembali ke rumah, bangunlah kerajaan dagang sambil mengumpulkan rute perdagangan dengan kota-kota yang paling menguntungkan. Dan jika Anda mengikuti sebuah agama, sebarkanlah kabar baik dan bangkitkanlah [ICON_Faith] Iman untuk orang-orang Anda.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGSLANDMARKS_TITLE">
+      <Text>Konten Viking</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGSLANDMARKS_TEASER">
+      <Text>Tiga keajaiban alam baru dan enam negara kota baru.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION">
+      <Text>Tiga keajaiban alam baru dan enam negara bagian kota baru, termasuk dua yang memberikan peningkatan ubin baru.</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

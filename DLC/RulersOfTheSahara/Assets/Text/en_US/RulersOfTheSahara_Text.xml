@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Ramses-->
+		<Row Tag="LOC_AGENDA_MAAT_NAME">
+			<Text>Ma&apos;at</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MAAT_DESCRIPTION">
+			<Text>Menghapus semua fitur dan meningkatkan semua ubin yang mungkin. Menyukai peradaban dengan persentase perbaikan ubin yang tinggi. Tidak menyukai peradaban dengan persentase perbaikan ubin yang rendah atau yang menemukan Taman Nasional.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RAMSES_ANY">
+			<Text>Saya Ramses, kekasih Amun. Setiap negara gemetar di hadapanku, ketakutan ada di dalam hati mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Tembakkan anak panahmu ke arah matahari. Pukul pedangmu melawan banjir. Ini akan mempunyai efek yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Lihatlah pasukanku, hai perkasa, dan putus asa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RAMSES_ANY">
+			<Text>Kami membangun agar nama kami tidak mati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RAMSES_ANY">
+			<Text>Apakah menurut Anda Anda bisa mengolah pasir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Kalahkan aku, tapi monumenku akan berdiri di atas kemuliaan Ramses, raja segala raja.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Sudah selesai. Kemitraan antara tanah hitam Horus dan milikmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Untuk duduk di meja yang sama? Setuju secara sederajat? Saya rasa tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Maukah Anda menjadi teman kerajaan abadi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Demikianlah yang terjadi; persatuan seperti Osiris dan Isis!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Kami tidak punya rekan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Delegasi Anda telah melihat keajaiban wilayah saya. Mereka mungkin akan sedikit sedih untuk pulang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Sisik kobra bersinar seperti permata di bawah sinar matahari. Tapi kami tidak ingin memahaminya. Begitu pula dengan hadiahmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Saya memberikan kepada Anda sekilas tentang keajaiban Mesir: permata dari emas dan lapis, gading dan tulang. Harganya banyak deben, tapi kami punya banyak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Apakah seekor serigala baru saja menggonggong?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Aku akan membiarkanmu mengoceh terus, sehingga semua orang akan mengetahui bahwa kamu gila. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RAMSES_ANY">
+			<Text>Saya mengundang Anda untuk mengunjungi tanah kami, meskipun Anda akan putus asa melihat kemegahannya, dan mengasinkan sungai dengan air mata Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RAMSES_ANY">
+			<Text>Ya</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RAMSES_ANY">
+			<Text>Saya dapat memberi tahu Anda tentang inti matahari, dan perubahan abadi sungai. Dan Anda bisa memberi tahu saya dari mana pun Anda berasal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_RAMSES_ANY">
+			<Text>Bagaimana rasanya berdiri di hadapanku? Berdiri begitu dekat dengan matahari?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Mahkota berwarna merah dan putih semakin bersinar jika dipadukan menjadi satu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_RAMSES_ANY">
+			<Text>Banjir mereda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_RAMSES_ANY">
+			<Text>Singa betina perang masih berkecamuk di seluruh negeri. Saya tidak bisa meneleponnya kembali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Sekhmet sudah cukup mabuk. Akankah kita menyetujui perdamaian?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Jelajahi tanah kami, tapi ketahuilah bahwa itu bukan milik Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Perbatasan Mesir tetap menjadi tembok batu bagi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Kami harus melewati negeri Anda dan hanya meminta agar rakyat Anda tidak memandangi pasukan kami, agar mereka tidak dibutakan oleh pancaran cahaya mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RAMSES_ANY">
+			<Text>Matahari tidak mendiami cahaya lain di langit saat ia bersinar. Jadi aku tidak bisa menahan kekuatanmu di dekatku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Aku menyangkal hal ini padamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Jadi biarlah itu ditulis. Jadi biarlah itu dilakukan.</Text>
+		</Row>
+		<!-- Sundiata Keita-->
+		<Row Tag="LOC_AGENDA_LION_OF_MALI_NAME">
+			<Text>Singa Mali</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LION_OF_MALI_DESCRIPTION">
+			<Text>Ingin menjadi peradaban dengan [ICON_Tourism] Pariwisata terbanyak, tidak menyukai mereka yang berkompetisi di [ICON_Tourism] Pariwisata.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Saya Sundiata Keita, cahaya saya melampaui pegunungan dan bersinar dari Mali ke dunia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Selama aku masih bernafas, Mali tidak akan pernah menjadi budakmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Setelah perang mulut, pedang harus memutuskan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kebijaksanaan terkandung dalam kata-kata, lagu, dan cerita – kata, lagu dan cerita Mali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Dengan orang-orang Anda, semua orang berpikir bahwa mereka mengetahui kisah nyata, namun kebijaksanaan sejati disimpan dalam ingatan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Sayangnya, kotaku, rumahku, kini menjadi tempat ayam guinea dan ayam hutan mandi dalam debu.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Seorang raja yang hebat tidak melupakan siapa pun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Seorang raja yang hebat tidak melupakan siapa pun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kamu tidak bisa memilih sanak saudaramu, tapi kita bisa memilih teman kita. aku memilihmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Perbuatan kita tidak ada artinya tanpa seorang teman yang menceritakan kisahnya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Para raja melupakan kerendahan hati mereka. Itu wajar saja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kami menghabiskan malam mendengarkan lagu-lagu griot dan memimpikan zaman para pahlawan. Yang sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Saya tidak punya waktu untuk mengawal orang asing ke sekitar kerajaan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kerajaanku belum kaya – mungkin cucu-cucuku bisa kaya. Namun kami mengirimkan kepada Anda daging domba dalam sup selai kacang, yang kami sebut tiguadege na, dan kursi dari kulit macan tutul untuk diduduki saat Anda makan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Seekor ular yang tetap tersembunyi akan menjadi tua. Anda telah mengungkapkan diri Anda sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Mereka memanggilku singa. Saya telah mendengar Anda memanggil serigala. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Di sini, Anda bisa mendengar nyanyian para griot langsung dari mulut mereka!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Sepakat!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Anda pernah mendengar lagu-lagu bergema di seluruh dataran, bukan? Bolehkah kami memberi tahu Anda sumbernya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Selamat datang, selamat datang!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kami akan mengumumkan ikatan ini kepada para prajurit yang berkumpul.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Biarkan para pemburu kembali ke sabana. Mereka lebih bahagia di sana.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ular yang terluka mungkin masih bisa menyerang. Seseorang harus membasminya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Fajar datang, dan singa tertidur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Saya mengembara di negeri ini ketika saya masih kecil, agar Anda dapat melakukannya sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Sayangnya, tidak. Ada singa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kami melakukan perjalanan jauh. Maukah kamu memudahkan perjalanan kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Prajuritmu menyimpang jauh dari tempat berburu mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ini tidak bisa kita lakukan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Saya senang untuk menyetujuinya.</Text>
+		</Row>
+		<!-- Cleopatra Alt-->
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FOOD">
+			<Text>Mereka senang melihat peradaban lain yang cukup makan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FOOD">
+			<Text>Mereka tidak menyukai peradaban dengan makanan rendah</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PREFER_FOOD_NAME">
+			<Text>Basil seperti Ge</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PREFER_FOOD_DESCRIPTION">
+			<Text>Mencoba membangun [ICON_Food] Makanan, dan menyukai peradaban yang juga fokus pada [ICON_Food] Makanan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>Semua cita-cita kita yang agung dimulai dengan sepotong roti, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_ALT_REASON_ANY">
+			<Text>(Anda kuat dalam produksi pangan)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>Kudengar orang-orangmu membuat bubur dari abu dan ranting. Katakan padaku, apakah itu benar?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_ALT_REASON_ANY">
+			<Text>(Produksi makananmu kurang)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FOOD">
+			<Text>Saya terkesan dengan seberapa baik Anda memberi makan rakyat Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_FOOD">
+			<Text>Anda tidak berbuat banyak untuk mencegah pertumbuhan populasi Anda. Apa yang dimakan orang-orangmu?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang bangsawan Lituania dan penganut Calvinis, Mikołaj si Hitam selalu mengetahui ambisi. Dia memanfaatkan perselingkuhan sepupunya Barbara dengan Raja Polandia Sigismund II untuk meningkatkan kekayaan pribadinya. Aliansi dengan sepupunya, Mikołaj si Merah, semakin meningkatkan pengaruh keluarganya di kalangan bangsawan Lituania.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_2">
+			<Text>Pandangan Mikołaj tentang Polandia dan hubungannya dengan Lituania sangatlah kompleks. Meskipun ia sangat mendukung kedaulatan Lituania dan menentang pembentukan persatuan Polandia-Lithuania, ia juga mendesak sesama bangsawan Lituania untuk mengadopsi budaya Polandia. Mungkin bahasa yang sama akan memungkinkan mereka untuk lebih tegas melakukan advokasi menentang serikat pekerja.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_3">
+			<Text>Terlepas dari perasaannya terhadap kemerdekaan Lituania, tekadnya terhadap banyak ancaman terhadap rakyat Polandia dan Lituania tidak diragukan lagi. Sebagai Kanselir Agung Lituania, ia akan mengandalkan segala cara untuk menggagalkan musuh-musuh negaranya—baik dengan pukulan pena maupun tusukan tombak.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Putra Polandia yang bangga, Stanisław &quot;Rewera&quot; Potocki, bertempur dalam pertempuran kecil pertamanya pada usia 18 tahun. Ia cukup berhasil dalam melawan pemberontak Polandia sehingga ia tertarik untuk berperang, dan sejak itu ia menghabiskan sebagian besar hidupnya di medan perang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Meskipun Stanisław telah memperoleh sejumlah gelar, satu-satunya yang benar-benar penting baginya adalah gelar Hetman Mahkota Agung, panglima tertinggi pasukan Polandia. Memang benar, karirnya adalah serangkaian keterlibatan militer terkemuka atas nama Persemakmuran Polandia-Lithuania. Yang paling menonjol adalah Stanisław yang membela diri dari Banjir Besar Swedia, yang mana pasukan Swedia dan Rusia menginvasi Persemakmuran.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_3">
+			<Text>Seiring dengan perkembangan pesat di perusahaannya, Stanisław memiliki kecenderungan ke arah orang yang sombong. Ia mendapatkan julukannya karena penggunaan kata Latin &apos;re vera&apos; yang tidak tertahankan, yang berarti &apos;sebenarnya&apos;. Dia akan menjadi orang pertama yang memberi tahu Anda bahwa dia sebenarnya menghargai julukan itu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Tidak ada kata yang lebih baik dalam mengungkapkan karakter Konstanty Ostrogski selain pengabdian. Bagi Persatuan Polandia-Lituania, tentu saja—komandonya yang cakap di bawah Raja Polandia John I memberinya gelar Grand Hetman, orang pertama yang melakukannya. Ke kampung halamannya, tentu saja—yang berasal dari Volhynia, dia tidak pernah melupakan asal usulnya, meskipun banyak prestasi yang telah diraihnya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Namun yang terpenting, karena keyakinannya, yaitu keyakinan Gereja Ortodoks. Dia mencurahkan kekayaan pribadinya untuk pembangunan gereja dan sekolah Ortodoks, dan dia sendiri cukup taat. Suatu hal yang aneh bagi Polandia dan Lituania yang sangat Katolik.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_3">
+			<Text>Namun pengabdian Konstanty begitu mendefinisikan dirinya sehingga hanya sedikit orang yang dapat mempertanyakan kesetiaannya. Baik Tatar, Muscovy, atau Ottoman—Hetman Agung akan menghentikan kemajuan mereka, mengepung kastil mereka, dan menghancurkan pasukan mereka secara detail. Dialah landasan yang mematahkan palu.</Text>
+		</Row>	
+		<!-- Civilizations-->	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RADZIWILL_CHAPTER_HISTORY_PARA_1">
+			<Text>Bangsawan Lituania telah lama menjadi bagian integral dari kekayaan Kadipaten Agung. Kita dapat mengandalkan keturunan yang bangga ini untuk menaruh perhatian pada keprihatinan Lituania—terkadang dengan mengorbankan sekutu Polandia mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RADZIWILL_CHAPTER_HISTORY_PARA_2">
+			<Text>Hal ini tidak berarti bahwa kaum bangsawan Lituania hanya berbasa-basi dalam membela kesejahteraan Polandia-Lithuania—jauh dari itu. Mereka menurunkan sejumlah besar tentara dari Kadipaten Agung, dan dengan cepat menyediakan mereka untuk Kerajaan Polandia. Namun, kebanggaan keluarga dapat bercampur dengan ambisi, membuat mereka percaya bahwa kepentingan mereka sendiri dan kepentingan Lituania adalah satu dan sama.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POTOCKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Bangsawan Polandia yang berumur panjang seringkali memiliki awal yang sederhana, namun kebangkitan bintang Polandia telah memungkinkan mereka untuk memperluas kepemilikan mereka dan membuktikan komitmen mereka terhadap Kerajaan, berkali-kali. Ketika mereka mendapatkan prestise, maka keluarga juga memperoleh kekayaan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POTOCKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Lebih dari beberapa keluarga Polandia telah diangkat ke pangkat raja. Kebangsawanan yang dianugerahkan dapat membuat bingung—namun meskipun ada bisikan yang tamak, banyak keluarga seperti itu yang terbukti menjadi pembela setia Kerajaan. Pendekatan mereka di pengadilan sama seperti dalam perang—tatap mata lawan Anda, jangan beri mereka ruang untuk bermanuver, dan jangan pernah mundur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Keluarga Volhynian adalah bagian dari Persatuan Polandia-Lithuania. Tentu saja, mereka setia, namun ada pula yang menolak meninggalkan iman mereka pada Gereja Ortodoks dan memilih agama Katolik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Itulah kekuatan Uni Eropa dan pandangan-pandangannya yang terkodifikasi mengenai toleransi beragama. Mereka boleh melakukan apa pun yang mereka mau, selama mereka mendukung tujuan Persatuan. Dan memajukan apa yang mereka miliki, menyerang langsung siapa pun yang menentang kita, menyediakan tentara, makanan ternak, dan harta bila diperlukan untuk kampanye. Mereka yang terbaik dan tercerdas telah memimpin puluhan ribu tentara Union menuju kesuksesan besar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_3">
+			<Text>Biarkan mereka beribadah sesuai dengan pilihan mereka. Jika melakukan hal ini dapat memperkuat keyakinan duniawi mereka terhadap tujuan kita, maka hal ini akan lebih bermanfaat bagi Persatuan.</Text>
+		</Row>
+		<!-- City-States-->			
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GDANSK_CHAPTER_HISTORY_PARA_1">
+			<Text>Untuk alasan yang baik, Gdańsk hanya menginginkan kemerdekaannya. Setelah 150 tahun pemerintahan yang tidak diinginkan oleh Ksatria Teutonik (yang bersikeras menamai kota itu &quot;Danzig&quot;), Raja Polandia Casimir IV memperluas Hak Istimewa Besar ke Gdańsk, sehingga menegaskan kembali otonominya dan memberikan hubungan perdagangan yang menguntungkan dengan Uni Polandia-Lituania. Kabar baik bagi kota Liga Hanseatic, yang kini memiliki akses istimewa ke pasar Union serta kota-kota Liga lainnya di seluruh Baltik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GDANSK_CHAPTER_HISTORY_PARA_2">
+			<Text>Semua kabar baik bagi Gdańsk—kecuali Ksatria Teutonik berhasil mencapai tujuan mereka dan mengembalikan kota ke kendali mereka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIENNA_CHAPTER_HISTORY_PARA_1">
+			<Text>Habsburg telah mengacaukan Wina. Dulunya merupakan kota paling penting di Kekaisaran Romawi Suci, serangkaian kaisar yang tidak efektif telah mereduksi pusat kebudayaan dan perdagangan yang pernah berkembang pesat ini menjadi sebuah kereta dengan kuda-kuda yang dipasang di ujung yang berlawanan. Baru-baru ini, pembalasan politik yang mematikan telah menyebabkan kota ini tidak memiliki pemerintahan yang efektif.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIENNA_CHAPTER_HISTORY_PARA_2">
+			<Text>Turki Ottoman mengawasi dan menunggu. Mereka sudah mencaplok Hongaria dan mendirikan negara bawahan Transilvania. Kesempatan mereka untuk mengepung tembok Wina mungkin akan segera tiba. Jika Wina jatuh, apakah Uni Polandia-Lithuania akan menjadi yang berikutnya?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRAGUE_CHAPTER_HISTORY_PARA_1">
+			<Text>Dalam waktu singkat sejak Rudolf II memindahkan istananya ke kota pedagang Praha, Kaisar Romawi Suci yang eksentrik telah mengubah kota tersebut menjadi ibu kota pembelajaran dan kebudayaan. Rudolf II dengan senang hati mendanai karya tokoh terkenal seperti alkemis John Dee, astronom Johannes Kepler dan Tycho Brahe, dan pelukis Giuseppe Arcimboldo.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRAGUE_CHAPTER_HISTORY_PARA_2">
+			<Text>Namun, Rudolf II mempunyai gagasan aneh tentang melancarkan Perang Salib melawan Kesultanan Utsmaniyah. Menegaskan hal tersebut di Praha—pusat Reformasi Bohemia, dua abad sebelumnya—dapat sangat membebani kesabaran warga negara yang diadopsi oleh Rudolf II.</Text>
+		</Row>	
+		<!--Units-->			
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OTTOMAN_JANISSARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Ottoman mengambil anak-anak dari tanah taklukan mereka dan mengubah mereka menjadi tentara yang mereka sebut janisari. Mereka mengajari anak-anak cara berbicara, berpikir, dan berkelahi. Kemudian mereka mengirim mereka untuk menaklukkan lebih banyak wilayah—untuk mengambil lebih banyak anak. Reputasi menakutkan seorang janisari sebagian berasal dari senapannya, yang mungkin juga merupakan artileri portabel. Mereka akan menjadi ujung tombak Ottoman yang ditusukkan ke perut lembut Austria.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OTTOMAN_JANISSARY_CHAPTER_HISTORY_PARA_2">
+			<Text>Wina adalah pintu gerbang ke Polandia. Itu tidak boleh jatuh. Kita tidak bisa membiarkan anak-anak kita mengalami nasib yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Bandit mempunyai banyak bentuk—ada yang menyergap orang yang tidak waspada di jalan, ada pula yang menyerang desa-desa yang tidak dijaga. Kelompok yang paling buruk mengenakan baja dan menyatakan bahwa penghancuran mereka dilakukan atas nama Tuhan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_2">
+			<Text>Ksatria Teutonik adalah orang-orang seperti itu. Ketika seorang raja Polandia menyewa &quot;perintah ksatria&quot; mereka untuk membebaskan Gdańsk, mereka melakukannya—dan kemudian membebaskan penduduk setia Polandia dari kehidupan mereka. Mereka berperang melawan Lituania, negara yang baru menjadi Kristen. Satu-satunya pasal kepercayaan yang mereka pegang adalah koin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_3">
+			<Text>Mereka mengaku bertindak untuk Tuhan? Lalu marilah kita kirimkan mereka kepada Tuhan, di mana mereka dapat membenarkan klaim mereka secara langsung.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kami terus kehilangan rakyat kami karena Tatar. Mereka mengambil begitu banyak orang sebagai budak—puluhan ribu—seolah-olah setiap tahun mereka mengambil seluruh kota dari peta. Pemanah berkuda mereka melancarkan serangan kilat ke pemukiman terpencil kami dan kembali dengan rampasan hidup mereka. Praktisnya, mereka yang dibesarkan di atas pelana, melihat diri mereka sebagai penerus Ghengis Khan sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_2">
+			<Text>Para pemanah berkuda menerobos perbatasan kami, mengganggu patroli kami, dan memenuhi milisi kami dengan panah sebelum mundur ke khanat mereka. Satu-satunya tembok yang mereka takuti hanyalah tembok yang terbuat dari tombak.</Text>
+		</Row>		
+		<!--Great People-->			
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang biksu Polandia yang melukis dengan gaya Renaisans, Stanisław Samostrzelnik terkenal dengan pencahayaannya yang kaya dan lukisan dindingnya yang berwarna-warni. &apos;Potret Uskup Piotr Tomicki&apos; miliknya adalah kontras cemerlang antara emas dan hijau.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_CHAPTER_HISTORY_PARA_2">
+			<Text>Lumayan untuk seseorang yang buta warna.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARTIN_KOBER_CHAPTER_HISTORY_PARA_1">
+			<Text>Seniman inovatif Martin Kober pernah menjabat sebagai pelukis istana untuk Stephen Báthory dan Sigismund III dari Persemakmuran Polandia-Lithuania, serta Kaisar Romawi Suci Rudolf II. Ia mengkhususkan diri dalam seni potret, menangkap kemiripan dengan bangsawan sehingga generasi mendatang dapat mengetahui kemegahan Kerajaan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BARTOLOMMEO_BERRECCI_CHAPTER_HISTORY_PARA_1">
+			<Text>Arsitek Italia Bartolommeo Berrecci membawa budaya terdepan ke Polandia. Kami harus berterima kasih kepada Jan Łaski karena telah mengundang Berrecci ke tanah kami. Di antara karyanya yang luas di Kastil Wawel, Kapel Sigismund menonjol sebagai bagian indah dari Renaisans Italia—tepat di tengah-tengah Kraków.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ADAM_KOCHANSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Tidak ada cinta yang lebih besar bagi Adam Adamandy Kochański daripada matematika—tentu saja, selain Tuhan, tetapi hal itu tidak bisa dikatakan tentang seorang Jesuit. Dia juga tidak bungkuk dalam hal matematika praktis, menunjukkan penguasaan mekaniknya dengan desain jam revolusionernya.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAZIMIERZ_SIEMIENOWICZ_CHAPTER_HISTORY_PARA_1">
+			<Text>Bagi jenderal artileri Polandia-Lithuania Kazimierz Siemienowicz, tidak ada masalah di medan perang yang tidak dapat diselesaikan dengan bahan peledak. Pemikirannya tentang peroketan dan teknik kembang api memang aneh, namun transformatif—sangat disayangkan berbagai guild, yang tidak banyak bicara tentang &apos;Artis Magnae Artilleriae&apos; karya Siemienowicz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KRZYSZTOF_GRODZICKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Seorang jenderal artileri Polandia yang berlatih di antara Belanda, Krzysztof Grodzicki menghabiskan sebagian besar karirnya melatih meriamnya melawan Swedia dan Cossack. Keberhasilannya mempertahankan Lviv dari Banjir Swedia mencegah perebutan kota tersebut—salah satu dari sedikit perang yang memakan biaya besar itu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEBASTIANO_MONTELUPI_CHAPTER_HISTORY_PARA_1">
+			<Text>Meskipun Sebestiano Montelupi adalah kelahiran Italia, lebih dari separuh hidupnya dihabiskan di Polandia. Seorang pedagang dan bankir ulung, Montelupi diangkat menjadi kepala kantor pos kerajaan oleh Raja Polandia Stephen Báthory. Dalam perannya ini ia mengawasi pengiriman antara kota-kota besar di Persemakmuran Polandia-Lithuania.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KONSTANTY_KORNIAKT_CHAPTER_HISTORY_PARA_1">
+			<Text>Konstanty Korniakt dari Yunani datang ke Polandia sejak awal kehidupannya, dan telah terbukti sebagai pedagang yang cakap dan cakap. Perdagangannya bersifat internasional, dan ia bahkan berhasil mengamankan rute dengan Kesultanan Ottoman. Sigismund II cukup mempercayai kecerdasan Konstanty untuk mengumpulkan biaya kerajaan atas nama raja.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NICOLAUS_COPERNICUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Astronom Nicolaus Copernicus tidak asing dengan kontroversi. Wah, ia mengklaim matahari adalah pusat alam semesta, bukan bumi! Teori-teori &quot;heliosentris&quot;-nya akan tampak sangat tidak masuk akal, jika bukan karena kepentingan para pendeta Katolik—Paus Klemens VII sendiri merupakan salah satu pendukung teori tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SENDIVOGIUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Alkemis Sendivogius baru-baru ini datang dari istana Rudolf II di Praha dengan beberapa ide yang aneh namun menjanjikan. Dia berpendapat bahwa udara yang kita hirup seperti semangkuk fanatik, di mana hanya satu bahan yang diperlukan untuk menopang kehidupan. Ini tidak masuk akal… jika Raja Sigismund III tidak begitu tertarik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PIOTR_SKARGA_CHAPTER_HISTORY_PARA_1">
+			<Text>Tidak pernah berbasa-basi, Jesuit Piotr Skarga banyak bicara tentang politik Persemakmuran Polandia-Lithuania seperti halnya ia melakukan Kontra-Reformasi melawan penyebaran Protestantisme. Apakah Anda menganggapnya sebagai sebotol madu atau lalat yang mengapung di dalamnya, tidak ada yang dapat mempertanyakan pemberiannya dengan kata-kata.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_JAN_KOCHANOWSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Meskipun penyair Renaisans Jan Kochanowski menghabiskan waktu bertahun-tahun di istana Sigismund II, ia benar-benar menjadi terkenal ketika meninggalkan ibu kota untuk menetap di kawasan pedesaan. Tragedi baru-baru ini—kematian putrinya yang masih kecil, Urszula—mengilhami dia untuk menyusun serangkaian elegi yang menghantui untuk menghormatinya.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Moments-->
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED">
+			<Text>Artefak Diekstraksi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_DESCRIPTION">
+			<Text>Sebuah artefak telah ditemukan, memberi kita wawasan tentang masa lalu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_INSTANCE_DESCRIPTION">
+			<Text>Saat kotoran dibersihkan, {GreatWorkName} melihat cahaya matahari setelah sekian lama. Ini akan menghiasi museum {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} selama bertahun-tahun yang akan datang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST">
+			<Text>Bangkai Kapal Pertama Digali</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_DESCRIPTION">
+			<Text>Para arkeolog Anda telah menggali bangkai kapal pertama mereka.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Bertatahkan teritip, namun masih dapat dikenali, {GreatWorkName} membuktikan arkeologi kelautan dapat menghubungkan kita dengan masa lalu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD">
+			<Text>Bangkai Kapal Pertama di Dunia Digali</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Para arkeolog Anda telah menyelesaikan penggalian bangkai kapal pertama di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Ekspedisi arkeologi kelautan pertama di dunia menghasilkan {GreatWorkName}, dan menunjukkan bahwa laut tidak dapat lagi menyembunyikan rahasia sejarah!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED">
+			<Text>Kamp Barbar Dihancurkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_DESCRIPTION">
+			<Text>Kamp barbar yang bermusuhan diratakan dengan tanah oleh sebuah unit, menyebarkan perdamaian ke seluruh area.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_INSTANCE_DESCRIPTION">
+			<Text>Pasukan kita membersihkan kamp barbar, dan ancaman terhadap peradaban kita yang sedang berkembang telah dilenyapkan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY">
+			<Text>Kamp yang Mengancam Dihancurkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_DESCRIPTION">
+			<Text>Kamp barbar yang bermusuhan dalam 6 ubin salah satu kota Anda dihancurkan oleh satu unit.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_INSTANCE_DESCRIPTION">
+			<Text>Bahaya di depan pintu {CityName} telah dikalahkan! Orang-orang barbar diusir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BATTLE_FOUGHT">
+			<Text>Pertempuran Terjadi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BATTLE_FOUGHT_DESCRIPTION">
+			<Text>Pertempuran terjadi antar musuh. Digunakan oleh sistem Arkeologi yang berpotensi menghasilkan sumber daya Situs Purbakala [ICON_RESOURCE_ANTIQUITY_SITE].</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED">
+			<Text>Agama Mengadopsi Semua Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_DESCRIPTION">
+			<Text>Agama Anda telah menambahkan Keyakinan terakhirnya dan sekarang sudah lengkap.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_INSTANCE_DESCRIPTION">
+			<Text>Para teolog memperjelas prinsip {ReligionName} dan Keyakinannya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD">
+			<Text>Agama Pertama di Dunia yang Menganut Semua Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Agama Anda adalah yang pertama di dunia yang menambahkan Keyakinan terakhirnya dan menjadi lengkap.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Argumentasi para teolog {ReligionName} mengisi buku-buku besar, dan menjadi Agama pertama yang memperjelas Keyakinannya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Bangunan Unik Dibangun</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Anda telah menyelesaikan bangunan unik ini untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Karyawan kami bangga dengan {BuildingType}, yang mencerminkan nilai dan prioritas kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST">
+			<Text>Bandar Udara Pertama Berkembang Sepenuhnya</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan setiap bangunan di distrik Aerodrome untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Pilot menganggap melakukan pendaratan di Bandar Udara pada {CityName} sebagai suatu ritus peralihan. Yang tertua masih ingat saat itu hanya berupa ladang pertanian dan beberapa hanggar sementara.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST">
+			<Text>Perkemahan Pertama Dikembangkan Sepenuhnya</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan setiap bangunan di distrik Perkemahan untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Tentara berbaris dalam formasi, memanggil irama: Saya tidak tahu tapi saya diberitahu/Kehidupan di {CityName} menjadi sangat tua.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST">
+			<Text>Kompleks Hiburan Pertama Dikembangkan Sepenuhnya</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan setiap bangunan di distrik Kompleks Hiburan untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Dalam {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, ungkapan “menghabiskan sore hari di {CityName}” berarti “bersenang-senang”.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST">
+			<Text>Taman Air Pertama Dikembangkan Sepenuhnya</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan setiap bangunan di distrik Taman Air untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Mereka mengatakan bahwa cara terbaik untuk mengunjungi {CityName} adalah pada hari musim panas, saat matahari terbenam dan lampu-lampu Taman Air menyala, menyaksikan kerumunan orang di jalan kayu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER">
+			<Text>Keajaiban Dunia Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_DESCRIPTION">
+			<Text>Selesailah sebuah keajaiban dunia yang menunjukkan kehebatan kita dibandingkan peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Berdiri di {BuildingType}, warga {CityName} diliputi rasa kagum.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER">
+			<Text>Keajaiban Dunia Lama Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_DESCRIPTION">
+			<Text>Keajaiban Dunia telah selesai. Meski tergolong zaman dulu, namun tetap akan menunjukkan keagungan kita dibandingkan peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Berdiri di {BuildingType}, warga {CityName} mengenang masa lalu mereka yang gemilang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN">
+			<Text>Peradaban Terbesar di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_DESCRIPTION">
+			<Text>Peradaban Anda telah menjadi yang terbesar di dunia, dengan setidaknya 3 kota lebih banyak dibandingkan pesaing terbesar berikutnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_INSTANCE_DESCRIPTION">
+			<Text>{CityName} adalah kota terbaru di kerajaan kita yang luas, dan peradaban lain memandang dengan kagum.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER">
+			<Text>Kota Kekaguman</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_DESCRIPTION">
+			<Text>Sebuah kota ditempatkan dalam 2 ubin keajaiban alam.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Pemandangan {FeatureType} yang penuh inspirasi memenuhi warga kota baru kami {CityName} dengan kegembiraan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY">
+			<Text>Penempatan Kota yang Agresif</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_DESCRIPTION">
+			<Text>Sebuah kota ditempatkan dalam 5 ubin dari kota peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_INSTANCE_DESCRIPTION">
+			<Text>Para birokrat {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} terkesima dengan keberanian kami menempatkan {CityName} di dekat kota mereka sendiri, {OtherCityName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT">
+			<Text>Kota di Benua Baru</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_DESCRIPTION">
+			<Text>Sebuah kota ditempatkan di benua yang belum Anda tinggali.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_INSTANCE_DESCRIPTION">
+			<Text>{CityName} menjadi penyelesaian pertama pada {ContinentName}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT">
+			<Text>Kota Gurun</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_DESCRIPTION">
+			<Text>Sebuah kota didirikan di medan Gurun yang sulit, memperluas jangkauan Anda hingga ke alam liar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_INSTANCE_DESCRIPTION">
+			<Text>Pengunjung mengeluhkan panasnya {CityName}, tapi setidaknya panasnya kering.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW">
+			<Text>Kota Salju</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_DESCRIPTION">
+			<Text>Sebuah kota didirikan di medan Salju yang sulit, memperluas jangkauan Anda hingga ke alam liar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_INSTANCE_DESCRIPTION">
+			<Text>Warga {CityName} punya ratusan kata untuk &quot;salju&quot;.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA">
+			<Text>Kota Tundra</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_DESCRIPTION">
+			<Text>Sebuah kota didirikan di medan Tundra yang sulit, memperluas jangkauan Anda hingga ke alam liar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_INSTANCE_DESCRIPTION">
+			<Text>Warga {CityName} bangga dengan keindahan tanah dan ketahanan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR">
+			<Text>Kota Musuh Mengadopsi Agama Kita</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_DESCRIPTION">
+			<Text>Kota musuh, meski sedang berperang, telah melihat cahaya dan mengadopsi Agama kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Surga membuka mata masyarakat {CityName}, dan mereka bergabung dengan pengikut setia {ReligionName}, bahkan saat berperang dengan {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY">
+			<Text>Kota Suci Saingan Dikonversi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_DESCRIPTION">
+			<Text>Kota Suci Agama lain telah berpindah agama ke Agama kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} dulunya merupakan tempat lahirnya {OldReligionName}, namun sekarang umat beriman berduyun-duyun ke kuil {ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST">
+			<Text>Kota Raksasa Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 25 [ICON_Citizen] Populasi untuk pertama kalinya dalam peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Dari menara hingga rumah petaknya, warga {CityName} dihubungkan oleh kebanggaan sipil mereka terhadap kota terbesar dalam peradaban kita. </Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_IN_WORLD">
+			<Text>Kota Raksasa Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 25 [ICON_Citizen] Populasi untuk pertama kalinya di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Ramai dan kosmopolitan, {CityName} tidak pernah tidur, namun kisah warganya terjalin menjadi sebuah mimpi indah bersama.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST">
+			<Text>Kota Besar Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 20 [ICON_Citizen] Populasi untuk pertama kalinya dalam peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Paradoksnya, warga {CityName} sangat bangga dengan ukuran kota mereka, namun tidak pernah berhenti mengeluh tentang betapa padatnya kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD">
+			<Text>Kota Besar Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 20 [ICON_Citizen] Populasi untuk pertama kalinya di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Mereka mengatakan Anda belum hidup sampai Anda melihat kerumunan orang di {CityName} berjalan di jalan raya dan jalan besarnya, dan menyaksikan tontonan kota terbesar umat manusia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST">
+			<Text>Kota Besar Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 15 [ICON_Citizen] Populasi untuk pertama kalinya dalam peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} berkembang lebih jauh, dan menjadi kota terbesar bagi masyarakat kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD">
+			<Text>Kota Besar Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 15 [ICON_Citizen] Populasi untuk pertama kalinya di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Penduduk {CityName} sesumbar tinggal di kota terbesar dan tercanggih di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST">
+			<Text>Kota Ramai Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 10 [ICON_Citizen] Populasi untuk pertama kalinya dalam peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} tumbuh dan masyarakatnya bangga dengan kehidupan metropolitan yang berkembang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD">
+			<Text>Kota Ramai Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Sebuah kota telah mencapai 10 [ICON_Citizen] Populasi untuk pertama kalinya di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Pengunjung kagum pada {CityName}, kota terbesar di dunia. Bagaimana bisa begitu banyak orang hidup bersama dengan damai?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY">
+			<Text>Kota Asing Bergabung</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_DESCRIPTION">
+			<Text>Sebuah kota asing telah memutuskan untuk berjanji setia kepada kami, bergabung dengan kerajaan kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_INSTANCE_DESCRIPTION">
+			<Text>Masyarakat {CityName} tidak lagi merasa menjadi bagian dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}, dan setuju untuk bergabung dengan peradaban kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY">
+			<Text>Kota Gratis Bergabung</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_DESCRIPTION">
+			<Text>Kota Bebas telah memutuskan untuk berjanji setia kepada kami, bergabung dengan kerajaan kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_INSTANCE_DESCRIPTION">
+			<Text>Warga {CityName} merasakan kedekatan dengan kami, dan rela memasuki peradaban kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL">
+			<Text>Modal Asing Diambil</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_DESCRIPTION">
+			<Text>Anda telah menguasai ibu kota asli kekuatan asing.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, bekas ibu kota {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}, kini menjadi bagian dari peradaban kita!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED">
+			<Text>Kota Asing Terakhir Diambil</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_DESCRIPTION">
+			<Text>Anda telah menguasai kota terakhir yang tersisa dari sebuah peradaban.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME_UPPER &lt;&lt; {TargetPlayerCivName}} tidak akan bertahan dalam ujian waktu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER">
+			<Text>Kota Kembali ke Pemilik Asli</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_DESCRIPTION">
+			<Text>Sebuah kota telah kembali ke pemilik aslinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_INSTANCE_DESCRIPTION">
+			<Text>{CityName} kembali ke {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} sekali lagi!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST">
+			<Text>Civic pertama Era Baru</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan kewarganegaraan pertama peradaban Anda dari era penemuan baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Biarkan orang lain mengatakan apa yang mereka mau, tetapi perkembangan budaya {PlayerEraType} yang sesungguhnya dimulai dengan ditemukannya {CivicType} oleh {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD">
+			<Text>Civic Era Baru Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda telah menyelesaikan kewarganegaraan pertama di dunia dari era penemuan baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Ekspresi {CivicType} kita akan menentukan masa depan umat manusia di {PlayerEraType}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Distrik Unik Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Anda telah menyelesaikan distrik unik ini untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>{DistrictType} bukanlah suatu kebetulan, tetapi hasil dari kejeniusan unik orang-orang kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS">
+			<Text>Kampus Indah Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_DESCRIPTION">
+			<Text>Anda telah menyelesaikan Kampus pertama peradaban Anda dengan bonus kedekatan awal sebesar 3 [ICON_Science] Sains atau lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_INSTANCE_DESCRIPTION">
+			<Text>Berjalan di depan alun-alun dan berlama-lama di luar ruang kelas Kampus dekat {CityName}, Anda dapat mendengar para sarjana memperdebatkan ide-ide yang akan mengubah dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB">
+			<Text>Pusat Komersial yang Luar Biasa Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Anda telah menyelesaikan Hub Komersial pertama peradaban Anda dengan bonus kedekatan awal sebesar 4 [ICON_Gold] Emas atau lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_INSTANCE_DESCRIPTION">
+			<Text>Konon masyarakat tertarik ke Pusat Komersial {CityName} hanya karena keseruan jual beli di pasar. Tapi uangnya juga cukup bagus.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR">
+			<Text>Pelabuhan Indah Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_DESCRIPTION">
+			<Text>Anda telah menyelesaikan Pelabuhan pertama peradaban Anda dengan bonus kedekatan awal sebesar 4 [ICON_Gold] Emas atau lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_INSTANCE_DESCRIPTION">
+			<Text>Pelaut dan buruh pelabuhan berteriak dan menyanyikan lapak di sepanjang dermaga yang ramai di Pelabuhan {CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE">
+			<Text>Situs Suci yang Indah Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_DESCRIPTION">
+			<Text>Anda telah menyelesaikan Situs Suci pertama peradaban Anda dengan bonus kedekatan awal sebesar 3 [ICON_Faith] Iman atau lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_INSTANCE_DESCRIPTION">
+			<Text>Lonceng dan nyanyian, dupa dan ikon, Situs Suci {CityName} membawa jamaah dan peziarah ke dalam kontemplasi hal-hal yang lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE">
+			<Text>Kawasan Industri Indah Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Anda telah menyelesaikan Zona Industri pertama peradaban Anda dengan bonus kedekatan awal sebesar 4 [ICON_Production] Produksi atau lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_INSTANCE_DESCRIPTION">
+			<Text>Peluit menandakan dimulainya shift baru, dan pekerja dari {CityName} mengalir ke Kawasan Industri, siap untuk bekerja dengan baik.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE">
+			<Text>Lapangan Teater Indah Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_DESCRIPTION">
+			<Text>Anda telah menyelesaikan Theatre Square pertama peradaban Anda dengan bonus kedekatan awal sebesar 3 [ICON_Culture] Budaya atau lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_INSTANCE_DESCRIPTION">
+			<Text>Lagu-lagu yang indah, kata-kata yang menginspirasi. Para seniman, penyair, dan penulis drama {CityName} semuanya berjalan-jalan di Lapangan Teater kami.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST">
+			<Text>Lingkungan Pertama Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan distrik Lingkungan pertama peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Warga {CityName} adalah orang pertama yang menyadari bahwa satu-satunya hal yang lebih baik daripada tinggal di {CityName} adalah tinggal di tempat yang sedikit lebih bersih di luarnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD">
+			<Text>Lingkungan Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda telah menyelesaikan distrik Lingkungan pertama di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Warga {CityName} adalah orang pertama di dunia yang menyadari bahwa satu-satunya hal yang lebih baik daripada tinggal di {CityName} adalah tinggal di tempat yang sedikit lebih bersih di luarnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER">
+			<Text>Keadaan Darurat Berhasil Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_DESCRIPTION">
+			<Text>Sebagai anggota, Anda telah berhasil dalam Keadaan Darurat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_INSTANCE_DESCRIPTION">
+			<Text>{EmergencyType} dengan {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} telah berakhir, dan kita muncul sebagai pemenang. Tapi apa yang akan terjadi di masa depan?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET">
+			<Text>Keadaan Darurat Berhasil Dipertahankan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_DESCRIPTION">
+			<Text>Sebagai targetnya, Anda telah berhasil melawan Keadaan Darurat terhadap Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_INSTANCE_DESCRIPTION">
+			<Text>Pasukan peradaban yang iri hati gagal menghentikan rakyat kita! {EmergencyType} larut dalam saling tuduh dan menyalahkan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER">
+			<Text>Penemuan Keajaiban Alam</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_DESCRIPTION">
+			<Text>Peradaban Anda menemukan keajaiban alam ini untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Penjelajah {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} menemukan keagungan {FeatureType}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD">
+			<Text>Penemuan Pertama Keajaiban Alam</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Penjelajah peradaban kita adalah orang pertama di dunia yang menyaksikan keajaiban alam ini.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Penjelajah {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} adalah orang pertama dari peradaban besar yang melihat {FeatureType}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD">
+			<Text>Penemuan Pertama Benua Baru</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Penjelajah peradaban kita adalah orang pertama di dunia yang menemukan benua ini.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Penjelajah {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} adalah orang pertama dari peradaban besar yang menginjakkan kaki di benua {ContinentName}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST">
+			<Text>Armada Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_DESCRIPTION">
+			<Text>Armada pertama peradaban Anda telah terbentuk.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Dari dek {UnitType}, kita dapat melihat kapal-kapal Armada pertama kita terbentang di kejauhan, masing-masing mengibarkan bendera peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD">
+			<Text>Armada Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Armada pertama di dunia terbentuk, di bawah komando Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Kekuatan besar Armada pertama di dunia siap berlayar ke laut lepas sesuai komando kita!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST">
+			<Text>Tentara Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_DESCRIPTION">
+			<Text>Tentara pertama peradaban Anda telah terbentuk.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Pasukan Angkatan Darat pertama kita berbaris dalam prosesi yang tampaknya tak ada habisnya!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD">
+			<Text>Tentara Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Angkatan Darat pertama di dunia dibentuk, di bawah komando Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Dunia belum pernah melihat Angkatan Darat seperti {UnitType} kami! Kekuatan kami tidak tertandingi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST">
+			<Text>Korps Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_DESCRIPTION">
+			<Text>Korps pertama peradaban Anda telah terbentuk.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Lebih kuat dari satu unit, Korps pertama kita siap melindungi peradaban.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD">
+			<Text>Korps Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Korps pertama di dunia dibentuk, di bawah komando Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Petugas staf kami melaporkan bahwa Korps pertama di dunia siap beraksi!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST">
+			<Text>Armada Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_DESCRIPTION">
+			<Text>Armada pertama peradaban Anda terbentuk.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Semua pihak memberi hormat pada bendera saat Armada pertama kita berkumpul!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD">
+			<Text>Armada Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Armada pertama di dunia terbentuk, di bawah komando Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Semua kapten yang berkumpul melaporkan kapal mereka siap menimbang jangkar, karena Armada pertama di dunia siap beraksi!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE">
+			<Text>Zaman Kegelapan Dimulai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_DESCRIPTION">
+			<Text>Permainan memasuki era baru, dan peradaban Anda menghadapi tantangan Zaman Kegelapan yang harus diatasi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>Permainan memasuki {PlayerEraType}, dan peradaban Anda memiliki tantangan Zaman Kegelapan yang harus diatasi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE">
+			<Text>Zaman Keemasan Dimulai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_DESCRIPTION">
+			<Text>Permainan memasuki era baru, dan peradaban Anda telah mendapatkan Zaman Keemasan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_INSTANCE_DESCRIPTION">
+			<Text>Permainan memasuki {PlayerEraType}, dan peradaban Anda telah mendapatkan Zaman Keemasan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE">
+			<Text>Era Heroik Dimulai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_DESCRIPTION">
+			<Text>Permainan memasuki era baru, dan peradaban Anda telah mendapatkan Era Pahlawan setelah mengatasi tantangan masa lalu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_INSTANCE_DESCRIPTION">
+			<Text>Permainan memasuki {PlayerEraType}, dan peradaban Anda telah mendapatkan Zaman Pahlawan setelah mengatasi tantangan masa lalu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE">
+			<Text>Usia Normal Dimulai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_DESCRIPTION">
+			<Text>Permainan memasuki era baru, dan Anda telah menghindari Zaman Kegelapan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_INSTANCE_DESCRIPTION">
+			<Text>Permainan memasuki {PlayerEraType}, dan Anda telah menghindari Zaman Kegelapan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED">
+			<Text>Desa Suku Dihubungi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_DESCRIPTION">
+			<Text>Sebuah Desa Suku dihubungi, memberi kekuatan pada kota-kota kami yang sedang berkembang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_INSTANCE_DESCRIPTION">
+			<Text>Penduduk desa membawa hadiah saat mereka bergabung dengan peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST">
+			<Text>Pemerintahan Tingkat 1 Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda mengadopsi Pemerintahan Tingkat 1 yang pertama.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} mengadopsi pemerintahan dengan {GovernmentType}, yang mengarah ke era politik baru bagi warga negara.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD">
+			<Text>Pemerintahan Tingkat 1 Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama mengadopsi Pemerintahan Tingkat 1 di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Rakyat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} mengadopsi pemerintahan {GovernmentType}, sintesis besar dari filosofi politik mereka.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST">
+			<Text>Pemerintahan Tingkat 2 Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda mengadopsi Pemerintahan Tingkat 2 yang pertama.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Tradisi pemerintahan kuno berkembang, dan {ActingPlayerLeaderName} memilih {GovernmentType} sebagai cara baru untuk memerintah.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD">
+			<Text>Pemerintahan Tingkat 2 Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama mengadopsi Pemerintahan Tingkat 2 di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Cara-cara lama memang baik, namun waktu telah menunjukkan kelemahannya. Masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} menemukan kekuatan baru dengan penerapan {GovernmentType}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST">
+			<Text>Pemerintahan Tingkat 3 Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda mengadopsi Pemerintahan Tingkat 3 yang pertama.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Tradisi terhormat di masa lalu akan tetap menjadi bagian dari pemerintahan baru {GovernmentType} yang dipilih {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD">
+			<Text>Pemerintahan Tingkat 3 Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama mengadopsi Pemerintahan Tingkat 3 di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Filsafat politik selama berabad-abad mencapai ekspresi akhirnya, ketika {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} memilih {GovernmentType} sebagai pemerintahan barunya di masa depan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_CLASSICAL_REPUBLIC_INSTANCE_DESCRIPTION">
+			<Text>Lapangan umum dipenuhi dengan perdebatan warga, karena {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} mengadopsi Republik Klasik sebagai pemerintahannya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_CLASSICAL_REPUBLIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Warga {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} bersukacita karena mereka membuang kekuasaan raja, dan memerintah diri mereka sendiri dengan Republik Klasik.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_AUTOCRACY_INSTANCE_DESCRIPTION">
+			<Text>Para bangsawan tunduk pada {ActingPlayerLeaderName}, saat mereka mengambil takhta {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} sebagai Autokrat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_AUTOCRACY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerLeaderName} menyatakan kepada dunia bahwa hanya mereka yang berbicara mewakili {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_OLIGARCHY_INSTANCE_DESCRIPTION">
+			<Text>Keputusan {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} hanya dilakukan oleh orang-orang terbaik, sebagaimana layaknya seorang Oligarki. </Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_OLIGARCHY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Seorang filsuf menyatakan bahwa Oligarki adalah bentuk pemerintahan terbaik, dan masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} setuju.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_THEOCRACY_INSTANCE_DESCRIPTION">
+			<Text>Merupakan kehendak surga bahwa {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} harus menjadi Teokrasi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_THEOCRACY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Teokrasi {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} mencerminkan cara surga mengatur bumi, di bawah bimbingan ilahi {ActingPlayerLeaderName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MONARCHY_INSTANCE_DESCRIPTION">
+			<Text>Lonceng berbunyi dan paduan suara bernyanyi saat mahkota {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} dipasang di kepala {ActingPlayerLeaderName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MONARCHY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerLeaderName} adalah penguasa {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, sumber segala otoritas yang diberikan kepada mereka dari surga.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MERCHANT_REPUBLIC_INSTANCE_DESCRIPTION">
+			<Text>Keluarga pedagang besar {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} bersatu untuk menyebarkan kekayaan dan pengaruhnya hingga ke ujung dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MERCHANT_REPUBLIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Di mana pun koin bergambar {ActingPlayerLeaderName} diperdagangkan, Anda akan menemukan Republik Pedagang {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DEMOCRACY_INSTANCE_DESCRIPTION">
+			<Text>Setiap hari pemilu di {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} adalah hari libur. Pengibaran bendera, permainan band, dan {ActingPlayerLeaderName} memberikan pidato tunggul yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DEMOCRACY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Kepercayaan terhadap sesama warga dan optimisme terhadap masa depan membuat masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} memilih Demokrasi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_COMMUNISM_INSTANCE_DESCRIPTION">
+			<Text>kawan! Mari kita majukan sejarah dan Komunisme di bawah arahan First Citizen {ActingPlayerLeaderName}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_COMMUNISM_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Pekerja dunia! Proletariat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} telah menggulingkan tatanan lama! Saksikan kebangkitan Komunisme baru!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_FASCISM_INSTANCE_DESCRIPTION">
+			<Text>Salam {ActingPlayerLeaderName}! Orang-orang Anda mengikrarkan kesetiaan mereka yang abadi kepada {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_FASCISM_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Aula dipenuhi masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} dan bergema dengan nyanyian mereka: {ActingPlayerLeaderName}! {ActingPlayerLeaderName}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST">
+			<Text>Semua Gubernur Ditunjuk</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_DESCRIPTION">
+			<Text>Anda telah menunjuk semua Gubernur [ICON_Governor] yang tersedia, menjamin kemakmuran banyak kota.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{GovernorName}, {GovernorShortTitle}, memasuki layanan Anda dan melengkapi staf penasihat yang cakap.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST">
+			<Text>Gubernur Dipromosikan Penuh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_DESCRIPTION">
+			<Text>Anda telah sepenuhnya mempromosikan Gubernur [ICON_Governor] untuk pertama kalinya, membuka kemampuan yang kuat untuk membantu kota.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Seni pemerintahan menemukan ekspresi utamanya dalam kepemimpinan {GovernorName}, {GovernorShortTitle}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA">
+			<Text>Orang Hebat Direkrut</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_DESCRIPTION">
+			<Text>Seorang [ICON_GreatPerson] Orang Hebat telah melakukan perjalanan ke negeri kami untuk berbagi bakat unik.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_INSTANCE_DESCRIPTION">
+			<Text>Setelah melalui musyawarah, {GreatPersonIndividualName} memilih untuk membawa bakatnya ke {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA">
+			<Text>Orang Tua Hebat Direkrut</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_DESCRIPTION">
+			<Text>Seorang [ICON_GreatPerson] Orang Hebat telah melakukan perjalanan ke tanah kami. Meski lebih cocok untuk masa lalu, mereka tetap akan memberikan kontribusi besar bagi peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_INSTANCE_DESCRIPTION">
+			<Text>Setelah melalui musyawarah, {GreatPersonIndividualName} memilih untuk membawa bakatnya ke {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF">
+			<Text>Orang Hebat Terpikat oleh Iman</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_DESCRIPTION">
+			<Text>Seorang [ICON_GreatPerson] Orang Hebat telah melakukan perjalanan ke tanah kami untuk berbagi bakat unik, berkat penggunaan [ICON_Faith] Iman yang kami gunakan untuk menutupi lebih dari setengah biaya perekrutan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>Doa orang beriman terkabul! {GreatPersonIndividualName} tampaknya mengubah nasib {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF">
+			<Text>Orang Hebat Terpikat Emas</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_DESCRIPTION">
+			<Text>Seorang [ICON_GreatPerson] Orang Hebat telah melakukan perjalanan ke tanah kami untuk berbagi bakat unik, berkat gaji besar kami sebesar [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>Tidak ada biaya yang dikeluarkan untuk membawa {GreatPersonIndividualName} ke {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, tempat mereka memulai pekerjaannya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Perbaikan Ubin Unik Dibangun</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Anda telah menyelesaikan peningkatan ubin unik ini untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Sungguh, {ImprovementType} ini mewakili semangat peradaban kita dan mendefinisikan lanskap kerajaan kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST">
+			<Text>Resor Tepi Laut Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan peningkatan ubin Seaside Resort pertama Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Seaside Resort pertama kami dibuka pada {CityName}, untuk menyenangkan semua orang kami, kecuali satu anak kecil yang makanan ringannya dibawa oleh burung camar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD">
+			<Text>Resor Tepi Laut Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda telah menyelesaikan perbaikan ubin Seaside Resort pertama di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Tawa keluarga dan desahan sepasang kekasih memenuhi udara saat Seaside Resort pertama di dunia dibuka pada {CityName} dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED">
+			<Text>Inkuisisi Dimulai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_DESCRIPTION">
+			<Text>Agama Anda meluncurkan inkuisisi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_INSTANCE_DESCRIPTION">
+			<Text>Langit bersukacita ketika Inkuisisi yang benar mulai mengoreksi mereka yang tidak percaya pada {ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD">
+			<Text>Inkuisisi Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Agama Anda meluncurkan inkuisisi pertama di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} adalah Agama pertama yang memulai Inkuisisi untuk membasmi ajaran sesat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED">
+			<Text>Taman Nasional Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_DESCRIPTION">
+			<Text>Anda telah mendirikan Taman Nasional.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_INSTANCE_DESCRIPTION">
+			<Text>Warga peradaban kita berduyun-duyun ke Taman Nasional terbaru dan terhubung kembali dengan alam.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_FIRST_IN_WORLD">
+			<Text>Taman Nasional Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda telah mendirikan Taman Nasional pertama di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Taman Nasional pertama di dunia membuktikan kebenaran yang diyakini oleh segelintir pegiat konservasi yang berpandangan jauh ke depan: Kita harus melindungi keindahan alam {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} untuk generasi mendatang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED">
+			<Text>Pantheon Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_DESCRIPTION">
+			<Text>Orang-orang Anda mengadopsi Kepercayaan pada Pantheon.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>Mungkinkah momen penting ini adalah apa yang dibicarakan oleh para nabi lainnya?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD">
+			<Text>Pantheon Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Orang-orang Anda adalah orang pertama di dunia yang mengadopsi Keyakinan pada Pantheon.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Nabi pertama memiliki kilatan wawasan di bawah langit berbintang, dan membungkuk sebagai ucapan syukur kepada dewa-dewa yang tak terlihat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD">
+			<Text>Penguasa Pertama Negara-Kota</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda telah menjadi Penguasa pertama di negara kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Penguasa {CityStatePlayerCivName} tunduk pada {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, yang menjadi Penguasa pertama mereka di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY">
+			<Text>Tentara Pungutan Mundur</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_DESCRIPTION">
+			<Text>Penggunaan Anda atas [ICON_Envoy] Utusan telah meyakinkan tentara bayaran negara kota ini untuk mundur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME_UPPER &lt;&lt; {TargetPlayerCivName}} mengetahui bahwa politik juga merupakan medan perang, karena {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} membatalkan status Suzerain mereka di {CityStatePlayerCivName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR">
+			<Text>Negara-Kota Musuh Ditenangkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_DESCRIPTION">
+			<Text>Penggunaan [ICON_Envoy] Envoys oleh Anda telah menggulingkan Suzerain negara kota yang bermusuhan, dan meyakinkannya untuk mengakhiri permusuhan dengan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Kontrak tentara bayaran sebelumnya harus dinegosiasi ulang, ketika {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} membatalkan Suzerain lama {CityStatePlayerCivName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY">
+			<Text>Tentara Negara-Kota Dipungut</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_DESCRIPTION">
+			<Text>Anda telah memungut kekuatan militer suatu negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_INSTANCE_DESCRIPTION">
+			<Text>Kendali pasukan {CityStatePlayerCivName} diserahkan ke {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} dalam upacara militer yang mengesankan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY">
+			<Text>Tentara Negara-Kota Ditahan di Dekat Musuh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_DESCRIPTION">
+			<Text>Anda telah memungut kekuatan militer suatu negara kota dalam jarak serang dari peradaban musuh.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_INSTANCE_DESCRIPTION">
+			<Text>Front baru terbuka dalam perang antara {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} dan {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, seiring dengan perubahan kendali atas {CityStatePlayerCivName} di perbatasan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS">
+			<Text>Bertemu Semua Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_DESCRIPTION">
+			<Text>Anda telah bertemu dengan semua peradaban yang hidup di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_INSTANCE_DESCRIPTION">
+			<Text>Akhirnya bertemu dengan orang-orang {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}, kami merasa lucu bahwa tidak ada peradaban yang tersisa di luar sana.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD">
+			<Text>Yang Pertama di Dunia yang Bertemu Semua Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda adalah orang pertama yang bertemu dengan semua peradaban yang hidup di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Kami bertemu dengan orang-orang {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}, dan menjadi orang pertama yang bertemu dengan semua peradaban dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_MAJOR">
+			<Text>Bertemu Peradaban Baru</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_MAJOR_DESCRIPTION">
+			<Text>Anda telah melakukan kontak dengan peradaban baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_MAJOR_INSTANCE_DESCRIPTION">
+			<Text>Sambutan waspada dan tatapan penasaran menandai momen pertemuan kami dengan masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE">
+			<Text>Mengatasi Zaman Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_DESCRIPTION">
+			<Text>Peradaban Anda telah memperoleh Skor Era yang cukup untuk mengatasi Zaman Kegelapannya sejak dini, dan bangkit ke Zaman Normal! Zaman Keemasan berikutnya yang Anda peroleh akan menjadi sangat kuat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>Sebagaimana api memurnikan emas, demikian pula Peradaban kita telah dimurnikan melalui cobaan di Zaman Kegelapan. Sekarang semua lihatlah kemuliaan kami yang diperbarui!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN">
+			<Text>Proyek Manhattan Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_DESCRIPTION">
+			<Text>Ilmuwan Anda menyelesaikan Proyek Manhattan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_INSTANCE_DESCRIPTION">
+			<Text>Kekuatan atom yang mengerikan berada dalam kendali kita sekarang setelah kita menyelesaikan Proyek Manhattan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS">
+			<Text>Komponen Mars Diluncurkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION">
+			<Text>Anda telah meluncurkan komponen pertama peradaban Anda untuk pesawat ruang angkasa Mars.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION">
+			<Text>Tentu, siapa pun bisa membuat {LOC_GRAMMAR_A_AN &lt;&lt; {ProjectShortName}}. Namun tidak sembarang orang bisa menempatkannya di orbit.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD">
+			<Text>Komponen Mars Pertama di Dunia Diluncurkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda adalah orang pertama di dunia yang meluncurkan komponen untuk pesawat luar angkasa Mars.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Seorang insinyur menyaksikan gemuruh roket dari landasan peluncuran, membawa {ProjectShortName}. “Ini benar-benar terjadi,” katanya. “Kita akan ke Mars.”</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING">
+			<Text>Mendarat di Bulan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_DESCRIPTION">
+			<Text>Anda mengirimkan misi yang sukses untuk mendarat di bulan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_INSTANCE_DESCRIPTION">
+			<Text>Ilmuwan Anda mengkonfirmasi apa yang dilaporkan orang lain: Bulan sangat berdebu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD">
+			<Text>Pendaratan Pertama di Bulan di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda adalah orang pertama di dunia yang mendarat di bulan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Itu adalah satu langkah kecil bagi manusia, dan satu lompatan besar bagi umat manusia, semuanya berkat peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY">
+			<Text>Operasi Ivy Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_DESCRIPTION">
+			<Text>Ilmuwan Anda menyelesaikan Operasi Ivy.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_INSTANCE_DESCRIPTION">
+			<Text>Folder yang tidak mencolok berisi laporan keberhasilan Operasi Ivy. Tapi apa yang terkandung dalam kekuatan senjata baru kita?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH">
+			<Text>Satelit Diluncurkan Ke Orbit</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_DESCRIPTION">
+			<Text>Anda meluncurkan satelit pertama peradaban Anda ke orbit.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_INSTANCE_DESCRIPTION">
+			<Text>Pada malam hari, warga kami menunjuk pada bintang baru yang melintasi langit - Satelit pertama kami!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD">
+			<Text>Satelit Pertama di Dunia yang Mengorbit</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda meluncurkan satelit pertama di dunia ke orbit.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bip...bip...bip...bip...</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED">
+			<Text>Agama Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_DESCRIPTION">
+			<Text>Seorang Nabi Agung mendirikan Agama, membawa terang bagi umat Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} adalah jalan keselamatan yang sebenarnya! Harap abaikan semua yang lainnya!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD">
+			<Text>Agama Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Umat ​​​​Anda adalah orang pertama yang membentuk Agama, membawa terang bagi dunia luas!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Dikatakan bahwa ketika {GreatPersonIndividualName} mendirikan {ReligionName}, Agama pertama di dunia, matahari menembus awan, dan aroma harum memenuhi udara.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SHIP_SUNK">
+			<Text>Kapal Tenggelam</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SHIP_SUNK_DESCRIPTION">
+			<Text>Sebuah unit angkatan laut tenggelam dalam pertempuran. Digunakan oleh sistem Arkeologi yang berpotensi menghasilkan sumber daya Kapal Karam [ICON_RESOURCE_SHIPWRECK].</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL">
+			<Text>Master Spy Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_DESCRIPTION">
+			<Text>Salah satu Mata-mata Anda telah mencapai tingkat promosi maksimumnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Mereka mengatakan bahwa {UnitCitizenName} memiliki kontak di setiap kota di dunia, selera pakaian yang sempurna, dan mobil yang dapat berubah menjadi perahu motor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST">
+			<Text>Master Spy Pertama Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_DESCRIPTION">
+			<Text>Untuk pertama kalinya, salah satu Mata-mata Anda telah mencapai level promosi maksimumnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Di ruang rahasia bawah tanah, Anda berterima kasih kepada {UnitCitizenName} atas karier pelayanan yang sukses sebelum misi berikutnya dimulai.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST">
+			<Text>Teknologi Pertama Era Baru</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>Anda telah menyelesaikan teknologi pertama peradaban Anda dari era penemuan baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Banyak yang membantah awal sebenarnya dari {PlayerEraType}, tapi Anda tahu saat itulah {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} menemukan {TechnologyType}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD">
+			<Text>Teknologi Era Baru Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda telah menyelesaikan teknologi pertama di dunia dari era penemuan baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Penemuan {TechnologyType} oleh {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} menentukan panggung dunia bagi penemuan-penemuan masa depan di {PlayerEraType}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV">
+			<Text>Pos Perdagangan Didirikan pada Peradaban Baru</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_DESCRIPTION">
+			<Text>Anda telah mendirikan Pos Perdagangan [ICON_TradingPost] pertama Anda di peradaban ini, membuka akses ke pasar baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_INSTANCE_DESCRIPTION">
+			<Text>Berdebu dan lelah namun ingin menawar, para pedagang membuka Pos Perdagangan pertama kami di tanah {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV">
+			<Text>Pos Perdagangan di Semua Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_DESCRIPTION">
+			<Text>Anda telah mendirikan Pos Perdagangan [ICON_TradingPost] di semua peradaban.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_INSTANCE_DESCRIPTION">
+			<Text>Jaringan perdagangan kami menjangkau seluruh dunia setelah dibukanya Pos Perdagangan di {CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD">
+			<Text>Pos Perdagangan Pertama di Semua Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda adalah orang pertama di dunia yang mendirikan Pos Perdagangan [ICON_TradingPost] di semua peradaban.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Para pedagang dan bankir bersorak saat kami membuka Pos Perdagangan di {CityName}. Kami adalah yang pertama berdagang di setiap peradaban di dunia!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR">
+			<Text>Mengambil Penerbangan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_DESCRIPTION">
+			<Text>Anda memiliki unit terbang pertama Anda. Masyarakat bersukacita atas kemungkinan-kemungkinan baru yang ditimbulkannya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_INSTANCE_DESCRIPTION">
+			<Text>{UnitType} dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} naik, dan tidak langsung turun, menimbulkan kegembiraan yang besar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD">
+			<Text>Penerbangan Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_DESCRIPTION">
+			<Text>Anda memiliki unit terbang pertama di dunia! Masyarakat bersukacita atas kemungkinan-kemungkinan baru yang ditimbulkannya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Umat ​​​​manusia mewujudkan impiannya untuk terbang untuk pertama kalinya, saat {UnitType} dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} terbang ke angkasa.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA">
+			<Text>Di Atas Ombak</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_DESCRIPTION">
+			<Text>Anda memiliki unit pelayaran pertama Anda. Dunia penuh kemungkinan menanti di depan mata.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_INSTANCE_DESCRIPTION">
+			<Text>Awak {UnitType} dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} menemukan benang pelaut setelah pelayaran laut pertama mereka.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD">
+			<Text>Pelayaran Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_DESCRIPTION">
+			<Text>Anda pemilik unit pelayaran pertama di dunia! Dunia penuh kemungkinan menanti di depan mata.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Mendambakan petualangan baru, {UnitType} dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} adalah yang pertama di dunia yang menjelajahi lautan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC">
+			<Text>Potensi Sumber Daya Strategis yang Dikeluarkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_DESCRIPTION">
+			<Text>Anda memiliki unit pertama yang menggunakan sumber daya strategis ini.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_INSTANCE_DESCRIPTION">
+			<Text>Orang yang skeptis mungkin bertanya: &quot;Apa gunanya {ResourceType : plural 1?is; other?are;} {ResourceType}?&quot; Tapi kita sekarang tahu bahwa {ResourceType : plural 1?it is; other?they are;} adalah senjata yang tangguh untuk {UnitType} kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD">
+			<Text>Potensi Sumber Daya Strategis Pertama di Dunia yang Dikeluarkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_DESCRIPTION">
+			<Text>Anda adalah peradaban pertama di dunia yang memiliki unit menggunakan sumber daya strategis ini.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Sebelumnya, {ResourceType} {ResourceType : plural 1?was; other?were;} hanya sekedar keingintahuan para ulama. Sekarang {UnitType} kami menggunakan {ResourceType : plural 1?it; other?them;} sebagai senjata untuk pertama kalinya di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE">
+			<Text>Unit Pawai Unik</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Anda telah melatih unit unik ini untuk pertama kalinya, memberi Anda keunggulan di medan perang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Siapa selain {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} yang dapat membuat {UnitType}? Dan siapa yang mungkin bisa menolaknya?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL">
+			<Text>Unit Dipromosikan dengan Keistimewaan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_DESCRIPTION">
+			<Text>Salah satu unit Anda mencapai tingkat promosi keempat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Warga berbondong-bondong merayakan kemenangan terbaru {UnitType} kami!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST">
+			<Text>Unit Pertama Dipromosikan dengan Keistimewaan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_DESCRIPTION">
+			<Text>Untuk pertama kalinya, salah satu unit Anda mencapai promosi tingkat keempat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Dari semua kekuatan militer kita, {UnitType} ini adalah yang paling terkenal. Belum ada seorang pun yang mencapai kemenangan sebanyak itu dalam perang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL">
+			<Text>Laksamana Mengalahkan Musuh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_DESCRIPTION">
+			<Text>Salah satu Laksamana Agung [ICON_GreatAdmiral] Anda telah mengawasi kemenangan serangan pertama mereka terhadap unit musuh.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName} berdiri di dek, teropong di depan mata, saat kapal musuh tenggelam ke kedalaman laut.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL">
+			<Text>Umum Mengalahkan Musuh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_DESCRIPTION">
+			<Text>Salah satu Jenderal Besar [ICON_GreatGeneral] Anda telah mengawasi kemenangan serangan pertama mereka terhadap unit musuh.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName} memimpin pasukan dalam parade setelah kemenangan yang menakjubkan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION">
+			<Text>Formasi Musuh Dikalahkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_DESCRIPTION">
+			<Text>Salah satu unit Anda mengalahkan unit musuh dengan formasi militer yang unggul.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_INSTANCE_DESCRIPTION">
+			<Text>Meski kalah jumlah, {UnitType} kami menang!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS">
+			<Text>Veteran Musuh Dikalahkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_DESCRIPTION">
+			<Text>Salah satu unit Anda mengalahkan unit musuh dengan setidaknya 2 promosi lebih banyak darinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_INSTANCE_DESCRIPTION">
+			<Text>{UnitType} kami telah mencapai standar pertempuran musuh veteran!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI">
+			<Text>Penyebab Perang</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_DESCRIPTION">
+			<Text>Anda telah memanfaatkan Casus Belli untuk berperang melawan peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_INSTANCE_DESCRIPTION">
+			<Text>Dunia setuju bahwa {WarType} melawan {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} sangat beralasan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED">
+			<Text>Dunia Dikelilingi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_DESCRIPTION">
+			<Text>Peradaban Anda telah menampilkan ubin di setiap garis vertikal peta. Hal ini membentuk suatu jalan di seluruh dunia, bahkan jika jalan tersebut tidak berakhir di titik awalnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_INSTANCE_DESCRIPTION">
+			<Text>Mengikuti jejak yang telah dilalui sedikit orang sebelumnya, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} mengelilingi dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD">
+			<Text>Navigasi Keliling Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah orang pertama yang menampilkan ubin di setiap garis vertikal peta. Hal ini membentuk suatu jalan di seluruh dunia, bahkan jika jalan tersebut tidak berakhir di titik awalnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} menyelesaikan pelayaran mengelilingi pertama di dunia!</Text>
+		</Row>
+		<!--Moment Data-->
+		<Row Tag="LOC_MOMENT_DATA_BELIEF">
+			<Text>Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_BUILDING">
+			<Text>Bangunan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_CITY_STATE_PLAYER">
+			<Text>Pemain Kota-Negara</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_CIVIC">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_CONTINENT">
+			<Text>Benua</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_DISTRICT">
+			<Text>Daerah</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_EMERGENCY">
+			<Text>Keadaan darurat</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_FEATURE">
+			<Text>Fitur</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GOVERNMENT">
+			<Text>Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GOVERNOR">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GREAT_PERSON_INDIVIDUAL">
+			<Text>Individu Orang Hebat</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GREAT_WORK">
+			<Text>Kerja Hebat</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_IMPROVEMENT">
+			<Text>Peningkatan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_OLD_RELIGION">
+			<Text>Agama Lama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_PLAYER_ERA">
+			<Text>Era Pemain</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_PROJECT">
+			<Text>Proyek</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_RELIGION">
+			<Text>Agama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_RESOURCE">
+			<Text>Sumber</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_TARGET_PLAYER">
+			<Text>Pemain Sasaran</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_TARGET_PLAYER_ERA">
+			<Text>Era Pemain Sasaran</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_TECHNOLOGY">
+			<Text>Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_UNIT">
+			<Text>Satuan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR">
+			<Text>Perang</Text>
+		</Row>
+		<!-- Types of war (so we can specify in moment text) -->
+		<Row Tag="LOC_MOMENT_DATA_WAR_SURPRISE_WAR">
+			<Text>Perang Kejutan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_FORMAL_WAR">
+			<Text>Perang Formal</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_HOLY_WAR">
+			<Text>Perang Suci</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_RECONQUEST_WAR">
+			<Text>Perang Penaklukan Kembali</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_LIBERATION_WAR">
+			<Text>Perang Pembebasan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_DEFENSIVE_PACT">
+			<Text>Pakta Pertahanan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_JOINT_WAR">
+			<Text>Perang Bersama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_SUZERAIN_WAR">
+			<Text>Perang Penguasa</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_PROTECTORATE_WAR">
+			<Text>Perang Protektorat</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_COLONIAL_WAR">
+			<Text>Perang Kolonial</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_TERRITORIAL_WAR">
+			<Text>Perang Perluasan Wilayah</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_GOLDEN_AGE_WAR">
+			<Text>Perang Zaman Keemasan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_EMERGENCY_WAR">
+			<Text>Perang Darurat</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_WAR_OF_RETRIBUTION">
+			<Text>Perang Pembalasan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_IDEOLOGICAL_WAR">
+			<Text>Perang Ideologi</Text>
+		</Row>
+		<!--Moment Categories and Bonuses-->
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL">
+			<Text>Langit dan Bintang</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE">
+			<Text>Zaman Keemasan Langit dan Bintang:[NEWLINE]Membuka [ICON_TechBoosted] Eureka untuk Penerbangan Tingkat Lanjut, Fisi Nuklir, dan Peroketan jika berada di Era Atom. Jika di Era Informasi, Eureka untuk Satelit, Robotika, Fusi Nuklir, dan Nanoteknologi terbuka. +100% XP diperoleh untuk semua Unit Udara.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Langit dan Bintang:[NEWLINE]Dapatkan +1 Skor Era untuk setiap gedung Aerodrome yang dibangun. Dapatkan +1 Skor Era setiap kali [ICON_GreatPerson] Orang Hebat diperoleh atau dibeli.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Langit dan Bintang:[NEWLINE]Dapatkan +1 Skor Era untuk setiap gedung Aerodrome yang dibangun. Dapatkan +1 Skor Era setiap kali [ICON_GreatPerson] Orang Hebat diperoleh atau dibeli.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL">
+			<Text>Pena, Kuas, dan Suara</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_GOLDEN_AGE">
+			<Text>Pena, Kuas, dan Suara Zaman Keemasan:[NEWLINE][ICON_CivicBoosted] Inspirasi memberikan tambahan 10% biaya sipil. Setiap kota menerima +1 [ICON_Culture] Budaya untuk setiap distrik khusus </Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Pena, Kuas, dan Suara:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda memicu [ICON_CivicBoosted] Inspirasi. +1 Skor Era untuk membangun gedung dengan Slot Kerja Hebat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Pena, Kuas, dan Suara:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda memicu [ICON_CivicBoosted] Inspirasi. +1 Skor Era untuk membangun gedung dengan Slot Kerja Hebat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC">
+			<Text>Reformasi Koin</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_GOLDEN_AGE">
+			<Text>Reformasi Zaman Keemasan Koin:[NEWLINE]Pedagang Anda tidak dapat dijarah. Rute Perdagangan Internasional [ICON_TradeRoute] menyediakan +3 [ICON_Gold] Emas per distrik khusus di kota asing.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_NORMAL_AGE">
+			<Text>Ubah Bonus Dedikasi Koin:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda berhasil menyelesaikan [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_DARK_AGE">
+			<Text>Ubah Bonus Dedikasi Koin:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda berhasil menyelesaikan [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE">
+			<Text>Pengawal Kebohongan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_GOLDEN_AGE">
+			<Text>Pengawal Kebohongan Zaman Keemasan:[NEWLINE]Mata-mata tidak membutuhkan waktu lama untuk membangun kehadiran mereka di kota peradaban lain. Waktu untuk menyelesaikan semua misi ofensif berkurang 25%.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Pengawal Kebohongan:[NEWLINE]Dapatkan Skor Era +1 untuk setiap operasi Mata-mata ofensif yang berhasil.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Pengawal Kebohongan:[NEWLINE]Dapatkan Skor Era +1 untuk setiap operasi Mata-mata ofensif yang berhasil.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION">
+			<Text>Hic Sunt Dracones </Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_GOLDEN_AGE">
+			<Text>Hic Sunt Dracones Golden Age:[NEWLINE]+3 mulai [ICON_Citizen] Populasi kota yang menetap di benua yang berbeda dari kota pertama Anda. +2 [ICON_Movement] Pergerakan unit angkatan laut dan unit yang berangkat. +2 Loyalitas per giliran untuk kota-kota yang bukan di [ICON_Capital] benua Ibu Kota asli Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Hic Sunt Dracones:[NEWLINE]Dapatkan +3 Skor Era setiap kali Anda menemukan Benua baru atau keajaiban alam. Dapatkan +1 Skor Era setiap kali Anda membunuh unit angkatan laut non-Barbar dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Hic Sunt Dracones:[NEWLINE]Dapatkan +3 Skor Era setiap kali Anda menemukan Benua baru atau keajaiban alam. Dapatkan +1 Skor Era setiap kali Anda membunuh unit angkatan laut non-Barbar dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL">
+			<Text>Detak Jantung Uap</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_GOLDEN_AGE">
+			<Text>Detak Jantung Zaman Keemasan Uap:[NEWLINE]+10% [ICON_Production] Produksi menuju era Industri dan keajaiban selanjutnya. Bonus kedekatan Sains [ICON_SCIENCE] di distrik kampus juga menyediakan [ICON_PRODUCTION] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_NORMAL_AGE">
+			<Text>Bonus Detak Jantung Uap:[NEWLINE]Dapatkan Skor Era +1 untuk setiap bangunan Industri atau yang lebih baru yang dibangun.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_DARK_AGE">
+			<Text>Bonus Detak Jantung Uap:[NEWLINE]Dapatkan Skor Era +1 untuk setiap bangunan Industri atau yang lebih baru yang dibangun. </Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE">
+			<Text>Monumentalitas</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_GOLDEN_AGE">
+			<Text>Monumentalitas Zaman Keemasan:[NEWLINE]+2 [ICON_Movement] Gerakan untuk semua Pembangun. Dapat membeli unit sipil dengan [ICON_Faith] Iman. Pembangun dan Pemukim 30% lebih murah untuk membeli dengan [ICON_FAITH] Iman dan [ICON_GOLD] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Monumentalitas:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda membangun Distrik khusus baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Monumentalitas:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda membangun Distrik khusus baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY">
+			<Text>Untuk Senjata!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_GOLDEN_AGE">
+			<Text>Untuk Senjata! Golden Age:[NEWLINE]Buka kunci Casus Belli khusus yang memberikan hukuman penghasut perang 75% lebih sedikit dibandingkan Perang Formal dan dapat digunakan segera setelah Mengecam target. +15% [ICON_Production] Produksi untuk unit militer.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_NORMAL_AGE">
+			<Text>Untuk Senjata! Bonus Dedikasi:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda membunuh Korps non-Barbar dalam pertempuran dan +2 Skor Era setiap kali Anda membunuh Tentara non-Barbar dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_DARK_AGE">
+			<Text>Untuk Senjata! Bonus Dedikasi:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda membunuh Korps non-Barbar dalam pertempuran dan +2 Skor Era setiap kali Anda membunuh Tentara non-Barbar dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS">
+			<Text>Keluaran Para Penginjil</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_GOLDEN_AGE">
+			<Text>Eksodus Zaman Keemasan Penginjil:[NEWLINE]+2 [ICON_Movement] Gerakan untuk semua Misionaris, Rasul, dan Inkuisitor. Selain itu, orang yang baru dilatih mendapat Biaya +2. +4 [ICON_GreatProphet] Poin Nabi Hebat per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Exodus of the Evangelists:[NEWLINE]Dapatkan +2 Skor Era setiap kali Anda mengubah sebuah kota menjadi Agama yang Anda dirikan untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Exodus of the Evangelists:[NEWLINE]Dapatkan +2 Skor Era setiap kali Anda mengubah sebuah kota menjadi Agama yang Anda dirikan untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC">
+			<Text>Pertanyaan Gratis</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_GOLDEN_AGE">
+			<Text>Permintaan Gratis Golden Age:[NEWLINE][ICON_TechBoosted] Eurekas memberikan tambahan 10% biaya teknologi. Bonus kedekatan Emas [ICON_GOLD] di distrik Pusat Komersial dan Pelabuhan juga menyediakan [ICON_Science] Sains.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Permintaan Gratis:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda memicu [ICON_TechBoosted] Eureka. +1 Skor Era untuk membangun gedung yang memberikan Sains sebagai hasil dasar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Permintaan Gratis:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda memicu [ICON_TechBoosted] Eureka. +1 Skor Era untuk membangun gedung yang memberikan Sains sebagai hasil dasar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM">
+			<Text>Seandainya Anda Ada di Sini</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_GOLDEN_AGE">
+			<Text>Seandainya Anda Berada di Sini Zaman Keemasan:[NEWLINE]Kota dengan [ICON_Governor] Gubernur menerima +50% [ICON_Tourism] Pariwisata dari Keajaiban Dunia. +100% [ICON_Tourism] Pariwisata ke seluruh Taman Nasional.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE">
+			<Text>Seandainya Anda Berada di Sini Bonus Dedikasi:[NEWLINE]Dapatkan +1 Skor Era untuk setiap Artefak yang diekstraksi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_DARK_AGE">
+			<Text>Seandainya Anda Berada di Sini Bonus Dedikasi:[NEWLINE]Dapatkan +1 Skor Era untuk setiap Artefak yang diekstraksi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NO_MOMENTS_TO_SHOW">
+			<Text>Peradaban Anda belum mengalami Momen Bersejarah apa pun.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

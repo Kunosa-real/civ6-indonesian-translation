@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Game Concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_CONTENT_TITLE">
+			<Text>Dramatic Ages</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_TITLE">
+			<Text>Selamat datang</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_PARA_1">
+			<Text>Dalam pengaturan game, pemain dapat mengaktifkan mode permainan Dramatic Ages. Aturan untuk mendapatkan Skor Era disesuaikan, mendorong pemain untuk terlibat dalam konflik dan mengikuti perkembangan Teknologi dan Civics. [ICON_GLORY_SUPER_GOLDEN_AGE] Usia dan Dedikasi Heroik dihapus, dan pemain hanya dapat berada di Usia Normal [ICON_GLORY_NORMAL_AGE] di era pertama. Setelah itu, mereka akan mendapatkan [ICON_GLORY_DARK_AGE] Zaman Kegelapan atau [ICON_GLORY_GOLDEN_AGE] Zaman Keemasan, keduanya lebih kuat dari sebelumnya. Abad Kegelapan bahkan dapat menyebabkan kota-kota jatuh ke dalam Kota Bebas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_TITLE">
+			<Text>Skor Era</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_1">
+			<Text>Pemain hanya bisa mendapatkan [ICON_GLORY_DARK_AGE] Zaman Kegelapan atau [ICON_GLORY_GOLDEN_AGE] Zaman Keemasan. Ambang batas untuk mendapatkan Zaman Keemasan meningkat sebesar 3 untuk setiap kota yang dimiliki pemain setelah Ibukota [ICON_Capital]. Lebih jauh lagi, mendapatkan Zaman Keemasan akan meningkatkan ambang batas sebesar 5, sedangkan memperoleh Zaman Kegelapan akan menurunkannya sebesar 10. Batasan ini dihitung dan ditetapkan ketika permainan berganti era, sama seperti aturan tanpa Mode, jadi tidak perlu khawatir mengenai target bergerak dalam suatu era.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_2">
+			<Text>Pemain tidak lagi melakukan Dedikasi ketika era permainan berganti. Daripada mendapatkan Skor Era dari efek Dedikasi, pemain mendapatkan 1 Skor Era setiap kali mereka menyelesaikan Teknologi atau Civic. Mereka juga memperoleh 1 Skor Era setiap kali salah satu unit militernya mendapat promosi, setelah promosi pertama unit tersebut. Era Score juga masih bisa diperoleh dari Momen Bersejarah. Alih-alih bonus gameplay dari Dedikasi, pemain mendapatkan akses ke Kebijakan Sosial khusus dan lebih fleksibel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_TITLE">
+			<Text>Zaman Keemasan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_1">
+			<Text>Jika Anda memperoleh Skor Era lebih dari yang diperlukan untuk mencapai Zaman Keemasan [ICON_GLORY_GOLDEN_AGE] pada era sebelumnya, kelebihan tersebut akan membuat warga Anda menerapkan tekanan Loyalitas tambahan selama Zaman Keemasan Anda. Setiap 1 Skor Era memberikan peningkatan tekanan sebesar 5% untuk warga Anda. Ketika angka ini mencapai 50%, tekanan tambahan masih dapat diperoleh, namun hasil yang diperoleh semakin berkurang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_2">
+			<Text>Golden Ages memberikan akses ke Kebijakan Emas yang kuat, yang dapat ditempatkan di slot Wildcard Pemerintah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_TITLE">
+			<Text>Abad Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_1">
+			<Text>[ICON_GLORY_DARK_AGE] Dark Ages memberikan akses ke Kebijakan Gelap, yang dapat ditempatkan di slot Wildcard Pemerintah Anda. Ini kuat, namun memiliki efek kelemahan. Beberapa kebijakan sama seperti dalam permainan normal, sementara kebijakan lainnya dikerjakan ulang atau baru.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_2">
+			<Text>Jatuh ke Zaman Kegelapan juga akan menyebabkan setidaknya 1 kota memberontak secara instan. Kota-kota ini berubah menjadi Kota Bebas. Kota-kota dengan tekanan Loyalitas terendah dibandingkan kota-kota terdekat yang bersahabat adalah kota-kota yang paling berisiko, yang biasanya terletak di pinggiran kerajaan Anda. Namun, modal [ICON_Capital] Anda selalu aman.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_TITLE">
+			<Text>Kota Bebas</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_PARA_1">
+			<Text>Jumlah Kota Gratis yang muncul dari kerajaan di Abad Kegelapan bergantung pada tingkat kesulitan yang Anda pilih. Selain itu, Kota Bebas kini dapat memberikan tekanan Loyalitas pada kota-kota lain dan satu sama lain, sehingga kota-kota tersebut dapat menjadi jauh lebih tangguh.[NEWLINE][ICON_BULLET]Pemukiman: 5% Kota manusia hilang, 30% kota AI hilang. 1x tekanan dari Kota Bebas.[NEWLINE][ICON_BULLET]Kepala suku: 10% Kota manusia hilang, 30% kota AI hilang. 2x tekanan dari Kota Bebas.[NEWLINE][ICON_BULLET]Panglima Perang: 15% Kota manusia hilang, 25% kota AI hilang. Tekanan 2,5x dari Kota Bebas.[NEWLINE][ICON_BULLET]Pangeran: 20% Kota manusia hilang, 20% kota AI hilang. 3x tekanan dari Kota Bebas.[NEWLINE][ICON_BULLET]Raja: 25% Kota manusia hilang, 15% kota AI hilang. Tekanan 3,5x dari Kota Bebas.[NEWLINE][ICON_BULLET]Kaisar: 30% Kota manusia hilang, 15% kota AI hilang. 4x tekanan dari Kota Bebas.[NEWLINE][ICON_BULLET]Abadi: 35% Kota manusia hilang, 10% kota AI hilang. Tekanan 4,5x dari Kota Bebas.[NEWLINE][ICON_BULLET]Dewa: 40% Kota manusia hilang, 10% kota AI hilang. Tekanan 5x dari Kota Bebas.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOLDENAGE_POLICIES_NAME">
+			<Text>Kebijakan Zaman Keemasan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_EXODUS_OF_THE_EVANGELISTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Agama-agama besar yang melakukan dakwah masing-masing memiliki titik di mana para pengikutnya melakukan perjalanan jauh di dunia untuk menyebarkan keyakinan: para Rasul Kristen bergerak melewati dan melampaui Kekaisaran Romawi, para arhant Buddha menyebarkan agama mereka ke seluruh India dan sekitarnya, dan Islam membawa gelombang kesuksesan militer, diplomatik dan ekonomi dari Asia Selatan hingga Spanyol. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REFORM_THE_COINAGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Koin adalah simbol – bernilai lebih dari logam di dalamnya. Atau benarkah? Upaya untuk menilai kembali koin dapat membangun atau menghancurkan sebuah kerajaan – terutama jika kita menganggap bahwa tentara sering kali dibayar dengan koin dan mungkin akan marah jika mereka diberi timah berwarna emas, bukan timah asli.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_HEARTBEAT_OF_STEAM_CHAPTER_HISTORY_PARA_1">
+			<Text>Revolusi industri selamanya mengubah hubungan antara tenaga kerja, teknologi, dan industri. Jam menandai jam kerja, pabrik uap melakukan pekerjaan ratusan hewan dan manusia, dan semakin banyak pekerja yang melakukan tugas yang sederhana, berulang, dan hampir seperti mesin. Lebih dari sebelumnya, teknologi hadir sebagai tujuan akhir dan untuk dirinya sendiri. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TO_ARMS_CHAPTER_HISTORY_PARA_1">
+			<Text>Nasionalisme, “komunitas yang dibayangkan” yang menjadi ciri khas era industri, mengajak kita untuk membayangkan hubungan kekerabatan dengan orang-orang yang belum pernah dan tidak akan pernah kita temui, dan membayangkan diri kita sebagai bagian dari sejarah mereka. Bendera dan spanduk, lagu kebangsaan dan poster rekrutmen – semuanya menyerukan prajurit untuk bertarung dan mati demi abstraksi. Cukup membaca – terompet berbunyi!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FREE_ENQUIRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Pengetahuan adalah kekuatan, kata filsuf Michel Foucault, dan karena itu berbahaya. Masyarakat yang mengabdi pada penyelidikan bebas bertaruh bahwa mereka cukup kuat untuk bertahan dari jawaban yang diberikan oleh pertanyaan terbuka.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONUMENTALITY_CHAPTER_HISTORY_PARA_1">
+			<Text>Ibukota kekaisaran – kota-kota seperti St. Petersburg, Istanbul, Beijing, dan Washington DC, dibuat untuk mengingatkan pengunjung bahwa, dibandingkan dengan skala sejarah nasional, individu adalah kecil dan sementara. Di sini, monumentalitas mengacu pada lebih dari sekedar bangunan itu sendiri, namun keadaan pikiran di mana skala konstruksi menunjukkan luasnya kerajaan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISH_YOU_WERE_HERE_CHAPTER_HISTORY_PARA_1">
+			<Text>Pariwisata selalu berperan dalam masyarakat, jika kita dapat menempatkan peziarah keagamaan, pelayaran perampok, dan delegasi pedagang dalam kategori yang sama. Namun kemunculan industri pariwisata yang terorganisir pada tahun 1800an mengubah arti pergi ke luar negeri untuk bersenang-senang (dan merindukan kampung halaman).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKY_AND_STARS_CHAPTER_HISTORY_PARA_1">
+			<Text>Tentara selalu berjuang untuk merebut dataran tinggi, namun dengan adanya penerbangan di abad ke-20, cakrawala tersebut meluas hingga mencakup bandar udara dan, pada akhirnya, landasan peluncuran roket (roket yang dapat membawa manusia ke bulan dan juga menjatuhkan hulu ledak ke ibu kota musuh). </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MANDALA_STATE_CHAPTER_HISTORY_PARA_1">
+			<Text>Di Asia Selatan dan Tenggara pada abad pertengahan, tata negara sering kali berkaitan dengan pengelolaan prestise budaya suatu pusat. Di sini, pertempuran terjadi dalam ranah tontonan, bukan kekerasan, dan raja atau ratu yang dapat menyelenggarakan pertunjukan paling dramatis dan mahal adalah orang yang dapat menarik kota-kota perbatasan ke sisinya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIAN_GUARD_CHAPTER_HISTORY_PARA_1">
+			<Text>Di masa kemudian Kekaisaran Romawi Barat, Pengawal Praetorian, yang sebelumnya merupakan pengawal pribadi Kaisar, berkembang menjadi kekuatan yang aktif secara politik, yang melibatkan militer dalam organisasi kehidupan politik dan sosial. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAKDINA_CHAPTER_HISTORY_PARA_1">
+			<Text>Sakdina – sistem feodal dalam kehidupan abad pertengahan Thailand – menempatkan setiap individu dalam sistem hierarki kewajiban bersama. Mereka yang berada di tingkat bawah dapat meminta bantuan dari mereka yang berada di tingkat atas, yang wajib memberikannya (sesuai alasan), yang berarti bahwa semua lapisan masyarakat terikat dan berkomitmen satu sama lain. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CULTURE_INDUSTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Kritik Theodore Adorno terhadap hiburan massal adalah bahwa hal itu mereduksi seni bukan sekedar pencarian ekspresi yang luhur, namun pada daya tarik massanya. Industri budaya, meskipun Adorno mungkin berpendapat bahwa hal tersebut tidak masuk akal, berupaya untuk mengajak semua warga negara berpartisipasi dalam kehidupan budaya dibandingkan sebelumnya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POPULAR_FRONT_CHAPTER_HISTORY_PARA_1">
+			<Text>Selama Perang Dingin, masing-masing pihak berupaya mendekatkan sekutunya secara ideologis. Negara-negara seperti Jerman Timur dan Vietnam ditekan untuk berkomitmen lebih jauh pada aliansi mereka dengan Uni Soviet (seperti yang dilakukan Indonesia dan Pakistan terhadap AS), sehingga membentuk blok-blok politik yang sering kali bersatu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_INDUSTRIAL_COMPLEX_CHAPTER_HISTORY_PARA_1">
+			<Text>Presiden AS Dwight Eisenhower menggunakan istilah “Kompleks Industri-Militer” untuk merujuk pada hubungan erat antara industri swasta dan militer. Konsep ini tidak hanya berlaku di AS, dan di sini mengacu pada hubungan erat antara industri berat dan perlombaan senjata.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOLDARITY_CHAPTER_HISTORY_PARA_1">
+			<Text>Selama Perang Dingin, negara-negara memberikan tekanan ideologis terhadap negara tetangganya dengan berbagai cara. Kita bisa membayangkan siaran propaganda melintasi perbatasan, penyebaran selebaran, sel-sel ideologis rahasia, dan, tentu saja, membanjirnya hair metal dan blue jeans ke Eropa Timur. Pertunjukan “soft power” ini seringkali diorganisir dan difasilitasi di tingkat tertinggi, dan mempunyai dampak yang luar biasa pada akhirnya runtuhnya Tembok Berlin dan Uni Soviet.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOFT_TARGETS_CHAPTER_HISTORY_PARA_1">
+			<Text>Militer yang disiplin – yang tidak menjarah atau menjarah tanpa pandang bulu – merupakan ciri masyarakat yang berjalan dengan baik. Namun di Era Kegelapan, standar-standar tersebut mungkin akan hilang. Dalam militer yang lebih menyukai sasaran sipil yang lunak dan memandang penjarahan sebagai bagian dari gaji prajurit, tentara mungkin lebih memilih melakukan penjarahan dengan mudah dibandingkan dengan tujuan strategis militer. Perilaku seperti itu mungkin menyebabkan peningkatan kerusakan pada kota dan warga sipil, namun menurunkan efektivitas dalam perang.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAMODERZHAVIYE_CHAPTER_HISTORY_PARA_1">
+			<Text>Samoderzhaviye – otokrasi – adalah salah satu pilar utama pemikiran konservatif Tsar Rusia. Sementara negara-negara lain bereksperimen dengan membagi kekuasaan di antara para penasihat atau pemerintahan rakyat, di bawah filosofi samoderzhaviye, apa yang dikatakan tsar berlaku. Dan jika sang tsar malas, tidak kompeten, atau kurang informasi, maka hal ini merupakan sebuah tanggung jawab. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DESPOTIC_PATERNALISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Thak Chaloemtirana menggambarkan Asia Tenggara pada era Perang Dingin sebagai rumah bagi jenis “paternalisme despotik” tertentu, di mana kekuasaan diinvestasikan pada orang-orang kuat di tingkat lokal, sementara pemikiran dan tindakan independen dibatasi. Bayangkan orang-orang seperti Suharto di Indonesia, atau Sarit di Thailand. Sistem seperti ini menghambat kebebasan untuk melakukan penyelidikan, namun tindakan keras dari para penganut paham paternalistik yang lalim mampu mengendalikan suara-suara yang berbeda pendapat. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DECENTRALIZATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Saat menghadapi keruntuhan masyarakat (misalnya Zaman Kegelapan), beberapa peradaban beralih ke pemerintahan yang keras dari pusat, sementara peradaban lain membiarkan wilayah pinggiran menjadi semakin otonom – pertimbangkan bagaimana populasi Konstantinopel berpindah ke kota-kota kecil dan pertanian seiring dengan menurunnya Kekaisaran Bizantium. Dengan cara ini, pemerintah pusat memberikan subsidi besar-besaran kepada daerah pinggiran sebagai upaya terakhir untuk menjaga hati dan pikiran masyarakat, setidaknya sampai keadaan membaik. </Text>
+		</Row>
+	</EnglishText>
+</GameData>

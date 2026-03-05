@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Instance Names-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>Latihan {LOC_GRAMMAR_A_AN &lt;&lt; {1_UnitName}}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>Bangun {LOC_GRAMMAR_A_AN &lt;&lt; {1_District_Name}}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>Memicu Eureka [ICON_TechBoosted] untuk {1_TechName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>Memicu Inspirasi [ICON_CivicBoosted] untuk {1_CivicName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Rekrut {LOC_GRAMMAR_A_AN &lt;&lt; {1_Class_Teacher Name}}.</Text>
+		</Row>
+		<!--Descriptions-->
+		<Row Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Konversikan negara-kota ke agama [ICON_Religion] Anda.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Kirimkan Rute Perdagangan [ICON_TradeRoute] ke negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Hancurkan satu [ICON_Barbarian] Barbarian Outpost dalam jarak 5 petak kota.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Melatih jenis unit militer [ICON_Unit] yang dipilih secara acak.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Membangun tipe distrik [ICON_District] khusus yang dipilih secara acak.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Memicu momen Eureka [ICON_TechBoosted] yang dipilih secara acak.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Memicu momen Inspirasi [ICON_CivicBoosted] yang dipilih secara acak.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Merekrut kelas [ICON_GreatPerson] Great Person yang dipilih secara acak.</Text>
+		</Row>
+		<!--Instance Descriptions-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Melatih {LOC_GRAMMAR_A_AN &lt;&lt; {1_Unit_Name}} unit militer.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Construct {LOC_GRAMMAR_A_AN &lt;&lt; {1_District_Name}} kabupaten.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Picu momen Eureka [ICON_TechBoosted] untuk teknologi {1_Technology_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Memicu momen Inspirasi [ICON_CivicBoosted] untuk warga {1_CivicName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Rekrut satu orang {1_IconString} {2_Great People Class Name}.</Text>
+		</Row>
+		<!--Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Utusan</Text>
+		</Row>
+		<!--Instance Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+			<Text>[ICON_Envoy] {1_Number} {1_Number : plural 1? Messenger; other? Messenger;}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

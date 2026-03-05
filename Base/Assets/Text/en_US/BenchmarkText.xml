@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BaseGameText>
+    <!-- Main menu text -->
+    <Row Tag="LOC_BENCHMARK_GRAPHICS">
+      <Text>Grafik</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS">
+      <Text>Grafis Badai yang Mendekat</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI">
+      <Text>Kecerdasan Buatan</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI">
+      <Text>Badai yang Mendekat AI</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_GRAPHICS_TT">
+      <Text>Ukur kinerja grafis pada komputer Anda.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT">
+      <Text>Sebuah tes kinerja grafis yang berat untuk mengukur performa grafis pada komputer Anda.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI_TT">
+      <Text>Ukur kinerja AI dan pemrosesan data pada komputer Anda.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI_TT">
+      <Text>Sebuah benchmark yang berat untuk mengukur kinerja AI dan pemrosesan data pada komputer Anda.</Text>
+    </Row>
+		<Row Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>[COLOR_RED]Paket Peradaban Aztec harus diaktifkan untuk dapat menjalankan benchmark ini.[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI_TT_ERROR">
+      <Text>[COLOR_RED]Perkembangan &quot;The Gathering Storm&quot; harus diaktifkan agar dapat menjalankan benchmark ini.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT_ERROR">
+      <Text>[COLOR_RED]Perkembangan &quot;The Gathering Storm&quot; harus diaktifkan agar dapat menjalankan benchmark ini.[ENDCOLOR]</Text>
+    </Row>
+
+    <!-- Benchmarking UI text -->
+    <Row Tag="LOC_BENCHMARK_TIME">
+      <Text>Waktu:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_TURN">
+      <Text>Giliran:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+      <Text>Waktu Rata-Rata:</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Combat Modifiers -->
+		<Row Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Gubernur)</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Persekutuan)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
+			<Text>+{1_Value} Perubahan Diplomatik Terkini</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
+			<Text>+{1_Value} Intel tentang pergerakan lawan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
+			<Text>+{1_Value} Komandan Garnisun</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
+			<Text>+{1_Value} dari Aliansi Militer</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
+			<Text>[COLOR_RED]{1_Value: number +#;-#}[ENDCOLOR] dari Darurat</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
+			<Text>+{1_Value} dari Aliansi Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
+			<Text>+{1_Value} memperkuat pertahanan Anti-Udara</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
+			<Text>+{1_Value} Promosi gubernur Inkuisitor Agung</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
+			<Text>-{1_Value} Kurang efektif vs satuan lahan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
+			<Text>-{1_Value} Kurang efektif vs unit angkatan laut</Text>
+		</Row>
+		<Row Tag="LOC_REPORTS_LOYALTY">
+			<Text>Loyalitas</Text>
+		</Row>
+		<Row Tag="LOC_REPORTS_GOVERNOR">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} Kesetiaan[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
+			<Text>[COLOR_RED]{1_Num} Kesetiaan[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
+			<Text>Fasilitas dari Gubernur:</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_OCCUPIED_LOYALITY_STATUS">
+			<Text>Diduduki: {1_LoyalityStatus}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_TITLE">
+			<Text>GUBERNUR</Text>
+		</Row>
+		<Row Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
+			<Text>Tidak Ada Gelar Gubernur yang Tersedia</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
+			<Text>Peradaban yang Belum Terpenuhi</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
+			<Text>Sibuk</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
+			<Text>[COLOR_RED]Pengeluaran [ICON_Faith] Keyakinan pada patronase dinonaktifkan oleh salah satu kebijakan Anda saat ini.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
+			<Text>[COLOR_RED]Pengeluaran [ICON_Gold] Emas untuk patronase dinonaktifkan oleh salah satu kebijakan Anda saat ini.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
+			<Text>Tidak dapat memulihkan wilayah ini karena pemilihan kebijakan</Text>
+		</Row>
+		<!-- Alliance Text -->
+		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
+			<Text>Anda sudah memiliki Aliansi seperti ini dengan peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
+			<Text>{1_OtherCiv} sudah memiliki Aliansi jenis ini dengan peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
+			<Text>Tingkat Aliansi: {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
+			<Text>Tingkat Aliansi:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
+			<Text>Tingkat Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
+			<Text>Poin Aliansi:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
+			<Text>+{1_PointsPerTurn}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
+			<Text>/ {1_PointsNeeded}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
+			<Text>Aliansi saat ini: {1_AllianceTypeName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
+			<Text>Lihat informasi penting tentang Tingkat Aliansi Anda dengan pemimpin ini, termasuk manfaat Aliansi yang dapat Anda akses.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
+			<Text>Aliansi Riset tingkat {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
+			<Text>Aliansi Kebudayaan tingkat {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
+			<Text>Aliansi Ekonomi tingkat {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
+			<Text>Aliansi Militer tingkat {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
+			<Text>Aliansi Keagamaan tingkat {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_RESEARCH">
+			<Text>Aliansi Penelitian</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_CULTURAL">
+			<Text>Aliansi Kebudayaan</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_MILITARY">
+			<Text>Aliansi Militer</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_ECONOMIC">
+			<Text>Aliansi Ekonomi</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_RELIGIOUS">
+			<Text>Aliansi Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
+			<Text>Buat Aliansi Riset</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
+			<Text>Ciptakan Aliansi Kebudayaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
+			<Text>Buat Aliansi Militer</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
+			<Text>Ciptakan Aliansi Ekonomi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
+			<Text>Ciptakan Aliansi Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
+			<Text>Perbarui Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES">
+			<Text>Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_TT">
+			<Text>Usulkan Aliansi dengan kekuatan ini</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
+			<Text>Usulkan untuk memperpanjang durasi Aliansi Anda saat ini dengan kekuatan ini</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
+			<Text>Aliansi Anda saat ini memberikan manfaat berikut:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
+			<Text>Pada Tingkat Aliansi berikutnya, Aliansi Anda akan mendapatkan manfaat tambahan berikut:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
+			<Text>{1_Tooltip}[NEWLINE]Secara Keseluruhan [ICON_Tourism] Pariwisata Meningkat +{2_Percent} dari Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) dari Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) dari Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} dari Aliansi Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
+			<Text>Visibilitas Bersama</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
+			<Text>Kota sekutu Anda tidak memberikan tekanan Loyalitas pada kota Anda, dan sebaliknya</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
+			<Text>Agama sekutu Anda tidak memberikan tekanan Agama pada kota-kota yang didominasi oleh Agama Anda, dan sebaliknya</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur melawan unit pemain yang berperang dengan Anda dan sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
+			<Text>+4 [ICON_GOLD] Emas dari [ICON_TradeRoute] Rute Perdagangan ke sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
+			<Text>+2 [ICON_GOLD] Emas dari [ICON_TradeRoute] Rute Perdagangan dari sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
+			<Text>+2 [ICON_FAITH] Keyakinan dari [ICON_TradeRoute] Rute Perdagangan ke sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
+			<Text>+1 [ICON_FAITH] Keyakinan dari [ICON_TradeRoute] Rute Perdagangan dari sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
+			<Text>+2 [ICON_Culture] Budaya dari [ICON_TradeRoute] Rute Perdagangan ke sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
+			<Text>+1 [ICON_Culture] Budaya dari [ICON_TradeRoute] Rute Perdagangan dari sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
+			<Text>+2 [ICON_SCIENCE] Sains dari [ICON_TradeRoute] Rute Perdagangan ke sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
+			<Text>+1 [ICON_SCIENCE] Sains dari [ICON_TradeRoute] Rute Perdagangan dari sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
+			<Text>Bonus [ICON_Envoy] Poin Utusan untuk setiap Negara Kota dengan sekutu Anda sebagai Penguasa</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
+			<Text>+15% [ICON_PRODUCTION] Produksi untuk unit militer saat Anda atau sekutu Anda berperang</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
+			<Text>+10 Kekuatan Tempur Agama melawan Agama non-sekutu</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
+			<Text>Setiap 30 putaran (pada Standar), Anda membuka [ICON_TechBoosted] Eureka untuk teknologi yang telah diteliti atau ditingkatkan oleh sekutu Anda, tetapi Anda belum</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
+			<Text>Masing-masing Distrik [ICON_District] Anda memberikan tambahan [ICON_GreatPerson] Poin Orang Hebat per giliran jika Anda memiliki [ICON_TradeRoute] Rute Perdagangan dari kota itu ke sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
+			<Text>Unit dimulai dengan Promosi gratis</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
+			<Text>+1 [ICON_FAITH] Iman untuk setiap warga [ICON_Citizen] Anda yang menganut agama sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
+			<Text>Bonus Tekanan Keagamaan di kota-kota yang tidak memiliki pengikut Agama sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
+			<Text>+10% [ICON_SCIENCE] Sains ketika Anda atau sekutu Anda sedang meneliti teknologi yang telah diselesaikan pihak lain, atau sedang meneliti teknologi yang sama</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
+			<Text>Anda memperoleh +20% Pariwisata [ICON_Tourism] sekutu Anda dari Kota</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
+			<Text>Kamu memperoleh +10% Budaya [ICON_Culture] sekutumu dari Kota</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
+			<Text>Bagikan bonus unik Suzerain dengan sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
+			<Text>{1_Amount} Poin untuk menjadi sekutu</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
+			<Text>[NEWLINE]{1_Amount} Poin dari memiliki [ICON_TradeRoute] Rute Perdagangan ke sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
+			<Text>[NEWLINE]{1_Amount} Poin karena memiliki [ICON_TradeRoute] Rute Perdagangan dari sekutu Anda</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
+			<Text>[NEWLINE]{1_Amount} Poin dari menyatakan perang terhadap musuh bersama</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} Poin dari sumber Anda yang lain</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} Poin dari sumber sekutu Anda yang lain</Text>
+		</Row>
+		<!-- New Government Text -->
+		<Row Tag="LOC_GOVT_POLICY_TYPE_DARKAGE">
+			<Text>Kebijakan Zaman Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1">
+			<Text>Memberi +1 pada semua hasil untuk setiap gedung pemerintahan dan istana di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY_XP1">
+			<Text>Semua unit kelas jarak dekat darat, anti-kavaleri, dan jarak dekat laut memperoleh +4 [ICON_Strength] Kekuatan Tempur.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
+			<Text>Semua kota dengan distrik menerima +1 [ICON_Housing] Perumahan dan +1 [ICON_Amenities] Fasilitas.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
+			<Text>+1 [ICON_Housing] Perumahan per tingkat Tembok. +2 [ICON_Favor] Bantuan Diplomatik untuk setiap Tembok Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
+			<Text>+5 [ICON_Religion] Kekuatan Keagamaan dalam Pertempuran Teologis.[NEWLINE]+0.5 [ICON_Faith] Iman per [ICON_Citizen] Warga di kota dengan [ICON_Governor] Gubernur.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP_XP1">
+			<Text>+10% [ICON_GOLD] Emas di semua kota dengan Gubernur [ICON_Governor] yang mapan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_FASCISM_XP1">
+			<Text>Semua unit memperoleh +5 [ICON_Strength] Kekuatan Tempur.  Kelelahan Perang berkurang 15%.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM_XP1">
+			<Text>+0,6 [ICON_Production] Produksi per [ICON_Citizen] Penduduk di kota dengan [ICON_Governor] Gubernur.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
+			<Text>+1 [ICON_Production] Produksi, +1 [ICON_Housing] Perumahan per Distrik.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
+			<Text>+10% Produksi menuju Keajaiban.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
+			<Text>+20% Pengalaman Unit.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
+			<Text>+15% poin Orang Hebat.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY_XP1">
+			<Text>+50% Poin Pengaruh.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY_XP1">
+			<Text>Diskon 15% untuk Pembelian dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP_XP1">
+			<Text>+15% Produksi menuju Distrik.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM_XP1">
+			<Text>+50% Produksi menuju Unit.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP1">
+			<Text>+15% Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+			<Text>Diskon 15% untuk Pembelian dengan [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_UNLOCKS_POLICY_CARD">
+			<Text>Membuka kunci Kartu Kebijakan {1_PolicyName}.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 dari Warisan Oligarki</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 dari Warisan Teokratis</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FASCISM_LEGACY_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 dari Warisan Fasis</Text>
+		</Row>
+		<!-- Governors UI -->
+		<Row Tag="LOC_GOVERNORS_SCREEN_TAB_OWNED_GOVERNORS">
+			<Text>Gubernur saat ini</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_TAB_GOVERNOR_CANDIDATES">
+			<Text>Kandidat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
+			<Text>Menunjuk</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_DETAILS">
+			<Text>Detail</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_PROMOTE">
+			<Text>Mendorong</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_VIEW_PROMOTIONS">
+			<Text>Lihat Promosi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ESTABLISHED_IN">
+			<Text>Didirikan Pada:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITIONING_TO">
+			<Text>Membangun kekuatan politik di:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NEEDS_ASSIGNMENT">
+			<Text>Kebutuhan Penugasan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_REPLACES">
+			<Text>Menggantikan:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_CONFIRM_REPLACEMENT">
+			<Text>GANTI GUBERNUR? Penempatan gubernur ini akan menggantikan gubernur di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_PLUS_PRESSURE">
+			<Text>{1_Pressure: number +#;-#}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHED">
+			<Text>{1_Name} ({2_Type}) didirikan di kota ini</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHING">
+			<Text>{1_Name} ({2_Type}) didirikan di kota ini</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_NO_GOVERNOR">
+			<Text>Tidak Ada Gubernur yang Ditugaskan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_CURRENT_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Loyalitas Saat Ini Per Putaran</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_FUTURE_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Loyalitas per giliran dengan Gubernur ini Ditetapkan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITION_TURNS">
+			<Text>{1_NumTurns} Ternyata</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TURNS_UNTIL_ESTABLISHED">
+			<Text>{1_NumTurns} Putaran hingga ditetapkan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NAME_WITH_TURNS">
+			<Text>{1_GovernorName} ({2_Turns} {2_Turns : plural 1?Turn; other?Turns;})</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED">
+			<Text>Dinetralkan:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
+			<Text>({1_Turns} lebih lanjut {1_Turns : plural 1?turn; other?turns;})</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
+			<Text>Calon Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
+			<Text>Tetapkan {1_GovernorName} ke:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_BASE_ABILITY_HEADER_TEXT">
+			<Text>Kemampuan Dasar: </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_PROMOTIONS_HEADER_TEXT">
+			<Text>Promosi:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_CHANGE_ASSIGNMENT">
+			<Text>Ubah tugas kota</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_GRANT_PROMOTION">
+			<Text>Promosi Hibah</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_GOVERNOR_NEUTRALIZED">
+			<Text>Rusak</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_CANCEL_PROMOTE_PROMPT">
+			<Text>Promosi yang dipilih tidak akan diterapkan jika Anda meninggalkan layar ini. Apakah Anda ingin melanjutkan?</Text>
+		</Row>
+		<!-- Governors -->
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
+			<Text>Pemenang</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
+			<Text>Aman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
+			<Text>Moksa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
+			<Text>Liang</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
+			<Text>Pingala</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
+			<Text>Reyna</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
+			<Text>Penjaga Istana</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_TITLE">
+			<Text>Diplomat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_TITLE">
+			<Text>Kardinal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE">
+			<Text>Pengurus</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_TITLE">
+			<Text>Surveyor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_TITLE">
+			<Text>Pendidik</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_TITLE">
+			<Text>Pemodal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_SHORT_TITLE">
+			<Text>Penjaga istana</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_SHORT_TITLE">
+			<Text>Diplomat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_SHORT_TITLE">
+			<Text>Kardinal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_SHORT_TITLE">
+			<Text>Pelayan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_SHORT_TITLE">
+			<Text>surveyor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_SHORT_TITLE">
+			<Text>Pendidik</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_SHORT_TITLE">
+			<Text>Pemodal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_DESCRIPTION">
+			<Text>Berfokus pada militer, setelah didirikan di sebuah kota, {LOC_GOVERNOR_THE_DEFENDER_NAME} berperan penting dalam memperkuat, melestarikan, dan mempertahankannya dari ancaman asing.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_DESCRIPTION">
+			<Text>Terampil dalam mendapatkan dukungan bagi peradaban Anda, dan menyebarkan pengaruhnya ke kota-kota terdekat. {LOC_GOVERNOR_THE_AMBASSADOR_NAME} adalah satu-satunya gubernur yang dapat diberi penugasan asing di suatu negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_DESCRIPTION">
+			<Text>Pemimpin Spiritual dan Keagamaan yang dapat meningkatkan [ICON_Religion] Kekuatan Keagamaan suatu kota, dan unit Keagamaan yang ditempatkan di sana. {LOC_GOVERNOR_THE_CARDINAL_NAME} adalah mercusuar [ICON_FAITH] Keyakinan pada kerajaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_DESCRIPTION">
+			<Text>Wirausaha dan cakap, {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME} mampu mendapatkan sumber daya yang berharga saat dibutuhkan. Ia juga cukup ahli dalam mengoptimalkan Produksi [ICON_PRODUCTION] secara keseluruhan di kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_DESCRIPTION">
+			<Text>{LOC_GOVERNOR_THE_EDUCATOR_NAME} difokuskan pada pengembangan [ICON_SCIENCE] Ilmu Pengetahuan dan [ICON_Culture] Budaya di kota. Ia juga cukup ahli dalam menarik [ICON_GreatPerson] Orang Hebat ke kotanya.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_DESCRIPTION">
+			<Text>Cerdas dan berpengetahuan luas secara fiskal, {LOC_GOVERNOR_THE_MERCHANT_NAME} mampu memperkuat kekuatan ekonomi kota, menggunakan keuangan untuk menyediakan lebih dari yang biasanya mungkin dilakukan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_DESCRIPTION">
+			<Text>Ahli dalam bidang efisiensi, {LOC_GOVERNOR_THE_BUILDER_NAME} ahli dalam segala hal yang berhubungan dengan bangunan dan konstruksi. Sebagai seorang perencana ahli, dia juga dapat mengawasi perkembangan perbaikan adat di kota.</Text>
+		</Row>
+		<!-- Governor Promotions -->
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
+			<Text>Benteng</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+			<Text>Meningkatkan Kekuatan Tempur garnisun kota [ICON_Strength] sebesar +5. Ditetapkan dalam 3 putaran.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
+			<Text>Komandan Garnisun</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+			<Text>Unit yang bertahan di wilayah kota mendapatkan +5 [ICON_Strength] Kekuatan Tempur. Kota Anda yang lain dalam 9 ubin mendapatkan +4 Loyalitas per giliran terhadap peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
+			<Text>Lubang di dinding</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+			<Text>Kota mendapat tambahan [ICON_Ranged] Ranged Strike per giliran. Satuan militer yang dilatih di kota ini dimulai dengan promosi gratis yang belum dimulai dengan promosi gratis.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
+			<Text>Logistik Pertahanan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
+			<Text>Pakar Keamanan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
+			<Text>Mata-Mata Musuh beroperasi pada 2 level di bawah normal di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+			<Text>Kota tidak bisa dikepung. Mengumpulkan sumber daya Strategis di kota, mendapatkan tambahan +1 per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
+			<Text>Inisiatif Pertahanan Udara</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
+			<Text>+25 [ICON_Strength] Kekuatan Tempur untuk unit pendukung anti-udara di wilayah kota ketika bertahan melawan pesawat dan ICBM.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
+			<Text>Kurir</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
+			<Text>Dapat ditugaskan ke negara-kota, di mana dia bertindak sebagai 2 Utusan [ICON_Envoy].</Text>
+		</Row>
+		<Row Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
+			<Text>Pengaruh kota-kota terdekat akan menerapkan {1_LoyaltyPerTurnAmount} Loyalitas per giliran ke kota baru yang menetap di sini. Pertimbangkan untuk menggunakan Gubernur [ICON_Governor] di kota baru, atau menetap di tempat lain.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
+			<Text>Utusan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
+			<Text>Kota lain dalam 9 ubin dan bukan milik Anda kehilangan 2 Loyalitas per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
+			<Text>Prestise</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
+			<Text>Kota Anda yang lain dalam 9 ubin mendapatkan +2 Loyalitas per giliran terhadap peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
+			<Text>Kemakmuran</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
+			<Text>Meskipun didirikan di negara-kota, memberikan salinan sumber daya Mewahnya kepada Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
+			<Text>Promotor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
+			<Text>+4 [ICON_Amenities] Fasilitas di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
+			<Text>Dalang</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
+			<Text>Saat didirikan di negara kota, gandakan jumlah [ICON_Envoy] Utusan yang Anda miliki di sana.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
+			<Text>Uskup</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
+			<Text>Penyelidik Agung</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
+			<Text>Arsitek Ilahi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
+			<Text>Penumpangan Tangan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
+			<Text>Benteng Tuhan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
+			<Text>Santo pelindung</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
+			<Text>Tekanan agama terhadap kota-kota yang berdekatan 100% lebih kuat dari kota ini. +2 [ICON_Faith] Keyakinan untuk setiap distrik khusus di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
+			<Text>+10 [ICON_Religion] Kekuatan Religius dalam pertarungan teologis di ubin kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+			<Text>Mengizinkan kota membeli distrik dengan [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+			<Text>Semua unit [ICON_Governor] Gubernur pulih sepenuhnya dalam satu putaran di ubin kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+			<Text>Kota mengabaikan tekanan agama dari Agama yang tidak didirikan oleh pemain Gubernur [ICON_Governor]. Dapatkan [ICON_FAITH] Iman setara dengan 25% biaya konstruksi saat menyelesaikan bangunan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
+			<Text>Para Rasul dan Biksu Prajurit yang dilatih di kota menerima 1 promosi tambahan saat menerima promosi pertama mereka.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
+			<Text>Penerobos</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
+			<Text>+50% hasil panen plot dan pemindahan fitur di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
+			<Text>Kelebihan Logistik</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
+			<Text>+20% [ICON_Food] Pertumbuhan kota. Rute Perdagangan [ICON_TradeRoute] Anda yang berakhir di sini menyediakan +2 [ICON_Food] Makanan ke kota awalnya.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
+			<Text>Persediaan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+			<Text>Pemukim yang dilatih di kota tidak mengkonsumsi Populasi [ICON_Citizen].</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
+			<Text>Industrialis</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+			<Text>Meningkatkan [ICON_POWER] Tenaga Listrik yang disediakan oleh setiap sumber daya Pembangkit Listrik Tenaga Batubara, Pembangkit Listrik Tenaga Minyak, dan Pembangkit Listrik Tenaga Nuklir sebesar 1 dan Produksi [ICON_Production] sebesar +2.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
+			<Text>Pemasar Hitam</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+			<Text>Biaya sumber daya strategis untuk unit didiskon sebesar 80%.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
+			<Text>Integrasi Vertikal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+			<Text>Kota ini menerima [ICON_Production] Produksi dari semua bangunan Kawasan Industri terdekat dengan bonus regional, bukan hanya yang pertama.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
+			<Text>Ketua Persekutuan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
+			<Text>Semua Pembangun yang dilatih di kota ini akan mendapatkan +1 biaya pembangunan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
+			<Text>Infrastruktur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Produksi menuju gedung Pusat Kota dan Plaza Pemerintahan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
+			<Text>Akuakultur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+			<Text>Dapat membangun perbaikan Perikanan. +1 [ICON_Food] Makanan, +0.5 [ICON_Housing] Perumahan, +1 [ICON_Food] Makanan jika berdekatan dengan sumber daya laut. +1 [ICON_PRODUCTION] Produksi jika Liang ada di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
+			<Text>Taman dan Rekreasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+			<Text>Dapat membangun perbaikan Taman Kota di kota ini. +1 [ICON_Culture] Budaya dan +2 Daya Tarik. +1 [ICON_Amenities] Fasilitas jika berdekatan dengan perairan. Taman Kota menyediakan +3 [ICON_CULTURE] Budaya jika Liang ada di kota. </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
+			<Text>Komisaris Zonasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
+			<Text>+20% [ICON_Production] Produksi untuk pembangunan distrik di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
+			<Text>Hiburan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
+			<Text>+30% [ICON_Production] Produksi terhadap Kompleks Hiburan dan gedung Taman Air di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
+			<Text>Pustakawan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
+			<Text>Peningkatan [ICON_Science] Sains dan [ICON_Culture] Budaya sebesar 15% yang dihasilkan oleh kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
+			<Text>ahli</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+			<Text>+1 [ICON_CULTURE] Budaya per giliran untuk setiap [ICON_Citizen] Warga di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
+			<Text>Peneliti</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] Sains per giliran untuk setiap [ICON_Citizen] Warga di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
+			<Text>Hibah</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
+			<Text>+100% [ICON_GreatPerson] Poin Orang Hebat yang dihasilkan per giliran di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
+			<Text>Pendukung Perlombaan Senjata</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
+			<Text>30% [ICON_Production] Peningkatan produksi semua proyek persenjataan nuklir di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
+			<Text>Inisiatif Luar Angkasa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
+			<Text>30% [ICON_Production] Peningkatan produksi untuk semua proyek program luar angkasa di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
+			<Text>Pembebasan Tanah</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+			<Text>Dapatkan ubin baru di kota lebih cepat. +3 [ICON_Gold] Emas per giliran dari setiap Jalur Dagang [ICON_TradeRoute] asing yang melewati kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
+			<Text>Komendur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
+			<Text>Bonus kedekatan ganda dari Pusat Komersial dan Pelabuhan di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
+			<Text>Devisa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
+			<Text>+3 [ICON_Gold] Emas per giliran dari setiap Jalur Dagang [ICON_TradeRoute] asing yang melewati kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
+			<Text>Tarif</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
+			<Text>+3 [ICON_Gold] Emas per giliran dari semua [ICON_TradeRoute] Jalur Perdagangan dalam dan luar kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
+			<Text>Pemungut Pajak</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Emas per giliran untuk setiap [ICON_Citizen] Warga di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
+			<Text>Kontraktor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
+			<Text>Mengizinkan kota membeli distrik dengan [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
+			<Text>Kurator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] Pariwisata dari Karya Seni, Musik, dan Tulisan Hebat di kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ACTION_AVAILABLE">
+			<Text>Anda dapat mempromosikan atau menugaskan Gubernur [ICON_Governor]!</Text>
+		</Row>
+		<!-- Leader Agendas-->
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">
+			<Text>Menyukai warga sipil yang memiliki banyak korps dan tentara</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORSE_LORD">
+			<Text>Menyukai warga sipil yang tidak bersaing dengannya untuk mendapatkan kavaleri</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CULTURAL_ID">
+			<Text>Menyukai warga dengan Loyalitas tinggi, tetapi tidak menyukai warga dengan Loyalitas rendah</Text>
+		</Row>
+		<!-- Unit Abilities-->
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING_NAME">
+			<Text>Pelatihan Alpen</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
+			<Text>Pelatihan Alpine: +3 [ICON_Strength] Kekuatan Tempur saat bertarung di Perbukitan dan tidak ada penalti Pergerakan di medan Perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Kekuatan Tempur saat bertarung di Perbukitan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Bombard] Kekuatan Bombardir dari unit pembantu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Bonus Kekuatan Tempur di Perbukitan dan Hutan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Dapat mengawal unit sipil dan pendukung yang bergerak dengan kecepatan Gerakan [ICON_Movement] yang lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Bonus Kekuatan Tempur saat bertarung di medan Perbukitan.[NEWLINE][ICON_Bullet]Tidak [ICON_Movement] Penalti pergerakan di medan Perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Bonus Kekuatan Tempur dalam 4 heks wilayah persahabatan.[NEWLINE][ICON_Bullet]Penjarahan membutuhkan biaya 1 [ICON_Movement] Pergerakan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur vs. distrik yang dapat dipertahankan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur saat menyerang distrik yang dapat dipertahankan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Dimulai dengan 1 Promosi gratis.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZULU_IMPI_DESCRIPTION">
+			<Text>+100% Bonus Mengapit.[NEWLINE][ICON_Bullet]Dapatkan pengalaman 25% lebih cepat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
+			<Text>Stepa Mongol</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Gerakan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% pengalaman tempur dari Ordu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
+			<Text>Zaman Keemasan Ekonomi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] unit ini tidak dapat dijarah oleh unit musuh. Diperoleh sebagai bagian dari Era Keemasan Ekonomi.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_NAME">
+			<Text>Penyelidikan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
+			<Text>+15 Kekuatan Tempur Religius di wilayah persahabatan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
+			<Text>Keberanian Senja</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk semua unit serangan jarak dekat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>Memberi +1 Pergerakan [ICON_Movement] ke unit yang mulai bergerak sejauh 1 hex.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PARADROP_DESCRIPTION">
+			<Text>Dapat melakukan Paradrop dari ubin ramah ke lokasi yang berjarak 7 ubin (12 ubin jika dimulai dari Aerodrome atau Landasan Udara).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION">
+			<Text>+10% Memperoleh pengalaman dari pertempuran (Toqui)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_NOT_FOUNDED_DESCRIPTION">
+			<Text>+30% Memperoleh pengalaman dari pertempuran (Toqui)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Kekuatan Tempur versus Kota atau Peradaban Bebas di Zaman Keemasan.[NEWLINE] </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+25% Memperoleh pengalaman dari pertempuran (Timur)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION">
+			<Text>Memberikan +5 [ICON_Bombard] Kekuatan Bombard ke unit kelas Pengepungan dalam 1 hex.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Kekuatan Tempur (Genghis Khan).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+			<Text>Kemampuan untuk menangkap unit kavaleri yang dikalahkan (Genghis Khan).</Text>
+		</Row>
+		<!-- Feature -->
+		<Row Tag="LOC_FEATURE_REEF_NAME">
+			<Text>karang</Text>
+		</Row>
+		<!-- Cultural Identity UI-->
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_SUBSECTION">
+			<Text>Loyalitas</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_ACCUMULATED_IDENTITY_SUBSECTION">
+			<Text>Akumulasi Loyalitas</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_DISTANCE_FROM_CAPITAL">
+			<Text>Kedekatan dengan Modal [ICON_Capital] Anda</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Loyalitas</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_OF">
+			<Text>dari</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_TOTAL_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Mungkin</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_STATUS">
+			<Text>Status:</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_LINE">
+			<Text>Loyalitas per giliran:</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP">
+			<Text>Kepemilikan kota ini</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_POPULATION">
+			<Text>[ICON_Citizen] Warga yang tinggal di sini</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MARTIAL_LAW">
+			<Text>Unit garnisun selama Pendudukan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION">
+			<Text>Pekerjaan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_STARVATION">
+			<Text>Kelaparan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Jalur Perdagangan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_GOVERNOR">
+			<Text>[ICON_Governor] Gubernur ditempatkan di sini</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_HAPPINESS">
+			<Text>Tingkat kebahagiaan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MATCHING_FOUNDED">
+			<Text>Mengikuti Agama [ICON_Religion] yang Anda dirikan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MISMATCHING_FOUNDED">
+			<Text>Tidak mengikuti Agama [ICON_Religion] yang Anda dirikan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MODIFIERS">
+			<Text>Efek lainnya</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ORIGINAL_OWNERSHIP">
+			<Text>Menjadi pemilik asli kota</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP_BEFORE_OCCUPATION">
+			<Text>Menjadi pemilik kota sebelum pendudukan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
+			<Text>Keinginan untuk merdeka</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ALWAYS_LOYAL">
+			<Text>Selalu setia sepenuhnya</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
+			<Text>Tekanan dari warga [ICON_Citizen] terdekat</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
+			<Text>Warga [ICON_Citizen] terdekat</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_CITIES">
+			<Text>Saingan terdekat [ICON_Citizen] Warga</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+			<Text>Gubernur [ICON_Governor] milik terdekat</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_GOVERNORS">
+			<Text>Saingan terdekatnya adalah Diplomat [ICON_Governor] Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_OWNERSHIP">
+			<Text>{1_IdentityPressureAmount} dari Kepemilikan kota</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_POPULATION">
+			<Text>{1_IdentityPressureAmount} dari [ICON_Citizen] Warga kota</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_AGES">
+			<Text>{1_IdentityPressureAmount} dari Zaman Keemasan atau Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_GOVERNOR">
+			<Text>{1_IdentityPressureAmount} dari Diplomat [ICON_Governor] Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_MODIFIERS">
+			<Text>{1_IdentityPressureAmount} dari efek lain</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
+			<Text>[ICON_Citizen] Warga Anda dalam 9 ubin</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
+			<Text>Darurat Militer</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OCCUPATION">
+			<Text>[COLOR_RED]Pekerjaan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Jalur Perdagangan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOVERNOR">
+			<Text>[ICON_Governor] Residen Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_BASE_DECAY">
+			<Text>Peluruhan Dasar</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_HAPPINESS">
+			<Text>Kebahagiaan Warga</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_UNHAPPINESS">
+			<Text>[COLOR_RED]Ketidakbahagiaan Warga</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOLDEN_AND_DARK_AGES">
+			<Text>Abad Keemasan dan Kegelapan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MISC">
+			<Text>Pengubah Lainnya</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_INDEPENDENCE_DESIRE">
+			<Text>[COLOR_RED]Kerusuhan umum</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
+			<Text>[COLOR_RED]Peradaban lain [ICON_Citizen] Warga dalam 9 ubin</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
+			<Text>[COLOR_RED]Kota kelaparan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_ADDITIONAL">
+			<Text>Sumber Tambahan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_NO_GROWTH_PENALTY">
+			<Text>Tidak Ada Penalti</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CULTURAL_IDENTITY_LENS">
+			<Text>Loyalitas</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CULTURAL_IDENTITY_LENS_TOOLTIP">
+			<Text>Tunjukkan Loyalitas kota, dan sumber Loyalitas yang mempengaruhinya.</Text>
+		</Row>
+		<!-- Disloyal City UI -->
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<!--New version of base game text used in conquer city UI popup, to describe Liberation effect on Loyalty-->
+			<Text>Membebaskan sebuah kota akan mengembalikannya ke salah satu pemilik sebelumnya, mungkin membawa peradaban itu kembali ke dalam permainan.[NEWLINE][NEWLINE]{1_WarmongerInfo}[NEWLINE][NEWLINE]Kota ini akan kebal terhadap tekanan Loyalitas dari kota dan gubernur Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_HEADER">
+			<Text>KOTA MEMBRONTAL</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_NAME_LABEL">
+			<Text>Nama Kota:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_POPULATION_LABEL">
+			<Text>Populasi:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_DISTRICTS_LABEL">
+			<Text>Jumlah Distrik yang Hadir:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_BUTTON_LABEL">
+			<Text>Pertahankan Kota</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_EXPLANATION">
+			<Text>Pertahankan kota ini. Anda mungkin ingin memindahkan Gubernur [ICON_Governor] ke sini untuk memperkuat Loyalitas warga baru yang bergabung dengan kerajaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_BUTTON_LABEL">
+			<Text>Tolak Kota</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_EXPLANATION">
+			<Text>Tolak untuk membiarkan kota ini bergabung dengan kerajaanmu. Ini akan tetap menjadi Kota Bebas.[NEWLINE][NEWLINE]Kota ini akan kebal terhadap tekanan Loyalitas dari kota dan gubernur Anda, dan tidak akan meminta untuk bergabung dengan peradaban Anda lagi. Ia masih bisa dimenangkan oleh peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_LOYALTY_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) dari {1_LoyaltyLevelName}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) dari Hwarang ([ICON_Governor] Gubernur dengan {1} {1 : plural 1?Promotion; other?Promotions;})</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_3_NAME">
+			<Text>Setia</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_2_NAME">
+			<Text>Kesetiaan yang Goyah</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_1_NAME">
+			<Text>Tidak setia</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_0_NAME">
+			<Text>Kerusuhan</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_3_DESCRIPTION">
+			<Text>Warga negara Setia terhadap peradaban Anda</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_2_DESCRIPTION">
+			<Text>Loyalitas warga terhadap peradaban Anda sedang goyah.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_1_DESCRIPTION">
+			<Text>Warga negara tidak loyal terhadap peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_0_DESCRIPTION">
+			<Text>Warga berada dalam kondisi keresahan.</Text>
+		</Row>
+		<Row Tag="LOC_GLORY_SCORE_BREAKDOWN">
+			<Text>{1_Icon}({2_Score}/{3_threshold})</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_RESOURCE_AMBER_NAME">
+			<Text>Amber</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_OLIVES_NAME">
+			<Text>Zaitun</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TURTLES_NAME">
+			<Text>Kura-kura</Text>
+		</Row>
+		<!-- HUD -->
+		<Row Tag="LOC_HUD_CITY_POPULATION_GRAPH_TOOLTIP">
+			<Text>{1_Amount} {2_CivName} {1_Amount : plural 1?Citizen; other?Citizens;}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_LOYALTY">
+			<Text>{1_LoyaltyAmount} Loyalitas ({2_LoyaltyPerTurn : number +#.#;-#.#} per giliran)</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_FULL_LOYALTY">
+			<Text>Kesetiaan Penuh</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GAINING_LOYALTY">
+			<Text>Loyalitas Penuh di {1_Turns} {1_Turns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_LOSING_LOYALTY">
+			<Text>Pemberontakan di {1_Turns} {1_Turns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_UNIT_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% terhadap satuan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_BUILDING_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% terhadap bangunan dan keajaiban</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_BUILDING_NON_WONDER_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% terhadap bangunan</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_STABLE_LOYALTY">
+			<Text>Loyalitas Warga Negara tidak berubah</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_CULTURAL_EFFECT">
+			<Text>Tidak ada dampak positif atau negatif</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CIVICS_TREE_AWARD_GOVERNOR">
+			<Text>Penghargaan 1 [Icon_Governor] Gelar Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_HUD_LAUNCHBAR_GOVERNOR_BUTTON">
+			<Text>Gubernur[NEWLINE][NEWLINE]Lihat atau kelola [Icon_Governor] Gubernur di peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
+			<Text>Timeline Sejarah[NEWLINE][NEWLINE]Lihat timeline Momen Bersejarah yang dicapai oleh peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
+			<Text>Loyalitas dan Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED">
+			<Text>Didirikan di kota</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} ditugaskan ke kota</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED_SPECIFIC">
+			<Text>[ICON_Governor] Gubernur {1_GovernorName} didirikan di kota</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_NO_GOVERNOR">
+			<Text>Tidak ada [ICON_Governor] Gubernur yang ditugaskan</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_NO_GOVERNOR_EFFECT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_TURNS">
+			<Text>{1_num} {1_Num : plural 1?turn; other?turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GOLD_FROM_POPULATION">
+			<Text>{Value : number +#.#;-#.#} dari tambahan pajak</Text>
+		</Row>
+		<!-- Loyalty and Identity -->
+		<Row Tag="LOC_LOYALTY_STATUS_LOYAL">
+			<Text>[COLOR_GREEN]Setia</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_STATUS_DISLOYAL">
+			<Text>[COLOR_RED]Tidak Setia</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_GAINING">
+			<Text>[COLOR_GREEN][ICON_PressureUp] Bangkit</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_STABLE">
+			<Text>Stabil</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_LOSING">
+			<Text>[COLOR_RED][ICON_PressureDown] Jatuh</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_NONE">
+			<Text>Kota ini setia kepada Anda, dan tidak ada dampak buruknya.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TO_PLAYER">
+			<Text>[COLOR_RED]Jika Loyalitas turun menjadi 0, kota akan memberontak dan bergabung dengan {1_PlayerName}, yang memiliki Loyalitas paling banyak yang terakumulasi di sini.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TIED_PLAYERS">
+			<Text>[COLOR_RED]Jika Loyalitas turun menjadi 0, kota akan memberontak dan bergabung dengan peradaban lain yang memiliki Loyalitas paling banyak yang terkumpul di sini.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_GROWTH_AND_YIELD_EFFECTS_TEXT">
+			<Text>Pertumbuhan Kota berada pada {1_GrowthReduction}%[NEWLINE]Hasil Kota berkurang {2_YieldPercentage}%</Text>
+		</Row>
+		<!-- Emergency Text Blocks -->
+		<Row Tag="LOC_EMERGENCY_PARTICIPANTS">
+			<Text>ANGGOTA DARURAT:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING">
+			<Text>Menunggu {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_ONGOING">
+			<Text>sedang berlangsung {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETED">
+			<Text>Selesai {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET">
+			<Text>Sasaran: {1_Target}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_YOU_ARE_TARGET">
+			<Text>Anda</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_JOIN">
+			<Text>Menerima</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REJECT">
+			<Text>Menolak</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TURNS_REMAINING">
+			<Text>[ICON_Turn] {1_Turns : plural 1?{1_Turns} Putar; lainnya?{1_Turns} Ternyata;} Tersisa</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NO_TURNS_REMAINING">
+			<Text>Berakhir [ICON_Turn] Giliran Ini</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TURNS_OVER">
+			<Text>Darurat Berakhir</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_BUFFS_EXPLANATION">
+			<Text>Selama Keadaan Darurat ini:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARDS_EXPLANATION">
+			<Text>Jika Anggota berhasil:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+			<Text>Jika waktu habis sebelum Anggota menyelesaikan tujuan mereka:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBERS_HAVE_WON_REWARDS">
+			<Text>Karena kemenangan Anggota:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_HAS_WON_REWARDS">
+			<Text>Karena kemenangan Target:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_THESE_GOALS">
+			<Text>Selesaikan tujuan berikut:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_EXPLANATION">
+			<Text>Anda memiliki kesempatan untuk bergabung dalam Keadaan Darurat terhadap Target ini.[NEWLINE]{1_GoalsExplanation}[NEWLINE]Berhasil, dan Anda akan diberi imbalan. Gagal, dan Target akan tumbuh lebih kuat. Anda harus Menerima atau Menolak Keadaan Darurat ini.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_EXPLANATION_DEFENDER">
+			<Text>Keadaan Darurat telah diumumkan terhadap Anda![NEWLINE]{1_GoalsExplanation}[NEWLINE]Berhasil mencegah Anggota mengambil tujuan ini, dan Anda akan diberi imbalan. Gagal, dan Anggota akan tumbuh lebih kuat.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
+			<Text>TERTUNDA: MENERIMA ATAU MENOLAK</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
+			<Text>Para Anggota Menang</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
+			<Text>Targetnya adalah Kemenangan</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
+			<Text>Peradaban anggota membagi pot {1_Amount} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
+			<Text>Target menerima [ICON_Gold] {1_Amount} Emas per Anggota.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY">
+			<Text>Target memperoleh +20 Loyalitas per giliran di kota target.</Text>
+		</Row>
+		<!-- |||||||||  Goal Specific                                                   ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
+			<Text>Mereka yang bergabung dalam Keadaan Darurat perlu menguasai kota-kota tertentu dari {TargetName} dalam [ICON_Turn] {Turns} Putaran.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_SPECIFIC_CITY">
+			<Text>Mereka yang bergabung dalam Keadaan Darurat perlu menangkap {CityName} dari {TargetName} dalam [ICON_Turn] {Turns} Putaran.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_CAPTURE_CITIES">
+			<Text>Anggota Darurat harus menguasai kota-kota tertentu dari {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_CAPTURE_SPECIFIC_CITY">
+			<Text>Anggota Darurat harus menangkap {CityName} dari {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES">
+			<Text>Tangkap {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE">
+			<Text>Pertahankan {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE">
+			<Text>Pertahankan {1_CityName} hingga akhir Keadaan Darurat.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES">
+			<Text>Tangkap {1_CityName} sebelum masa Darurat berakhir.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY">
+			<Text>Mereka yang mengikuti Keadaan Darurat harus mencegah {CityName} mengikuti Agama {TargetName} untuk {HalfTurns} pada Putaran [ICON_Turn] {Turns} berikutnya.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_UNCONVERT_CITY">
+			<Text>Anggota Darurat harus mencegah {CityName} mengikuti Agama {TargetName} untuk Giliran [ICON_Turn] {HalfTurns}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY">
+			<Text>Kecaman {NewReligion}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE">
+			<Text>Pertahankan {NewReligion}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE">
+			<Text>Menjadikan {NewReligion} sebagai Agama Dominan di {1_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY">
+			<Text>Mencegah {NewReligion} menjadi Agama Dominan di {1_CityName}.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY">
+			<Text>Mereka yang bergabung dalam Keadaan Darurat harus membebaskan {CityName} dari kendali {TargetName} dalam Putaran [ICON_Turn] {Turns}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIBERATE_CITY">
+			<Text>Anggota Keadaan Darurat harus membebaskan {CityName} dari {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY">
+			<Text>Bebaskan {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE">
+			<Text>Pertahankan {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE">
+			<Text>Pertahankan {1_CityName} hingga akhir Keadaan Darurat.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY">
+			<Text>Bebaskan {1_CityName} sebelum masa Darurat berakhir.</Text>
+		</Row>
+		<!-- |||||||||  Emergency Specific                                              ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_MILITARY">
+			<Text>Darurat Militer</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_MILITARY">
+			<Text>“Jika kita tidak bersatu, maka nasib kota yang satu ini akan menimpa kita semua pada waktunya.”</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_MILITARY">
+			<Text>{TargetName}, meskipun berada di garis depan peradaban dunia, telah menguasai {OldCityName}. Kesuksesan {TargetName} yang tak terkira adalah masalah yang sangat memprihatinkan.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY">
+			<Text>Selain itu, semua Anggota akan memiliki Kedamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain.  Semua Anggota akan berperang dengan Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT">
+			<Text>Unit anggota mendapatkan +1 Pergerakan [ICON_Movement] di wilayah Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Unit target memiliki -2 [ICON_Strength] Kekuatan Tempur saat melawan unit Anggota.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING">
+			<Text>Unit anggota mendapatkan +5 penyembuhan di wilayah Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE">
+			<Text>Target memperoleh +2 [ICON_Strength] Kekuatan Tempur ketika menyerang unit Anggota dengan Serangan Kota.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Unit anggota mendapatkan +1 Gerakan [ICON_Movement].</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Unit target mendapatkan +1 Gerakan [ICON_Movement].</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Anggota mendapatkan +1 Emas per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Targetkan keuntungan +1 Emas per giliran.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_CITY_STATE">
+			<Text>Darurat Negara-Kota</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_CITY_STATE">
+			<Text>“Kami menghormati kemerdekaan Negara-Kota, dan tidak akan menutup mata terhadap penaklukan ini.”</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_CITY_STATE">
+			<Text>{TargetName} telah menangkap {OldCityName}.  Penaklukan {OldCityName} merupakan masalah yang sangat memprihatinkan.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE">
+			<Text>Semua Anggota akan memiliki Kedamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain.  Semua Anggota akan berperang dengan Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY">
+			<Text>Anggota mendapatkan +1 [ICON_Gold] Emas per giliran untuk setiap [ICON_Envoy] Utusan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES">
+			<Text>Target [ICON_TradeRoute] Rute Perdagangan ke Negara-Kota memberikan +2 [ICON_Gold] Emas per giliran.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_RELIGIOUS">
+			<Text>Darurat Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_RELIGIOUS">
+			<Text>&quot;Tangisan orang-orang beriman terdengar sampai ke surga, dan di bumi, kita tergerak oleh kemarahan yang wajar.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_RELIGIOUS">
+			<Text>{TargetName} telah mengubah {OldCityName}, Kota Suci {OldReligion}, menjadi {NewReligion}.  Tampaknya {TargetName} tidak mau hidup berdampingan secara damai dengan Agama-agama besar dunia lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
+			<Text>Setiap Anggota mendapatkan Relik.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
+			<Text>Agama Target melepaskan ledakan Tekanan di semua kota terdekat.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_SPYING">
+			<Text>Memata-matai Darurat</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SPYING">
+			<Text>Semua orang memata-matai, tapi orang ini tertangkap!  Ayo lakukan sesuatu mengenai hal itu!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SPYING">
+			<Text>Tangkap Mata-mata Target menggunakan Lay Trap di Kota dimana Target sedang melakukan Operasi.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SPYING_ACTION">
+			<Text>Anggota Spies mendapatkan aksi baru di Kota Anggota: Lay Trap.  Jika Mata-Mata Target mencoba melakukan Operasi di Kota ini, mereka akan terjebak dalam perangkap.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_SPY_KILLER">
+			<Text>Mata-mata yang ditangkap terbunuh.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_FORTITUDE">
+			<Text>Akan lebih sulit bagi Target untuk menyelesaikan Operasi Mata-Mata di kota-kota Anggota.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SPYING_FREE_SPY">
+			<Text>Target mendapatkan 1 Spy tambahan.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_NUCLEAR">
+			<Text>Darurat Nuklir</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_NUCLEAR">
+			<Text>&quot;Kekuatan yang mengerikan, digunakan untuk tujuan yang mengerikan. Tidak akan pernah lagi!&quot;</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_NUCLEAR">
+			<Text>{TargetName} telah menggunakan senjata paling ampuh di dunia, dan jin nuklir sudah keluar dari botolnya. Apakah kepunahan kita sudah dekat?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR">
+			<Text>Selain itu, semua Anggota akan memiliki Kedamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain.  Semua Anggota akan berperang dengan Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT">
+			<Text>Unit anggota mendapatkan +1 pergerakan [ICON_Movement] di wilayah Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Unit target memiliki -2 [ICON_Strength] Kekuatan Tempur saat melawan unit Anggota</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Unit target memiliki -3 [ICON_Strength] Kekuatan Tempur saat melawan unit Anggota</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE">
+			<Text>Kota-kota anggota memberikan satu tekanan Loyalitas yang lebih sedikit.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_BACKSTAB">
+			<Text>Darurat Pengkhianatan</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_BACKSTAB">
+			<Text>“Perang yang terbuka dan jujur ​​tentu saja tidak terlalu menimbulkan kebencian dibandingkan diplomasi yang menipu ini.”</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_BACKSTAB">
+			<Text>{TargetName} telah memberikan pukulan berbahaya, menyatakan perang terhadap {OldPlayerName}, teman lama!  Tampaknya tidak ada yang aman dari agresi {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB">
+			<Text>Selain itu, semua Anggota akan memiliki Kedamaian, Perbatasan Terbuka, dan Visibilitas Bersama satu sama lain.  Semua Anggota akan berperang dengan Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT">
+			<Text>Unit anggota mendapatkan +1 pergerakan [ICON_Movement] di wilayah Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH">
+			<Text>Unit target memiliki -3 [ICON_Strength] Kekuatan Tempur saat melawan unit Anggota</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_CANCEL_TRADE_ROUTES">
+			<Text>Semua Jalur Perdagangan antara Anggota dan Target dibatalkan.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING">
+			<Text>Semua Jalur Perdagangan antar Anggota memberikan +2 [ICON_Production] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Unit target memiliki -3 [ICON_Strength] Kekuatan Tempur saat melawan unit Anggota</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS">
+			<Text>Target akan menerima pengurangan Kelelahan Perang saat berperang dengan Anggota.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TAB_COMPLETED">
+			<Text>Selesai</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<!--Spy-->
+		<Row Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
+			<Text>Membuat Skandal</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
+			<Text>Menimbulkan Kerusuhan</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR_DESCRIPTION">
+			<Text>Netralisasi Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FABRIRCATE_SCANDAL_REWARD">
+			<Text>menyingkirkan Utusan musuh</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FOMENT_UNREST_REWARD">
+			<Text>mengurangi Loyalitas dan meningkatkan Loyalitas kita</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_REWARD">
+			<Text>melumpuhkan musuh [ICON_Governor] Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FABRICATE_SCANDAL">
+			<Text>Memaksa pesaing teratas kalah {1_EnvoyString}</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FOMENT_UNREST">
+			<Text>Mengurangi Loyalitas musuh sebanyak {1_LoyaltyString}</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR">
+			<Text>Singkirkan gubernur [ICON_Governor] musuh dari tugas untuk {1_TurnString}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FABRICATE_SCANDAL_ESTIMATE">
+			<Text>{1_Amount} [ICON_Envoy] Utusan</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FOMENT_UNREST_ESTIMATE">
+			<Text>{1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_ESTIMATE">
+			<Text>{1_Amount} putaran</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
+			<Text>Kampanye Noda</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
+			<Text>Aksi Terselubung</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
+			<Text>Lisensi untuk Membunuh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION">
+			<Text>Buatlah Skandal seolah-olah 2 level lebih berpengalaman.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION">
+			<Text>Menimbulkan Kerusuhan seolah-olah 2 level lebih berpengalaman.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION">
+			<Text>Netralkan Gubernur seolah-olah 2 level lebih berpengalaman.</Text>
+		</Row>
+		<!--Diplomacy modifiers-->
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PLEDGE">
+			<Text>Melanggar janji untuk memindahkan pasukan dari perbatasan mereka</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PLEDGE">
+			<Text>Menepati janji untuk memindahkan pasukan dari perbatasan mereka</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PLEDGE">
+			<Text>Memutuskan untuk tidak membuat janji untuk memindahkan pasukan</Text>
+		</Row>
+		<!--OPERATIONS AND COMMANDS TEXT-->
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_DESCRIPTION">
+			<Text>terjun payung</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_IN_ZOC">
+			<Text>Di Zona Kendali Musuh</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_FRIENDLY_TERRITORY">
+			<Text>Harus berada di wilayah persahabatan atau berdekatan dengan Landasan Udara atau Bandar Udara.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Membutuhkan gerakan penuh</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PROJECT_PRODUCTION_DESCRIPTION">
+			<Text>Tambahkan [ICON_Production] Produksi ke proyek.  Hanya sekali per kota per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
+			<Text>Sasaran Prioritas</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
+			<Text>Loyalitas per giliran</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_DETAILS_TURNS_TO_ESTABLISH">
+			<Text>Ternyata Menetapkan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Jumlah Loyalitas per giliran terhadap peradaban Anda yang diberikan oleh Gubernur ini untuk kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TRANSITION_STRENGTH">
+			<Text>Kekuatan Transisi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TRANSITION_STRENGTH_TOOLTIP">
+			<Text>Kecepatan dimana Gubernur ini menjadi mapan di sebuah kota.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGN_GOVERNOR_TO">
+			<Text>Tugaskan Gubernur...</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_SELECT_A_CITY">
+			<Text>Pilih kota...</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
+			<Text>Tidak Ada Gubernur Sebelumnya</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TURNS_TO_ESTABLISH">
+			<Text>Jumlah putaran sebelum gubernur akan ditetapkan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_SKILL_TREE">
+			<Text>Pohon Keterampilan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTE">
+			<Text>Mendorong</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
+			<Text>Menetapkan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
+			<Text>Menugaskan kembali</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
+			<Text>KEMAMPUAN</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES">
+			<Text>KEMAMPUAN GUBERNUR</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES_SUBTEXT">
+			<Text>Habiskan Gelar Gubernur untuk Promosi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES">
+			<Text>Gelar Gubernur: {1_PointsAvailable}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES_AVAILABLE">
+			<Text>JUDUL GUBERNUR YANG TERSEDIA: {1_PointsAvailable}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
+			<Text>DIHABISKAN: {1_PointsSpent}</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_TIMELINE_TITLE">
+			<Text>Sejarah {1_PlayerCiv}</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_NEW_MOMENT">
+			<Text>{1_PlayerCiv} Membuat Sejarah</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS">
+			<Text>{1_MomentDate} \|    Putar {2_MomentTurn} \|    {3_MomentScore} Skor Era</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
+			<Text>{1_MomentDate} \|    Putar {2_MomentTurn}</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
+			<Text>Loyalitas: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POSITIVE_PRESSURE">
+			<Text>+{1_Value}</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_GOVERNORS_PRESSURE_TOOLTIP">
+			<Text>[ICON_Governor] Gubernur ditempatkan di sini</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
+			<Text>[ICON_Citizen] Pemilik Warga dalam 9 ubin</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
+			<Text>[ICON_Citizen] Warga peradaban lain dalam 9 ubin</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
+			<Text>Keinginan untuk merdeka</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
+			<Text>Tingkat kebahagiaan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
+			<Text>Efek lain di sini</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
+			<Text>Mendasarkan kekuatan sebagai Negara-Kota</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
+			<Text>Mendasarkan kekuatan sebagai Kota Bebas</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
+			<Text>Tekanan dari warga [ICON_Citizen] terdekat</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
+			<Text>Berkisar dari +20 hingga -20, berdasarkan perbandingan tekanan yang datang dari [ICON_Citizen] Warga sekitar milik pemilik kota dan [ICON_Citizen] Warga sekitar yang berasal dari peradaban berbeda.[NEWLINE][ICON_Bullet]1 Tekanan per [ICON_Citizen] Warga normal[NEWLINE][ICON_BULLET]Meningkat di [ICON_Capital] Modal[NEWLINE][ICON_BULLET]Dapat dipengaruhi oleh Zaman Keemasan, Zaman Kegelapan, dan proyek kota Roti dan Sirkus[NEWLINE][ICON_BULLET]Juga berlaku untuk kota lain dalam 9 ubin, namun 10% kurang efektif per ubin</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
+			<Text>Berkisar antara +20 hingga -20, berdasarkan perbandingan tekanan yang datang dari [ICON_Citizen] Warga sekitar pemilik kota dan [ICON_Citizen] Warga sekitar yang berasal dari peradaban berbeda.[NEWLINE][ICON_Bullet]1 Tekanan per [ICON_Citizen] Warga biasanya[NEWLINE][ICON_BULLET]Meningkat di [ICON_Capital] Modal</Text>
+		</Row>
+		<!-- Dedications-->
+		<Row Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">
+			<Text>Anda telah memicu [ICON_TechBoosted] Eureka.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOST_DEDICATION_NOTIFICATION">
+			<Text>Anda telah memicu Inspirasi [ICON_CivicBoosted].</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_CONVERSION_DEDICATION_NOTIFICATION">
+			<Text>Anda telah mengubah sebuah kota menjadi Agama yang Anda dirikan untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMPLETION_DEDICATION_NOTIFICATION">
+			<Text>Anda telah membangun Distrik baru.</Text>
+		</Row>
+		<Row Tag="LOC_TRADE_ROUTE_DEDICATION_NOTIFICATION">
+			<Text>Anda telah menyelesaikan Rute Perdagangan [ICON_TradeRoute].</Text>
+		</Row>
+		<Row Tag="LOC_MAP_DISCOVERY_DEDICATION_NOTIFICATION">
+			<Text>Anda telah menemukan Benua atau Keajaiban Alam baru.</Text>
+		</Row>
+		<Row Tag="LOC_CORPS_KILL_DEDICATION_NOTIFICATION">
+			<Text>Anda telah menghancurkan korps.</Text>
+		</Row>
+		<Row Tag="LOC_ARMY_KILL_DEDICATION_NOTIFICATION">
+			<Text>Anda telah menghancurkan tentara.</Text>
+		</Row>
+		<Row Tag="LOC_NAVAL_UNIT_KILL_DEDICATION_NOTIFICATION">
+			<Text>Anda telah menghancurkan unit angkatan laut non-Barbar.</Text>
+		</Row>
+		<Row Tag="LOC_SCIENCE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Anda telah membangun sebuah bangunan yang menyediakan [ICON_Science] Sains sebagai hasil dasar.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Anda telah membangun sebuah bangunan dengan slot Great Work.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRIAL_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Anda telah membangun sebuah bangunan dari Era Industri atau lebih baru.</Text>
+		</Row>
+		<Row Tag="LOC_AERODROME_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Anda telah membangun sebuah gedung di distrik Aerodrome.</Text>
+		</Row>
+		<Row Tag="LOC_SPY_MISSION_DEDICATION_NOTIFICATION">
+			<Text>Anda telah menyelesaikan operasi mata-mata ofensif yang sukses.</Text>
+		</Row>
+		<Row Tag="LOC_ARTIFACT_EXTRACTION_DEDICATION_NOTIFICATION">
+			<Text>Anda telah mengekstrak Artefak [ICON_GreatWork_Artifact].</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
+			<Text>Anda telah mendapatkan [ICON_GreatPerson] Orang Hebat.</Text>
+		</Row>
+		<!-- Scoring -->
+		<Row Tag="LOC_CATEGORY_ERA_SCORE_NAME">
+			<Text>Skor Era</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
+			<Text>Peradaban yang telah menugaskan Gubernur Diplomat [ICON_Governor] mereka ke negara kota ini:</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
+			<Text>Visier Agung Utsmaniyah ditugaskan di negara kota ini</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY_UNMET">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_CIV_AMBASSADOR_TOOLTIP">
+			<Text>{1_CivName} telah menugaskan seorang Diplomat ke negara-kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_LIMITED">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_FULL">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName}) - {3_EstablishInfo}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+			<Text>Efek yang melekat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+			<Text>Efek yang melekat</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>+1 [ICON_Food] Pangan dari perbaikan Perkebunan.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_NEW_FEATURES">
+			<Text>Fitur Baru</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
+			<Text>Tinjau fitur baru dalam ekspansi saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_NEXT">
+			<Text>Berikutnya</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_PREVIOUS">
+			<Text>Sebelumnya</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_CONTINUE">
+			<Text>Melanjutkan</Text>
+		</Row>
+		<Row Tag="LOC_XP_INTRO_HIDETHIS">
+			<Text>Jangan tampilkan ini lagi</Text>
+		</Row>
+		<Row Tag="LOC_END_GAME_MENU_HISTORIAN_BUTTON">
+			<Text>Lihat Garis Waktu</Text>
+		</Row>
+		<Row Tag="LOC_END_GAME_MENU_EXPORT_HISTORIAN_BUTTON">
+			<Text>Ekspor Garis Waktu</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_CITY_IS_LOYAL_TO_TT">
+			<Text>Kota Setia pada {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_CITY_WILL_FALL_TO_TT">
+			<Text>Kota akan turun ke {1_CivName} ketika Loyalitas mencapai 0</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_RISING_BY_X_TT">
+			<Text>Loyalitas terhadap {1_CivName} Meningkat {2_PointsPerTurn} {2_PointsPerTurn : plural 1?point; other?points;} per giliran</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_DROPPING_BY_X_TT">
+			<Text>Loyalitas terhadap {1_CivName} Turun {2_PointsPerTurn} {2_PointsPerTurn : plural 1?point; other?points;} per giliran</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_NOT_CHANGING_TT">
+			<Text>Kesetiaan pada {1_CivName} tidak akan berubah pada giliran berikutnya</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_STATUS_TT">
+			<Text>{1_LoyaltyIcon} LOYALITAS {2_CurrentLoyalty}/{3_MaxLoyalty}[NEWLINE]Status: {4_LoyaltyStatus}</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_ALLIANCE_TT">
+			<Text>Teliti secara aktif Teknologi yang sama dengan Sekutu Riset Anda untuk mempertahankan peningkatan Sains [ICON_Science] per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
+			<Text>Menerima Bonus Sains Aliansi Riset Level 3.[NEWLINE]Meneliti Teknologi yang sama dengan Sekutu Riset Anda mempertahankan peningkatan Sains [ICON_Science] per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
+			<Text>Kota sepenuhnya Loyalitas dan mendapatkan Loyalitas per giliran</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_NO_CHANGE_TT">
+			<Text>Tidak ada perubahan</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_RISING_LOYALTY_TT">
+			<Text>Meningkatnya {1_LoyaltyPerTurn}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_FALLING_LOYALTY_TT">
+			<Text>Jatuh {1_LoyaltyPerTurn}</Text>
+		</Row>
+		<!-- Replay DataSets -->
+		<Row Tag="LOC_REPLAYDATASET_ERASCORE_NAME">
+			<Text>Skor Era per giliran</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
+			<Text>Jumlah Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
+			<Text>Total Gelar Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FILTER_DARK">
+			<Text>Gelap</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Perikanan</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>Peningkatan unik Gubernur [ICON_Governor] yang dapat dibangun di kota dengan Gubernur Surveyor dengan promosi Akuakultur. Hasil panen 1 [ICON_Food] Pangan, +0,5 [ICON_Housing] Perumahan, +1 tambahan [ICON_Food] Pangan jika berdekatan dengan sumber daya laut. +1 [ICON_PRODUCTION] Produksi jika dalam satu kota dengan Surveyor Gubernur dengan promosi Budidaya Perairan. Harus dibangun di lahan pantai.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>Taman Kota</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>Peningkatan unik Gubernur [ICON_Governor] yang dapat dibangun di kota dengan Gubernur Surveyor dengan promosi Taman dan Rekreasi. Menghasilkan 2 Banding dan 1 [ICON_Culture] Budaya. +1 [ICON_Amenities] Fasilitas jika berdekatan dengan perairan. +3 [ICON_CULTURE] Budaya jika dalam satu kota dengan Surveyor Gubernur dengan promosi Taman dan Rekreasi. Tidak boleh berdekatan dengan Taman Kota lain.</Text>
+		</Row>
+		<!-- MISC -->
+		<Row Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
+			<Text>Peradaban Anda mungkin tidak mengumumkan perang mendadak; ini termasuk mendeklarasikan perang terhadap suatu Negara Kota.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Kota Anda yang memiliki Situs Suci memberikan tekanan seolah-olah itu adalah Kota Suci (tekanan Agama 4x pada semua kota dalam 10 ubin).</Text>
+		</Row>
+		<!-- Type Traits-->
+		<Row Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] Poin Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] Poin Gubernur (memerlukan {2_TechOrCivicName})</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_REQUIRES_GOVERNMENT_TIER">
+			<Text>Tingkat Pemerintahan yang Diperlukan: {1_GovernmentTier}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

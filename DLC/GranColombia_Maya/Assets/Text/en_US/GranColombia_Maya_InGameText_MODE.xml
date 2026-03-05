@@ -1,0 +1,41 @@
+<GameData>
+	<EnglishText>
+		<!-- Soothsayer Emergency -->
+		<Row Tag="LOC_EMERGENCY_APPEASE_NAME">
+			<Text>Tenangkan para Dewa</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_APPEASE_SUMMARY">
+		  <Text>&quot;Para dewa telah memperingatkan kita: akhir dunia akan datang. Mereka akan memberikan anugerah kepada para pengikutnya, tapi pertama-tama kita harus membuktikan semangat kita. Hanya yang paling bersemangat yang akan diberi hadiah.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_APPEASE">
+			<Text>Para dewa telah memperingatkan kita bahwa akhir zaman sudah dekat.  Mereka akan memberikan keuntungan kepada pengikutnya, tapi pertama-tama kita harus membuktikan semangat kita.  Hanya mereka yang paling bersemangat yang akan diberi imbalan.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_APPEASE">
+			<Text>Para dewa telah memperingatkan kita bahwa akhir zaman sudah dekat.  Mereka akan memberikan keuntungan kepada pengikutnya, tapi pertama-tama kita harus membuktikan semangat kita.  Hanya mereka yang paling bersemangat yang akan diberi imbalan.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_APPEASE_DESC">
+			<Text>Menggunakan tindakan &quot;Pengorbanan Unit Berdekatan&quot; dengan unit Peramal mereka, memperoleh skor yang setara dengan [ICON_Strength] Kekuatan Tempur dari unit yang dikorbankan.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_APPEASE_UNIT_ACTION">
+			<Text>Unit Peramal anggota dapat menggunakan tindakan &quot;Unit Pengorbanan Berdekatan&quot; pada unit ramah yang berdekatan dengan gunung berapi aktif.</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_FREE_SOOTHSAYER_DESCRIPTION">
+      <Text>1 unit Peramal gratis</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_SOOTHSAYER_PROMOTION_DESCRIPTION">
+      <Text>1 Promosi acak gratis untuk semua unit Peramal saat ini dan yang akan datang.</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_FAITH_PER_TURN_DESCRIPTION">
+      <Text>+2 [ICON_Faith] Iman per giliran</Text>
+    </Row>
+    <Row Tag="LOC_ACTIVATE_BLOCKER_NO_ADJACENT_VOLCANO">
+      <Text>Harus berdekatan dengan unit tempur teman yang berdekatan dengan gunung berapi aktif.</Text>
+    </Row>
+    <Row Tag="LOC_ACTIVATE_BLOCKER_NOT_VALID_DISASTER_TILE">
+      <Text>Harus berada pada ubin yang dapat terkena bencana alam.</Text>
+    </Row>
+    <Row Tag="LOC_ACTIVATE_BLOCKER_NOT_VALID_TERRITORY_TILE">
+      <Text>Harus berperang dengan pemain pemilik hingga menimbulkan bencana di wilayah asing.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

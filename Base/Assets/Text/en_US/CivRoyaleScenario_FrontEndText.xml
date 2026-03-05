@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- CivRoyale Main Menu Multiplayer Buttons -->
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE">
+			<Text>Mainkan Red Death (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE">
+			<Text>[ICON_CheckFail] Bergabung dengan Red Death</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_NEW_MODE">
+			<Text>[ICON_Exclamation]Bergabunglah dengan Red Death</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_TT">
+			<Text>Temukan dan bergabunglah secara otomatis dalam permainan Red Death.[NEWLINE][NEWLINE]Red Death adalah versi Civilization VI dari mode Battle Royale. Bermainlah sebagai para penyintas yang berebut tiket satu-satunya untuk meninggalkan planet yang sekarat.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
+			<Text>Permainan Red Death tidak tersedia saat Steam sedang offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_CIVROYALE">
+			<Text>Cara Bermain Red Death</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_CIVROYALE_TT">
+			<Text>Lihat tutorial singkat tentang Red Death.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_CIVROYALE_NEW_MODE_TT">
+			<Text>Mode Baru Red Death (Battle Royale) kini tersedia!</Text>
+		</Row>
+		
+		<!-- CivRoyale How to Play -->
+		<Row Tag="LOC_CIVROYALE_INTRO_NEXT">
+			<Text>Selanjutnya</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_INTRO_PREVIOUS">
+			<Text>Sebelumnya</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_INTRO_PLAY">
+			<Text>Mainkan Red Death (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_INTRO_BODY">
+			<Text>Selamat datang di akhir dunia! Red Death adalah pertempuran bebas untuk bertahan hidup hingga faksi terakhir di masa senja peradaban di planet yang sekarat. Tujuannya adalah menjadi faksi terakhir yang bertahan hidup dan naik ke kapal evakuasi terakhir dari planet yang hancur.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_INTRO_DETAILS">
+			<Text>Tidak ada kota. Tidak ada diplomasi. Anda kalah jika unit Sipil terakhir Anda ditangkap atau dibunuh.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_RED_DEATH_BODY">
+			<Text>Red Death adalah badai radiasi yang semakin meluas. Seiring waktu, area aman semakin menyusut karena Red Death melanda dunia. Area aman dan area yang terkena dampak Red Death ditandai pada peta. Hati-hati agar Red Death tidak mengejar Anda!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_RED_DEATH_DETAILS">
+			<Text>Unit-unit di Red Death menerima kerusakan setiap giliran. Unit-unit di air juga menerima kerusakan setiap giliran. Ada alasan mengapa Anda berusaha meninggalkan planet ini.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_UNITS_BODY">
+			<Text>Temukan unit baru dan dapatkan pengalaman dengan menyelidiki kota-kota yang hancur, membersihkan Pos Penyerang, dan memperoleh Pasokan Udara. Ini adalah satu-satunya cara untuk mendapatkan unit baru, jadi pertimbangkan serangan Anda dengan hati-hati!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_UNITS_DETAILS">
+			<Text>Jangan lupa bahwa Anda dapat menugaskan unit untuk mengawal warga sipil Anda, yang membuat mereka lebih sulit untuk ditangkap atau dibunuh. Unit dalam skenario ini dapat memperoleh promosi baru untuk membantu Anda bertahan hidup di planet yang tak beraturan ini.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

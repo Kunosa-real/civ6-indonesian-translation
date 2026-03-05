@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+	 <Row Tag="LOC_EXPANSION2_MOD_TITLE">
+      <Text>Ekspansi: Mengumpulkan Badai</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION2_MOD_TEASER">
+      <Text>Paket Ekspansi dengan Kongres Dunia, dampak lingkungan dan bencana, kekuatan, peradaban dan pemimpin baru, dan masih banyak lagi!</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+      <Text>Ini adalah permainan yang menggunakan Ekspansi Gathering Storm, yang mencakup Kongres Dunia, efek lingkungan dan bencana, kekuatan, dan banyak lagi. Bisakah Anda menghadapi ketidakpastian dunia yang terus berubah untuk membangun peradaban yang akan bertahan dalam ujian waktu?</Text>
+    </Row>
+	<!-- Black Death Scenario -->
+	<Row Tag="LOC_BLACKDEATH_MOD_TITLE">
+		<Text>Skenario: Kematian Hitam</Text>
+	</Row>
+	<Row Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+		<Text>Bisakah kamu memandu bangsamu melewati wabah yang mengerikan ini? 4 pemain, 85 putaran.</Text>
+	</Row>
+	<Row Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+		<Text>Dalam skenario ini, Anda harus memandu peradaban Abad Pertengahan melewati Black Death yang terkenal, menjaga upaya budaya dan ilmiah mereka tetap hidup saat populasi mereka menurun dan kepercayaan mereka runtuh. Wabah ini akan menyapu lanskap secara bergelombang, membunuh penduduk dan membuat ubin tidak dapat digunakan. Dapatkah Anda bertahan cukup lama untuk menabur benih-benih Pencerahan, atau akankah bangsa Anda runtuh ke dalam ketidaksetiaan dan keputusasaan?</Text>
+	</Row>
+	  <!-- War Machine Scenario -->
+	<Row Tag="LOC_WARMACHINE_MOD_TITLE">
+		<Text>Skenario multipemain: Mesin Perang</Text>
+	</Row>
+	<Row Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+		<Text>Skenario multipemain 1v1 berdasarkan serangan Jerman ke Prancis selama pecahnya Perang Dunia I.</Text>
+	</Row>
+	<Row Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+		<Text>Dalam skenario ini, Anda mengambil alih komando pasukan Prancis atau Jerman selama bulan pertama Perang Dunia I. Anda memiliki pasukan besar yang siap untuk menyerang, sebuah negara industri yang siap mendukungnya, dan hanya 40 giliran untuk merebut atau mempertahankan Paris. Dapatkah Anda menang dalam bentrokan senjata terbesar yang pernah ada di dunia? Atau akankah peperangan dengan skala dan kecepatan seperti ini membuatmu kewalahan?</Text>
+	</Row>
+  </EnglishText>
+</GameData>
+

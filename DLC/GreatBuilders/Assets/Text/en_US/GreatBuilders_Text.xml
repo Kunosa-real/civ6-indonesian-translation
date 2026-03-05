@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Sejong-->
+		<Row Tag="LOC_DIPLO_MODIFIER_SEJONG_LAGGING">
+			<Text>Sejong senang kamu hanya punya sedikit ilmu pengetahuan dan budaya</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SEJONG_LEADING">
+			<Text>Sejong kecewa dengan Sains dan Budayamu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SEJONG_NAME">
+			<Text>Neo-Konfusianisme</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SEJONG_DESCRIPTION">
+			<Text>Ramah terhadap peradaban terbelakang yang kurang dalam [ICON_Science] Ilmu Pengetahuan dan [ICON_Culture] Kebudayaan.  Tidak menyukai peradaban yang mendahuluinya dalam [ICON_Science] Sains dan [ICON_Culture] Kebudayaan.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SEJONG_ANY">
+			<Text>Saya Sejong, pembawa ketertiban yang tenang yang dulunya merupakan perpecahan yang penuh kekerasan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Joseon akan terbebas dari pengaruh burukmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Sudah terlalu lama bayanganmu menggelapkan negeri kami! Kami tidak akan menunggu Anda datang - kami mendatangi Anda!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SEJONG_ANY">
+			<Text>Sarjana sejati memimpin, dan memberikan contoh untuk diikuti orang lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SEJONG_ANY">
+			<Text>Mengambil langkah yang salah bukanlah sebuah kemajuan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Kamu boleh mengalahkan pasukanku dan menjarah kota-kotaku. Tapi kamu tidak akan pernah bisa menghapus dendam yang kami simpan terhadapmu di dalam hati kami.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Kita bisa saling memimpin di Jalan tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Saya harus memilih dengan baik orang-orang yang akan bergaul dengan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Kami hanya tumbuh dengan belajar dari teman-teman kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Perdamaian akan berhasil – selama kita mengetahui peran kita masing-masing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Anda melangkah seperti seekor lembu melewati batasan yang kami buat dengan baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Kami membawa delegasi Anda ke danau kuno di Anapji, tempat kami menulis puisi dan meletakkan cangkir anggur di senja hari. Puisi delegasi Anda… tidak bagus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Kami menjaga perbatasan kami dengan baik, ingatlah Anda menjaga perbatasan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Ini - surasang! Hidangan dari segala hal yang enak untuk disantap di Joseon - sura, jjim, tang, dan sembilan jenis kimchi yang berbeda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Kata-kata yang diucapkan dalam kemarahan tidak mempunyai manfaat produktif.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Anda telah jatuh ke dalam kesalahan besar di sini. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SEJONG_ANY">
+			<Text>Tanahmu mengesankan, meski kami tetap merindukan rumah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SEJONG_ANY">
+			<Text>Memang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SEJONG_ANY">
+			<Text>Kita harus memahami negeri orang lain, agar kita bisa belajar lebih baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SEJONG_ANY">
+			<Text>Bagaimana kita dapat belajar satu sama lain hari ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Sebuah kapal akan berlayar lebih cepat dengan dua tiang, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SEJONG_ANY">
+			<Text>Di akhir kesulitan datanglah kebahagiaan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SEJONG_ANY">
+			<Text>Kami masih menyimpan dendam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Tanahmu mengesankan, meski kami tetap merindukan rumah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Mari kita berjalan bersama, dan tumbuh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Kami tidak cukup mempercayai Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Kita bisa memperluas ilmu kita bersama jika kita meningkatkan persahabatan antar masyarakat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SEJONG_ANY">
+			<Text>Saya tidak menjadi raja yang hebat dengan mengabaikan ancaman di perbatasan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Ini tidak mungkin terjadi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Kami akan tumbuh bersama.</Text>
+		</Row>
+		<!-- Ludwig II-->
+		<Row Tag="LOC_CITY_NAME_MUNICH_CAPITAL">
+			<Text>Munich</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LUDWIG_REASON_ANY">
+			<Text>(Anda telah mengisi kota Anda dengan distrik.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LUDWIG_REASON_ANY">
+			<Text>(Anda tidak mengisi kota Anda dengan semua distrik yang ada.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ETERNAL_LAGGING">
+			<Text>Ludwig senang Anda tertinggal dalam membangun distrik. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ETERNAL_LEADING">
+			<Text>Ludwig tidak senang Anda mengisi kota Anda dengan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETERNAL_NAME">
+			<Text>Enigma Abadi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETERNAL_DESCRIPTION">
+			<Text>Menyukai peradaban yang tidak menjaga jumlah maksimal Distrik di setiap kotanya. Tidak menyukai peradaban yang membangun distrik sebanyak-banyaknya.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LUDWIG_ANY">
+			<Text>Saya Ludwig dari Bavaria, Raja negeri ini dan perwujudan dari legenda Ksatria Angsa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Penjahat! Kamu sama hinanya dengan Count Telramund itu! Seperti Fafnir itu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Kalau begitu, milikilah padamu! Kami akan menulis legenda baru hari ini!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LUDWIG_ANY">
+			<Text>Anda tahu betul bagaimana menghargai hutan dan danau di tanah air Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LUDWIG_ANY">
+			<Text>Anda menyusun kota-kota Anda seperti buku besar: inilah tempat para ilmuwan pergi, zona itu untuk para penyair. Banalitas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Mungkin kita bisa bertemu di jalan antara Hutan dan Dunia.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Aku dengan sepenuh hati menerima persahabatanmu. Sekarang bisakah aku sendirian?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Apa yang saya butuhkan dari teman, ketika saya memiliki musik dan seni?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Mari kita menjadi sahabat! Asalkan kita tidak harus sering bertemu. Dan Anda harus memakai masker.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Fantastis. Silakan pergi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Sayang sekali. Silakan pergi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Delegasi Anda menghadiri pertunjukan musik romantis Jerman selama sembilan jam di ibu kota saya. Saya bisa melihat air mata berlinang di akhir film, mereka sangat menyukainya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Aku punya rencana malam itu. Saya berencana untuk membaca dan merenungkan hujan di pepohonan. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Saya telah mengirimkan kepada Anda seratus angsa- Saya telah mengirimkan kepada Anda lima puluh sw- Maaf, saya belum mengikatnya dengan baik. Aku telah mengirimimu seekor angsa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Itu… kamu tidak terlalu baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Kode kesatriaanku memerintahkanku untuk mengutukmu sebagai penjahat dan pengkhianat. Di sana. Anda dikutuk. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LUDWIG_ANY">
+			<Text>Datang dan lihat gua angsa. Lihatlah menara dan menara rumah saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LUDWIG_ANY">
+			<Text>Jadilah itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LUDWIG_ANY">
+			<Text>Nyanyikan aku lagu-lagu daerahmu! Apakah kamu punya angsa?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LUDWIG_ANY">
+			<Text>Saya baru saja membaca di sini. Siapa kamu lagi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Bisakah kita bersekutu? Di sini, Anda boleh mengenakan jubah dan topeng ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LUDWIG_ANY">
+			<Text>Apakah kita sedang berperang?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LUDWIG_ANY">
+			<Text>Saya telah mengumpulkan kisah-kisah keberanian yang paling mendebarkan dari para pejuang saya; Saya tidak bisa berhenti sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Saya baru saja diberitahu bahwa kita sedang berperang! Dengan orang-orang yang mencoba membunuh satu sama lain! Ini luar biasa dalam cerita, tapi mari kita hentikan sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Anda dapat mengunjungi hutan dan sungai saya, istana dan kastil saya. Periksa saja apakah saya tidak ada di sana terlebih dahulu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Oh, keganasan roh-roh kayu akan membuatmu takut jika kamu mendekat! Lebih baik begini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Kami mencari cerita dari negeri yang jauh!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LUDWIG_ANY">
+			<Text>Semangat kesatriaan yang menyala-nyala berdegup kencang di dada para prajuritku saat mereka memandangi pasukanmu yang berjumlah besar. Saya mohon Anda jangan menggoda mereka untuk melakukan tindakan-tindakan yang sangat mulia!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Saya memiliki monumen Swan Knight setinggi empat puluh kaki yang harus dibangun dan tidak dapat melakukannya dengan kesepakatan seperti itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Cantik. Kami akan mengadakan resepsi di gua. Tentu saja di malam hari.</Text>
+		</Row>
+		<!-- Theodora-->
+		<Row Tag="LOC_DISTRICT_FARM_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari {1_Num : plural 1?Farm; other?Farms;} yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NEW_ROME_NAME">
+			<Text>Roma Baru</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NEW_ROME_DESCRIPTION">
+			<Text>Mencoba membangun Budaya [ICON_Culture], dan menyukai peradaban yang juga fokus pada Budaya [ICON_Culture].</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_THEODORA_ANY">
+			<Text>Saya Theodora, yang datang dari kehampaan ke takhta hanya dengan mimpi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Tidak ada yang menyudutkan permaisuri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Rakyat saya menuntut kehidupan yang lebih baik. Anda menghalangi hal itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THEODORA_ANY">
+			<Text>Kami menciptakan kekuatan dengan alat peraga dan set panggung, dengan puisi dan keanggunan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THEODORA_ANY">
+			<Text>Tentunya ada lebih banyak hal dalam hidup ini daripada apa yang Anda tawarkan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Tahta adalah makam yang mulia.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Cantik. Dapat diprediksi, tapi indah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Dibutuhkan seorang pemanjat sosial untuk mengenali seorang pemanjat sosial.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Persahabatan dan percakapan adalah inti dari kesuksesan apa pun, bukan begitu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Saya melihat pesona Roma berhasil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Saya memiliki hal-hal yang lebih baik untuk dilakukan dan orang-orang yang lebih penting untuk diajak bicara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Kami telah membawa delegasi Anda ke perlombaan kereta di mana mereka, sayangnya, bersorak untuk Partai Hijau. Kami kembalikan kepada kamu mereka yang masih tinggal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Ajari delegasi Anda sopan santun, mungkin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Kami mengirimkan kepada Anda sekelompok penari untuk memerankan kembali Leda dan Angsa. Cobalah untuk tidak terlalu tersinggung.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Mengejutkan. Saya pernah mendengar yang lebih buruk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Lihatlah dirimu sendiri. Rakyat Anda menderita ketidakadilan, teman-teman Anda meninggalkan Anda, dan tampaknya penjahit Anda sedang mogok kerja. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_THEODORA_ANY">
+			<Text>Datang dan saksikan kapal-kapal melewati selat, dengarkan seruan kusir di hipodrom, datang dan saksikan kejayaan kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_THEODORA_ANY">
+			<Text>Saya setuju, mengingat kesepakatan yang tepat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_THEODORA_ANY">
+			<Text>Izinkan kami menunjukkan kepada Anda kerajaan kami dan keindahannya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_THEODORA_ANY">
+			<Text>Anda memiliki telinga saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Saya selalu tahu nilai kemitraan. Bisakah kita membuatnya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_THEODORA_ANY">
+			<Text>Pertarungan jauh lebih menghibur di Hippodrome.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_THEODORA_ANY">
+			<Text>Pasukan kita datang jauh-jauh hanya untuk pulang?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Pertarungan kecerdasan dan kata-kata, olahraga dan keterampilan, jauh lebih menarik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Kita tahu bahwa kita sedang berada di persimpangan jalan dunia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Kita mengendalikan persimpangan dunia, yang memungkinkan kita mengatakan tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Kerajaan kita memperluas jangkauannya; maukah kamu membantu kami dalam hal ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_THEODORA_ANY">
+			<Text>Datanglah ke kerajaan kami sebagai teman, sebagai pengunjung, sebagai peziarah. Tapi tidak sebagai tentara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Ayo sekarang, kamu bisa berbuat lebih baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Mari kita wujudkan hal ini.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

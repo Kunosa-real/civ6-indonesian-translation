@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Portugal: Building Info -->
+		<Row Tag="LOC_BUILDING_NAVIGATION_SCHOOL_NAME">
+			<Text>Sekolah Navigasi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NAVIGATION_SCHOOL_DESCRIPTION">
+			<Text>Sebuah bangunan unik untuk Portugal. +25% [ICON_PRODUCTION] Produksi untuk unit angkatan laut di kota ini. +1 [ICON_SCiENCE] Sains untuk setiap dua ubin pantai atau danau di kota ini. +1 [ICON_GreatAdmiral] Laksamana Agung dan +1 [ICON_GreatScientist] Poin Ilmuwan Hebat per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_TERRAIN_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} dari Medan</Text>
+		</Row>
+		<!-- Portugal: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_NAME">
+			<Text>Portugal</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_DESCRIPTION">
+			<Text>Kekaisaran Portugis</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_ADJECTIVE">
+			<Text>Portugis</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PORTUGAL_NAME">
+			<Text>Casa da India</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PORTUGAL_DESCRIPTION">
+			<Text>Rute Perdagangan Internasional [ICON_TradeRoute] harus berasal dari kota pesisir dan hanya dapat menjangkau kota-kota di pesisir pantai atau yang memiliki Pelabuhan, tetapi menerima +50% untuk semua hasil. Unit pedagang memiliki jangkauan +50% di atas air, dan dapat berangkat segera setelah dibuka kuncinya.</Text>
+		</Row>
+		<!-- Portugal: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_FEITORIA_NAME">
+			<Text>Feitoria</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FEITORIA_DESCRIPTION">
+			<Text>Membuka kemampuan Nau untuk membuat Feitoria, unik untuk Portugal.[NEWLINE][NEWLINE]Menyediakan +4 [ICON_Gold] Emas dan +1 [ICON_Production] Produksi. Jalur perdagangan yang dikirim ke kota ini dari Portugal memperoleh +4 [ICON_GOLD] Emas dan +1 [ICON_PRODUCTION] Produksi. Hanya dapat dibangun berdekatan dengan sumber daya Kemewahan atau Bonus di wilayah milik Peradaban atau Negara Kota lain yang Perbatasan Terbukanya Anda miliki. Harus dibangun di atas ubin Pantai atau Danau yang berdekatan dengan daratan dan tidak berdekatan dengan Feitoria lain. Feitorias tidak dapat dihapus. </Text>
+		</Row>
+		<!-- Portugal: Leader Info -->
+		<Row Tag="LOC_LEADER_JOAO_III_NAME">
+			<Text>João III</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JOAO_III">
+			<Text>João III, Anda teguh pada keyakinan Anda dan membimbing orang lain menuju keyakinan tersebut. Saat Anda menyebarkan agama dan jaringan perdagangan Anda ke luar negeri, kembalikan kemakmuran kepada masyarakat Anda, sehingga mereka dapat merasakan cara-cara baru yang berbeda dari sebelumnya.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JOAO_III_NAME">
+			<Text>Porta do Cerco</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JOAO_III_DESCRIPTION">
+			<Text>Semua unit menerima +1 penglihatan. +1 [ICON_TradeRoute] Kapasitas Jalur Perdagangan ketika suatu peradaban terpenuhi. Buka Perbatasan dengan semua negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_NAME">
+			<Text>Porta do Cerco</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_DESCRIPTION">
+			<Text>+1 Pemandangan dari sifat Porta do Cerco.</Text>
+		</Row>
+		<!-- Portugal: Unit Info -->
+		<Row Tag="LOC_UNIT_PORTUGUESE_NAU_NAME">
+			<Text>Tidak</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PORTUGUESE_NAU_DESCRIPTION">
+			<Text>Unit jarak dekat angkatan laut unik Portugis yang menggantikan Caravel. Dimulai dengan 1 Promosi gratis dan lebih sedikit pemeliharaan. Memiliki dua biaya untuk membangun Feitorias.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAU_NAME">
+			<Text>Tidak</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAU_DESCRIPTION">
+			<Text>Dimulai dengan 1 promosi gratis.</Text>
+		</Row>
+		<!-- Portugal: Game mode info -->
+		<Row Tag="LOC_GAMEMODE_TOWERDEFENSE_NAME">
+			<Text>Zombie Defense Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_TOWERDEFENSE_DESCRIPTION">
+			<Text>Dalam mode permainan ini, orang mati bangkit untuk menimbulkan kekacauan di antara orang hidup!  Gunakan struktur pertahanan baru untuk melindungi wilayah Anda, dan manipulasi zombie untuk memperlambat lawan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_ZOMBIES_KILLED">
+			<Text>Zombi Dibunuh</Text>
+		</Row>
+		<!-- Highlands-->
+		<Row Tag="LOC_MAP_WETLANDS_NAME">
+			<Text>Lahan basah</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WETLANDS_DESCRIPTION">
+			<Text>Peta benua yang dibanjiri sungai dan rawa. Ada tambahan Hutan, Dataran Banjir, dan Hutan Hujan juga.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

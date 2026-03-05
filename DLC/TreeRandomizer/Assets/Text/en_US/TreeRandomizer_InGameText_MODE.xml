@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tree Randomizer -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE">
+			<Text>Tech and Civic Shuffle Mode</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE">
+			<Text>Selamat datang</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1">
+			<Text>Mode permainan ini mengacak pohon Tech dan Civic dalam era historis masing-masing, sehingga biaya dan prasyaratnya berbeda dari biasanya. Pohon yang dihasilkan sama untuk semua pemain. Tech dan Civic juga disembunyikan hingga prasyaratnya terpenuhi, sehingga misteri penemuan tetap terjaga sampai akhir permainan.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,46 @@
+<GameData>
+	<EnglishText>
+		<!-- Admirals -->
+		<Row Tag="LOC_GREATPERSON_YI_SUN_SIN_EXPANSION2_ACTIVE">
+			<Text>Seketika membuat unit Ironclad dengan 1 level promosi. Memberikan 1 [ICON_RESOURCE_Coal] Batubara per Putaran</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_EXPANSION2_ACTIVE">
+			<Text>Seketika membuat unit Battleship dengan 1 level promosi. Memberikan 1 [ICON_RESOURCE_Coal] Batubara per Putaran.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHESTER_NIMITZ_EXPANSION2_ACTIVE">
+			<Text>Seketika membuat unit Kapal Selam dengan 1 level promosi. Memberikan 1 [ICON_RESOURCE_Oil] Minyak per Putaran. +20% [ICON_Production] Produksi untuk unit kelas promosi Naval Raider.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHENG_HE_EXPANSION2_ACTIVE">
+			<Text>Memberikan unit Pedagang gratis di kota ini, dan meningkatkan kapasitas Jalur Perdagangan [ICON_TradeRoute] sebesar 1. Jalur Perdagangan [ICON_TradeRoute] Asing ke kota ini memberikan +2 [ICON_Gold] Emas ke kedua kota.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_EXPANSION2_ACTIVE">
+			<Text>+3 [ICON_Strength] Kekuatan Tempur untuk semua unit angkatan laut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_EXPANSION2_ACTIVE">
+			<Text>+1 jarak pandang untuk semua unit angkatan laut. Mengizinkan semua unit angkatan laut untuk bergerak melintasi ubin lautan tanpa persyaratan teknologi normal.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHING_SHIH_EXPANSION2_ACTIVE">
+			<Text>Dapatkan 500 [ICON_Gold] Emas (pada kecepatan Standar). Unit militer mendapat hadiah +60% karena menjarah Jalur Perdagangan [ICON_TradeRoute] laut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_EXPANSION2_ACTIVE">
+			<Text>Seketika membuat unit Quadrireme. +20% [ICON_Production] Produksi untuk unit kelas promosi Jarak Jauh Angkatan Laut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANCIS_DRAKE_EXPANSION2_ACTIVE">
+			<Text>Secara instan membuat unit Privateer dengan 1 level promosi. Unit militer mendapat hadiah +50% karena menjarah Jalur Perdagangan [ICON_TradeRoute] laut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HORATIO_NELSON_EXPANSION2_ACTIVE">
+			<Text>Segera membangun Mercusuar dan Galangan Kapal di distrik ini. +50% bonus sayap untuk semua unit angkatan laut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRACE_HOPPER_EXPANSION2_ACTIVE">
+			<Text>Dapatkan 2 teknologi gratis yang dipilih secara acak.</Text>
+		</Row>
+		<!-- Generals -->
+		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_EXPANSION2_ACTIVE">
+			<Text>Seketika membuat unit Tank dengan 1 level promosi. Memberikan 1 [ICON_RESOURCE_Oil] Minyak per Putaran.</Text>
+		</Row>
+		<!-- Merchants -->
+		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_EXPANSION2_ACTIVE">
+			<Text>Memberikan 3 [ICON_RESOURCE_OIL] Minyak per Putaran. [ICON_TradeRoute] Rute Perdagangan Anda mendapatkan +2 [ICON_Gold] Emas untuk setiap sumber daya Strategis di kota tujuan.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

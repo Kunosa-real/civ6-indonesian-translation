@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_TITLE">
+			<Text>Vietnam dan Paket Kubilai Khan</Text>
+		</Row>
+		<Row Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_TEASER">
+			<Text>Peradaban dan Pemimpin Baru - Vietnam, dan Kublai Khan, pemimpin pengganti Tiongkok dan Mongolia</Text>
+		</Row>
+		<Row Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_DESCRIPTION">
+			<Text>Berisi peradaban baru, dua pemimpin baru, distrik baru, dua gedung baru, dan mode permainan Monopolies and Corporations.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

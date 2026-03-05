@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_PALACE_NAME">
+			<Text>Gedung Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+			<Text>Bonus [ICON_Production] Produksi sama dengan bonus kedekatan distrik Pelabuhan.</Text>
+		</Row>
+		<!-- City-Names-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WARWICK">
+			<Text>Warwick</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GYMPIE">
+			<Text>pegiat olahraga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TOODYAY">
+			<Text>Ayolah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ALBANY">
+			<Text>Albany</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GERALDTON">
+			<Text>Geraldton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BUNBURY">
+			<Text>Bunbury</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GUILDFORD">
+			<Text>Guildford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CASTLEMAINE">
+			<Text>Kastilmaine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BEECHWORTH">
+			<Text>Beechworth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PORT_FAIRY">
+			<Text>Peri Pelabuhan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MOUNT_GAMBIER">
+			<Text>Gunung Gambir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MOONTA">
+			<Text>Bulan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WALLAROO">
+			<Text>Wallaroo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PORT_AUGUSTA">
+			<Text>Pelabuhan Augusta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NARACOORTE">
+			<Text>Naracoorte</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GAWLER">
+			<Text>Gawler</Text>
+		</Row>
+		<!-- City State-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_NAME">
+			<Text>New South Wales</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_DESCRIPTION">
+			<Text>Negara Bagian New South Wales</Text>
+		</Row>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_NAME">
+			<Text>Koloni Pidana</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_NAME">
+			<Text>Demam Emas</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_NAME">
+			<Text>Koloni Mahkota</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_SHEEP_REARING_NAME">
+			<Text>Pemeliharaan Domba</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_NAME">
+			<Text>Sewa Pastoral</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_NAME">
+			<Text>Federasi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_NAME">
+			<Text>Perang Besar</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_NAME">
+			<Text>Layanan Udara</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_NAME">
+			<Text>Perang Dunia II</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CRUISE_LINES_NAME">
+			<Text>Liner Penumpang</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_DESCRIPTION">
+			<Text>Dapatkan Pemukim gratis di ibukota Anda setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_DESCRIPTION">
+			<Text>Dapatkan 2 Pemukim gratis di modal Anda setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_DESCRIPTION">
+			<Text>Dapatkan Pemukim gratis di ibukota Anda setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_DESCRIPTION">
+			<Text>Dapatkan Pemukim gratis di ibukota Anda setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_DESCRIPTION">
+			<Text>Dapatkan Pemukim gratis di ibukota Anda setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION">
+			<Text>Memungkinkan pembangunan Taman Nasional. Mengizinkan unit menanam Kayu (pertumbuhan kedua). Hutan di wilayah Anda yang belum pernah ditebang (tumbuh tua) mendapatkan +1 Banding.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_DESCRIPTION">
+			<Text>Dapatkan Pemukim gratis di ibukota Anda setelah selesai.</Text>
+		</Row>
+    <Row Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_DESCRIPTION">
+      <Text>Hadiah untuk menyelesaikan Proyek AIF meningkat dari +10 menjadi +20 [ICON_Gold] Emas per giliran.</Text>
+    </Row>
+    <Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
+			<Text>Stasiun Pedalaman menerima +1 [ICON_Food] Makanan untuk setiap dua Stasiun Pedalaman yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Dapat diselesaikan berkali-kali, namun dalam skenario ini TIDAK meningkatkan poin Anda terhadap Skor Kemenangan.</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_NAME">
+			<Text>Aneksasi Pedalaman</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_DESCRIPTION">
+			<Text>Menyelesaikan distrik mana pun akan menyebabkan Bom Budaya.</Text>
+		</Row>
+		<!-- Continent Names -->
+		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_HOLLAND_DESCRIPTION">
+			<Text>Belanda Baru</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_SOUTH_WALES_DESCRIPTION">
+			<Text>New South Wales</Text>
+		</Row>
+		<!-- Government Names -->
+		<Row Tag="LOC_GOVERNMENT_PENAL_SETTLEMENT_NAME">
+			<Text>Penyelesaian Pidana</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_COLONIAL_GOVERNMENT_NAME">
+			<Text>Pemerintah Kolonial</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_STATE_GOVERNMENT_NAME">
+			<Text>Pemerintah Negara Bagian</Text>
+		</Row>
+		<!-- Districts-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_AERODROME_DESCRIPTION">
+			<Text>Tidak dapat dibangun di atas bukit.</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+			<Text>Membuka kemampuan Prospector untuk membangun Tambang.[NEWLINE][NEWLINE]+1 [ICON_Production] Produksi. +2 [ICON_Gold] Emas. -1 Banding. Hanya dapat dibangun di Perbukitan atau sumber daya tertentu.[NEWLINE][NEWLINE]Jika dibangun di atas sumber daya Mewah atau Strategis, kota akan memperoleh manfaat dari sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+			<Text>Membuka kemampuan Grazier untuk membangun Padang Rumput.[NEWLINE][NEWLINE]+1 [ICON_Production] Produksi. +1 [ICON_Gold] Emas. Hanya dapat dibangun di atas sumber daya [ICON_RESOURCE_CATTLE] Sapi, [ICON_RESOURCE_SHEEP] Domba, atau [ICON_RESOURCE_HORSES] Kuda.[NEWLINE][NEWLINE]Jika dibangun di atas sumber daya [ICON_RESOURCE_HORSES] Kuda, kota akan memperoleh penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_OUTBACK_STATION_DESCRIPTION">
+			<Text>Membuka kemampuan Grazier untuk membangun Stasiun Pedalaman.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Makanan, +1 [ICON_Gold] Emas, dan +1 [ICON_PRODUCTION] Produksi. +1 [ICON_Food] Makanan untuk setiap Padang Rumput yang berdekatan. Tambahan [ICON_FOOD] Pangan dan [ICON_PRODUCTION] Produksi seiring kemajuan Anda melalui Teknologi dan Civic Pohon untuk Stasiun Pedalaman dan Padang Rumput yang berdekatan. Hanya dapat dibangun di ubin Gurun, Bukit Gurun, Padang Rumput, dan Dataran.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_BEACH_RESORT_DESCRIPTION">
+			<Text>Membuka kemampuan Naturalis untuk membangun Resor Tepi Laut.[NEWLINE][NEWLINE]Menyediakan [ICON_Gold] Emas setara dengan Daya Tarik ubin. Hanya dapat dibangun di ubin Gurun Pesisir, Dataran Pesisir, atau Padang Rumput Pesisir. Daya Tarik Minimal Menakjubkan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+			<Text>Membuka kemampuan Petani untuk membangun Perkebunan.[NEWLINE][NEWLINE]+1 [ICON_Gold] Emas. Hanya dapat dibangun di atas sumber daya [ICON_RESOURCE_BANANAS] Pisang, [ICON_RESOURCE_CITRUS] Jeruk, [ICON_RESOURCE_COTTON] Kapas, [ICON_RESOURCE_SUGAR] Gula, [ICON_RESOURCE_TEA] Teh, atau [ICON_RESOURCE_WINE] Anggur.[NEWLINE][NEWLINE]Jika dibangun di atas sumber daya Mewah, kota akan memanfaatkan sumber daya tersebut.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_KAKADU_NAME">
+			<Text>Kakadu</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PINNACLES_NAME">
+			<Text>Puncak</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION">
+			<Text>Satu ubin keajaiban alam yang tak bisa dilewati. Memberikan +2 [ICON_CULTURE] Budaya dan +2 [ICON_Gold] Emas ke ubin yang berdekatan. Memberikan +4 Daya Tarik ke ubin yang berdekatan, bukan +2 seperti biasanya.</Text>
+		</Row>
+		<!--Resources-->
+		<Row Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">
+			<Text>Bijih Emas</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_LAND_GRANTS_NAME">
+			<Text>Hibah Tanah</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIRST_FLEET_NAME">
+			<Text>Armada Pertama</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REWARDS_OFFERED_NAME">
+			<Text>Hadiah yang Ditawarkan</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TERRA_NULLIUS_NAME">
+			<Text>Terra Nullius</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_NAME">
+			<Text>Arsitek Kolonial</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_NAME">
+			<Text>Jalan Parramatta</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_NAME">
+			<Text>Tiket Cuti</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_NAME">
+			<Text>Penjaga Gudang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_NAME">
+			<Text>Kereta Api Trans-Australia</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_NAME">
+			<Text>Taktik Keras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GALLIPOLLI_NAME">
+			<Text>Gallipoli</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_NAME">
+			<Text>Sekolah Udara</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLYING_DOCTORS_NAME">
+			<Text>Dokter Terbang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_NAME">
+			<Text>Materi Perang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVASION_THREAT_NAME">
+			<Text>Ancaman Invasi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_NAME">
+			<Text>Menjajakan Udang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARK_RANGERS_NAME">
+			<Text>Penjaga Taman</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAND_GRANTS_DESCRIPTION">
+			<Text>+30% [ICON_Production] Produksi terhadap Petani.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIRST_FLEET_DESCRIPTION">
+			<Text>+30% [ICON_Production] Produksi terhadap Nelayan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REWARDS_OFFERED_DESCRIPTION">
+			<Text>+30% [ICON_Production] Produksi menuju Prospector.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TERRA_NULLIUS_DESCRIPTION">
+			<Text>Petani yang baru dilatih mendapatkan 2 tindakan pembangunan tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Produksi di semua kota.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_DESCRIPTION">
+			<Text>+1 [ICON_Food] Pangan dan +1 [ICON_Production] Produksi dari [ICON_TradeRoute] Jalur Perdagangan dalam negeri.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Produksi untuk Penggembala.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_DESCRIPTION">
+			<Text>Grazier yang baru dilatih mendapatkan 2 aksi build ekstra.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_DESCRIPTION">
+			<Text>+6 [ICON_Gold] Emas dari Jalur Perdagangan internasional [ICON_TradeRoute].</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Emas dari peningkatan Pertanian dan Perkebunan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GALLIPOLLI_DESCRIPTION">
+			<Text>+50% [ICON_Production] Produksi untuk proyek AIF.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Emas dari semua Tambang dan Peningkatan Tambang pada sumber daya Mewah.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLYING_DOCTORS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Emas dari peningkatan Padang Rumput dan Stasiun Pedalaman.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Emas dari Peningkatan Tambang pada Sumber Daya Strategis.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVASION_THREAT_DESCRIPTION">
+			<Text>+100% [ICON_Production] Produksi untuk proyek AIF.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Emas dari peningkatan Kapal Nelayan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARK_RANGERS_DESCRIPTION">
+			<Text>Semua ubin di peradaban Anda mendapatkan +2 Daya Tarik. -1 [ICON_GOLD] Emas dari perbaikan Tambang.</Text>
+		</Row>
+		<!-- Technologies-->
+		<Row Tag="LOC_TECH_IRRIGATION_SCENARIO_DESCRIPTION">
+			<Text>Peningkatan lahan kini memperoleh +1 [ICON_Food] Makanan untuk setiap peningkatan lahan yang berdekatan ketika 3 peningkatan lahan berdekatan satu sama lain.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_DESCRIPTION">
+			<Text>Memungkinkan menebang Kayu dan Hutan Hujan. Unit Anda mendapatkan peluang lebih besar untuk bertahan hidup di Pedalaman dan memetakan lebih banyak wilayah jika mereka menerima acara bermanfaat di Pedalaman.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_ABILITY_DESCRIPTION">
+			<Text>Unit Anda mendapatkan peluang lebih besar untuk bertahan hidup di Pedalaman dan memetakan lebih banyak wilayah jika mereka menerima acara bermanfaat di Pedalaman.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_SCENARIO_DESCRIPTION">
+			<Text>Memungkinkan pemanenan Batu [ICON_RESOURCE_STONE].</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_SCENARIO_DESCRIPTION">
+			<Text>Meningkatkan perbaikan Pertanian menjadi Pertanian Mekanis. +1 [ICON_Food] Bonus Kedekatan Pangan untuk setiap peningkatan Peternakan yang berdekatan dengannya.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_SCENARIO_DESCRIPTION">
+			<Text>Stasiun Pedalaman menerima +1 [ICON_Production] Produksi untuk setiap dua Stasiun Pedalaman yang berdekatan. Padang rumput menerima +1 [ICON_PRODUCTION] Produksi untuk setiap Stasiun Pedalaman yang berdekatan.</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_UNIT_EXPLORER_NAME">
+			<Text>Penjelajah</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PROSPECTOR_NAME">
+			<Text>Pencari</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRAZIER_NAME">
+			<Text>Peternak</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FARMER_NAME">
+			<Text>Petani</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FISHER_NAME">
+			<Text>Nelayan</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
+			<Text>Unit pengintaian yang bergerak cepat.  Unit sipil yang tidak dapat menyerang dalam skenario ini.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PROSPECTOR_DESCRIPTION">
+			<Text>Dapat membuat perbaikan ubin Tambang, Tambang, Sumur Minyak, dan Landasan Udara. Prospector dapat digunakan 3 kali.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRAZIER_DESCRIPTION">
+			<Text>Dapat membuat peningkatan ubin Pasture dan Outback Station. Grazier dapat digunakan 3 kali. Hal ini dapat ditingkatkan melalui kebijakan Mounted Stockmen.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FARMER_DESCRIPTION">
+			<Text>Dapat membuat peningkatan ubin Pertanian, Perkebunan, dan Pabrik Kayu. Petani dapat digunakan 3 kali. Hal ini dapat ditingkatkan melalui kebijakan Terra Nullius.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FISHER_DESCRIPTION">
+			<Text>Dapat membuat peningkatan ubin Perahu Nelayan. Nelayan dapat digunakan 3 kali.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>Dapat menciptakan kota-kota baru. Pemukim hanya diterima dalam skenario ini dengan menyelesaikan Civics.  Mereka tidak akan pernah bisa dibangun.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_NATURALIST_DESCRIPTION">
+			<Text>Warga sipil di akhir permainan yang dapat membuat satu Resor Tepi Laut atau satu Taman Nasional untuk meningkatkan [ICON_Gold] Emas per [ICON_Turn] Putaran. Dihapus dari permainan setelah Seaside Resort atau Taman Nasional dibuat.</Text>
+		</Row>
+		<!-- Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GOLD_RUSH">
+			<Text>Mengungkapkan 1 [ICON_RESOURCE_GOLD] sumber daya Bijih Emas.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CROWN_COLONY">
+			<Text>Dapatkan [ICON_GOLD] Emas per [ICON_Turn] Putaran 15.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHEEP_REARING">
+			<Text>Mengungkapkan 3 [ICON_RESOURCE_SHEEP] Sumber daya domba.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY">
+			<Text>Kembangkan peradaban Anda hingga setidaknya 12 [ICON_Citizen] Populasi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES">
+			<Text>Bangun 3 Padang Rumput.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEDERATION">
+			<Text>Dapatkan [ICON_GOLD] Emas per [ICON_Turn] Pergantian 30.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION">
+			<Text>Kembangkan kota menjadi 10 [ICON_Citizen] Populasi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION">
+			<Text>Temukan keajaiban alam.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_WAR">
+			<Text>Kemajuan ke [ICON_Turn] Putaran 45.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_AERIAL_SERVICES">
+			<Text>Membangun Landasan Udara.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_WORLD_WAR_II">
+			<Text>Kemajuan ke [ICON_Turn] Putaran 53.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CRUISE_LINES">
+			<Text>Buatlah Taman Nasional.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GOLD_RUSH">
+			<Text>Demam emas sedang menimpa kita! Pemburu keberuntungan dari setiap benua bergegas ke Australia untuk mencoba menjadi kaya.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CROWN_COLONY">
+			<Text>Keuntungan mulai meningkat. Ratu akan segera menjadikan tanah Anda sebagai koloni mahkota yang tepat.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHEEP_REARING">
+			<Text>Dengan banyaknya ruang terbuka di negeri ini, beternak domba sepertinya merupakan sebuah pilihan yang unggul.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_DRAMA_POETRY">
+			<Text>Dengan banyaknya warga, ada pula yang meluangkan waktu untuk mendalami seni.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PASTORAL_LEASES">
+			<Text>Keuntungan besar yang Anda peroleh dari padang rumput menarik perhatian pemerintah. Mereka mungkin akan segera menyewakan lahan milik pemerintah.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FEDERATION">
+			<Text>Ketika Anda makmur, penduduk asli Australia menuntut negara mereka sendiri, merdeka dari Inggris.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_URBANIZATION">
+			<Text>Kota besar Anda semakin penuh sesak. Saatnya untuk mulai merencanakan beberapa daerah pinggiran kota.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CONSERVATION">
+			<Text>Keindahan alam negeri ini memang tiada tandingannya dan harus dilestarikan untuk generasi mendatang.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_WAR">
+			<Text>Kekuatan Besar telah terlibat dalam konflik berdarah. Saatnya bersatu menuju Ibu Pertiwi!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_AERIAL_SERVICES">
+			<Text>Pesawat telah datang ke Australia. Tentunya mereka hanyalah tiket untuk melayani Pedalaman yang luas?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_WORLD_WAR_II">
+			<Text>Kekuatan fasisme telah meningkat di Jerman dan Jepang. Apakah Australia sendiri juga bisa terkena risiko?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CRUISE_LINES">
+			<Text>Taman nasional baru Anda bisa menjadi tujuan utama bagi kapal penumpang baru yang mengarungi lautan. </Text>
+		</Row>
+		<!-- Tech Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION">
+			<Text>Kembangkan kota menjadi 6 [ICON_Citizen] Populasi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+			<Text>Memelihara 2 [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_INDUSTRIALIZATION">
+			<Text>Bangun 3 Tambang.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>Bangun 2 Tambang.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>Bangun 2 Perpustakaan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ECONOMICS">
+			<Text>Bangun 2 Pasar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ELECTRICITY">
+			<Text>Membangun 2 Lokakarya.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FLIGHT">
+			<Text>Miliki kewarganegaraan The Great War.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMBUSTION">
+			<Text>Memiliki kewarganegaraan Perang Dunia II.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RADIO">
+			<Text>Membangun Lab Penelitian.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Bangun Hangar</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EDUCATION">
+			<Text>Pusat kota baru Anda adalah tempat utama untuk pusat pembelajaran yang dilengkapi perpustakaan dan universitas.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_BANKING">
+			<Text>Jaringan perdagangan Anda yang menguntungkan telah memberi kami modal cadangan. Mendirikan bank sekarang dapat mendorong investasi lebih lanjut.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_INDUSTRIALIZATION">
+			<Text>Dengan banyaknya tambang yang aktif, bahan-bahan untuk kemajuan sudah tersedia. Apakah Revolusi Industri akan segera dimulai?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
+			<Text>Batu dari tambang Anda sekarang memberi kami landasan bagi karya-karya teknik yang hebat.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>Dengan dua perpustakaan aktif, komunitas ilmiah Anda tidak aktif dan berjalan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ECONOMICS">
+			<Text>Keberhasilan komersial Anda telah mendorong banyak orang untuk melakukan investasi dalam perekonomian Anda.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ELECTRICITY">
+			<Text>Produksi industri Anda sangat mengesankan namun dapat berkembang lebih jauh dengan diperkenalkannya tenaga listrik.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FLIGHT">
+			<Text>Penerbang Australia kembali dari perang dengan cerita tentang penerbangan mereka melintasi parit Eropa.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_COMBUSTION">
+			<Text>Dengan berkembangnya kekaisaran Jepang, persaingan untuk mendapatkan sumber daya minyak di Pasifik semakin ketat.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RADIO">
+			<Text>Menyelesaikan fasilitas penelitian modern akan memungkinkan Anda mengikuti kemajuan komunikasi terkini.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Dengan adanya bandar udara dan hanggar, Anda siap untuk mulai mengerjakan bandara modern.</Text>
+		</Row>
+		<!-- Projects-->
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION">
+			<Text>Proyek Australian Imperial Force (AIF) merekrut pasukan untuk ditempatkan di luar negeri selama Perang Dunia. Menyelesaikannya di kota akan memberikan peningkatan +10 pada [ICON_Gold] Emas kota tersebut per [ICON_Turn] Putaran.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_NAME">
+			<Text>Pelatihan AIF</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_SHORT_NAME">
+			<Text>Pelatihan AIF</Text>
+		</Row>
+		<!-- Scoring-->
+		<Row Tag="LOC_CATEGORY_INCOME_NAME">
+			<Text>Pendapatan ([ICON_Gold] Emas per [ICON_Turn] Putaran)</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_DIFFICULTY">
+			<Text>Kesulitan: {1_DifficultyName}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_CURRENT_GAME_DIFFICULTY">
+			<Text>Permainan saat ini: {1_Difficulty}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_SINGLE_PLAYER_SCORE">
+			<Text>Skor yang Diperlukan untuk Kemenangan: {1_Score}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TITLE">
+			<Text>PEDALAMAN</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_EFFECTS">
+			<Text>Semua petak tanah yang tidak dikendalikan oleh pemain dianggap sebagai bagian dari Pedalaman Australia, tempat tinggal berbahaya yang dipenuhi tumbuhan dan hewan beracun dan rumah bagi salah satu iklim paling keras di planet ini. Setiap unit yang mengakhiri giliran di ubin Pedalaman mungkin mengalami pertemuan Pedalaman khusus. Meskipun banyak dari peristiwa ini menyebabkan kerusakan atau penundaan, ada beberapa peristiwa terpilih yang akan membantu unit penjelajah Anda mendapatkan bonus unik. Secara umum, Anda ingin membatasi waktu yang dihabiskan unit Anda di alam liar yang belum terjamah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TOOLTIP">
+			<Text>Pedalaman</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Memperbaiki kerusakan pada pertahanan luar kota ini. Hanya mungkin jika kota ini belum diserang setidaknya selama 3 putaran.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan [ICON_Gold] Emas di setiap giliran dan [ICON_GreatGeneral] poin Jenderal Besar setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan [ICON_Gold] Emas setiap giliran dan [ICON_GreatAdmiral] poin Laksamana Besar setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan [ICON_Gold] Emas setiap giliran dan [ICON_GreatEngineer] poin Insinyur Hebat setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan sejumlah besar [ICON_Gold] Gold setiap giliran dan [ICON_GreatMerchant] poin Great Merchant setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan [ICON_Faith] Iman di setiap giliran dan [ICON_GreatProphet] poin Nabi Besar setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan [ICON_Science] Ilmu Pengetahuan di setiap giliran dan [ICON_GreatScientist] poin Ilmuwan Hebat setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang memberikan [ICON_Culture] Budaya setiap giliran dan sejumlah kecil poin [ICON_GreatWriter] Penulis Hebat, [ICON_GreatArtist] Seniman Hebat, dan [ICON_GreatMusician] Musisi Hebat setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>Proyek unik Brasil yang memberikan +1 [ICON_Amenities] Amenitas saat aktif dan [ICON_GreatPerson] Poin Orang Hebat untuk [ICON_GreatEngineer] Insinyur Hebat, [ICON_GreatMerchant] Pedagang Hebat, [ICON_GreatWriter] Penulis Hebat, [ICON_GreatArtist] Artis Hebat, dan [ICON_GreatMusician] Musisi Hebat setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Proyek Space Race yang meluncurkan satelit kecil ke orbit. Mengungkap geografi dari setiap sudut dunia yang belum dijelajahi, dan menandai langkah pertama menuju Kemenangan Sains.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Proyek Space Race yang meluncurkan roket besar untuk mendaratkan manusia di bulan. Memberikan bonus [ICON_Culture] Budaya satu kali sebesar 10 kali [ICON_Science] Ilmu Pengetahuan per giliran, dan menandai langkah kedua menuju Kemenangan Ilmu Pengetahuan.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Proyek Space Race yang meluncurkan modul Reaktor ke orbit untuk misi Koloni Mars. Peluncuran ketiga modul tersebut memenangkan Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Proyek Space Race yang meluncurkan modul Habitasi ke orbit untuk misi Koloni Mars. Peluncuran ketiga modul tersebut memenangkan Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Proyek Space Race yang meluncurkan modul Hidroponik ke orbit untuk misi Koloni Mars. Peluncuran ketiga modul tersebut memenangkan Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Memungkinkan pembuatan Perangkat Nuklir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Memungkinkan pembuatan Perangkat Termonuklir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Menambahkan satu Perangkat Nuklir ke dalam inventaris negara Anda. Membutuhkan [ICON_Resource_Uranium] Uranium. Pemeliharaan adalah 14 [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Menambahkan Perangkat Termonuklir ke inventaris negara Anda. Membutuhkan [ICON_Resource_Uranium] Uranium. Pemeliharaan adalah 16 [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>Anda telah berhasil meluncurkan satelit ke orbit! Mengungkap geografi dari setiap sudut dunia yang belum dijelajahi, dan menandai langkah pertama menuju Kemenangan Sains.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>Anda berhasil mendaratkan seseorang di bulan! Memberikan bonus [ICON_Culture] Budaya satu kali sebesar 10 kali [ICON_Science] Ilmu Pengetahuan per giliran, dan menandai langkah kedua menuju Kemenangan Ilmu Pengetahuan.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>Anda berhasil meluncurkan modul Reaktor, komponen kunci dalam pesawat ruang angkasa Koloni Mars Anda. Meluncurkan ketiga modul ke orbit akan melengkapi pesawat ruang angkasa, dan memenangkan Kemenangan Sains.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>Anda berhasil meluncurkan modul Habitasi, komponen kunci dalam pesawat ruang angkasa Koloni Mars Anda. Meluncurkan ketiga modul ke orbit akan melengkapi pesawat ruang angkasa, dan memenangkan Kemenangan Sains.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>Anda berhasil meluncurkan modul Hidroponik, sebuah komponen penting dalam pesawat ruang angkasa Koloni Mars. Meluncurkan ketiga modul ke orbit akan melengkapi pesawat ruang angkasa, dan memenangkan Kemenangan Sains.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

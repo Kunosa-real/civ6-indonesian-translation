@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <BaseGameText>
+    <!-- Modifier Object Text - Used in GameCore -->
+    <Row Tag="LOC_MODIFIER_OBJECT_BUILDING">
+      <Text>Bangunan|Bangunan</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_CITY">
+      <Text>Kota|Kota</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_DISTRICT">
+      <Text>Distrik|Distrik</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
+      <Text>Pemerintah|Pemerintah</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_PLAYER">
+      <Text>Pemain|Pemain</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
+      <Text>Unit yang ditangkap pemain|Unit yang ditangkap pemain</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_POLICY">
+      <Text>Kebijakan|Kebijakan</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_TEAM">
+      <Text>Tim|Tim</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_TECHNOLOGY">
+      <Text>Teknologi|Teknologi</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_UNIT">
+      <Text>Satuan|Satuan</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
+      <Text>Promosi Unit|Promosi Unit</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+  </BaseGameText>
+</GameData>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>+50% pengalaman tempur untuk unit udara yang dilatih di kota ini. +2 slot unit udara di distrik Aerodrome. Memungkinkan kemampuan untuk mengangkut unit darat antara distrik Aerodrome dengan bandara setelah kebijakan Rapid Deployment dibuka.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit darat yang dilatih di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+			<Text>+25% pengalaman pertempuran untuk semua unit darat jarak dekat dan jarak jauh yang dilatih di kota ini.[NEWLINE][NEWLINE]Tidak dapat dibangun di distrik Perkemahan yang sudah memiliki Stable.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+			<Text>Meningkatkan kekuatan pertahanan luar Anda. Memberikan 2 [ICON_TOURISM] Pariwisata setelah naik ke Conservation Civic.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+			<Text>Sebuah bangunan yang unik di Jepang. +4 [ICON_Production] Produksi ke semua pusat kota dalam jangkauan 6 ubin. Setelah meneliti teknologi Listrik, bangunan ini memberikan tambahan +4 [ICON_Culture] Budaya ke kotanya. Bonus ini berlaku sekali untuk sebuah kota, dan salinan tambahan dari bangunan ini dalam jangkauan 6 ubin dari pusat kota tidak memberikan bonus tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+			<Text>Bonus ini berlaku untuk semua pusat kota dalam jangkauan 6 ubin. Bonus ini hanya berlaku sekali untuk setiap kota, dan salinan bangunan ini yang berada dalam jangkauan 6 ubin dari pusat kota tidak memberikan bonus tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
+			<Text>Sebuah bangunan yang unik di Amerika. +100% [ICON_Tourism] Tekanan pariwisata dari kota ini terhadap peradaban lain pada era Modern.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk unit udara yang dilatih di kota ini. +2 slot unit udara di distrik Aerodrome.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit laut yang dilatih di kota ini. +1 [ICON_FOOD] Makanan di semua ubin pantai untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+			<Text>Sebuah bangunan yang unik di Arabia. Bonus [ICON_Faith] Iman setara dengan bonus adjacency distrik Kampus.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit darat yang dilatih di kota ini. Memungkinkan Korps dan Angkatan Darat dilatih secara langsung. Biaya pelatihan Korps dan Angkatan Darat dikurangi 25%.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+			<Text>Misionaris dan Rasul yang dibuat di sini memiliki +1 penyebaran.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+			<Text>+1 tambahan [ICON_FAITH] Iman untuk setiap era sejak dibangun atau diperbaiki terakhir kali.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+			<Text>Menyimpan [ICON_GreatWork_Landscape] Karya Seni Besar. Tidak boleh dibangun di distrik Lapangan Teater yang sudah memiliki Museum Arkeologi.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+			<Text>Menyimpan [ICON_GreatWork_Artifact] Artefak. Tidak dapat dibangun di distrik Theater Square yang sudah memiliki Museum Seni.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+			<Text>Bonus berlaku untuk setiap pusat kota dalam jangkauan 6 ubin. Bonus ini berlaku sekali untuk setiap kota, dan beberapa salinan bangunan ini dalam jangkauan 6 ubin dari pusat kota tidak memberikan bonus tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit laut yang dilatih di kota ini. Memungkinkan Armada dan Armada Besar dilatih secara langsung. Biaya pelatihan Armada dan Armada Besar dikurangi 25%. +2 [ICON_GOLD] Emas di semua ubin pantai untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Memungkinkan pembelian Misionaris. Misionaris hanya dapat dibeli dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+			<Text>+25% pengalaman pertempuran untuk semua unit kavaleri dan unit pengepungan yang dilatih di kota ini. Tidak dapat dibangun di distrik Perkemahan yang sudah memiliki Barak.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+			<Text>+25% pengalaman tempur untuk semua unit laut yang dilatih di kota ini. Bonus [ICON_Production] Produksi setara dengan bonus adjacency distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+			<Text>Bonus berlaku untuk setiap pusat kota dalam jangkauan 6 ubin. Bonus ini berlaku sekali untuk setiap kota, dan beberapa salinan bangunan ini dalam jangkauan 6 ubin dari pusat kota tidak memberikan bonus tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Meningkatkan kekuatan pertahanan luar Anda hingga tingkat tertinggi yang mungkin. Memberikan 3 [ICON_TOURISM] Pariwisata setelah naik ke Conservation Civic.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+			<Text>Sebuah bangunan yang unik di Norwegia. Diperlukan untuk membeli Apostles dan Inquisitors dengan [ICON_Faith] Faith. Distrik Situs Suci mendapatkan bonus adjacency standar tambahan dari Hutan. +1 [ICON_PRODUCTION] Produksi untuk setiap ubin sumber daya pesisir di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Memungkinkan pembelian Apostles, Gurus, Inquisitors, dan dengan keyakinan yang tepat, Warrior Monks. Unit-unit ini hanya dapat dibeli dengan [ICON_Faith] Keyakinan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+			<Text>Menyediakan dinding di sekitar Pusat Kota dan Distrik Perkemahan. Dinding memungkinkan serangan jarak jauh [ICON_Ranged] dari Pusat Kota dan Distrik Perkemahan, dan harus dihancurkan sebelum sebuah kota dapat diserang. Menyediakan 1 [ICON_TOURISM] Pariwisata setelah mencapai Tingkat Konservasi.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+			<Text>Sumber daya bonus yang ditingkatkan oleh Peternakan mendapatkan +1 [ICON_Food] Makanan masing-masing. Kota harus berbatasan dengan Sungai.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+			<Text>Bonus berlaku untuk setiap pusat kota dalam jangkauan 6 ubin. Bonus ini berlaku sekali untuk setiap kota, dan beberapa salinan bangunan ini dalam jangkauan 6 ubin dari pusat kota tidak memberikan bonus tambahan.</Text>
+		</Row>
+		<!-- Wonders -->
+		<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+			<Text>+1 Slot Kebijakan Militer[NEWLINE][NEWLINE]Memberikan bonus pertahanan yang sama dengan peningkatan Fort. Harus dibangun di Bukit yang berbatasan dengan distrik Encampment.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 Slot Kebijakan Ekonomi[NEWLINE][NEWLINE]Menggandakan cadangan kas saat ini. Harus dibangun di samping Sungai yang berbatasan dengan distrik Pusat Perdagangan yang memiliki Bank.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+			<Text>Hadiah 2 bangunan sipil gratis yang dipilih secara acak setelah selesai dibangun. Harus dibangun di lahan datar yang berbatasan dengan distrik Theater Square.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+			<Text>+20% [ICON_Culture] Budaya di kota ini. 1 peningkatan kebangsaan era atom secara acak. Harus dibangun di tanah datar yang berbatasan dengan distrik Theater Square.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+			<Text>+2 [ICON_Culture] Budaya untuk semua ubin Hutan Hujan di kota ini. +1 [ICON_Production] Produksi untuk semua ubin Hutan Hujan di kota ini. Harus dibangun di atas Hutan Hujan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Budaya dan Fasilitas Colosseum [ICON_Culture] dan [ICON_Amenities] diperluas ke setiap pusat kota dalam jangkauan 6 ubin. Harus dibangun di tanah datar yang berbatasan dengan distrik Kompleks Hiburan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Kapasitas Rute Perdagangan. Memberikan unit Pedagang. Harus dibangun di Pantai, berdekatan dengan daratan dan distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+			<Text>[ICON_Tourism] Pendapatan pariwisata dari [ICON_GreatWork_Relic] Relik dan Kota Suci tidak berkurang oleh peradaban lain yang telah meneliti kebijakan The Enlightenment. +100% [ICON_Tourism] Pendapatan pariwisata dari Resor Pantai di seluruh peradaban Anda. Harus dibangun di Bukit.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+			<Text>Semua ubin di peradaban Anda mendapatkan +2 Daya Tarik. Harus dibangun di tanah datar yang berbatasan dengan Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+			<Text>+2 [ICON_Fasilitas] Fasilitas di setiap kota dalam peradaban Anda. Harus dibangun di lahan datar yang berdekatan dengan distrik Kompleks Hiburan yang memiliki Stadion.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+			<Text>+1 Slot kebijakan wildcard[NEWLINE][NEWLINE]Harus dibangun di lahan datar yang berbatasan dengan Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Mendapatkan peningkatan untuk semua teknologi era Kuno dan Klasik. Harus dibangun di tanah datar yang berbatasan dengan distrik Kampus yang memiliki Perpustakaan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Gerakan untuk semua unit laut[NEWLINE][NEWLINE]Harus dibangun di pesisir, dan berdekatan dengan daratan dan distrik pelabuhan yang memiliki mercusuar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Kapasitas Rute Perdagangan[NEWLINE][NEWLINE]Rute Perdagangan [ICON_TradeRoute] Anda dari kota ini mendapatkan +2 [ICON_Gold] Emas untuk setiap sumber daya bonus dalam jangkauan 3 ubin dari kota dan di wilayah kota ini. Harus dibangun berdekatan dengan distrik Pusat Perdagangan yang memiliki Pasar dan berdekatan dengan [ICON_RESOURCE_CATTLE] Sapi.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Misionaris dan Rasul dapat menyebarkan Agama 1 kali tambahan. Harus dibangun di tanah datar yang berbatasan dengan distrik Situs Suci, dan Anda harus telah mendirikan Agama.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Meningkatkan pertumbuhan sebesar 15% di semua kota. Harus dibangun di samping sungai.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+			<Text>Harus dibangun di sepanjang sungai.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>Memberikan 2 Rasul. Harus dibangun di atas Hutan yang berbatasan dengan distrik Situs Suci yang memiliki Kuil, dan Anda harus telah mendirikan sebuah Agama.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>Semua Apostel yang Anda buat akan mendapatkan kemampuan Martir selain kemampuan kedua yang Anda pilih secara normal. Harus dibangun di dataran banjir atau rawa.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Sponsor dari Tokoh Besar menghemat 25% [ICON_Faith] Iman. Distrik di kota ini memberikan +2 [ICON_GreatPerson] Poin Tokoh Besar sesuai jenisnya (misalnya, [ICON_GreatWriter] Poin Penulis Besar dari distrik Theater Square). Harus dibangun di Bukit.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+			<Text>+20% [ICON_Science] Ilmu pengetahuan di kota ini, dan memberikan 2 teknologi gratis yang dipilih secara acak saat selesai dibangun. Harus dibangun di Padang Rumput atau Dataran yang berbatasan dengan distrik Kampus yang memiliki Universitas.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 Slot Kebijakan Diplomatik[NEWLINE][NEWLINE]Harus dibangun di atas Bukit yang berdekatan dengan Gunung.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>+2 [ICON_Food] Makanan, +2 [ICON_Gold] Emas, dan +1 [ICON_Production] Produksi di semua ubin Gurun untuk kota ini (bukan Dataran Banjir). Harus dibangun di Gurun atau Dataran Banjir tanpa Bukit.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Memberikan Builder gratis. Semua Builder dapat membangun 1 peningkatan tambahan. Harus dibangun di gurun (termasuk dataran banjir) tanpa bukit.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+			<Text>+20% [ICON_Production] Produksi di kota ini, dan +1 [ICON_Production] Produksi untuk setiap Tambang dan Batu Bara di kota ini. Harus dibangun di sepanjang Sungai yang berbatasan dengan distrik Zona Industri yang memiliki Pabrik.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+			<Text>Memberikan [ICON_GreatProphet] Nabi Agung secara gratis. [ICON_GreatProphet] Nabi Agung dapat mendirikan Agama di Stonehenge alih-alih di Situs Suci. Harus berdekatan dengan [ICON_RESOURCE_STONE] Batu dan berada di tanah datar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+			<Text>Harus dibangun di pesisir, berdekatan dengan daratan dan kawasan pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+			<Text>Semua unit saat ini mendapatkan tingkat promosi. Semua Arkeolog dari pemilik dapat memasuki wilayah asing tanpa perlu Open Borders. Harus dibangun di padang rumput datar atau dataran yang berbatasan dengan distrik perkemahan yang memiliki barak atau kandang kuda.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+			<Text>Dapatkan unit laut kedua setiap kali Anda melatih unit laut. Harus dibangun di ubin Pantai yang berbatasan dengan distrik Zona Industri.</Text>
+		</Row>
+		<!--Theming Bonuses-->
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ART">
+			<Text>Bonus tema menggandakan output saat menampilkan objek dari jenis yang sama yang dibuat oleh seniman yang berbeda.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+			<Text>Bonus tema menggandakan output saat menampilkan [ICON_GreatWork_Artifact] Artefak dari era yang sama namun berasal dari peradaban yang berbeda.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+			<Text>Bonus tema menggandakan output saat museum penuh.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
