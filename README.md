@@ -14,7 +14,6 @@ Dibuat dengan ❤️ untuk komunitas gamer Indonesia!
 
 | Platform | Link |
 |----------|------|
-| 🎮 Nexus Mods | [Download di Nexus Mods](https://www.nexusmods.com/civilization6) |
 | 🐙 GitHub Releases | [Download di GitHub](https://github.com/Kunosa-real/civ6-indonesian-translation/releases/latest) |
 
 ---
