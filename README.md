@@ -44,28 +44,10 @@ Klik kanan file `.zip` → **Extract All**
 Buka folder hasil extract, lalu copy semua isinya ke folder Mods Civ 6:
 
 ```
-C:\Users\[NAMA_KAMU]\Documents\My Games\Sid Meier's Civilization VI\Mods\
+C:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilization VI\paste disini
 ```
 
-> 💡 Ganti `[NAMA_KAMU]` dengan nama user Windows kamu
-
-### Langkah 4 — Aktifkan di Game
-1. Buka **Civilization 6**
-2. Klik **Additional Content** di menu utama
-3. Cari **"Indonesian Translation"**
-4. Klik **Enable** ✅
-5. Restart game
-
-### Langkah 5 — Ubah Bahasa
-1. Buka **Options** → **Interface**
-2. Ganti **Language** ke **Indonesian**
-3. Klik **Apply** → Restart game
-
----
-
-## 📸 Screenshot
-
-> *Screenshot akan segera ditambahkan setelah versi pertama rilis!*
+> 💡 Epic menyesuaikan ya
 
 ---
 
