@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Turn-Blocking Notifications -->
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
+			<Text>Pilih Artefak</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
+			<Text>Anda telah menggali sebuah situs purbakala. Sekarang pilihlah sebuah artefak untuk dikembalikan ke museum Anda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
+			<Text>Pilih Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
+			<Text>Pilih teknologi baru untuk memulai penelitian.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
+			<Text>Pilih Produksi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
+			<Text>Produksi telah selesai di kota ini. Pilih apa yang akan kami produksi selanjutnya.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
+			<Text>Pilih Civic</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
+			<Text>Pilih warga negara baru untuk mulai dikembangkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
+			<Text>Unit Perintah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
+			<Text>Memindahkan unit atau memerintahkannya melakukan operasi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
+			<Text>Serangan Jarak Jauh Kota</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
+			<Text>Kota Anda dapat melakukan serangan jarak jauh.</Text>
+		</Row>		
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
+			<Text>Pertimbangkan untuk Mengganti Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
+			<Text>Anda telah menyelesaikan sebuah kewarganegaraan yang membuka pemerintahan baru. Anda harus mempertimbangkan untuk beralih ke bentuk pemerintahan tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
+			<Text>Meruntuhkan atau Mempertahankan Kota</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
+			<Text>Anda menaklukkan sebuah kota pada giliran ini. Putuskan apakah akan membebaskan, menghancurkan, atau mempertahankannya.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
+			<Text>Isi Slot Kebijakan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
+			<Text>Sebuah kebijakan perlu ditambahkan ke pemerintah kita.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
+			<Text>Pilih Pantheon</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
+			<Text>Pilih Agama</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
+			<Text>Pilih Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
+			<Text>Klaim Orang Hebat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_SUMMARY">
+			<Text>Anda telah mendapatkan Orang Hebat, dan harus memilih apakah akan menerimanya atau meneruskannya.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
+			<Text>Kirim Utusan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
+			<Text>Anda telah mendapatkan Envoy [ICON_Envoy], dan dapat mengirimkannya ke negara kota untuk mendapatkan bonus.</Text>
+		</Row>
+		<!-- Unit Notifications -->
+		<Row Tag="LOC_NOTIFICATION_UNIT_DIED">
+			<Text>Unit Tewas</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
+			<Text>Unit Dibubarkan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
+			<Text>Saldo [ICON_Gold] Emas Anda negatif. {1_Unit_Name} Anda telah dibubarkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Unit tersedia untuk promosi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>Unit {1_UnitName} tersedia untuk promosi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
+			<Text>Kalah!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
+			<Text>{1_leader} telah dikalahkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
+			<Text>{1_leader} telah dikalahkan oleh {2_leader}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
+			<Text>Kalah!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
+			<Text>Seorang pemain yang belum terpenuhi telah dikalahkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNMET_CITY_STATE_DEFEATED_SUMMARY">
+			<Text>Sebuah negara kota yang tidak terpenuhi telah dikalahkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
+			<Text>Anda telah kehilangan {1_Unit_Name} karena pendudukan musuh.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
+			<Text>Pendudukan musuh telah memaksa {1_Unit_Name} Anda untuk mundur.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_RADIATION_POISONING">
+			<Text>Anda telah kehilangan {1_Unit_Name} karena keracunan radiasi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_WATER_DAMAGE">
+			<Text>Anda telah kehilangan {1_Unit_Name} karena keracunan air.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_LIFESPAN_EXPIRED_MESSAGE">
+			<Text>Unit Kedaluwarsa</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_LIFESPAN_EXPIRED_SUMMARY">
+			<Text>{1_Unit_Name} telah mencapai akhir masa pakai [ICON_Lifespan].</Text>
+		</Row>
+		<!-- Diplomacy Notifications-->
+		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
+			<Text>Deklarasi Perang</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
+			<Text>{LOC_GRAMMAR_PEMIMPIN_ATAS &lt;&lt; {1_leader}} {1_leader: plural 1? has; other? has;} menyatakan perang terhadap {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
+			<Text>Perdamaian yang dinegosiasikan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
+			<Text>{LOC_GRAMMAR_PEMIMPIN_BAWAH &lt;&lt; {1_leader}} {1_leader: plural 1? has; other? has;} berdamai dengan {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
+			<Text>Anda telah bertemu dengan peradaban baru</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
+			<Text>Anda telah bertemu dengan negara kota baru</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
+			<Text>Anda telah bertemu dengan {LOC_GRAMMAR_LEADER &lt;&lt; {1_leader}} dari {LOC_GRAMMAR_CIVDESC &lt;&lt; {2_CivDesc}}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
+			<Text>{LOC_GRAMMAR_PEMIMPIN_BAWAH &lt;&lt; {1_leader}} Menegakkan Batas</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
+			<Text>{LOC_GRAMMAR_PEMIMPIN_BAWAH &lt;&lt; {1_leader}} {1_leader: plural 1? is; other? is;} sekarang menegakkan perbatasan mereka. Unit-unit Anda di dalam kerajaan mereka telah dipindahkan ke sebuah petak di luar wilayah mereka.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
+			<Text>Persahabatan Berakhir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
+			<Text>Pertemanan Anda dengan {LOC_GRAMMAR_LEADER &lt;&lt; {1_leader}} telah habis masa berlakunya dan harus diperbarui.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>Aliansi Berakhir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>Aliansi Anda dengan {LOC_GRAMMAR_LEADER &lt;&lt; {1_leader}} telah habis masa berlakunya dan harus diperbarui.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
+			<Text>Casus Belli Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
+			<Text>Anda telah mendapatkan Casus Belli untuk mendeklarasikan {1_WarType} pada {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
+			<Text>Perang Kolonial</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
+			<Text>Perang Suci</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
+			<Text>Perang Pembebasan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
+			<Text>Perang Protektorat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
+			<Text>Perang Penaklukan Kembali</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
+			<Text>Perang Perluasan Wilayah</Text>
+		</Row>
+		<!-- Espionage Notifications -->
+		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
+			<Text>Pilih Rute Pelarian</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
+			<Text>Pilih Prioritas Pengejaran</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Agen Anda {1_unit_name} di {2_name_city} berhasil mencuri Karya Hebat "{3_Works}".</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Sukses Mencuri Karya Besar</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Mata-mata musuh di {1_City Name} berhasil mencuri Karya Besar "{2_Work}".</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Musuh Mencuri Karya Besar</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Agen Anda {1_unit_name} berhasil menyabotase Zona Industri di kota {2_name_city}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Sukses Mensabotase Produksi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Mata-mata musuh berhasil menyabotase Zona Industri di kota {1_City Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Mata-mata Musuh Sabotase Produksi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Agen Anda {1_unit_name} berhasil menyedot {2_Number} [ICON_Emas] Emas dari kota {3_name_city}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Sukses Menyedot Emas</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Mata-mata musuh berhasil mencuri {1_Number} [ICON_Emas] Emas dari kota {2_City_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Mata-mata Musuh Menyedot Emas</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Agen Anda {1_unit_name} di {2_name_city} berhasil mencuri peningkatan ke {3_Technology}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Sukses Mencuri Peningkatan Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Mata-mata musuh di {1_City_Name} berhasil mencuri boost ke {2_Technology}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Musuh Mencuri Peningkatan Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Agen {1_unit_name} di {2_name_city} berhasil merekrut pasukan partisan yang ingin merebut kembali kota mereka.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Sukses Merekrut Partisan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Mata-mata musuh di {1_City Name} berhasil merekrut pasukan partisan yang sekarang mengancam kotamu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Partisan yang Direkrut Musuh</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Agen Anda {1_unit_name} berhasil menjarah Spaceport di kota {2_name_city}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Sukses Mendisrupsi Peroketan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Mata-mata musuh berhasil menjarah Spaceport di kota {1_name_city}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Mata-Mata Musuh Mengganggu Peroketan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
+			<Text>Agen {1_Unit_Name} Anda telah mendapatkan sumber yang mengetahui cara kerja {2_City_Name}. Mata-mata Anda di kota tersebut akan beroperasi di {3_Level} level yang lebih tinggi selama {4_Turn} putaran.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
+			<Text>Sumber yang Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
+			<Text>Agen Anda {1_unit_name} telah menyelesaikan tugasnya di pos pendengaran di {2_name_city}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
+			<Text>Posting Mendengarkan Lengkap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
+			<Text>Agen Anda {1_unit_name} telah melarikan diri dari kota {2_name_city} karena sebuah kekaisaran baru berkuasa di sana.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
+			<Text>Mata-Mata Melarikan Diri dari Kota</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_ALLIANCE_SUMMARY">
+			<Text>Agen Anda {1_unit_name} telah keluar dari kota {2_name_city} untuk menghormati ketentuan aliansi baru Anda dengan pemiliknya.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_ALLIANCE_MESSAGE">
+			<Text>Mata-mata Keluar Kota</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
+			<Text>Agen {1_unit_name} Anda gagal dalam misi {2_mission} di kota {3_name_city}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
+			<Text>Mata-mata Gagal</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
+			<Text>Agen {1_unit_name} Anda ditangkap selama misi {2_mission} di kota {3_name_city}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
+			<Text>Mata-Mata Tertangkap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
+			<Text>Mata-mata dari {1_civName} ditangkap selama misi {2_mission} di kota {3_cityName}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
+			<Text>Mata-mata Musuh Tertangkap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
+			<Text>Agen {1_unit_name} Anda terbunuh selama misi {2_mission} di kota {3_name_city}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
+			<Text>Mata-mata Tewas</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
+			<Text>Seorang mata-mata dari {1_civName} terbunuh selama misi {2_mission} di kota {3_cityName}. {4_Assistance_Eye_Reconnaissance}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
+			<Text>Mata-mata Musuh Tewas</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_TO_CAPITAL">
+      <Text>Mata-mata Anda {1_unitName} telah membatalkan perjalanan mereka sejak kota target berpindah tangan. Anda dapat menemukan mereka di ibukota Anda.</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
+			<Text>Agen {1_unit_name} Anda membatalkan misi {2_mission} di kota {3_name_city}. Target misi tidak lagi valid.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
+			<Text>Misi Mata-mata Dibatalkan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
+			<Text>Untuk peran yang dimainkan dalam menghentikan misi {1_mission} musuh di kota {2_name_city}, mata-mata {3_unit_name} Anda telah dipromosikan!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
+			<Text>Counterspy Dipromosikan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
+			<Text>CounterPsy {1_unitName} Anda berperan penting dalam kemenangan pasukan keamanan kami.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Mata-mata Anda {1_unitName} telah lolos dari penangkapan dan akan kembali ke [ICON_CAPITAL] Capital Anda dalam {2_turn} putaran.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Mata-mata Lolos</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_SUMMARY">
+      <Text>Mata-mata musuh dari civ yang tidak dikenal telah lolos dari penangkapan dan telah melarikan diri dari kota {1_name_city}.</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_MESSAGE">
+      <Text>Mata-mata Musuh Lolos</Text>
+    </Row>
+		<!-- City-State Notifications -->
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
+			<Text>Pencarian Negara Kota Baru</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
+			<Text>{1_CityNameState} telah memberi Anda quest baru: {2_NameQuest}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
+			<Text>Quest Kota-Negara Bagian Selesai</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
+			<Text>Anda telah menyelesaikan quest untuk {1_CityCountry Name} dan mendapatkan hadiah: {2_GiftText}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
+			<Text>Bonus Pertemuan Kota-Negara Bagian</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
+			<Text>Sebagai peradaban besar pertama yang memenuhi {1_CityCountry Name}, Anda telah mendapatkan {2_Number of Orders} [ICON_Message] {2_Number of Messengers : plural 1?Messenger; other?Messenger;} di sana.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
+			<Text>Status Suzerain Hilang</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
+			<Text>Setelah pergantian [ICON_Envoy] Envoy, Anda tidak lagi menjadi Suzerain dari {1_City_Country Name}.</Text>
+		</Row>
+		<!-- Trade Route Notifications -->
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
+			<Text>Rute Perdagangan Dijarah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
+			<Text>{1_PlayerName} {1_PlayerName: plural 1? has; other? has;} menjarah unit Trader Anda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
+			<Text>{1_PlayerName} {1_PlayerName: plural 1? has; other? has;} menjarah unit Trader Anda. Rute Perdagangan [ICON_TradeRoute] Anda dari {2_Origin City Name} ke {3_DestinationCityName} tidak lagi aktif.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
+			<Text>Pos Perdagangan Dibuat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
+			<Text>Menyelesaikan Rute Perdagangan [ICON_TradeRoute] telah membuat Pos Perdagangan [ICON_TradingPost] untuk Anda di kota {1_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
+			<Text>Peningkatan Kapasitas Rute Perdagangan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
+			<Text>Anda sekarang dapat membuat dan memelihara lebih banyak Rute Perdagangan [ICON_TradeRoute] daripada sebelumnya.</Text>
+		</Row>
+		<!-- Economic Notifications -->
+		<Row Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
+			<Text>Pemberontakan!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
+			<Text>Kurangnya [ICON_Amenities] Fasilitas di {1_City_Name} telah menyebabkan orang-orang mengangkat senjata untuk melawan kita, memunculkan {2_NumberUnit} unit-unit yang bermusuhan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
+			<Text>Butuh Lebih Banyak Fasilitas</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
+			<Text>{1_City_Name} membutuhkan lebih banyak fasilitas [ICON_Amenities] agar tetap produktif. Jika hal ini semakin memburuk, orang-orang mungkin akan memberontak terhadap kita!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
+			<Text>Butuh Lebih Banyak Perumahan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
+			<Text>{1_City_Name} membutuhkan lebih banyak [Icon_Housing] Perumahan untuk terus berkembang. Jika hal ini terus berlanjut, kami akan kesulitan mendapatkan [ICON_Resident] Warga baru.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
+			<Text>Kota Kelaparan!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_STARVING_SUMMARY">
+			<Text>{1_City_Name} tidak menyediakan [ICON_Food] Makanan yang cukup untuk dimakan oleh warganya. Jika hal ini terus berlanjut, kota ini akan kehilangan [ICON_Resident] Warga!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_MESSAGE">
+			<Text>Kota Membutuhkan Makanan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
+			<Text>{1_City_Name} tidak menyediakan [ICON_Food] Pangan yang cukup bagi penduduknya untuk tumbuh. Pertimbangkan untuk memfokuskan kota Anda pada [FOOD ICON] Pangan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
+			<Text>Departemen Keuangan Bangkrut!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
+			<Text>Kami tidak memiliki [ICON_Gold] Emas yang tersisa, dan biaya kami lebih tinggi daripada pendapatan kami. Jika hal ini terus berlanjut, kota kita akan kehilangan [ICON_Amenities] Fasilitas dan unit kita akan meninggalkan kita!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Dapat Membeli Dengan Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>Anda telah mengumpulkan cukup [ICON_Faith] Faith untuk membeli {LOC_GRAMMAR_A_AN &lt;&lt; {1_ItemName}}.</Text>
+		</Row>
+		<!-- Multiplayer Notifications -->
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
+			<Text>{1_player_name} Bergabung</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
+			<Text>{1_player_name} bergabung dengan permainan.  Proses ini mungkin membutuhkan waktu beberapa menit.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
+			<Text>{1_player_name} Bergabung</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
+			<Text>{1_player_name} telah selesai bergabung dalam permainan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
+			<Text>{1_player_name} Terputus</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
+			<Text>{1_player_name} telah terputus dari permainan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED">
+			<Text>{1_player_name} Ditendang</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
+			<Text>{1_player_name} telah dikeluarkan dari permainan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
+			<Text>{1_player_name} Mengunduh Mod</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
+			<Text>{1_player_name} sedang mengunduh mod yang diperlukan untuk bermain dalam game ini. ({2: sum} dari total {3: sum})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_MIGRATION">
+			<Text>Migrasi Host</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_MIGRATION_TT">
+			<Text>Permainan sedang berpindah ke host permainan yang baru.  Permainan akan segera dilanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_CHANGED">
+			<Text>Tuan rumah bermigrasi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_CHANGED_TT">
+			<Text>{1_player_name} adalah tuan rumah permainan yang baru.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_YOURTURN">
+			<Text>Bermain Dengan Awan Giliran Anda</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_YOURTURN_TT">
+			<Text>Sekarang giliran Anda dalam permainan Play By Cloud. ({1_cloudGameName})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_GAMEREADY">
+			<Text>Bermain Dengan Game Cloud Siap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_GAMEREADY_TT">
+			<Text>Salah satu game Play By Cloud Anda siap dimulai. ({1_nameGameCloud})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_UNSEENCOMPLETE">
+			<Text>Game Play By Cloud Selesai</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_UNSEENCOMPLETE_TT">
+			<Text>Salah satu game Play By Cloud Anda baru saja selesai. ({1_cloudGameName})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
+			<Text>[color:Civ6Red] Fase Salah [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
+			<Text>Belokan Simultan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
+			<Text>Perang Anda dengan pemain manusia telah berakhir. Giliran Anda akan dimainkan secara bersamaan dengan semua peradaban yang tidak berperang.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
+			<Text>Putaran Berurutan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
+			<Text>Anda berperang dengan pemain manusia.  Giliran Anda akan dimainkan secara berurutan dengan semua peradaban yang bertikai hingga konflik selesai.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
+			<Text>{1_player_name} Desync</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
+			<Text>Permainan {1_player_name} telah menyimpang dari permainan tuan rumah.  Mereka sedang memuat ulang untuk memperbaiki masalah tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
+			<Text>{1_player_name} Sinkronisasi ulang selesai</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
+			<Text>{1_player_name} telah selesai dimuat.</Text>
+		</Row>
+		<!-- Multiplayer deferred popup notifications -->
+		<Row Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
+			<Text>Peningkatan Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
+			<Text>Peningkatan Teknologi: {1_Name}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
+			<Text>Civic Boost</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
+			<Text>Civic Boosted: {1_Name}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_DISCOVERED_MESSAGE">
+			<Text>Ditemukan {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_DISCOVERED_SUMMARY">
+			<Text>Anda telah menemukan {1_Name}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_MESSAGE">
+			<Text>Ditemukan {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_SUMMARY">
+			<Text>Anda telah menemukan {1_Name}!</Text>
+		</Row>
+		<!-- Great Work Notifications -->
+		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
+			<Text>Peninggalan yang Dibuat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
+			<Text>Relik Suci [ICON_GreatWork_Relic] {1_Relic Name} telah ditempatkan di {2_Building Name} di {3_City Name}.</Text>
+		</Row>
+		<!-- Discovery Notifications -->
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
+			<Text>Benua Baru Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
+			<Text>Kami telah menemukan benua baru. Penjelajah kami menamainya {1_Continent_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Desa Suku Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Anda telah menemukan sebuah desa yang dihuni oleh suku yang ramah.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
+			<Text>Keajaiban Alam yang Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
+			<Text>Penjelajah Anda telah menemukan keajaiban alam {1_NameWonders of the World}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
+			<Text>Sumber Daya Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
+			<Text>Kami telah menemukan sumber baru dari {1_SourceName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
+			<Text>Pendekatan Barbar</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
+			<Text>Kami telah melihat orang-orang barbar mendekati kota kami {1_City Name}.</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+      <Text>Pos Barbar Baru</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+      <Text>Kami telah menerima desas-desus bahwa suku baru Barbar telah pindah ke wilayah terdekat.</Text>
+    </Row>
+		<!-- Victory Notifications -->
+		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
+			<Text>Budaya Anda Dominan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
+			<Text>Anda telah menarik cukup banyak Wisatawan [ICON_Tourism] untuk menjadikan budaya Anda dominan di {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
+			<Text>Budaya Asing Dominan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
+			<Text>{1_CivName} telah menarik cukup banyak [ICON_Tourism] Wisatawan untuk membuat budaya mereka lebih dominan daripada budaya Anda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Kemenangan Budaya Anda Semakin Dekat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>Budaya Anda telah menjadi dominan atas semua peradaban asing kecuali satu. Kemenangan Budaya ada dalam genggaman Anda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Kemenangan Budaya Asing Semakin Dekat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>{1_CivName} hanya membutuhkan budaya mereka untuk menjadi dominan atas satu pemain lagi untuk mencapai Kemenangan Budaya.</Text>
+		</Row>
+		<!--Future Notifications (not yet implemented)-->
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
+			<Text>Tersedia Casus Belli Baru</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
+			<Text>Kita sekarang memiliki justifikasi untuk mendeklarasikan {1_WarType} pada {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
+			<Text>Pemogokan Rentang Kota</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_SUMMARY">
+			<Text>Kota {1_City Name} dapat menyerang pasukan musuh.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_MESSAGE">
+			<Text>Pemogokan Jangkauan Perkemahan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_SUMMARY">
+			<Text>Perkemahan di luar kota {1_City Name} dapat menyerang pasukan musuh.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
+			<Text>Perangkat Nuklir Diledakkan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
+			<Text>Sebuah perangkat nuklir telah diledakkan oleh {1_CivName} di dekat kota {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
+			<Text>Perangkat Termonuklir Diledakkan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
+			<Text>Perangkat termonuklir yang menghancurkan telah diledakkan oleh {1_CivName} di dekat kota {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
+			<Text>Dapat melatih mata-mata</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
+			<Text>Anda sekarang dapat melatih mata-mata tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
+			<Text>Unit yang Ditangkap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
+			<Text>{1_UnitType} Anda ditangkap oleh {2_EnemyUnitType} dari {3_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
+			<Text>Unit Diserang</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
+			<Text>{1_UnitType} Anda diserang oleh {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
+			<Text>Keajaiban Selesai</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
+			<Text>{1_CivName} telah selesai membangun keajaiban dunia {2_WonderName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
+			<Text>Anda telah selesai membangun keajaiban dunia {1_Miracle Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
+			<Text>Pemain yang belum terpenuhi telah selesai membangun keajaiban dunia {1_Miracle Name}.</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_WONDER_FAILED_MESSAGE">
+      <Text>Produksi Diselamatkan</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
+      <Text>Anda tidak dapat menyelesaikan keajaiban dunia {1_Miracle Name} tepat waktu. Namun {2_Production} [ICON_PRODUCTION] Produksi telah diselamatkan dari upaya tersebut dan diberikan kepada kota {3_City_Name}.</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
+			<Text>Kota Ditangkap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
+			<Text>Kota {1_City_Name} telah direbut oleh {2_District_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
+			<Text>Tembok Kota Dibobol</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
+			<Text>Tembok kota {1_City Name} telah ditembus oleh pasukan dari {2_City Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
+			<Text>Modal yang Ditangkap</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
+			<Text>Ibu Kota [ICON_CAPITAL] dari {1_CivName} telah ditangkap oleh {2_CivName}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
+			<Text>Reklamasi Modal</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
+			<Text>{1_CivName} telah merebut kembali ibu kota mereka.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
+			<Text>Musuh di Dalam Perbatasan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
+			<Text>Pasukan musuh telah terlihat di dalam perbatasan kita di dekat kota {1_City Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
+			<Text>Situs Purbakala Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
+			<Text>Anda telah menemukan Situs Purbakala baru. Kirim Arkeolog untuk mengekstrak artefak tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
+			<Text>Bangkai Kapal Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
+			<Text>Anda telah menemukan situs Kapal Karam kuno. Setelah Anda mencapai Warisan Budaya sipil, kirim Arkeolog untuk mengangkat artefak yang tenggelam.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
+			<Text>Tawaran Balasan Diterima</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
+			<Text>{1_CivName} telah mengirimkan penawaran balasan untuk proposal kesepakatan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
+			<Text>Usulan Kesepakatan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
+			<Text>Anda telah menerima proposal kesepakatan dari {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
+			<Text>Pengaduan terhadap Anda Kadaluarsa</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
+			<Text>Pengaduan terhadap Anda oleh {1_CivName} telah kedaluwarsa. Mereka harus menerbitkannya kembali jika mereka ingin menyatakan perang secara resmi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
+			<Text>Pengaduan Anda Kedaluwarsa</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
+			<Text>Pengaduan Anda terhadap {1_CivName} telah kedaluwarsa dan harus diterbitkan kembali jika Anda ingin menyatakan perang secara resmi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
+			<Text>Janji yang Dipenuhi Untuk Anda</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
+			<Text>Janji yang dibuat kepada Anda oleh {1_CivName} hingga {2_PromiseType} telah dipenuhi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
+			<Text>Janji Anda Terpenuhi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
+			<Text>Janji Anda kepada {1_CivName} hingga {2_PromiseType} telah terpenuhi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
+			<Text>Janji yang Diingkari Kepada Anda</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>Janji yang dibuat kepada Anda oleh {1_CivName} hingga {2_PromiseType} telah dilanggar.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
+			<Text>Janjimu Dilanggar</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>Janji Anda kepada {1_CivName} ke {2_PromiseType} telah dilanggar.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
+			<Text>berhenti menggali artefak</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
+			<Text>memindahkan pasukan di perbatasan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
+			<Text>berhenti mengubah kota</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
+			<Text>berhenti menetap di dekatnya</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
+			<Text>berhenti memata-matai</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
+			<Text>Kesepakatan Berakhir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
+			<Text>Kesepakatan yang Anda buat dengan {1_CivName} telah kedaluwarsa.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
+			<Text>Distrik Dijarah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
+			<Text>{1_District_Name} Anda di {2_City_Name} telah dijarah oleh {3_District_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
+			<Text>Perbaikan Dijarah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
+			<Text>{1_Name_Upgrade} Anda di {2_City_Name} telah dirampas oleh {3_District_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
+			<Text>Bangunan Dijarah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
+			<Text>{1_Building_Name} Anda di {2_City_Name} telah dijarah oleh {3_District_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
+			<Text>Jalan dijarah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
+			<Text>Sebuah ubin {1_Street_Name} di dekat {2_City_Name} telah dijarah oleh {3_District_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
+			<Text>Pemain Dibangkitkan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
+			<Text>{1_civName} telah mendapatkan kembali sebuah kota dan hidup kembali.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
+			<Text>Pemain Tersingkir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
+			<Text>{1_civName} telah dihilangkan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
+			<Text>Peningkatan Jalan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
+			<Text>{1_Street_Name} tidak terkunci, meningkatkan semua Jalan di wilayah Anda ({2_Movement_Cost} [ICON_Movement] Pergerakan { 2_MovementCost: plural 1? points; other points; } terlepas dari medan).</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
+			<Text>Unit Agama Pertama</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
+			<Text>Karena semangat yang mencengkeram orang-orang Anda pada saat pendirian agama baru, Anda telah menerima {1_Unit_Name} pertama Anda secara gratis. Gunakan [ICON_Belief] Keyakinan untuk membeli yang lain di masa depan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
+			<Text>Mata-mata Pertama</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
+			<Text>Karena kegembiraan atas jaringan mata-mata baru Anda, Anda telah menerima {1_UnitName} pertama Anda secara gratis. Ketika Anda membuka kemampuan untuk membangun lebih banyak, latihlah mereka di kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
+			<Text>Kota Dikepung</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
+			<Text>{1_City Name} dikepung. Sampai unit lawan tidak memiliki Zona Kontrol atas semua hex di sekitar kota Anda, maka kota Anda tidak akan sembuh.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
+			<Text>Wilayah yang hilang</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
+			<Text>Kami telah kehilangan wilayah karena Bom Budaya yang diprakarsai oleh {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_MESSAGE">
+			<Text>Pesawat dipaksa mendarat kembali</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_SUMMARY">
+			<Text>Lokasi {1_AirUnit} telah dikompromikan dan dipaksa untuk kembali ke pangkalan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_MESSAGE">
+			<Text>Pangkalan udara diserbu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_SUMMARY">
+			<Text>{1_AirUnit} tidak dapat kembali ke pangkalannya dan telah dihancurkan.</Text>
+		</Row>
+  </BaseGameText>
+</GameData>

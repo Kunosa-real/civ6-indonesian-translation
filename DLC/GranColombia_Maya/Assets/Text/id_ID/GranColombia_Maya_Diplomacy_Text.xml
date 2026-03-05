@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lady Six Sky-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Kami selaras.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bintang-bintangnya tidak tepat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Ular Perang menyusut di langit, dan perasaan baik pun muncul. Bisakah kita berteman?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Kita bersinar bersama di langit, kau dan aku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Aku pasti salah menilaimu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Saya tidak akan membiarkan Anda tetap berkuasa lebih lama lagi. Anda telah terlalu lama menyinggung saya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Anda tidak layak untuk memerintah. Aku akan merebut kota-kotamu dan rakyatmu, dan memerintahnya untukmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Delegasi Anda telah diizinkan mengunjungi ibu kota kami. Saya berjanji tidak ada yang akan dipaksa ke altar besar Ular Perang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Delegasi Anda tidak diterima. Kecuali, mungkin, sebagai pengorbanan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Utusanku membawakanmu minuman coklat, digiling dengan cabai dan madu. Maukah kamu membiarkan mereka masuk?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Jaguar akan datang menjemputmu di malam hari, dan tak seorang pun akan meratapi kepergianmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Saya menyampaikan nasihat saya dengan sabar, dan Anda tidak mengindahkannya. Saya mengucapkannya sekarang dalam kemarahan dan frustrasi. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Anda berada di hadapan Lady Six Sky, pendeta dan pejuang, ratu Maya. Salam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Kami memiliki pertandingan antara dua tim terbaik kami di lapangan bola. Bagi para pemenang, kami mengadakan festival yang diselenggarakan di alun-alun kuil. Kami telah membuat pengaturan bagi yang kalah di atas altar. Maukah Anda datang dan merayakannya bersama kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Ya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Mari kita bertukar informasi tentang rumah kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Apa yang membawamu kepadaku?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Pastikan Anda terus menjauh dari tanah air Maya. Untuk saat ini bintang-bintang bersinar menguntungkan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bintang-bintang sendiri berpaling dari perbuatanmu. Jangan mendekati tanah saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Venus terbenam pada titik yang ditentukan, dan bulan terbit di atas piramida. Tanda-tandanya tepat untuk sebuah aliansi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bintang-bintang kembali berbalik menuju perdamaian. Saya juga akan meletakkan tangan saya. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Tidak. Cizin, penguasa dunia bawah, masih haus darah. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Darah, darah. Begitu banyak darah. Biarkan itu berakhir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Orang-orang Anda dipersilakan untuk menapaki jalan kami</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Jalan Maya tidak akan mampu menahan kaki rakyatmu. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bolehkah kaki Maya menapaki jalanmu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Prajuritmu berkumpul di dekat tanah Maya. Hapus semuanya sekaligus!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Ular Perang telah membimbing kita ke sini. Siapa kamu yang menolak kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Ular Perang tidak datang untukmu. Kami akan mundur. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Siklus Maya berakhir. Namun akhir waktumu juga akan tiba. Saya berdoa itu akan segera terjadi. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Ini bukan waktunya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bintang-bintangnya benar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NEIGHBOR">
+			<Text>Lady Six Sky terganggu oleh Anda yang menetap di dekat salah satu kotanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NOT_NEIGHBOR">
+			<Text>Lady Six Sky senang Anda menetap jauh dari kerajaannya.</Text>
+		</Row>
+		<!-- Simon Bolivar-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Ya! Mari kita putuskan rantai perbudakan bersama-sama!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Saya belum yakin bahwa Anda memperjuangkan kebebasan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kami berdua mengabdi pada Revolusi. Akankah kita mengarungi lautan bersama-sama? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Bagus sekali! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Aku mengulurkan tanganku kepadamu, dan kamu menepisnya. Sedih.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Penggunaan perang memang disesalkan, namun perlu dilakukan ketika berhadapan dengan ular beludak seperti Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tiranimu, jika tidak dikendalikan, akan membawa dunia ke dalam kegelapan, dan karena alasan inilah aku harus menyatakan perang terhadapmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kami mengadakan parade dan festival di alun-alun kota untuk menghormati delegasi Anda. Mereka mengalami malam yang panjang. Biarkan mereka tidur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Gran Colombia menempuh jalannya sendiri saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Saya mengirimkan kepada Anda delegasi penunggang kuda terbaik saya membawa kopi dan gula. Maukah kamu membiarkan mereka masuk?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tiran! Penindas rakyat! Musuh kebebasan! Hari perhitunganmu semakin dekat!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Mungkin Anda bisa menipu orang lain, tapi saya tidak punya ilusi tentang rencana jahat Anda. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Saya, Presiden Simon Bolivar, menyambut Anda di Gran Colombia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kami mengadakan debat terbuka di kota saya tentang hakikat kebebasan. Apakah Anda ingin datang dan mendengarkan saya berbicara? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Ya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Dalam semangat persahabatan, marilah kita saling mengunjungi ibu kota. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Selamat Datang kembali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tampaknya Anda memahami sejarah dan tata negara dengan pasukan yang dipromosikan dengan baik. Orang-orang Anda mendapat manfaat dari kepemimpinan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Bolehkah saya memberikan peringatan ramah? Ubah cara Anda, teman, atau mereka yang memimpin pasukan yang dipromosikan akan mengubahnya untuk Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Maukah Anda bergabung dengan saya dalam perjuangan saya untuk kebebasan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Ya, waktu untuk perdamaian telah tiba. Mari kita letakkan tangan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kami tidak akan kembali! Kami maju ke depan, menuju pembebasan kami dan menuju kehancuran Anda!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Di Sini. Saya menawarkan pedang saya demi kepentingan perdamaian. Mari kita bicara persyaratan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Ya, mari kita berbaris bersama!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tinggalkan jalan-jalan Kolombia dengan bebas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Bolehkah tentara pembebasan bergerak melintasi wilayah Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Pasukan Anda mengancam tanah kami. Hapus semuanya sekaligus!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tentara kebebasan yang mulia tidak dapat digerakkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tentara kebebasan yang agung akan membawa diri mereka ke tempat lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Semua yang telah saya lakukan, saya lakukan untuk negara Gran Kolombia. Saya tetap menjadi patriot sampai akhir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Saya tahu kesepakatan yang buruk ketika saya melihatnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Ya! Mari kita berdua mendapat untung dari ini!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_SIMON_BOLIVAR">
+			<Text>Simón Bolívar senang dengan kemajuan pasukan Anda.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

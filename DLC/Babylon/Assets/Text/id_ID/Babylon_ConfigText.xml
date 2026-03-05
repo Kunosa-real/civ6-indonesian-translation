@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Babylon: Building Info -->
+		<Row Tag="LOC_BUILDING_PALGUM_NAME">
+			<Text>Palgum</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PALGUM_DESCRIPTION">
+			<Text>Sebuah bangunan unik untuk Babylon. +1 [ICON_HOUSING] Perumahan dan +2 [ICON_PRODUCTION] Produksi. Ubin air tawar menerima +1 [ICON_FOOD] Makanan. Kota harus berbatasan dengan Sungai.</Text>
+		</Row>
+		<!-- Babylon: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_NAME">
+			<Text>Babylon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION">
+			<Text>Babylon Kekaisaran</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE">
+			<Text>Babylonian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME">
+			<Text>Enuma Anu Enlil</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Eureka menyediakan semua [ICON_SCIENCE] Sains untuk teknologi. -50% [ICON_SCIENCE] Sains per giliran.</Text>
+		</Row>
+		<!-- Babylon: Leader Info -->
+		<Row Tag="LOC_LEADER_HAMMURABI_NAME">
+			<Text>Hammurabi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME">
+			<Text>Ninu Ilu Sirum</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION">
+			<Text>Ketika setiap distrik khusus dibangun untuk pertama kalinya, mereka menerima bangunan dengan biaya produksi [ICON_PRODUCTION] terendah yang saat ini dapat dibangun di distrik tersebut. Menerima Utusan [ICON_ENVOY] ketika distrik lain dibangun untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION">
+			<Text>Ketika setiap tipe distrik khusus kecuali Government Plaza dibangun untuk pertama kalinya menerima bangunan dengan biaya produksi [ICON_PRODUCTION] terendah yang saat ini dapat dibangun di distrik tersebut. Menerima Utusan [ICON_ENVOY] ketika distrik lain dibangun untuk pertama kalinya.</Text>
+		</Row>
+		<!-- Babylon: Unit Info -->
+		<Row Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME">
+			<Text>Sabu Kibittum</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION">
+			<Text>Babylonian unit jarak dekat era kuno yang unik. +17 [ICON_Strength] Kekuatan Tempur melawan unit kelas promosi Kavaleri Berat dan Ringan. Unit ini memiliki 3 [ICON_Movement] Gerakan dan penglihatan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME">
+			<Text>Sabu Kibittum</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Kekuatan Tempur melawan unit kelas promosi Kavaleri Berat dan Ringan.</Text>
+		</Row>
+		<Row Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur melawan unit kelas promosi Kavaleri Berat dan Ringan</Text>
+		</Row>
+		<!-- Heroes & Legends Mode -->
+		<Row Tag="LOC_GAMEMODE_HEROES_NAME">
+			<Text>Mode Pahlawan &amp; Legenda</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_HEROES_DESCRIPTION">
+			<Text>Mode permainan ini menambahkan dua belas unit Pahlawan kuat dari mitos dan legenda dunia.[NEWLINE][NEWLINE]Temukan Pahlawan dengan menjelajahi dunia dan memengaruhi Negara-Kota, lalu klaim mereka di Kota Anda. Setiap Pahlawan unik di dunia dan dapat diklaim oleh satu peradaban saja.[NEWLINE][NEWLINE]Pahlawan memiliki kekuatan besar dan kemampuan unik, namun juga umurnya terbatas. Setiap kali Pahlawan muncul, mereka tetap tinggal selama beberapa putaran sebelum waktunya habis dan secara alami akan habis masa berlakunya. Namun, setelah Pahlawan hilang, peradaban yang mereka klaim dapat memanggil mereka kembali dengan menggunakan Iman.[NEWLINE][NEWLINE]Masing-masing dari dua belas Pahlawan memiliki kekuatan khusus dan peran berbeda. Di tangan pemain yang bijaksana, Pahlawan yang tepat dapat benar-benar menjadi kekuatan yang mengubah permainan!</Text>
+		</Row>
+		<!--Heroes & Legends Descriptions-->
+		<Row Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME">
+			<Text>Warisan Enkidu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION">
+			<Text>25% [ICON_Production] Produksi meningkat saat mengklaim Pahlawan, dan Pahlawan memiliki Umur [ICON_Lifespan] 20% lebih lama.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION">
+			<Text>+2 [ICON_Food] Makanan, +2 [ICON_Production] Produksi, +1 [ICON_FAITH] Iman, dan +4 [ICON_Gold] Emas dari masing-masing [ICON_GreatWork_Relic] Relik, [ICON_GreatWork_HeroRelic] Relik Pahlawan, [ICON_GreatWork_Artifact] Artefak, dan Patung [ICON_GreatWork_Sculpture] Karya Seni Hebat selain Budaya [ICON_Culture] biasa. Dapatkan 50% lebih banyak [ICON_GreatArtist] Artis Hebat, [ICON_GreatMusician] Musisi Hebat, dan [ICON_GreatMerchant] Poin Pedagang Hebat. Istana memiliki slot untuk 5 Karya Besar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION">
+			<Text>Agama yang didirikan oleh Polandia menjadi mayoritas di kota yang berdekatan yang kalah dengan Bom Budaya Polandia. Situs Suci mendapatkan bonus kedekatan Iman standar dari distrik yang berdekatan. [ICON_GreatWork_Relic] Relik dan [ICON_GreatWork_HeroRelic] Relik Pahlawan memberikan +2 [ICON_Faith] Iman, +2 [ICON_Culture] Budaya, +4 [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Relik dan [ICON_GreatWork_HeroRelic] Relik Pahlawan memiliki hasil tiga kali lipat dari [ICON_Faith] Iman dan [ICON_Tourism] Pariwisata.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Khmer. Menggantikan Kuil. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. Misionaris yang dibeli di kota ini menerima kemampuan Martyr yang memberikan Relik [ICON_GreatWork_Relic] jika Misionaris ini mati dalam Pertempuran Teologis. Memanggil Pahlawan di kota ini membutuhkan biaya 15% lebih sedikit [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_XP1_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Iman. Sebuah bangunan unik di Khmer. Menggantikan Kuil. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. +0.5 [ICON_Culture] Budaya untuk setiap [ICON_CITIZEN] penduduk di kota ini. Setelah Penerbangan diteliti menerima +10 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 10 atau lebih dan +20 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 20 atau lebih. Memanggil Pahlawan di kota ini membutuhkan biaya 15% lebih sedikit [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_XP2_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Iman. Sebuah bangunan unik di Khmer. Menggantikan Kuil. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. +0.5 [ICON_Culture] Budaya untuk setiap [ICON_CITIZEN] penduduk di kota ini. Setelah Penerbangan diteliti menerima +10 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 10 atau lebih dan +20 [ICON_Tourism] Pariwisata jika kota [ICON_CITIZEN] populasinya 20 atau lebih. Memanggil Pahlawan di kota ini membutuhkan biaya 15% lebih sedikit [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_HEROES_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Norwegia. Diperlukan untuk membeli Rasul dan Inkuisitor dengan [ICON_Faith] Iman. Distrik Situs Suci mendapatkan bonus kedekatan standar tambahan dari Woods. +1 [ICON_PRODUCTION] Produksi untuk setiap petak sumber daya pesisir di kota ini. Memanggil Pahlawan di kota ini membutuhkan biaya 15% lebih sedikit [ICON_Faith] Iman.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

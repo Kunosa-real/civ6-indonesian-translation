@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE">
+			<Text>Paket Byzantium dan Gaul</Text>
+		</Row>
+		<Row Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER">
+			<Text>Peradaban dan Pemimpin Baru - Basil II dari Byzantium dan Ambiorix dari Gaul</Text>
+		</Row>
+		<Row Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION">
+			<Text>Berisi dua peradaban dan pemimpin baru, 2 keajaiban dunia baru, 1 skrip peta baru, dan mode permainan Dramatic Ages.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

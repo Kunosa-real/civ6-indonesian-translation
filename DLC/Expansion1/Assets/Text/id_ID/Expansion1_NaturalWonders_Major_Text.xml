@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_QUOTE">
+			<Text>&quot;Jika Delicate Arch mempunyai arti penting, saya akan berani, dengan kekuatan yang aneh dan tak terduga untuk mengagetkan indera dan mengejutkan pikiran dari kebiasaan mereka.&quot;[NEWLINE]–Edward Abbey</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_QUOTE">
+			<Text>&quot;Anehnya, yang terlihat bukan bekas meteorit, melainkan kubah yang terkikis parah, dengan skema warna yang terinspirasi dari pelangi.&quot;[NEWLINE]–Chris Hadfield</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_QUOTE">
+			<Text>&quot;Kalau begitu, izinkan saya meminta izin untuk memberikan penghormatan dan kekaguman kepada Matterhorn yang pernah diinginkan, sebelum kepalanya kehilangan sinar matahari terakhir yang berangkat ke tempat yang lebih tinggi dan lebih jauh.&quot;[NEWLINE]–F. Hutan Crauford</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_QUOTE">
+			<Text>&quot;Itu merupakan pemandangan yang luar biasa, karena di sekelilingnya terdapat bebatuan dengan bentuk paling aneh yang berdiri pada posisi yang tampaknya mustahil, beberapa ditempatkan di atas atau di samping yang lain, dengan cara yang tampaknya menentang setiap hukum gravitasi.&quot;[NEWLINE]–Goldthwaite’s Geographical Magazine</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
+			<Text>&quot;Perairan dunia yang terbit gelap dan dalam, dimenangkan dari kehampaan dan tak terbatas tak berbentuk.&quot;[NEWLINE]–John Milton</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_QUOTE">
+			<Text>&quot;Saat matahari bersinar terang, lalu kabut senja turun, di setiap belokan, pemandangan berubah seperti keajaiban.&quot;[NEWLINE]–Fan Zhongyan</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_QUOTE">
+			<Text>&quot;Air, air, di mana-mana, atau setetes pun untuk diminum.&quot;[NEWLINE]–Samuel Taylor Coleridge, The Ancient Mariner</Text>
+		</Row>
+	</EnglishText>
+</GameData>

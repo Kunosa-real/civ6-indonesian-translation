@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
+			<Text>Paket Peradaban Persia dan Makedonia</Text>
+		</Row>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
+			<Text>Peradaban dan Pemimpin Baru - Aleksander Agung dari Makedonia dan Cyrus dari Persia</Text>
+		</Row>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
+			<Text>Berisi dua peradaban baru, dua pemimpin, dan dua keajaiban dunia baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
+			<Text>Skenario: Penaklukan Alexander</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
+			<Text>Bisakah Anda menaklukkan kekaisaran yang layak untuk Alexander Agung? Berlangsung tidak lebih dari 60 putaran.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>Dalam skenario pemain tunggal dengan waktu tertentu ini, Anda harus bergegas untuk memperluas kerajaan Anda untuk benar-benar mendapatkan gelar &quot;Alexander Agung.&quot; Skenario ini menekankan pada pertempuran, perluasan wilayah, dan penggunaan Jenderal Besar yang akan bertempur di sisimu.[NEWLINE][NEWLINE] Untuk menang, taklukkan setiap kota di peta dalam jumlah giliran yang ditentukan oleh tingkat kesulitanmu:[NEWLINE][NEWLINE][NEWLINE] Pemukim: 60 giliran [NEWLINE][NEWLINE] Panglima Perang atau Kepala Suku: 55 giliran [NEWLINE][NEWLINE] Raja atau Pangeran: 50 giliran [NEWLINE] [NEWLINE] Dewa atau Kaisar: 45 giliran [NEWLINE] [NEWLINE] [NEWLINE] [NEWLINE] [NEWLINE] [NEWLINE] [NEWLINE] [NEWLINE] [NEWLINE</Text>
+		</Row>
+	</EnglishText>
+</GameData>
+

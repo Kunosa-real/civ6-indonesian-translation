@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_NAME">
+			<Text>Eyjafjallajökull</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_NAME">
+			<Text>Jalan Lintas Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_NAME">
+			<Text>Lysefjord</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_DESCRIPTION">
+			<Text>Plot yang berdekatan menghasilkan +1 [ICON_Culture] Budaya dan +2 [ICON_Food] Pangan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_DESCRIPTION">
+			<Text>Unit tempur darat yang memasuki petak yang berdekatan menerima kemampuan &apos;Spear of Fionn&apos; (+5 kekuatan tempur). Plot yang berdekatan menghasilkan +1 [ICON_Culture] Budaya.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_DESCRIPTION">
+			<Text>Unit tempur angkatan laut yang memasuki plot yang berdekatan diberikan promosi berikutnya. Plot yang berdekatan menghasilkan +1 [ICON_Production] Produksi.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

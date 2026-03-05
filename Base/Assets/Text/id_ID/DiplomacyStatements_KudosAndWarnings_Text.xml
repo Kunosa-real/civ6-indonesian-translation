@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- AI Kudos -->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_ANY_ANY">
+			<Text/>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Saya melihat Anda juga terampil dalam seni-seni politik yang lebih halus. Saya sendiri selalu menikmati sedikit kegiatan mata-mata.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CLEOPATRA_ANY">
+			<Text>Saya hanya tertarik pada orang-orang yang pantas mendapatkan waktu saya. Anda jelas salah satunya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BARBAROSSA_ANY">
+			<Text>Saya mengagumi kebijaksanaan Anda. Membantu negara kota itu sama saja dengan mengundang kematian.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GANDHI_ANY">
+			<Text>Tidak ada yang memalukan dalam pencegahan. Memiliki senjata sangat berbeda dengan benar-benar menggunakannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GILGAMESH_ANY">
+			<Text>Kamu adalah teman dan sekutu yang baik. Gilgamesh akan mengingat hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GORGO_ANY">
+			<Text>Kamu akan menjadi Spartan yang baik… tangguh, kuat, berani.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HARDRADA_ANY">
+			<Text>Angkatan laut yang kuat… itu pemandangan yang indah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HOJO_ANY">
+			<Text>Anda membangun kerajaan Anda sebagai Matahari Terbit: kuat dan cemerlang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MVEMBA_ANY">
+			<Text>Saya menyambut baik kata-kata para nabi dan imam Anda. Kita belajar begitu banyak dari perbuatan baik mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PEDRO_ANY">
+			<Text>Bayangkan semua hal luar biasa yang akan dicapai oleh para jenius dari negara saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PERICLES_ANY">
+			<Text>Anda bijak untuk menyerahkan kota-negara tetangga kami kepada kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PETER_GREAT_ANY">
+			<Text>Masyarakat Anda adalah teladan yang patut ditiru. Seni, ilmu pengetahuan… apa yang tidak Anda miliki?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PHILIP_II_ANY">
+			<Text>Saya lega Anda memahami bahwa kami tidak dapat mentolerir orang-orang sesat. Tentu saja, itu bertentangan dengan kehendak Tuhan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_QIN_ANY">
+			<Text>Sebaiknya Anda tidak mencoba bersaing dengan Kekaisaran Qin yang agung. Keajaiban kami tidak dapat ditiru.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SALADIN_ANY">
+			<Text>Semoga berkah Allah menyertai Anda. Anda menyebarkan kebenaran dan kasih sayang melalui perbuatan Anda atas nama Allah yang Maha Agung dan Sempurna.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Terima kasih telah menjaga perdamaian di benua ini. Bagus sekali!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOMYRIS_ANY">
+			<Text>Kedua negara kita belum pernah sekuat ini. Semoga Anda meraih banyak kemenangan di masa damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TRAJAN_ANY">
+			<Text>Jangkauan kerajaanmu seluas jangkauan Jupiter di langit. Bagus sekali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_VICTORIA_ANY">
+			<Text>Mohon terima ucapan terima kasih yang tulus dari saya atas upaya baik Anda di benua yang kita bagikan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_ANY">
+			<Text>(Anda memiliki keahlian dalam diplomasi dan mata-mata)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_ANY">
+			<Text>(Anda memiliki militer yang kuat)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_ANY">
+			<Text>(Anda tidak menyerang atau bersekutu dengan negara-kota)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GANDHI_REASON_ANY">
+			<Text>(Anda sedang menjaga ketertiban)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_ANY">
+			<Text>(Kamu adalah salah satu temanku)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_ANY">
+			<Text>(Anda telah bertempur dengan terhormat dan tidak menyerah dalam perjanjian damai)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_ANY">
+			<Text>(Anda memiliki angkatan laut yang kuat)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_ANY">
+			<Text>(Anda kuat dalam bidang militer dan juga dalam Iman dan Budaya)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_ANY">
+			<Text>(Anda telah mendirikan sebuah agama dan membawanya ke Kongo)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_ANY">
+			<Text>(Anda tidak mengancam untuk mendapatkan lebih banyak orang hebat)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_ANY">
+			<Text>(Anda tidak bersaing dengan negara-kota)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_ANY">
+			<Text>(Anda kuat dalam bidang Sains dan Budaya)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_ANY">
+			<Text>(Anda mengikuti agamanya)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_ANY">
+			<Text>(Anda tidak mengancam akan membangun lebih banyak keajaiban)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SALADIN_REASON_ANY">
+			<Text>(Anda memiliki bangunan keagamaannya di kerajaan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Anda telah menjaga perdamaian di benua asalnya)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TOMYRIS_REASON_ANY">
+			<Text>(Anda adalah salah satu temannya)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TRAJAN_REASON_ANY">
+			<Text>(Kerajaanmu sangat luas)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_ANY">
+			<Text>(Anda tinggal di benua yang sama)</Text>
+		</Row>
+		<!-- Generic kudos for random agendas -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_ANY">
+			<Text>Apresiasi - Alasan Tidak Diketahui</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_CULTURE">
+			<Text>Saya terkesan dengan budaya unik yang sedang dikembangkan oleh masyarakat Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_HAPPINESS">
+			<Text>Saya mendengar kabar bahwa rakyatmu ingin merayakan pemerintahanmu. Bagus sekali bisa membuat mereka bahagia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INCOME">
+			<Text>Kas Anda semakin penuh dengan baik. Memiliki pendapatan yang kuat seperti ini memang selalu menyenangkan, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INDUSTRY">
+			<Text>Saya mengucapkan selamat yang paling tulus atas produktivitas karyawan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS">
+			<Text>Kami adalah teman sejati bagi peradaban-peradaban kecil. Kami menghargai bahwa Anda mengakui hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_POPULATION">
+			<Text>Jumlah penduduk yang tinggal di kerajaan Anda sungguh mengesankan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_SCIENCE">
+			<Text>Saya terkesan dengan kedalaman penelitian ilmiah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_STANDING_ARMY">
+			<Text>Saya menyukai seorang pemimpin yang dikelilingi oleh pasukan militer yang mengesankan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENJOYS_WAR">
+			<Text>Di medan peranglah jiwa sejati suatu peradaban terungkap. Semoga yang terbaik yang menang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LAG">
+			<Text>Saya senang melihat bahwa para pemikir terkemuka di dunia lebih memilih kerajaan kami daripada kerajaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LAG">
+			<Text>Saya senang bahwa Anda menyerahkan bangunan yang menakjubkan ini kepada kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PROTECT_CITY_STATES">
+			<Text>Perlindungan Anda terhadap hak suatu negara kota untuk existensi menjadi teladan bagi seluruh dunia untuk diikuti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MED_PROTECT_CITY_STATES">
+			<Text>Yang kuat harus melindungi yang lemah. Senang melihat Anda setuju.</Text>
+		</Row>
+		<!--Kudos for future random agendas (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_AIRPOWER">
+			<Text>Saya harus akui, kekuatan angkatan udara Anda bukanlah sesuatu yang bisa dianggap remeh. Sangat bagus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PROTECTS_CITY_STATES">
+			<Text>Merupakan hal yang patut dipuji untuk memperhatikan mereka yang tidak mampu memperhatikan diri sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS">
+			<Text>Para Barbar ini telah menjadi gangguan bagi kita semua. Terima kasih atas bantuannya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENVIRONMENT">
+			<Text>Kita hanya diberikan satu bumi, dan saya senang bahwa saya bukan satu-satunya yang menghargainya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPLOITATION">
+			<Text>Dunia ini ada di tangan kita! Dan kalian telah mengambilnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAME_GOVERNMENT">
+			<Text>Saya melihat Anda adalah orang yang sependapat, dan saya harus mengapresiasi praktik pemerintahan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_NUKE_LOVE">
+			<Text>Orang-orang cerdas memang berpikiran sama, ya. Teknologi itu punya begitu banyak kegunaan...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FAITH">
+			<Text>Salam sejahtera bagi Anda dan keluarga Anda. Sungguh menggembirakan melihat ada orang lain yang sama salehnya dengan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_EXPLORATION">
+			<Text>Ya, bagus sekali. Biarkan aku yang menjelajahinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>Saya lega melihat bahwa kerajaan Anda tidak menimbulkan ancaman bagi kerajaan kami.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_KUDO_AGENDA_EXPLANATION">
+      <Text>[NEWLINE](Anda telah memenuhi agenda {Name}, {Agenda})</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ZEALOT">
+      <Text>Bahkan setelah semua yang telah kita lakukan, aku masih khawatir bahwa ada beberapa jiwa yang tidak ingin diselamatkan. </Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
+      <Text>Sungguh baik bahwa Anda telah memilih keyakinan yang tepat. Anda mungkin melakukannya karena kagum pada saya. Itu bisa dimengerti.</Text>
+    </Row>
+
+		<!-- AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_ANY_ANY">
+			<Text/>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Anda sebaiknya mulai memperhatikan apa yang terjadi di sekitar Anda. Ada banyak permainan yang sedang berlangsung di sini pada berbagai tingkatan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CLEOPATRA_ANY">
+			<Text>Kamu tidak pantas untuk menikmati kehadiran kami. Kekuatanmu sama rapuhnya dengan kelemahan pasukanmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BARBAROSSA_ANY">
+			<Text>Aku akan menghancurkan musuh-musuhku, dan jika kamu terus membantu mereka, aku juga akan menghancurkanmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GANDHI_ANY">
+			<Text>Jika Anda begitu kejam, mungkin lebih baik mengakhiri kepemimpinan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GILGAMESH_ANY">
+			<Text>Jika kamu menyakiti teman-temanku, kamu akan menghadapi kekuatan Uruk; ini aku janjikan padamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GORGO_ANY">
+			<Text>Apakah kamu begitu penakut, sampai menghindari pertumpahan darah? Mengapa begitu mudah menyerah? Di manakah kehormatanmu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HARDRADA_ANY">
+			<Text>Lautanmu tidak terlindungi, kawan. Sangat mudah untuk diserang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HOJO_ANY">
+			<Text>Mengikuti Bushido berarti melatih tubuh, pikiran, dan jiwa… tetapi di mana orang-orangmu dapat melakukannya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MVEMBA_ANY">
+			<Text>Saya hanya bisa menduga bahwa ketidakmauan Anda untuk menyebarkan agama Anda berasal dari kurangnya keyakinan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PEDRO_ANY">
+			<Text>Para insinyur dan arsitek terbaik Anda akan lebih bahagia di tempat di mana mereka dapat berkembang. Brasil, misalnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PERICLES_ANY">
+			<Text>Kota itu milik kita. Saya sarankan Anda jangan ikut campur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PETER_GREAT_ANY">
+			<Text>Orang-orangmu haus akan pengetahuan dan keindahan, namun kamu mengabaikan sains dan seni. Mengapa?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PHILIP_II_ANY">
+			<Text>Alih-alih bertobat, kamu justru menghujat. Balasan Tuhan akan menimpa kepalamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_QIN_ANY">
+			<Text>Mengapa Anda membutuhkan keajaiban ketika Anda dapat melihat karya-karya Kerajaan Tengah?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SALADIN_ANY">
+			<Text>Aku tidak akan mentolerir penistaan. Kalian akan mempertanggungjawabkan penistaan kalian terhadap Yang Maha Mulia, Dia yang tidak mengenal cacat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tidak ada seorang pun yang berada di atas hukum. Sebaiknya Anda ingat hal itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TOMYRIS_ANY">
+			<Text>Kesetiaan adalah hadiahnya sendiri. Tidakkah kamu tahu hal ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TRAJAN_ANY">
+			<Text>Anda telah meninggalkan bagian-bagian paling subur dari tanah ini untuk diklaim oleh musuh-musuh Anda. Apakah Anda begitu takut akan ekspansi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_VICTORIA_ANY">
+			<Text>Anda sedang berada di wilayah yang berbahaya di hadapan Inggris dan koloni-koloninya yang setia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CATHERINE_DE_MEDICI_REASON_ANY">
+			<Text>(Anda lemah dalam visibilitas diplomatik dan mata-mata.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_ANY">
+			<Text>(Anda memiliki militer yang lemah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_ANY">
+			<Text>(Anda sedang menaklukkan atau berkoalisi dengan negara-kota.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GANDHI_REASON_ANY">
+			<Text>(Anda sedang menghasut perang.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GILGAMESH_REASON_ANY">
+			<Text>(Anda telah melaporkan salah satu teman saya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GORGO_REASON_ANY">
+			<Text>(Anda belum pernah berperang atau menyerah dalam perjanjian damai.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_ANY">
+			<Text>(Anda memiliki angkatan laut yang lemah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_ANY">
+			<Text>(Anda kuat dalam bidang militer tetapi tidak dalam hal Kepercayaan dan Budaya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_ANY">
+			<Text>(Anda telah mendirikan agama tetapi belum membawanya ke Kongo.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_ANY">
+			<Text>(Anda telah merekrut lebih banyak orang hebat.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_ANY">
+			<Text>(Anda sedang bersaing dengan negara-kota.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PETER_GREAT_REASON_ANY">
+			<Text>(Anda lemah dalam bidang Sains dan Budaya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PHILIP_II_REASON_ANY">
+			<Text>(Anda sedang menyebarkan agama Anda ke kota-kotanya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_ANY">
+			<Text>(Anda telah membangun lebih banyak keajaiban.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SALADIN_REASON_ANY">
+			<Text>(Anda telah mendirikan agama saingan, terutama jika Anda sedang berperang dengan peradaban yang menganut agama tersebut.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Anda telah menyerang seseorang di benua asalnya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TOMYRIS_REASON_ANY">
+			<Text>(Anda telah mengkhianati seorang teman atau mendeklarasikan perang mendadak.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TRAJAN_REASON_ANY">
+			<Text>(Kerajaanmu kecil.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_VICTORIA_REASON_ANY">
+			<Text>(Anda memiliki kehadiran di benua yang ingin dia tempati.)</Text>
+		</Row>
+		<!-- Generic warnings for random agendas -->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_ANY">
+			<Text>Peringatan - Alasan Tidak Diketahui</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>Anda tidak melakukan banyak hal untuk mengembangkan budaya yang kuat. Apa yang akan kita ingat tentang orang-orang Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>Anda mungkin ingin mempertimbangkan untuk menyediakan beberapa fasilitas tambahan bagi warga Anda. Saya rasa mereka tidak menikmati pemerintahan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>Kekaisaran Anda sedang menuju kebangkrutan. Bagaimana Anda bisa bertahan dengan utang yang terus menumpuk?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>Anda berada di wilayah berbahaya dengan bersekutu dengan negara-kota. Biarkan mereka menjadi urusan kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>Orang-orangmu malas dan tidak layak. Jika kalian tidak bisa menghasilkan apa-apa, peradaban kalian akan segera dilupakan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>Jumlah penduduk di kerajaanmu sangat sedikit. Pasti sulit untuk menyelesaikan sesuatu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>Anda tidak menghabiskan banyak waktu untuk penelitian. Bagaimana tim Anda bisa mengikuti?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>Kamu hanya punya sedikit pasukan. Apakah kamu tidak takut akan nyawamu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>Kota-kota kalian begitu dekat. Pasukan kalian begitu kuat. Kalian membuatku gugup!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LEAD">
+			<Text>Perekrutan orang-orang hebat yang kami idamkan oleh Anda telah menjadi masalah yang serius.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LEAD">
+			<Text>Apakah kalian tidak menyadari bahwa kita seharusnya menjadi pembangun keajaiban yang terkemuka?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_ATTACK_CITY_STATES">
+		  <Text>Hanya pengecut yang menyerang negara-negara kecil di dunia. Kalian tidak berarti bagi kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MED_ATACK_CITY_STATES">
+		  <Text>Anggap ini sebagai peringatan. Jangan menyerang negara-negara kecil lagi.</Text>
+		</Row>
+    <!--Warnings for future random agendas (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_AIRPOWER">
+			<Text>Tidak ada kebanggaan dalam tetap berpijak di bumi. Sebaiknya kamu benar-benar mencoba membangun angkatan udara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ATTACKS_CITY_STATES">
+			<Text>Sungguh menyedihkan melihat orang yang lemah diintimidasi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS">
+			<Text>Bagaimana bisa kamu membiarkan para Barbarian itu berbuat semaunya begitu dekat dengan rumahmu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ENVIRONMENT">
+			<Text>Saya harus memberitahu Anda bahwa perusakan Anda terhadap bumi kita tidak hanya berdampak pada Anda, tetapi juga pada tetangga Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPLOITATION">
+			<Text>Tanah yang subur mengelilingimu! Bagaimana kamu bisa mengabaikannya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_DIFFERENT_GOVERNMENT">
+			<Text>Perbedaan ideologis kita hanyalah permulaan. Saya tidak dapat menyetujui cara Anda memerintah rakyat Anda...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_NUKE_LOVE">
+			<Text>Senjata nuklir adalah masa depan! Bagaimana bisa kamu tidak melihat itu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_FAITH">
+			<Text>Apa yang membimbingmu? Tentu saja, kamu tidak bisa tidak percaya pada apa pun. Ayo, tunjukkan cahaya kepada orang-orangmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_EXPLORATION">
+			<Text>Ada batasan dalam hal yang bisa ditemukan, dan sayangnya, saya tidak bisa mentolerir siapa pun yang berani mendahului penjelajah saya sendiri.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_WARNING_AGENDA_EXPLANATION">
+      <Text>[NEWLINE](Anda telah melanggar agenda {Name}, {Agenda})</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
+      <Text>Saya memberikan agama saya sebagai hadiah untukmu! Mengapa kamu tidak menerimanya? Kamu akan mempermalukan dirimu sendiri dan menghadapi kehancuran di akhirat!</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ZEALOT">
+      <Text>Saya bermaksud untuk menyelamatkan jiwa Anda, apakah Anda mau atau tidak!</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

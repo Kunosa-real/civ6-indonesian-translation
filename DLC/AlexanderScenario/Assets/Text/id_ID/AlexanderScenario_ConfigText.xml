@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_ALEXANDER_SCENARIO_NAME">
+			<Text>Penaklukan Alexander</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP">
+			<Text>Bisakah kamu menaklukkan kerajaan yang setara dengan Alexander Agung? Berlangsung tidak lebih dari 60 Putaran.</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>Dalam skenario pemain tunggal waktunya ini, Anda harus buru-buru memperluas kerajaan Anda untuk benar-benar mendapatkan gelar &quot;Alexander Agung&quot;. Skenario ini menekankan pertempuran, perluasan wilayah, dan penggunaan Jenderal Besar yang diperhitungkan yang akan bertarung di sisi Anda.[NEWLINE][NEWLINE]Untuk menang, taklukkan setiap kota di peta dalam jumlah putaran yang ditentukan oleh tingkat kesulitan Anda:[NEWLINE][NEWLINE]Pemukiman: 60 putaran[NEWLINE]Panglima Perang atau Kepala Suku: 55 putaran[NEWLINE]Raja atau Pangeran: 50 putaran[NEWLINE]Immortal atau Kaisar: 45 bergantian[NEWLINE]Dewa: 37 putaran</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME">
+			<Text>Dunia Alexander</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION">
+			<Text>Dari Yunani, Mesir, hingga India.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME">
+			<Text>Darius III</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME">
+			<Text>Kota Eponim</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION">
+			<Text>Pemukim menerima +1 Gerakan [ICON_Movement]. Semua kota dimulai dengan 2 [ICON_Citizen] Populasi dan Lumbung. Distrik [ICON_Production] Waktu produksi dikurangi dan Perkemahan dimulai dengan Basilikoi Paides.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME">
+			<Text>Sekutu</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION">
+			<Text>Mulailah permainan sebagai penguasa Athena, Marakanda, dan Patala.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME">
+			<Text>Kualifikasi Layanan Pos</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION">
+			<Text>Pembangun dapat membuat 1 peningkatan tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME">
+			<Text>Unit unik Makedonia: Pemukim</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE">
+			<Text>&quot;Saya tidak mencuri kemenangan.&quot; —Alexander Agung</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Alexander yang Terbukti Hebat</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>&quot;Untuk yang terkuat!&quot;</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Alexander yang Sangat Baik</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>&quot;Tidak ada yang mustahil bagi dia yang mau berusaha.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Alexander yang Cukup Layak</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>“Aku lebih suka mengungguli orang lain dalam hal ilmu yang baik, daripada dalam hal kekuatan dan kekuasaanku.”</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Alexander yang Luar Biasa Biasa-biasa saja</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>“Tidak tahukah kamu, bahwa tujuan dan tujuan penaklukan adalah menghindari melakukan hal yang sama seperti yang ditaklukkan?”</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Alexander yang Sangat Mengerikan</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>“Bayangan suci orang mati, aku tidak bisa disalahkan atas nasibmu yang kejam dan pahit.”</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

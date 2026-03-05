@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Victories -->
+		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
+			<Text>Perang Proksi</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
+			<Text>Kuasai tiga negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
+			<Text>Inilah strategiku tentang Perang Dingin: kita menang, mereka kalah. - Ronald Reagan</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
+			<Text>Tuan dari Armageddon</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
+			<Text>Jika pusat kota mana pun dihancurkan dengan bom nuklir, hancurkan sebanyak mungkin pusat kota sebelum batas waktu.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
+			<Text>Satu-satunya cara untuk menang adalah dengan tidak bermain.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
+			<Text>Bank Tangki</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
+			<Text>Jika tidak ada pusat kota yang dihancurkan, pastikan memiliki jumlah tank terbanyak pada batas giliran.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
+			<Text>Kamu memiliki tank terbanyak di akhir permainan! Kamu menang!</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_RULESET_TITLE">
+			<Text>Perang Termonuklir Global</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_RULESET_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
+			<Text>Perang Dingin memanas dalam skenario pertempuran yang berlatar di Era Atom. Berlangsung selama 50 giliran.[NEWLINE]Syarat Kemenangan[NEWLINE][ICON_Bullet]Raja Armageddon: Jika pusat kota mana pun dihancurkan dengan bom nuklir, hancurkan pusat kota terbanyak dengan bom nuklir hingga batas giliran.[NEWLINE][ICON_Bullet]Bankir Tank: Jika tidak ada pusat kota yang dihancurkan dengan nuklir, miliki tank terbanyak hingga batas giliran.[NEWLINE][ICON_Bullet]Perang Proksi: Reklamasi 3 negara kota.[NEWLINE]Perubahan Gameplay[NEWLINE][ICON_Bullet]Unit dan perangkat nuklir lebih murah untuk dibangun dan dipelihara. Mereka tidak memerlukan sumber daya strategis.[NEWLINE][ICON_Bullet]Jarak serangan WMD dan pembom diperpanjang.[NEWLINE][ICON_Bullet]Pembangun memiliki lebih banyak muatan untuk pengembangan kota yang lebih cepat.[NEWLINE][ICON_Bullet]Peta dimulai dalam keadaan terbuka.[NEWLINE][ICON_Bullet]Tidak ada desa suku.[NEWLINE][ICON_Bullet]Tidak ada barbar.[NEWLINE][ICON_Bullet]Kelelahan perang dinonaktifkan.</Text>
+		</Row>
+		
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_COLDWAR_MOD_TITLE">
+			<Text>Skenario Multiplayer: Perang Termonuklir Global</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_MOD_TEASER">
+			<Text>Perang Dingin memanas dalam skenario pertempuran yang berlatar di Era Atom. Berlangsung selama 50 giliran.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_MOD_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
+			<Text>Perang Dingin memanas dalam skenario pertempuran yang berlatar di Era Atom. Berlangsung selama 50 giliran.[NEWLINE]Syarat Kemenangan[NEWLINE][ICON_Bullet]Raja Armageddon: Jika pusat kota mana pun dihancurkan dengan bom nuklir, hancurkan pusat kota terbanyak dengan bom nuklir hingga batas giliran.[NEWLINE][ICON_Bullet]Bankir Tank: Jika tidak ada pusat kota yang dihancurkan dengan nuklir, miliki tank terbanyak hingga batas giliran.[NEWLINE][ICON_Bullet]Perang Proksi: Reklamasi 3 negara kota.[NEWLINE]Perubahan Gameplay[NEWLINE][ICON_Bullet]Unit dan perangkat nuklir lebih murah untuk dibangun dan dipelihara. Mereka tidak memerlukan sumber daya strategis.[NEWLINE][ICON_Bullet]Jarak serangan WMD dan pembom diperpanjang.[NEWLINE][ICON_Bullet]Pembangun memiliki lebih banyak muatan untuk pengembangan kota yang lebih cepat.[NEWLINE][ICON_Bullet]Peta dimulai dalam keadaan terbuka.[NEWLINE][ICON_Bullet]Tidak ada desa suku.[NEWLINE][ICON_Bullet]Tidak ada barbar.[NEWLINE][ICON_Bullet]Kelelahan perang dinonaktifkan.</Text>
+		</Row>
+		<Row Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Batasan Putaran {Rounds That Have Passed}/{Minimum Game Rounds} {Icon Status}</Text>
+		</Row>
+		<Row Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
+			<Text>Kota-kota yang Ditaklukkan {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
+			<Text>Pusat Kota Dihancurkan {Nuked City Centers} {NukeCountStatusIcon}[NEWLINE]Setiap Pusat Kota Dihancurkan Nuclear War Status Icon</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
+			<Text>Tank yang Dikendalikan {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Tidak Ada Pusat Kota yang Dihancurkan NoNuclear War Status Icon</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

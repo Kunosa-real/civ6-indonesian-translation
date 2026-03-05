@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
+			<Text>Tingkat {1_Level}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
+			<Text>Laporan Intel: Aliansi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
+			<Text>Lihat kemungkinan dan efek Aliansi Anda saat ini dan masa depan dengan pemimpin ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
+			<Text>{1_CurrentTurns} / {2_TurnsToLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
+			<Text>Aliansi Saat Ini:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
+			<Text>Manfaat Ditambahkan Tingkat Berikutnya:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
+			<Text>Aliansi yang Tersedia:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
+			<Text>Saat ini Anda tidak memiliki aliansi dengan pemain ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
+			<Text>(Kedaluwarsa dalam [ICON_TURN] {1_Turns} Putaran)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
+			<Text>Lihat Keadaan Darurat yang Anda alami dengan pemimpin ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
+			<Text>Menargetkan Anda:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
+			<Text>Berpartisipasi dengan Anda:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
+			<Text>Laporan Intel: Darurat</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
+			<Text>Keadaan darurat</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_AT_WAR_WITH_CS">
+			<Text>[COLOR_RED]Anda sedang berperang dengan Negara-Kota ini</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAX_ALLIANCE_POINTS">
+			<Text>MAKS</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_NEED_ALLIANCE_TO_GAIN_POINTS_TT">
+			<Text>[COLOR_RED]Poin Aliansi hanya diperoleh saat berada di Aliansi aktif[ENDCOLOR][NEWLINE]{1_CityDetails}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_FLAG_TT">
+			<Text>{1_AllianceType}[NEWLINE]Tingkat {2_AllianceLevel}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

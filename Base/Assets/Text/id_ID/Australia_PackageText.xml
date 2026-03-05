@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <EnglishText>
+		<Row Tag="LOC_AUSTRALIA_MOD_TITLE">
+			<Text>Paket Peradaban Australia</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_MOD_TEASER">
+			<Text>Peradaban dan Pemimpin Baru - John Curtin dari Australia</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_MOD_DESCRIPTION">
+			<Text>Berisi peradaban dan pemimpin baru.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_TITLE">
+			<Text>Skenario: Taipan Pedalaman</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_TEASER">
+			<Text>Koloni manakah yang akan memanfaatkan kekayaan alam Australia secara maksimal?</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_DESCRIPTION">
+			<Text>Dalam skenario 60 putaran ini, Anda berlomba menjelajahi Australia, menemukan sumber daya alamnya, dan menggunakannya untuk memperkaya koloni Anda. Skenario ekonomi yang kompetitif ini tidak ada perlawanannya. Ini menekankan eksplorasi dan perluasan wilayah untuk meningkatkan pendapatan bersih Emas Per Putaran, yang merupakan skor Anda.[NEWLINE][NEWLINE]Pemain tunggal: Setiap tingkat kesulitan memiliki ambang Emas Per Putaran. Lampaui angka tersebut sebelum permainan berakhir untuk menang.[NEWLINE][NEWLINE]Multipemain: Pemain dengan Emas Per Putaran tertinggi di akhir permainan adalah pemenangnya.</Text>
+		</Row>
+   </EnglishText>
+</GameData>
+

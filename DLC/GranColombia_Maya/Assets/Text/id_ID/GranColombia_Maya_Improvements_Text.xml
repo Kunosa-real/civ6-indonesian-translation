@@ -1,0 +1,21 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_BATEY_NAME">
+			<Text>Batey</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BATEY_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Budaya Batey.[NEWLINE][NEWLINE]+1 [ICON_Culture]. +1 [ICON_Culture] Budaya untuk setiap Kompleks Sumber Daya dan Hiburan Bonus yang berdekatan (meningkat menjadi +2 [Icon_Culture] Budaya saat Eksplorasi ditemukan). Menyediakan Pariwisata [Icon_Tourism] setelah meneliti Penerbangan. Tidak dapat dibangun berdekatan dengan Batey lain atau di Perbukitan.</Text>
+		</Row>
+    <Row Tag="LOC_IMPROVEMENT_METEOR_GOODY_NAME">
+      <Text>Situs Meteor</Text>
+    </Row>
+    <Row Tag="LOC_IMPROVEMENT_METEOR_GOODY_DESCRIPTION">
+      <Text>Ditinggalkan oleh bencana hujan meteor.  Pindah ke ubin ini dengan unit mana pun akan memberikan unit kavaleri berat gratis dan bebas sumber daya yang lebih kuat daripada yang dapat dibangun pemain saat ini.</Text>
+    </Row>
+    <Row Tag="LOC_METEOR_GOODIES_GRANT_UNIT_DESCRIPTION">
+      <Text>[COLOR_FLOAT_MILITARY]Unit militer bebas![ENDCOLOR]</Text>
+    </Row>
+  </EnglishText>
+</GameData>

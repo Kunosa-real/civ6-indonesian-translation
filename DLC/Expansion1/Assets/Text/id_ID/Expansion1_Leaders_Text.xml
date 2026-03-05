@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--City-States-->
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Sains di setiap gedung Perpustakaan.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Sains di setiap gedung Universitas.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Keyakinan di setiap bangunan Kuil.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Iman pada setiap bangunan Bait Suci.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Emas di setiap gedung Pasar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Emas di setiap gedung Bank.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Budaya di setiap gedung Amphitheatre.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Kebudayaan di setiap gedung Museum Seni dan Museum Arkeologi.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di setiap kota dengan Barak atau bangunan Kandang saat memproduksi unit.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di setiap kota dengan gedung Gudang Senjata saat memproduksi unit.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di setiap kota dengan gedung Bengkel saat memproduksi keajaiban, gedung, dan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di setiap kota dengan bangunan Pabrik saat memproduksi keajaiban, bangunan, dan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_NAME">
+			<Text>Venesia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
+			<Text>Negara kota Venesia</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
+			<Text>Bonus Penguasa Venesia</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Rute Perdagangan Anda ke kota-kota asing mendapatkan +1 [ICON_Gold] Emas untuk setiap sumber daya Kemewahan di tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
+			<Text>Venesia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_NAME">
+			<Text>Anshan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>Negara kota Anshan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
+			<Text>Bonus Perguruan Anshan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_SCIENCE] Ilmu dari masing-masing [ICON_GreatWork_WRITING] Karya Tulis Hebat. +1 [ICON_SCIENCE] Sains dari setiap [ICON_GreatWork_RELIC] Relik dan [ICON_GreatWork_Artifact] Artefak.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
+			<Text>Babylonian</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Unit tempur darat 20% lebih murah untuk dibeli dengan [ICON_GOLD] Emas untuk setiap gedung distrik Perkemahan di kota itu.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Anda menerima +2 Loyalitas per giliran di kota untuk setiap gedung distrik Perkemahan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Distrik Anda yang memiliki gedung memberikan +1 [ICON_GreatPerson] poin Orang Hebat dari tipenya ([ICON_GreatWriter] Penulis Hebat, [ICON_GreatArtist] Artis Hebat, dan [ICON_GreatMusician] Musisi Hebat untuk distrik Lapangan Teater yang memiliki gedung).</Text>
+		</Row>
+    <Row Tag="LOC_LEADER_TRAIT_TORONTO_XP1_DESCRIPTION">
+      <Text>Efek regional dari distrik Zona Industri, Taman Air, dan Kompleks Hiburan Anda mencapai 3 ubin lebih jauh.</Text>
+    </Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Untuk Level Aliansi aktif tertinggi, semua distrik Theater Square Anda menerima bonus kedekatan +50%.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} Gerombolan Mongol</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ALLIANCE_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} dari Petualangan Enkidu</Text>
+		</Row>
+		
+		<!-- Free Cities -->
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
+			<Text>Kota Bebas</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
+			<Text>Kota Bebas</Text>
+		</Row>
+	</EnglishText>
+</GameData>

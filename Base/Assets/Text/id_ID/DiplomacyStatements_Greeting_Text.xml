@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_GREETING_MVEMBA_ANY">
+			<Text>Berkah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Senang sekali, seperti biasa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY">
+			<Text>Anda ingin berbicara dengan saya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY">
+			<Text>Apa yang kamu inginkan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY">
+			<Text>Salam sejahtera untukmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY">
+			<Text>Mari kita mulai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY">
+			<Text>Salam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY">
+			<Text>Bicara!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HOJO_ANY">
+			<Text>selamat datang</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY">
+			<Text>Apa yang kamu harapkan dari saya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY">
+			<Text>Bagaimana kabarmu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY">
+			<Text>Selamat siang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY">
+			<Text>Sangat senang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY">
+			<Text>Semoga berkah menyertai Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY">
+			<Text>Kamu baik-baik saja?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY">
+			<Text>Baiklah, lanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY">
+			<Text>Apa yang kamu harapkan dari saya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY">
+			<Text>Kesehatan yang baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY">
+			<Text>Kami menyambut Anda dengan senang hati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_ANY_ANY">
+			<Text>Apa yang kamu harapkan dari saya?</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

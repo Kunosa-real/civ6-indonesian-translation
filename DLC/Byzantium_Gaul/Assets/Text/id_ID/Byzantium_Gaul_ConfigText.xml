@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Dramatic Ages Civ Ability Override -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION">
+			<Text>Saat berada di Zaman Keemasan, dapatkan Slot Kebijakan Wildcard tambahan, dan dapat menggunakan Kebijakan Zaman Kegelapan. +50% [ICON_Production] Produksi untuk bangunan pertahanan.</Text>
+		</Row>
+		<!-- Byzantium: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_NAME">
+			<Text>Bizantium</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION">
+			<Text>Kekaisaran Bizantium</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE">
+			<Text>Bizantium</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME">
+			<Text>Taksi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION">
+			<Text>Unit menerima +3 [ICON_Strength] Kekuatan Tempur atau [ICON_Religion] Kekuatan Religius untuk setiap Kota Suci yang diubah menjadi Agama Bizantium (termasuk Kota Suci Bizantium). Agama Byzantium disebarkan ke kota-kota terdekat ketika mengalahkan unit milik peradaban atau negara kota musuh. +1 [ICON_GreatProphet] Titik Nabi Agung dari kota-kota dengan distrik Situs Suci.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME">
+			<Text>Pertempuran Kota Suci</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION">
+			<Text>Dapatkan +3 [ICON_Strength] Kekuatan Tempur untuk setiap Kota Suci yang diubah menjadi Agama Anda dan Agama Bizantium disebarkan ke kota-kota terdekat ketika unit peradaban besar dikalahkan (Taksi)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC">
+			<Text>+{1_Amount} Kekuatan Tempur dari sifat Taksi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME">
+			<Text>Kekuatan Keagamaan Kota Suci</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION">
+			<Text>Dapatkan +3 [ICON_RELIGION] Kekuatan Religius untuk setiap Kota Suci yang diubah menjadi Agama Anda.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC">
+			<Text>+{1_Amount} Kekuatan Religius dari Sifat Taksi</Text>
+		</Row>
+		<!-- Byzantium: District Info -->
+		<Row Tag="LOC_DISTRICT_HIPPODROME_NAME">
+			<Text>Gelanggang pacuan kuda</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION">
+			<Text>Sebuah distrik unik di Byzantium. Menggantikan distrik Kompleks Hiburan, menyediakan Fasilitas +3 [ICON_Amenities], dan lebih murah untuk dibangun. Saat Hippodrome dan bangunan di distrik ini dibangun, terima unit Kavaleri Berat.</Text>
+		</Row>
+			<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik unik di Byzantium. Menggantikan distrik Kompleks Hiburan, menyediakan Fasilitas +3 [ICON_Amenities], dan lebih murah untuk dibangun. Saat Hippodrome dan bangunan di distrik ini dibangun, terima unit Kavaleri Berat. Tidak dapat dibangun di kota yang memiliki Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION">
+			<Text>Sebuah distrik unik di Byzantium. Menggantikan distrik Kompleks Hiburan, menyediakan Fasilitas +3 [ICON_Amenities], dan lebih murah untuk dibangun. Saat Hippodrome dan bangunan di distrik ini dibangun, terima unit Kavaleri Berat. Unit yang diberikan dari distrik ini tidak memiliki biaya pemeliharaan sumber daya. Tidak dapat dibangun di kota yang memiliki Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME">
+			<Text>Gelanggang pacuan kuda</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION">
+			<Text>Unit ini tidak memerlukan Sumber Daya Strategis per giliran dari distrik Hippodrome.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari distrik Hippodrome yang berdekatan.</Text>
+		</Row>
+		<!-- Byzantium: Leader Info -->
+		<Row Tag="LOC_LEADER_BASIL_NAME">
+			<Text>Kemangi II</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BASIL_NAME">
+			<Text>Porphyrogénnētos</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION">
+			<Text>Unit Kavaleri Berat dan Ringan melakukan kerusakan penuh terhadap kota-kota yang menganut agama yang sama dengan Byzantium. Dapatkan unit unik Tagma ketika kewarganegaraan Hak Ilahi ditemukan.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BASIL">
+			<Text>Musuhmu akan takut padamu, Raja Basil II, karena kamu ditempa dalam api. Biarkan kecerdikan dan ambisimu mempertajam pedangmu. Lindungi harga diri Anda dan lawan musuh Anda, baik di dalam maupun di luar tembok Anda.</Text>
+		</Row>
+		<!-- Byzantium: Unit Info -->
+		<Row Tag="LOC_UNIT_BYZANTINE_DROMON_NAME">
+			<Text>Dromo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION">
+			<Text>Unit era Klasik unik Bizantium yang menggantikan Quadrireme yang memiliki jangkauan tambahan dan menerima +10 [ICON_Strength] Kekuatan Tempur melawan unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_NAME">
+			<Text>Api Yunani</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_DESCRIPTION">
+			<Text>Dapatkan +10 [ICON_Strength] Kekuatan Tempur melawan unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur melawan unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME">
+			<Text>Tagma</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION">
+			<Text>Unit unik era Abad Pertengahan Basil II yang menggantikan Ksatria. Unit tanah dalam 1 ubin Tagma menerima +4 [ICON_Strength] Kekuatan Tempur atau [ICON_RELIGION] Kekuatan Religius.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NAME">
+			<Text>Tagma</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_DESCRIPTION">
+			<Text>Unit tanah dalam 1 ubin Tagma menerima +4 [ICON_Strength] Kekuatan Tempur atau [ICON_RELIGION] Kekuatan Religius.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME">
+			<Text>Kekuatan Tempur Tagma</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Kekuatan Tempur saat berada dalam 1 ubin Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur saat berada dalam 1 ubin Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME">
+			<Text>Kekuatan Religius Tagma</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_RELIGION] Kekuatan Religius ketika berada dalam 1 ubin Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Religius ketika berada dalam 1 ubin Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME">
+			<Text>Porphyrogénnētos</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION">
+			<Text>Apakah kerusakan penuh terhadap kota-kota yang menganut agama yang sama dengan Byzantium (Porphyrogénnētos)</Text>
+		</Row>
+		<!-- Gaul: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_GAUL_NAME">
+			<Text>orang Perancis</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION">
+			<Text>Kekaisaran Galia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE">
+			<Text>Perancis</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME">
+			<Text>Budaya Hallstatt</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION">
+			<Text>Tambang memberikan bonus kedekatan kecil untuk semua distrik, Bom Budaya wilayah yang tidak dimiliki, dan menerima +1 [ICON_CULTURE] Budaya. Daerah khusus tidak mendapat keterdekatan kecil karena berdekatan dengan daerah lain dan daerah ini tidak dapat dibangun berdekatan dengan Pusat Kota.</Text>
+		</Row>
+		<!-- Gaul: District Info -->
+		<Row Tag="LOC_DISTRICT_OPPIDUM_NAME">
+			<Text>Oppidum</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION">
+			<Text>Sebuah distrik unik di Gaul yang lebih murah dan tersedia lebih awal dibandingkan distrik yang digantikannya, Kawasan Industri. Distrik Oppidum dapat dipertahankan dengan serangan jarak jauh. Ketika Oppidum pertama dibangun, teknologi Magang dibuka.[NEWLINE][NEWLINE]+2 [ICON_Production] Bonus kedekatan produksi dari Tambang dan sumber daya strategis.</Text>
+		</Row>
+		<!-- Gaul: Leader Info -->
+		<Row Tag="LOC_LEADER_AMBIORIX_NAME">
+			<Text>Ambiorix</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME">
+			<Text>Raja Eburone</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION">
+			<Text>Peradaban Anda memperoleh [ICON_CULTURE] Budaya sebesar 20% dari biaya unit ketika orang non-sipil dilatih. Unit Jarak Dekat, Anti-Kavaleri, dan Jarak Jauh menerima +2 [ICON_Strength] Kekuatan Tempur untuk setiap unit yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME">
+			<Text>Ambiorix</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION">
+			<Text>Menerima +2 [ICON_Strength] Kekuatan Tempur untuk setiap unit yang berdekatan (Raja Eburone)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Kekuatan Tempur dari sifat Raja Eburone</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMBIORIX">
+			<Text>Akalmu akan membantumu dengan baik, Ambiorix. Jika jumlah pasukan Anda tidak mencukupi, gunakan kepala dan lidah berlapis emas Anda untuk merebut kembali tanah Anda. Sekutu Anda akan mengikuti jejak Anda dan lengan tombak Anda yang kuat akan menghancurkan perlawanan musuh Anda.  Bertarunglah, raja pejuang yang hebat!</Text>
+		</Row>
+		<!-- Gaul: Unit Info -->
+		<Row Tag="LOC_UNIT_GAUL_GAESATAE_NAME">
+			<Text>Gaesatae</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION">
+			<Text>Unit era Kuno unik Gallic yang menggantikan Warrior. Unit ini mengalami peningkatan biaya dan menerima +10 [ICON_Strength] Kekuatan Tempur saat melawan unit dengan Kekuatan Tempur dasar yang lebih tinggi. +5 [ICON_Strength] Kekuatan Tempur vs. pertahanan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_NAME">
+			<Text>Gaesatae</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_DESCRIPTION">
+			<Text>Menerima +10 [ICON_Strength] Kekuatan Tempur melawan unit dengan Kekuatan Tempur dasar lebih tinggi. +5 [ICON_Strength] Kekuatan Tempur vs. pertahanan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur melawan unit dengan Kekuatan Tempur dasar yang lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION">
+			<Text>+{1_Amount} Kekuatan Tempur vs. pertahanan distrik.</Text>
+		</Row>
+		<!-- Highlands-->
+		<Row Tag="LOC_MAP_HIGHLANDS_NAME">
+			<Text>Pegunungan</Text>
+		</Row>
+		<Row Tag="LOC_MAP_HIGHLANDS_DESCRIPTION">
+			<Text>Wilayah luas yang didominasi oleh perbukitan dan pegunungan.</Text>
+		</Row>
+		<!-- Dramatic Ages Mode -->
+		<Row Tag="LOC_GAMEMODE_DRAMATICAGES_NAME">
+			<Text>Dramatic Ages Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION">
+			<Text>Mode permainan ini menjadikan Zaman Kegelapan dan Zaman Keemasan lebih kuat dari sebelumnya. Heroic Ages dihilangkan, dan pemain hanya bisa berada di Age Normal pada era pertama. Setelah itu, mereka akan mendapatkan Zaman Kegelapan atau Zaman Keemasan.[NEWLINE][NEWLINE]Alih-alih membuat Dedikasi, pemain mendapatkan akses ke Kebijakan Sosial baru yang kuat berdasarkan Usia mereka. Kebijakan Gelap kembali hadir dengan efek kuat yang segar. Kebijakan Emas yang baru tersedia bagi mereka yang berhasil mencapai Zaman Keemasan. Untuk terus mendapatkan Skor Era, selesaikan Teknologi dan Civics serta dapatkan promosi unit militer.[NEWLINE][NEWLINE]Zaman Kegelapan sangat berbahaya. Pemain di Abad Kegelapan akan mendapati sebagian kerajaannya langsung jatuh ke dalam Kota Bebas, dan Kota Bebas dapat memberikan tekanan pada kota lain. Pada tingkat kesulitan yang lebih mudah, pemain AI kehilangan banyak kota. Pada tingkat kesulitan yang lebih sulit, pemain manusia melakukannya. Di Prince, mereka kehilangan jumlah yang sama.[NEWLINE][NEWLINE]Kemampuan unik peradaban Georgia benar-benar baru, untuk menyamai aturan unik mode tersebut.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

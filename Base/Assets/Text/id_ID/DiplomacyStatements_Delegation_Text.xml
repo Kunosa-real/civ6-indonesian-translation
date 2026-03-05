@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI Accepts -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Kami dengan senang hati menyambut delegasi Anda ke ibu kota kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Delegasi dagang Anda telah tiba di ibu kota saya, di mana kami menyambut mereka dengan tangan terbuka. Dan terima kasih atas hadiah-hadiah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Kami telah menerima delegasi Anda di istana. Terima kasih. Hadiah-hadiah tersebut akan kami hargai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Saya telah menerima persembahan Anda kepada Dewi Isis Baru dari delegasi dagang Anda. Saya akan mengingat kebaikan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Utusan Anda telah tiba dan saya menyambut mereka secara langsung. Kekaisaran kita dapat memperoleh manfaat dari diplomasi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Anda terlalu baik, teman saya. Hadiah-hadiah Anda tiba bersama delegasi dagang Anda, dan saya telah mengucapkan terima kasih secara pribadi kepada mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh telah menerima persembahan Anda dan utusan Anda. Dia akan mengizinkan mereka masuk ke Uruk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sparta tidak tertarik pada barang-barang material, tetapi saya mengucapkan terima kasih atas hadiah yang dibawa oleh delegasi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Delegasi Anda telah tiba. Kami menyambut mereka dengan pesta di rumah panjang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Delegasi Anda telah tiba, dan kami merasa terhormat atas kebaikan hati Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Kami dengan senang hati menyambut delegasi Anda ke ibu kota kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Rakyat dengan senang hati menerima delegasi dan hadiah Anda. Terima kasih.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Delegasi dagang Anda telah tiba, dan saya selalu senang menerima tamu dari luar negeri, terutama ketika mereka membawa hadiah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Kami telah menerima delegasi perdagangan Anda. Saya akan memastikan untuk memberi tahu mereka tentang cara-cara kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Kami dengan senang hati menyambut delegasi dagang Anda. Mereka akan diperlakukan dengan hormat yang pantas mereka terima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Terima kasih banyak atas hadiah-hadiah Anda. Delegasi Anda akan diperlakukan dengan hormat yang sebesar-besarnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Saya menyambut kedatangan delegasi Anda ke Amerika Serikat yang besar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Delegasi Anda telah tiba membawa persembahan Anda kepada Ratu. Hal ini sangat dihargai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Delegasi dagang Anda telah tiba, melihat, dan menaklukkan kami dengan kebaikan hati mereka. Terima kasih atas hadiahnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Kami telah menerima delegasi dagang Anda dan Anda dapat yakin bahwa kami akan memperlakukan mereka dengan hormat yang pantas mereka terima. </Text>
+		</Row>
+		
+		<!-- AI Rejects -->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Kami dengan hormat menolak delegasi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Saya tidak bisa mengatakan ya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Menarik, tapi tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Mungkin lain kali?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Tidak, tentu saja tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Sayangnya, tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Saya tidak berpikir begitu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Tidak kali ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Tidak. Saya tidak bisa menerimanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Tidak, terima kasih.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Kami dengan hormat menolak delegasi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Athena menurun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Saya tidak dapat menerima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Saya tidak dapat menerima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Kami menolak tawaran Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Tidak, kami tidak dapat menerimanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Kami harus menolaknya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Saya tidak akan menerima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Tawaran yang bagus, tapi saya tidak bisa menerimanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Parlemen saya tidak menyetujui.</Text>
+		</Row>
+		<!-- AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Apakah Anda akan menerima delegasi diplomatik kami di ibu kota Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Delegasi dagang saya seharusnya segera tiba dengan fufu. Selamat menikmati makanannya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Saya telah mengirimkan delegasi dagang kepada Anda beserta semua hadiah yang biasa diberikan: rempah-rempah, zaitun, berbagai jenis keju, dan roti baguette untuk dinikmati bersama, tentu saja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Delegasi diplomatik saya membawa hadiah kecil berupa papirus dari New Isis. Sambutlah mereka sebagaimana Anda menyambut saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Kami telah mengirimkan utusan diplomatik kepada Anda. Perlakukan mereka sebagaimana Anda memperlakukan saya, Duke of Swabia, Raja Burgundy, Raja Jerman, Raja Romawi, Raja Italia, dan Kaisar Romawi Suci.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Saya telah mengirimkan delegasi dagang kepada Anda dengan membawa hadiah dari tanah air kami: teh, sari, dan sitar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Delegasi Gilgamesh membawa hadiah berupa perhiasan Sumeria dan lyre dari Ur. Apakah Anda akan menerimanya ke dalam kota Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Sebuah delegasi Sparta menghormati Anda dengan hadiah minyak zaitun dan sup hitam. Terimalah dengan hormat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Saya telah mengirimkan para pedagang kepada Anda dengan hadiah batu rune. Batu-batu itu sangat kuat—bukan para pedagang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Kami telah mengirimkan delegasi kepada Anda dengan hadiah berupa yosegi-zukuri, beberapa karya terbaik kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Apakah Anda akan menerima delegasi diplomatik kami di ibu kota Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Kami telah mengirimkan delegasi kepada Anda dengan membawa hadiah. Jangan khawatir, tidak ada kuda kayu besar yang terlibat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Saya telah mengirimkan delegasi dagang kepada Anda yang membawa hadiah berupa kaviar terbaik. Silakan nikmati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Saya telah mengirimkan sebuah delegasi ke kota Anda. Silakan nikmati churros dan sambutlah mereka dengan ramah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY">
+			<Text>Delegasi dagang kami akan segera tiba dengan membawa hadiah berupa rempah-rempah terbaik, teh, dan sutra dari Tiongkok. Silakan nikmati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Saya telah mengirimkan sebuah delegasi kepada Anda dengan hadiah-hadiah dari kerajaan kami. Mereka membawa buah-buahan termanis, salju langka untuk mendinginkan Anda bahkan di hari terpanas, dan kuda-kuda terbaik. Mohon terima mereka sebagai tanda hormat kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Senang bertemu dengan Anda. Delegasi diplomatik saya seharusnya segera tiba dengan beberapa pai apel yang baru dipanggang. Saya yakin Anda akan menyambut mereka dengan hangat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Saya telah mengirimkan delegasi dagang kepada Anda yang membawa sebuah gorytos berhias sebagai hadiah untuk Anda. Anda memiliki busur, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Saya telah mengirimkan delegasi perdagangan kepada Anda. Nikmati Pecorino Romano: keju susu domba asin terbaik yang pernah Anda rasakan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Salam. Kami telah mengirimkan utusan kerajaan atas nama Kerajaan Inggris. Kami berharap mereka diterima dengan baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE">
+			<Text>Ibu kota kami saat ini tidak terbuka untuk pengunjung.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE">
+			<Text>Delegasi Anda sangat kami sambut.</Text>
+		</Row>
+		
+		<!-- Human Accepts -->		
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Sangat bagus!</Text>
+		</Row>
+
+		<!-- Human Rejects -->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Sayang sekali, mungkin lain kali.</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

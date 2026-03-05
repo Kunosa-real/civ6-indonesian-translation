@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Standard modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_LOW_MOUNTAIN_CITIES">
+			<Text>Pachacuti senang Anda memiliki beberapa kota di dekat Pegunungan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
+			<Text>Pachacuti tidak senang karena Anda memiliki banyak kota di dekat Pegunungan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_LOW_COASTAL_CITES">
+			<Text>Dido senang Anda memiliki sedikit kota pesisir</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_HIGH_COASTAL_CITIES">
+			<Text>Dido tidak senang karena Anda memiliki banyak kota pesisir</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPANSIONIST">
+      <Text>Mereka menyukai Kerajaan yang mengklaim banyak tanah, dan tidak menyukai Kerajaan yang tidak mengklaim tanah</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_WHITE_FLEET">
+      <Text>Mereka menyukai Kerajaan dengan angkatan laut yang signifikan</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_FLAT_EARTHER">
+      <Text>Mereka tidak menyukai orang-orang yang mencoba meninggalkan Bumi</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAVOR">
+      <Text>Mereka tidak menyukai Anda bersaing secara aktif untuk mendapatkan Bantuan</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAVOR">
+      <Text>Mereka senang Anda tidak mendapatkan banyak bantuan</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_TOURISM">
+      <Text>Mereka tidak senang karena Pariwisata Anda begitu kuat</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_TOURISM">
+      <Text>Mereka senang Anda tidak bersaing di bidang Pariwisata</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_INTOLERANT_SAME">
+      <Text>Mereka senang Anda menganut agama yang sama</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_INTOLERANT_ENCROACHING">
+      <Text>Mereka marah karena agama Anda hadir di kerajaan mereka</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_DIPLOVP">
+      <Text>Mereka marah karena Anda semakin dekat dengan Kemenangan Diplomatik</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_DIPLOVP">
+      <Text>Mereka senang Anda bukan ancaman bagi Kemenangan Diplomatik</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_PILLAGE">
+      <Text>Mereka senang melihat peradaban lain yang senang menjarah</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_PILLAGE">
+      <Text>Mereka ingin melihat Anda lebih sering menjarah lawan</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

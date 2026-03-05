@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Bull Moose Teddy-->
+		<Row Tag="LOC_AGENDA_BULL_MOOSE_NAME">
+			<Text>Rusa Banteng</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION">
+			<Text>Ingin menetap di dekat ubin dengan daya tarik tinggi dan membangun distrik dan keajaiban dengan daya tarik tinggi, dan menyukai mereka yang melakukan hal yang sama. Tidak menyukai siapa pun yang menganut wilayah daya tarik rendah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Saya dengar Anda punya modal untuk mendaki ke sana.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Kita ditentukan oleh bagaimana kita hidup dengan lingkungan sekitar kita. Ingat itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Anda memiliki banyak area Daya Tarik tinggi dalam kerajaan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Anda tidak memiliki cukup wilayah Daya Tarik Tinggi dalam kerajaan Anda.)</Text>
+		</Row>
+		<!-- Rough Rider Teddy -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Jika saya harus memilih antara kebenaran dan kedamaian, saya memilih kebenaran.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Aku ingin menghindari hal ini, tapi gagasanmu tentang perdamaian membuatku tidak punya pilihan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Selamat. Daripada Amerika Serikat, negara Anda akan melangkah jauh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Saya tidak bisa mengatakan tidak untuk itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Kami tidak tertarik saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Anda telah mendapatkan rasa hormat saya. Haruskah kita menyatakan persahabatan kita?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Terima kasih.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Itu sangat buruk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Saya menyambut delegasi Anda ke Amerika Serikat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Kita harus menolaknya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Senang bertemu denganmu. Delegasi diplomatik saya akan segera tiba dengan membawa pai apel yang baru dipanggang. Saya yakin Anda akan menyambut mereka dengan hangat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Beraninya kamu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Saya tidak bisa membiarkan seorang penguasa tanpa martabat, dan dunia harus disadarkan. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Selamat datang di Amerika Serikat. Jika Anda berperilaku baik, Anda dapat menganggap kami sebagai teman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Kami memiliki kota di dekatnya. Apakah Anda ingin berkunjung? Saya bisa menunjukkan kepada Anda boneka beruang yang sekarang sangat populer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Saya tidak bisa mengatakan tidak untuk itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Saya ingin bertukar informasi tentang ibu kota kami; mempromosikan perdagangan bebas antar negara kita, dan sebagainya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Kalau begitu, lanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Anda telah mendapatkan rasa hormat saya. Akankah kita membentuk aliansi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Adalah tugas bangsa kita untuk menjaga hak dan kepentingannya sendiri. Pekerjaan itu sudah selesai; mari kita berangkat dengan damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Anda tidak bisa serius!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Saya melindungi kepentingan negara dan menjaga hak-hak kami. Pekerjaan itu sudah selesai. Sekarang, kami bisa hidup dengan damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Kami dengan senang hati membuka perbatasan kami untuk unit Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Kami tidak tertarik saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Maukah Anda mengizinkan unit kami melintasi wilayah Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Anda menggiring pasukan Anda begitu dekat dengan perbatasan kami sehingga saya mulai mempertanyakan integritas Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Terima kasih telah menjaga perdamaian di benua ini. Pengganggu untukmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY">
+			<Text>(Anda telah menjaga perdamaian di benua asalnya)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tidak ada manusia yang kebal hukum. Anda perlu mengingat hal itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY">
+			<Text>(Anda telah menyerang seseorang di benua asalnya.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

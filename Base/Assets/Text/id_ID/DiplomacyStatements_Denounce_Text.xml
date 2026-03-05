@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY">
+			<Text>Situasi ini akan semakin memburuk sebelum membaik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Saya tidak melakukan kesalahan apa pun, dan rakyat Kongo tidak pantas menerima fitnah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Kemuliaan dan kekuatan Prancis tidak akan ternoda oleh kebohongan yang begitu jelas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Berani menghina New Isis?!? Kau akan menyesalinya!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Aku seharusnya menjawabmu dengan pedangku…  mungkin aku akan melakukannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Kebohonganmu tidak akan dipercaya oleh orang bijak, dan orang bodoh akan belajar dari kesalahannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Hah! Gilgamesh lebih kuat daripada kata-kata palsumu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Kata-kata Anda tidak berarti apa-apa dibandingkan dengan perbuatan kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Hah, aku sudah membakar kerajaan-kerajaan untuk penghinaan yang lebih ringan. Kau akan menyesalinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Kata-kata kosong tidak berbahaya. Tunjukkan padaku tindakan, tujuan, dan disiplin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Situasi ini akan semakin memburuk sebelum membaik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Semua pemimpin pasti menghadapi kebencian dan ketidakpopuleran; jika seseorang memiliki tujuan besar yang ingin dicapai, beban iri hati ini harus diterima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Orang-orangku bertahan hidup melalui musim dingin yang lebih berbahaya daripada tentaramu. Apakah kau pikir kami takut dengan ancamanmu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Tidak ada dosa yang lebih besar daripada menentang hamba yang diurapi Tuhan. Kamu akan menanggung konsekuensi yang berat atas perbuatan ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Jadi, seekor serangga berani menyinggung seekor naga. Itu bukanlah keputusan yang bijaksana.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Semua orang kritis terhadap kelemahan orang lain, tetapi buta terhadap kelemahan mereka sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Berani sekali kamu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Tidak ada yang akan percaya pada kebohonganmu yang kosong. Tomyris adalah teman baik bagi orang-orang yang layak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Jadi, memang benar: orang yang penuh iri hati akan merendahkan segala sesuatu, baik yang baik maupun yang buruk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Ratu ingin memperingatkan mereka yang menghina rakyatnya dan mandatnya tentang berbagai masalah yang akan timbul.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY">
+			<Text>Dunia perlu mengetahui pelanggaran-pelanggaranmu (Menyalahkanmu).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Kamu adalah kejahatan bagi dunia ini. Namamu akan dikutuk selamanya. (Menyalahkanmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Saya tidak suka dengan apa yang kamu lakukan. Apa yang akan dipikirkan teman-temanmu tentang informasi ini? (Menyalahkanmu).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Kamu lebih buruk daripada Brutus dan Cassius digabungkan. Dunia akan tahu kebenarannya! (Menuduhmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Dunia akan mengetahui pengkhianatanmu. Dan engkau akan diadili. (Menyalahkanmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Anda tidak dapat dipercaya; ini adalah bentuk kekerasan yang paling buruk. (Menyalahkan Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Biarkan dunia mendengar kata-kataku: engkau sama liciknya dengan Ishtar. (Menuduhmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Kalian lebih buruk dari para sofis. Biarkan dunia tahu. (Menyalahkan Kalian)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Tidak akan ada tempat bagimu di meja Odin. Kamu adalah sebuah aib. (Menyalahkanmu).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Anda adalah pemimpin yang bodoh dan sederhana. Dan rakyat Anda harus mengetahui kebenaran. (Menyalahkan Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Dunia perlu mengetahui pelanggaran-pelanggaranmu (Menyalahkanmu).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Tiran seperti kamu adalah kejahatan. Rakyatmu akan mengetahui kebenaran kata-kataku. (Menyalahkan Kamu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Saya telah melihat banyak hal dalam hidup saya, tetapi saya belum pernah melihat pemimpin yang begitu hina. Anda seharusnya malu, dan akan malu. (Menyalahkan Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Kamu adalah Yudas lainnya, datang untuk mengkhianati Tuhan. (Menuduhmu).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Reputasi Anda telah tercoreng selamanya. (Menyalahkan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Dikatakan oleh orang-orangku bahwa rumah seorang tiran adalah reruntuhan… dan yang kulihat hanyalah reruntuhan di sekitarmu. (Menyalahkanmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Saya tidak dapat mentolerir seorang pemimpin yang tidak memiliki martabat, dan dunia harus mengetahui hal ini. (Menyalahkan Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Kamu adalah pembohong yang keji dan tidak bisa dipercaya! Kamu adalah yang terburuk di antara jenismu. (Menyalahkanmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Kamu adalah aib. Aku akan memberitahu dunia, mereka akan tahu siapa dirimu yang sebenarnya. (Menyalahkanmu)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Kami tidak akan terlibat dalam urusan administrasi Anda. Anda dengan ini dinyatakan sebagai pihak yang ditolak. (Menolak Anda)</Text>
+		</Row>
+		<!-- Diplomatic rationales for denouncement -->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_OPPORTUNITY">
+			<Text>(Mungkin bermaksud untuk menyatakan perang.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ARCHAEOLOGY">
+			<Text>(Kamu telah menggali salah satu Artefak mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_BROKEN_PROMISE">
+			<Text>(Kamu telah melanggar janji kepada mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NO_PROMISE">
+			<Text>(Anda tidak akan membuat janji kepada mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CONVERTED_CITY">
+			<Text>(Anda telah mengubah salah satu kota mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CULTURE_BOMB">
+			<Text>(Anda telah melakukan serangan budaya terhadap salah satu kota mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DEMAND">
+			<Text>(Anda meminta barang dagangan dari mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DENOUNCED">
+			<Text>(Anda telah mengutuk mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ESPIONAGE">
+			<Text>(Anda mengirim mata-mata untuk menjalankan misi melawan mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT">
+			<Text>(Anda memiliki pemerintah yang berbeda-beda.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_INCURSION">
+			<Text>(Pasukan Anda memasuki wilayah mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING">
+			<Text> (Anda tetap menempatkan pasukan di perbatasan mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_CITY">
+			<Text>(Anda menduduki salah satu kota mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY">
+			<Text>(Anda menduduki salah satu kota sekutu mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RANDOM">
+			<Text>(Mereka benar-benar tidak suka padamu.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RAZED_MY_CITY">
+			<Text>(Kamu telah menghancurkan salah satu kota mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_SETTLED_CITIES">
+			<Text>(Anda menetap di wilayah yang mereka anggap sebagai wilayah mereka sendiri.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+			<Text>(Mereka menganggap Anda sebagai provokator perang.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>(Kamu berperang dengan teman mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND">
+			<Text>(Kamu telah mengkhianati teman mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>(Anda adalah teman yang diakui dari musuh mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY">
+			<Text>(Anda bersekutu dengan musuh mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>(Kamu telah mengkhianati teman mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_AYYUBID_DYNASTY">
+			<Text>(Anda tidak memiliki bangunan keagamaan miliknya di kota.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>(Anda mendeklarasikan perang mendadak.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN">
+			<Text>(Anda lemah dalam mata-mata.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BUSHIDO">
+			<Text>(Anda lemah dalam iman dan budaya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CONTINENT_ATTACKED">
+			<Text>(Anda telah menyerang seorang pemain di benua mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HAS_DESIRED_LUXURY">
+			<Text>(Anda memiliki kemewahan yang mereka idam-idamkan.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAST_VIKING_KING">
+			<Text>(Angkatan lautmu lemah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_GREAT_PEOPLE">
+			<Text>(Anda memiliki lebih banyak orang hebat daripada mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LAGS_PROGRESS">
+			<Text>(Anda tertinggal dalam bidang Sains dan Budaya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS">
+			<Text>(Kamu memiliki lebih banyak keajaiban daripada mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_NEVER_AT_WAR">
+			<Text>(Kamu belum pernah berperang.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_PAID_FOR_PEACE">
+			<Text>(Anda telah membayar untuk perdamaian.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_WARMONGER">
+			<Text>(Kamu adalah seorang provokator perang.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_ENCROACHING_RELIGION">
+			<Text>(Anda sedang mengubah kota-kota mereka menjadi agama Anda.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>(Anda bersaing dengan mereka untuk kota-kota negara.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_RELIGION_NOT_RECEIVED">
+			<Text>(Anda belum menyebarkan agama Anda kepada mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS">
+			<Text>(Anda memiliki lebih banyak utusan daripada saya di terlalu banyak negara kota.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_OPTIMUS_PRINCEPS">
+			<Text>(Anda mengendalikan wilayah yang sangat sedikit.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_QUEEN_OF_NILE">
+			<Text>(Kamu lemah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SUN_SETS_NEW_CONTINENT">
+			<Text>(Anda telah menetap di benua yang mereka inginkan untuk memiliki kehadiran di sana.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>(Budaya Anda terlalu rendah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>(Produksi Anda terlalu rendah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>(Orang-orang Anda kekurangan fasilitas.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>(Penghasilan Anda terlalu rendah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>(Populasi Anda terlalu rendah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>(Ilmu Anda terlalu rendah.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>(Pasukan reguler Anda terlalu kecil.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>(Mereka takut padamu.)</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ZEALOT">
+      <Text>(Anda belum mengizinkan agama mereka masuk ke sebagian besar kota-kota Anda)</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

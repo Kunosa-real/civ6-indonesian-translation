@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_CIV_ROYALE_RULESET_TITLE">
+			<Text>Kematian Merah (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION">
+			<Text>Kematian Merah (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_RULESET_TEASER">
+			<Text>Red Death adalah putaran Civilization VI pada mode Battle Royale. Bermainlah sebagai orang-orang yang selamat yang bersaing untuk mendapatkan satu-satunya tiket dari planet yang sekarat.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_TITLE">
+			<Text>Bertahan dalam Ujian Royale</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_DESC">
+			<Text>Jadilah faksi terakhir yang bertahan.</Text>
+		</Row>
+		<!-- Aliens Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_ALIENS_NAME">
+			<Text>alien</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_NAME">
+			<Text>alien</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_DESCRIPTION">
+			<Text>Alien yang Menyamar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_ADJECTIVE">
+			<Text>alien</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_NAME">
+			<Text>Regenerasi Xenologis</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_DESCRIPTION">
+			<Text>Semua unit menyembuhkan setiap belokan di luar air, Kematian Merah, atau dampak WMD terlepas dari gerakan atau tindakannya. Alien menyembuhkan 50% lebih lambat.</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_NAME">
+			<Text>Kamuflase Xenologis</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_DESCRIPTION">
+			<Text>Semua unit dapat menggunakan Kamuflase Xenological agar tidak terlihat oleh sebagian besar unit. Unit musuh di dekatnya dapat melihat unit yang disamarkan. Menyerang menonaktifkan Kamuflase Xenologis. Kamuflase Xenological bertahan selama 6 putaran dan membutuhkan 6 putaran untuk mengisi ulang.</Text>
+		</Row>
+
+		<!-- Cultist Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Kultus</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Kultus</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION">
+			<Text>Penganut Kultus yang Sangat Berinvestasi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE">
+			<Text>Kultus</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_SIGHT_ABILITY_NAME">
+			<Text>Mengamati Akhir</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_SIGHT_ABILITY_DESCRIPTION">
+			<Text>Semua unit memiliki +3 penglihatan.</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_NAME">
+			<Text>Mata Abadi</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_DESCRIPTION">
+			<Text>Kultus memulai permainan dengan GDR yang lumpuh (yang mereka sembah). GDR mulai rusak parah dan tidak menyembuhkan atau mendapatkan pengalaman secara normal. GDR mendapatkan promosi dengan rela mengorbankan unit-unit Kultus di dekatnya.</Text>
+		</Row>
+
+		<!-- Edgelord Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Tuan Perbatasan</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Tuan Perbatasan</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION">
+			<Text>Tuan Perbatasan yang Sangat Gotik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE">
+			<Text>Tuan Perbatasan</Text>
+		</Row>
+		<Row Tag="LOC_EDGELORDS_EDGENESS_ABILITY_NAME">
+			<Text>Hidup di Tepi</Text>
+		</Row>
+		<Row Tag="LOC_EDGENESS_ABILITY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Kekuatan Tempur ketika 3 heks atau lebih dekat ke perbatasan Zona Aman.</Text>
+		</Row>
+		<Row Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_NAME">
+			<Text>Hadiah Duka</Text>
+		</Row>
+		<Row Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_DESCRIPTION">
+			<Text>Sebagai aksi bebas, unit Borderlord mana pun dapat menetapkan hex untuk Hadiah Berduka yang terperangkap di giliran berikutnya. Hadiah Berduka akan terlihat seperti Supply Drop biasa bagi semua pemain lainnya. Borderlords dapat menyimpan hingga dua Hadiah Berduka dan mereka mengambil 5 giliran untuk mengisi ulang.</Text>
+		</Row>
+
+		<!-- Jocks Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>atlet</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>atlet</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION">
+			<Text>Atlet paling kejam</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE">
+			<Text>atlet</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_NAME">
+			<Text>Saksi Kesempurnaan</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur.</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_HAIL_MARY_ABILITY_NAME">
+			<Text>Salam Maria Lulus</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_HAIL_MARY_ABILITY_DESCRIPTION">
+			<Text>Lemparkan nuklir taktis kecil &quot;Salam Maria&quot; dari unit tempur mana pun setiap 6 putaran.</Text>
+		</Row>
+		
+
+		<!-- Mutants Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutan</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutan</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION">
+			<Text>Mutan dengan Bekas Luka yang Mengerikan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE">
+			<Text>Mutan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME">
+			<Text>Personalitas yang bersinar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION">
+			<Text>-50% kerusakan Kematian Merah.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME">
+			<Text>Gerakan Radioaktif</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Movement] Gerakan untuk semua unit di Red Death. -50% kerusakan Kematian Merah.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME">
+			<Text>Personalitas yang bersinar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION">
+			<Text>Unit mutan menyerap 8 Biaya Radiasi per giliran mulai dari kejatuhan Merah atau WMD. Unit mutan menyebarkan Red Death ke hex yang tidak terkontaminasi satu kali per Radiation Charge. Unit mutan tidak menerima kerusakan dari Mutan yang menyebarkan Red Death.</Text>
+		</Row>		
+
+		<!-- Preppers Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Persiapan Kiamat</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Persiapan</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION">
+			<Text>Persiapan Kiamat yang Gila</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE">
+			<Text>Persiapan</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_NAME">
+			<Text>Selalu Bersiap untuk yang Terburuk</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_DESCRIPTION">
+			<Text>Semua unit memiliki bonus pengalaman +100%.</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_NAME">
+			<Text>Perangkap yang Diimprovisasi</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_DESCRIPTION">
+			<Text>Semua unit Prepper dapat membuat peningkatan Perangkap Improvisasi dalam jumlah terbatas. Perangkap Improvisasi meledak dan menimbulkan 25 kerusakan jika ada unit yang bergerak ke dalam hex. Prepper menemukan lebih banyak Perangkap Improvisasi dengan menjelajahi Reruntuhan Kota, Kamp Raider, atau Supply Drops. Perangkap Improvisasi tidak terlihat oleh semua faksi non-Prepper.</Text>
+		</Row>
+
+		<!-- Pirates Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Bajak laut</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Bajak laut</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION">
+			<Text>Bajak Laut yang Diiradiasi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE">
+			<Text>Bajak laut</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_NAME">
+			<Text>Air Tercatat</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_DESCRIPTION">
+			<Text>Semua unit menerima 50% lebih sedikit kerusakan akibat air dan mengabaikan biaya pergerakan tambahan saat naik dan turun.</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_NAME">
+			<Text>Harta Karun yang Terkubur</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_DESCRIPTION">
+			<Text>Bajak laut memulai permainan dengan peta harta karun terkubur yang diwakili oleh pasokan tambahan di peta. Bajak laut mendapatkan hadiah khusus dan peta harta karun baru dengan mengunjungi lokasi tersebut. Sebagai aksi gratis, Bajak Laut dapat membakar peta harta karunnya dan mendapatkan peta baru setiap 6 putaran.</Text>
+		</Row>
+
+		<!-- Scientists Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Ilmuwan Gila</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Ilmuwan Gila</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION">
+			<Text>Ilmuwan yang Tertantang Secara Etis</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE">
+			<Text>Ilmuwan Gila</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_NAME">
+			<Text>Ini Hanya Akan Sedikit Menyakitkan</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_DESCRIPTION">
+			<Text>Semua unit pulih 2x lebih cepat.</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_NAME">
+			<Text>Perisai Inersia Defensif</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_DESCRIPTION">
+			<Text>Semua unit dapat menggunakan Perisai Inersia Defensif yang memberikan +10 [ICON_Strength] Kekuatan Tempur saat bertahan. Perisai juga memberikan kekebalan penuh terhadap air, Red Death, dan kerusakan akibat ledakan WMD. Perisai Inersia Defensif bertahan selama 4 putaran dan memerlukan 6 putaran untuk mengisi ulang.</Text>
+		</Row>
+
+		<!-- Wanderers Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Pengembara</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Pengembara</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION">
+			<Text>Pengembara Berkehendak Bebas</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE">
+			<Text>Pengembara</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_NAME">
+			<Text>Sampai jumpa lagi</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_DESCRIPTION">
+			<Text>Penembak Infanteri dan Mesin, serta Warga Sipil yang membentuk formasi bersama mereka, memiliki Pergerakan [ICON_Movement] yang lebih cepat di medan Hutan, Hutan Hujan, dan Perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_DESCRIPTION_V2">
+			<Text>Infanteri, Kru AT, dan Penembak Mesin, serta Warga Sipil yang berada dalam formasi bersama mereka, memiliki Pergerakan [ICON_Movement] yang lebih cepat di medan Hutan, Hutan Hujan, dan Perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_NAME">
+			<Text>Visi Jalan</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_DESCRIPTION">
+			<Text>Sebagai aksi bebas, unit mana pun dapat mengungkapkan semua heksa yang telah dieksplorasi sebelumnya selama 1 giliran. Pengisian ulang membutuhkan 3 putaran.</Text>
+		</Row>
+
+		<!-- Zombies Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_ZOMBIES_NAME">
+			<Text>Zombi</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_NAME">
+			<Text>Zombi</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_DESCRIPTION">
+			<Text>Zombie Beastmaster</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_ADJECTIVE">
+			<Text>Zombi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_NAME">
+			<Text>Zombi yang Hampir Tidak Dilengkapi Senjata</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_DESCRIPTION">
+			<Text>Zombie Beastmasters telah mengganti semua unit tempur dengan Zombie Hordes yang nyaris tidak bisa dikendalikan. Reruntuhan Kota, Kamp Raider, dan Tetesan Pasokan memberikan Gerombolan Zombi tambahan, bukan unit tradisional. Gerombolan Zombi membuat Gerombolan Zombi baru saat mereka bertempur membunuh unit musuh non-zombie. Gerombolan Zombi tidak mendapat hukuman pertempuran saat rusak.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_NAME">
+			<Text>Otak!</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_DESCRIPTION">
+			<Text>Gerombolan Zombi tidak menyembuhkan secara normal dan menerima kerusakan secara perlahan seiring berjalannya waktu. Gerombolan Zombi menyembuhkan ketika mereka membunuh unit atau dipromosikan.  Reruntuhan Kota, Kamp Raider, dan Supply Drops juga menyembuhkan Gerombolan Zombi. Gerombolan Zombi dapat merasakan unit musuh terdekat yang tak terlihat hingga jarak 8 heksa. Gerombolan Zombi memiliki +5 [ICON_Strength] Kekuatan Tempur saat bertahan melawan serangan jarak jauh.</Text>
+		</Row>
+		
+		<!-- Hall of Fame Text -->
+		<Row Tag="LOC_HOF_STAT_PLAYER_CITY_RUINS">
+			<Text>Reruntuhan Kota Dijelajahi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RAIDERS_KILLED">
+			<Text>Perampok Dibunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RAIDER_CAMPS">
+			<Text>Kamp Raider Dibersihkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_KILLS">
+			<Text>Perampok Dibunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_CAMPS">
+			<Text>Kamp Raider Dibersihkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITY_RUINS">
+			<Text>Reruntuhan Kota Dijelajahi</Text>
+		</Row>
+	</EnglishText>
+</GameData>

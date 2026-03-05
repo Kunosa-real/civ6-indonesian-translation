@@ -1,0 +1,1771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TUTORIAL_MAP_NAME">
+			<Text>Tutorial Peta</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_MAP_DESCRIPTION">
+			<Text>Peta yang digunakan secara eksklusif untuk tutorial.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
+			<Text>Fajar Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_DESCRIPTION">
+			<Text>Pengetahuan dasar yang diperlukan untuk awal mula peradaban</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_QUOTE_1">
+			<Text>Pada awalnya, bumi tidak berbentuk. Dan kosong. Lalu matahari bersinar di atas bumi yang tertidur. Di dalam pusaran pusaran api, udara, dan air, tanda-tanda kehidupan pertama mulai muncul.</Text>
+		</Row>
+		<!---->
+		<!-- BUTTON TEXT -->
+		<!---->
+		<Row Tag="LOC_ADVISOR_BUTTON_OK">
+			<Text>Baiklah.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_SHOW_ME">
+			<Text>Tunjukkan padaku bagaimana</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_DISMISS">
+			<Text>Anda dipecat.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_ASSISTANCE_APPRECIATED">
+			<Text>Bantuan Anda sangat dihargai.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_CONTINUE">
+			<Text>Lanjutkan</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_GET_STARTED">
+			<Text>Mari kita mulai</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_AGREED">
+			<Text>Setuju</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_VERY_GOOD">
+			<Text>Sangat baik</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_TELL_ME_MORE">
+			<Text>Ceritakan lebih lanjut</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_TAKE_ME_THERE">
+			<Text>Bawa aku ke sana</Text>
+		</Row>
+		<!---->
+		<!-- ADVISOR TEXT -->
+		<!---->
+		<Row Tag="LOC_ADVISOR_HEAD">
+			<Text>PENASEHAT</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_INTRO">
+			<Text>Sebagai penasihat Anda, saya berwenang untuk membantu Anda dalam segala hal yang berkaitan dengan manajemen peradaban kita.[NEWLINE]Jika Anda tidak memerlukan layanan saya, Anda dapat memecat saya untuk menangani urusan lain.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_1">
+			<Text>Salam, Yang Mulia! Sebagai penasihat pribadi Anda, saya berkompeten untuk membantu Anda dalam segala hal yang berkaitan dengan pemerintahan peradaban kita. Saya siap melayani Anda.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_2">
+			<Text>Semua peradaban besar bermula dari sebuah kota besar, dan para penduduk kami telah menemukan lokasi yang ideal. Perintahkan mereka untuk mendirikan kota baru di sini.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_3">
+			<Text>Selamat! Anda telah mendirikan kota pertama Anda. Dari akar-akar ini, peradaban Anda akan berkembang dan bertahan sepanjang masa. Sekarang, Anda harus merawat dan melindungi apa yang telah Anda ciptakan.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_4">
+			<Text>Keamanan sangatlah penting. Ada suku-suku barbar di sekitar kita yang tidak menginginkan apapun selain merampok dan menjarah apa yang menjadi milik kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_5">
+			<Text>Mengarahkan upaya produksi kota ini untuk melatih para Prajurit guna menghadapi ancaman yang akan datang.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_6">
+			<Text>Pelatihan telah dimulai, namun masih akan membutuhkan waktu sebelum para Prajurit baru kami siap. Saat ini tidak ada hal lain yang perlu ditangani.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_7">
+			<Text>Kota Anda sedang sibuk melatih pasukan untuk pertahanannya, tetapi sebuah peradaban besar tidak dapat berkembang hanya dengan kekuatan militer. Kami memiliki orang-orang yang berbakat di bidang sains dan penemuan. Anda harus mempekerjakan mereka untuk meneliti teknologi baru yang akan memajukan peradaban kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_8">
+			<Text>Keputusan yang bijaksana, Yang Mulia. Teknologi ini akan memungkinkan kita untuk mengeksploitasi kekayaan bumi dengan lebih baik dan meningkatkan produksi [ICON_Production] di kota-kota kita. Saya akan memberitahu Anda ketika penelitian kami selesai.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_9">
+			<Text>Yang Mulia, suku Barbar yang menjadi musuh telah terlihat di dekat ibu kota kami [ICON_CAPITAL]. Jika dibiarkan begitu saja, mereka pasti akan menyerang rakyat kami dan menjarah tanah kami. Pasukan prajurit yang baru dilatih menunggu perintah Anda untuk menyerang!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_10">
+			<Text>Pejuang-pejuang kita telah menang! Mereka bertempur dengan gagah berani untuk melindungi rakyat kita dari ancaman ini. Namun, para Barbar masih iri terhadap peradaban kita. Kita harus bersiap-siap jika mereka kembali dengan kekuatan yang lebih besar.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_11">
+			<Text>Ada hal-hal lain, Yang Mulia.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_12">
+			<Text>Karena pelatihan Warrior telah selesai, saatnya untuk menugaskan tugas produksi baru kepada kota.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_13">
+			<Text>Tanah-tanah di sekitar kota kita dapat menjadi subur jika kita mengembangkannya. Kita harus melatih para Pembangun untuk menciptakan perbaikan pada tanah-tanah di dalam wilayah kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_14">
+			<Text>Ada misteri yang menanti kita di luar batas negara kita, di tanah-tanah yang belum terjamah di seberang sana. Satu-satunya cara untuk mengetahuinya adalah dengan menjelajah.</Text>
+		</Row>
+		<Row Tag="LOC_META_14_BODY">
+			<Text>Pada awal permainan, kota Anda dan wilayah di sekitarnya yang langsung terlihat akan terungkap, tetapi area di luar itu, yang diwakili oleh kertas kosong, menandakan bagian dunia yang belum Anda jelajahi.</Text>
+		</Row>
+		<Row Tag="LOC_META_16_BODY">
+			<Text>Unit prajurit memiliki jangkauan gerakan [ICON_Movement] sebesar 2.[NEWLINE][NEWLINE] Indikator berwarna biru yang ditampilkan di sekitar unit menunjukkan jarak terjauh yang dapat ditempuh oleh unit yang dipilih dalam satu giliran.</Text>
+		</Row>
+		<Row Tag="LOC_META_17_BODY">
+			<Text>Landscape terbuka, seperti Padang Rumput dan Padang Rumput, hanya menghabiskan 1 [ICON_Movement] Poin Gerak, sedangkan landscape yang lebih sulit, seperti Hutan dan Bukit, akan menghabiskan 2 atau lebih [ICON_Movement] Poin Gerak. Pindahkan unit Prajurit ke lokasi yang ditandai dengan mengklik kanan.</Text>
+		</Row>
+		<Row Tag="LOC_META_17b_HEAD">
+			<Text>PINDAH PAHLAWAN</Text>
+		</Row>
+		<Row Tag="LOC_META_17b_BODY">
+			<Text>Klik kanan pada lokasi yang ditandai untuk memindahkan Pejuang Anda.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_15">
+			<Text>Yang Mulia, para Prajurit kami telah menemukan sebuah desa suku kecil yang penduduknya ramah dan bersahabat. Apakah kita akan menyelidikinya dan mengirim para Prajurit untuk berbicara dengan mereka?</Text>
+		</Row>
+		<Row Tag="LOC_META_18_BODY">
+			<Text>Menjelajahi Desa-desa Suku dapat memberikan peradaban Anda salah satu dari banyak manfaat instan, seperti menambah [ICON_Citizen] Penduduk di kota Anda, atau memberikan [ICON_Gold] Emas. Merupakan strategi yang baik untuk menjelajahi sebanyak mungkin Desa-desa Suku.</Text>
+		</Row>
+		<Row Tag="LOC_META_20_HEAD">
+			<Text>PINDAH PAHLAWAN</Text>
+		</Row>
+		<Row Tag="LOC_META_20_BODY">
+			<Text>Untuk menjelajahi Desa Suku, pindahkan salah satu unit Anda ke heks Desa Suku. Coba pindahkan unit Prajurit Anda ke sana sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_16">
+			<Text>Sepertinya penduduk desa suku juga dianiaya oleh para Barbar. Mereka terkesan dengan budaya kita, dan telah memutuskan untuk bergabung dengan kita dalam pertempuran!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_17">
+			<Text>Berita yang baik memang! Mereka adalah Pramuka yang terampil dan pelancong yang licin. Mereka dapat bergerak lebih cepat dari Prajurit kita, menjadikannya ideal untuk menjelajahi wilayah sekitar, tetapi mereka tidak sekuat dalam pertempuran. Mereka dengan antusias menanti perintah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_21_BODY">
+			<Text>Perhatikan bahwa unit Scout memiliki [ICON_Movement] Gerakan sebesar 3, memungkinkan unit ini untuk bergerak lebih jauh daripada unit lainnya. Pindahkan unit Scout ke bagian peta yang belum dijelajahi.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_18">
+			<Text>Pramuka sangat ahli dalam menjelajah, tetapi mereka tidak sekuat Prajurit kami dalam pertempuran. Lebih baik mereka fokus pada penjelajahan dan bertahan hidup daripada bertempur melawan musuh-musuh kami.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_19">
+			<Text>Sebuah tim Pembangun telah menyelesaikan pelatihan mereka di kota kami. Mereka siap untuk bekerja dalam meningkatkan lahan sekitar. Terdapat lokasi yang ideal untuk menanam [ICON_Food] Pangan guna mendukung penduduk kami. Membangun Peternakan di sana akan meningkatkan hasil panen dari lahan-lahan tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_22_BODY">
+			<Text>Pembangun dapat membangun berbagai macam perbaikan di lahan Anda. Jenis perbaikan yang dapat dibangun di sebuah lahan seringkali ditentukan oleh jenis medan. Lahan dataran dan padang rumput sangat cocok untuk pertanian, yang membantu meningkatkan populasi [ICON_Citizen].</Text>
+		</Row>
+		<Row Tag="LOC_META_23_HEAD">
+			<Text>PEMBANGUN PERGERAKAN</Text>
+		</Row>
+		<Row Tag="LOC_META_23_BODY">
+			<Text>Pindahkan Builder Anda ke area Padang yang ditandai di samping kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_24_HEAD">
+			<Text>BANGUN PETERNAKAN</Text>
+		</Row>
+		<Row Tag="LOC_META_24_BODY">
+			<Text>Bangun peningkatan pertanian di sini dengan mengklik tombol "Bangun Peningkatan: Pertanian" di sebelah Panel Unit.</Text>
+		</Row>
+		<Row Tag="LOC_META_25_BODY">
+			<Text>Membangun Peternakan di sini telah meningkatkan hasil panen [ICON_Food] dari lahan ini dari 1 [ICON_Food] per giliran menjadi 2. Jumlah [ICON_Food] yang dihasilkan oleh kota Anda menentukan seberapa cepat populasi kota tersebut tumbuh, memberikan Anda warga baru [ICON_Citizen] untuk bekerja di lebih banyak petak. Semakin banyak [ICON_Food], semakin cepat pertumbuhannya.</Text>
+		</Row>
+		<Row Tag="LOC_META_26_BODY">
+			<Text>Pembangun dapat membangun hingga 3 perbaikan sebelum kehabisan tenaga kerja. Jumlah ini ditampilkan di Panel Unit. Unit Pembangun ini telah menghabiskan satu tenaga kerja untuk membangun Peternakan dan kini tersisa 2 tenaga kerja.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_20">
+			<Text>Yang Mulia, sekali lagi saatnya untuk menentukan arah upaya produksi kota kita. Kepemimpinan Anda tiada tanding dan peradaban kita terus berkembang. Apakah kita akan membangun Monumen untuk menghormati kemegahan peradaban kita yang semakin berkembang?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_SELECT_END_TURN">
+			<Text>Tidak ada lagi masalah yang lebih mendesak saat ini. Apakah kita akan melanjutkan tugas kita?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_2">
+			<Text>Para penjelajah kami di perbatasan telah menemukan perkemahan Barbarian. Inilah sumber ancaman Barbarian yang mengganggu wilayah kami. Kita harus menghancurkan benteng ini, atau mereka akan terus mengganggu kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_3">
+			<Text>Saya sarankan Anda untuk berhati-hati. Kamp Barbarian dijaga ketat oleh pasukan terbaik mereka dan akan sulit untuk ditaklukkan. Kita harus mengirim pasukan serangan yang terdiri dari beberapa unit militer untuk memastikan kemenangan.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_BARBARIAN_CAMP_DISCOVERED_C">
+			<Text>Dalam mengembangkan militer Anda, diversifikasi selalu merupakan strategi yang baik. Tidak semua unit diciptakan sama; beberapa unit lebih unggul daripada yang lain dan memiliki kemampuan yang membedakan mereka dari yang lain.</Text>
+		</Row>
+		<Row Tag="LOC_META_124_BODY">
+			<Text>Dalam mengembangkan militer Anda, diversifikasi selalu menjadi strategi yang baik. Tidak semua unit diciptakan sama; beberapa unit lebih unggul melawan unit lain dan memiliki kemampuan yang membedakan mereka dari yang lain.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_7">
+			<Text>Para penjelajah kami telah menemukan desa suku lain yang ramah. Saya mengusulkan agar kita mengirimkan pasukan pengintai untuk menyelidikinya.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_8">
+			<Text>Sebuah kota yang baik dapat menjadi kota yang hebat melalui perencanaan yang matang. Memutuskan lokasi untuk menempatkan sebuah distrik kota merupakan keputusan yang penting. Pastikan untuk memilih lokasi yang paling sesuai agar dapat memperoleh manfaat yang maksimal.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_4">
+			<Text>Yang Mulia, saya dengan senang hati mengumumkan bahwa berkat kemakmuran kota kita, populasi [ICON_Citizen] kita telah bertambah!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_B">
+			<Text>Populasi [ICON_Citizen] di kota pertama Anda telah meningkat dari 1 menjadi 2. Selama kota tersebut tercukupi kebutuhannya dan penduduknya bahagia, kota tersebut akan terus berkembang. Penduduk kota [ICON_Citizen] bekerja di lahan sekitar dan melakukan perbaikan, yang berkontribusi pada hasil panen yang lebih besar. Populasi [ICON_Citizen] yang lebih tinggi berkontribusi pada penelitian sains [ICON_Science] yang lebih cepat, produksi kota [ICON_Production] yang lebih cepat, dan pertumbuhan budaya [ICON_Culture] yang lebih cepat.</Text>
+		</Row>
+		<Row Tag="LOC_META_125_BODY">
+			<Text>Populasi [ICON_Citizen] di kota pertama Anda telah meningkat dari 1 menjadi 2. Selama kota tersebut tercukupi kebutuhannya dan penduduknya bahagia, kota tersebut akan terus berkembang. Penduduk kota [ICON_Citizen] bekerja di lahan sekitar dan melakukan perbaikan, yang berkontribusi pada hasil panen yang lebih besar. Populasi [ICON_Citizen] yang lebih tinggi berkontribusi pada penelitian sains [ICON_Science] yang lebih cepat, produksi kota [ICON_Production] yang lebih cepat, dan pertumbuhan budaya [ICON_Culture] yang lebih cepat.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_C">
+			<Text>Selalu merupakan strategi yang baik tidak hanya untuk mendirikan kota-kota baru guna memperluas wilayah Anda, tetapi juga untuk mengembangkan kota-kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_126_BODY">
+			<Text>Selalu merupakan strategi yang baik tidak hanya untuk mendirikan kota-kota baru guna memperluas wilayah Anda, tetapi juga untuk mengembangkan kota-kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
+			<Text>Dalam Civilization VI, Anda dapat memperoleh Eureka Moment yang mempercepat penelitian teknologi Anda melalui pencapaian dalam permainan. Eureka Moment ini diperoleh dengan menemukan keajaiban alam. Pencapaian lainnya dapat berupa memenangkan pertempuran dengan unit tertentu atau membangun sebuah bangunan. Mencapai pencapaian-pencapaian ini sangat mempercepat kemajuan teknologi Anda.</Text>
+		</Row>
+		
+		
+		<!-- Listener lines -->
+		<Row Tag="ADVISOR_LINE_LISTENER_1">
+			<Text>Melalui eksplorasi, kami telah menemukan keajaiban alam dunia. Tidak diragukan lagi, hal ini dapat memberikan manfaat besar bagi siapa pun yang menetap di wilayah sekitarnya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_2">
+			<Text>Unit pengintaian seperti Pramuka memiliki keunikan karena mereka dapat memperoleh pengalaman dengan menjelajahi dan menemukan bagian-bagian dunia.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_3">
+			<Text>Tenaga kerja unit Builder kami telah habis. Kami perlu melatih lebih banyak tukang untuk melanjutkan pembangunan perbaikan di lahan-lahan di sekitar kota-kota kami.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_4">
+			<Text>Menerapkan kebijakan baru di pemerintahan kita dapat memberikan manfaat yang besar. Rakyat kami menantikan keputusan Anda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_5">
+			<Text>Kesempatan telah tiba untuk beralih ke sistem pemerintahan yang baru dan lebih kuat. Mari kita perkuat identitas kita dan menerapkan lebih banyak kebijakan untuk mengelola rakyat kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_6">
+			<Text>Kami memiliki kesempatan untuk mengembangkan rute perdagangan resmi antara dua kota. Unit Pedagang diperlukan untuk mendirikan rute tersebut, yang akan sangat menguntungkan bagi perekonomian kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_7">
+			<Text>Selain membawa kemakmuran bagi peradaban kita, Jalur Perdagangan ini akan secara bertahap mengembangkan jalan-jalan di antara kota-kota kita. Jalan-jalan ini memungkinkan unit-unit kita untuk tidak lagi terhalang oleh medan yang sulit yang mereka lalui.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_9">
+			<Text>Unit militer ini telah membuktikan diri mereka. Berdasarkan pengalaman yang mereka peroleh dalam pertempuran, mereka layak untuk mendapatkan promosi. Bagaimana Anda akan memberikan penghargaan kepada para prajurit pemberani ini?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_10">
+			<Text>Prestasi tempur unit ini telah menjadi legendaris dan pantas mendapatkan nama yang unik bagi mereka. Dengan gelar apa kita akan menghormati mereka?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_11">
+			<Text>Kondisi kesehatan unit ini sangat rendah dan berisiko hilang. Memberikan waktu istirahat dari pertempuran dan beristirahat akan memungkinkan unit tersebut pulih seiring berjalannya waktu.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_12">
+			<Text>Sebaiknya berhati-hati saat mendekati unit musuh. Hal ini sering kali akan memaksa unit tersebut masuk ke dalam 'zona kendali' musuh, yang akan membatasi pergerakannya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_13">
+			<Text>Yang Mulia, kota kita akan lebih baik jika memiliki beberapa pertanian atau perbaikan lainnya. Saya mengusulkan agar kita segera melatih seorang Pembangun.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_14">
+			<Text>Para Pembangun kami telah menganggur. Mungkin sebaiknya kita mengarahkan upaya mereka untuk memperbaiki lahan-lahan di sekitar kota kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_15">
+			<Text>Ibu kota kita berkembang pesat! Namun, saya rasa sudah waktunya kita mulai membangun pondasi di tempat lain. Mungkin sebaiknya kita melatih seorang Pemukim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_16">
+			<Text>Yang Mulia, kami memiliki seorang Duta Besar yang dapat kami gunakan. Kami dapat memanfaatkan Duta Besar tersebut untuk memperoleh dukungan dari negara kota. Menjalin hubungan baik dengan negara kota tetangga dapat memberikan manfaat yang besar bagi peradaban kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_17">
+			<Text>Negara-negara tetangga kami telah mengajukan permintaan kepada kami. Jika kami dapat memukau mereka, saya yakin mereka akan memberikan imbalan yang besar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_18">
+			<Text>Saya harus melaporkan bahwa kami telah bangkrut. Sangat penting bagi kita untuk melakukan segala upaya untuk melunasi utang ini. Apakah saya boleh mengusulkan agar kita membubarkan sebagian pasukan militer kita?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_19">
+			<Text>Yang Mulia, saya harus memperingatkan Anda bahwa beberapa lahan yang telah ditingkatkan di sekitar kota kita telah dijarah. Kita harus menemukan mereka yang bertanggung jawab dan memastikan tidak ada kerusakan lebih lanjut yang terjadi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_20">
+			<Text>Kami baru-baru ini memperoleh pengetahuan canggih dalam perencanaan kota. Membuat distrik di kota-kota kami dapat jauh lebih efektif dan menguntungkan daripada perbaikan sederhana seperti pertanian dan tambang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_21">
+			<Text>Tentara kami telah menguasai cara menggabungkan dua unit militer menjadi Korps berskala besar. Unit-unit Korps ini jauh lebih kuat dibandingkan dengan unit-unit tunggalnya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_22">
+			<Text>Tentara kita saat ini dilatih untuk menggabungkan tiga satuan militer menjadi satu Angkatan Darat, yang jauh lebih besar dan lebih kuat daripada satuan Korps.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_23">
+			<Text>Yang Mulia, kami telah memperoleh pengetahuan yang lebih mendalam dalam seni membangun benteng statis. Membangun tembok di sekitar kota-kota kami tidak hanya akan membuatnya lebih kuat terhadap serangan musuh asing, tetapi juga memungkinkan mereka untuk menyerang musuh-musuh di sekitarnya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_24">
+			<Text>Yang Mulia! Musuh telah tiba di gerbang kota kita, dan kota ini sekarang terkepung dan dalam keadaan terkepung. Pasokan dan makanan tidak bisa masuk, dan kota kita tidak bisa memperbaiki kerusakan. Sangat penting bagi kita untuk memecahkan kepungan ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_25">
+			<Text>Musuh berada dalam jangkauan kota kita. Perintahkan garnisun kota untuk melakukan serangan jarak jauh terhadap para penyerang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_26">
+			<Text>Penting untuk selalu memantau tetangga kita dengan cermat, dan masyarakat sekitar kita mungkin dapat membantu. Dengarkan dengan seksama, karena mereka terkadang memiliki akses informasi yang lebih banyak daripada kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_27">
+			<Text>Yang Mulia, kita mulai menarik perhatian Bangsa-Bangsa Besar di dunia. Tentu saja, ada pemimpin lain yang juga bersaing untuk mendapatkan perhatian mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_28">
+			<Text>Semakin banyak distrik khusus yang kita bangun, semakin banyak orang-orang hebat yang memiliki keahlian khusus akan tertarik untuk berbagi bakat mereka dengan peradaban kita. Saya menyarankan agar kita terus membangun distrik-distrik ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_29">
+			<Text>Seorang seniman terkenal yang terinspirasi oleh peradaban kita dan telah datang ke tanah kita untuk menciptakan karya seni yang luar biasa. Saya mengusulkan agar kita segera mencari tempat untuk menyimpan karya-karya masterpiece ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_30">
+			<Text>Penulis ini terinspirasi oleh peradaban kita dan datang ke tanah kita untuk menciptakan karya sastra yang hebat. Saya mengusulkan agar kita segera mencari tempat untuk menyimpan karya-karya agung ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_31">
+			<Text>Rakyat kita telah menarik seorang Nabi Agung ke tanah kita! Kirimkanlah orang suci ini ke Situs Suci kita dan bersukacitalah, karena saatnya telah tiba untuk mendirikan agama bagi diri kita sendiri.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_32">
+			<Text>Musisi ini terinspirasi oleh peradaban kita, dan telah datang ke tanah kita untuk menciptakan karya musik yang hebat. Saya mengusulkan agar kita segera mencari tempat untuk menyimpan karya-karya masterpiece ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_33">
+			<Text>Perhatian peradaban kita terhadap angkatan laut militer kita telah melahirkan seorang Laksamana Besar di kalangan kita. Jika ditempatkan dengan bijak di antara kapal-kapal kita, kita pasti akan memiliki keunggulan yang jelas dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_34">
+			<Text>Komitmen peradaban kita terhadap urusan militer telah melahirkan seorang Panglima Besar di kalangan pasukan kita. Jika digunakan dengan bijak di medan perang, panglima dapat mengubah arah pertempuran demi keuntungan kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_35">
+			<Text>Seorang pedagang hebat telah datang ke peradaban kita! Setiap orang memiliki bakat unik yang akan membantu perekonomian kita berkembang pesat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_36">
+			<Text>Komitmen kami terhadap metode ilmiah telah menarik seorang ilmuwan besar ke dalam peradaban kami! Saya yakin kami akan dapat memanfaatkan pengetahuan mereka untuk mendukung perkembangan ilmiah di masa depan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_37">
+			<Text>Membangun keajaiban dunia tidak hanya merupakan bukti kehebatan kerajaan kita, tetapi juga memiliki manfaat lain. Ingatlah, peradaban lain mungkin juga ikut bersaing dalam upaya ini, dan hanya ada satu dari setiap jenis di dunia.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_38">
+			<Text>Sama seperti warga negara kita yang percaya pada kepemimpinan Anda, demikian pula mereka mulai percaya pada kekuatan yang lebih tinggi. Saya pikir bijaksana untuk menumbuhkan cara berpikir baru ini - mungkin ada manfaat yang dapat diperoleh.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_39">
+			<Text>Jumlah umat telah bertambah, dan kini saatnya bagi kita untuk mendefinisikan keyakinan kita. Mari kita pilih sebuah panteon untuk disembah.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_40">
+			<Text>Yang Mulia, kami memiliki kemampuan untuk melatih para misionaris agama agar dapat mulai menyebarkan agama besar kami ke negeri-negeri asing.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_41">
+			<Text>Yang Mulia, saya yakin bahwa kita dapat memperoleh manfaat dengan merekrut seorang rasul untuk menyebarkan agama kita. Orang-orang suci ini memiliki kekuatan yang besar dalam hal penyebaran agama.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_42">
+			<Text>Semua agama lain di dunia merupakan ancaman bagi keyakinan kita. Kita dapat merekrut Inkuisitor untuk membersihkan bid'ah dari kota-kota kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_43">
+			<Text>Yang Mulia, saya merasa sudah saatnya untuk membangun beberapa perumahan untuk populasi kita yang terus berkembang. Kita harus membangun perumahan ini di lahan-lahan terindah kita - dekat dengan keajaiban alam, atau mungkin di tepi pantai.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_44">
+			<Text>Yang Mulia, seluruh pasukan militer kami telah hancur dan kami sekarang benar-benar tak berdaya. Pelatihan unit-unit militer merupakan hal yang paling penting jika kami ingin bertahan hidup.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_45">
+			<Text>Para penjelajah kami telah menemukan desa suku lain yang ramah. Saya mengusulkan agar kita mengirim seorang pengintai untuk menyelidiki.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_46">
+			<Text>Yang Mulia, jaga sekutu Anda tetap dekat dan musuh Anda semakin dekat. Kami sekarang dapat merekrut seorang mata-mata yang dapat membantu kami memahami lebih baik apa yang dilakukan tetangga-tetangga kami... Pada tingkat yang lebih rahasia.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_50">
+			<Text>Beberapa sumber daya, seperti yang ini, dapat dipanen. Hal ini akan menghilangkan sumber daya tersebut sebagai imbalan atas keuntungan yang didapat. Namun, setelah dihilangkan, sumber daya tersebut tidak akan kembali.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_51">
+			<Text>Kami telah menemukan sebuah Negara Kota! Menjalin hubungan diplomatik dengan mereka pasti akan menguntungkan bagi kerajaan kita. Mungkin sebaiknya kita mengirimkan utusan kepada mereka...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_52">
+			<Text>Ada beberapa jenis Negara Kota yang berbeda, dan masing-masing dapat memberikan manfaat yang berbeda sebagai imbalan atas persahabatan kita. Pemerintah kita, seiring berjalannya waktu, akan memungkinkan kita untuk mendapatkan duta besar guna mengembangkan hubungan-hubungan ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_53">
+			<Text>Kami telah melatih unit jarak jauh pertama kami, yang mampu menyerang musuh dari jarak jauh, sementara tetap berada di luar jangkauan pertempuran jarak dekat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_54">
+			<Text>Unit pengepungan! Ini pasti akan berguna jika kita memutuskan untuk melakukan serangan ke kota.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_55">
+			<Text>Kami kini mahir dalam membangun tembok untuk melindungi kota-kota kami. Selain memberikan perlindungan dari penyerang, tembok-tembok ini juga merupakan titik strategis yang ideal untuk menyerang musuh dengan serangan jarak jauh.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_56">
+			<Text>Musuh telah mengepung kota dan kita sedang dalam keadaan terkepung. Kita harus memecahkan blokade ini atau kita tidak akan dapat memperkuat garnisun dan memperbaiki pertahanan kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_57">
+			<Text>Yang Mulia, kota ini memiliki pertahanan yang sangat kuat. Dengan kekuatan yang cukup dan pasukan yang tepat, saya yakin kita bisa merebutnya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_58">
+			<Text>Yang Mulia, ada kalanya perdamaian bukanlah pilihan yang lebih baik. Saya rasa kita sekarang memiliki alasan yang cukup untuk menunjukkan kekuatan militer kita, namun ini adalah keputusan yang harus Anda ambil dengan hati-hati dan sendirian.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_59">
+			<Text>Dunia ini memang sulit untuk dihadapi sendirian, namun jika boleh saya sampaikan, saya yakin salah satu tetangga kita telah membuktikan dirinya layak. Apakah kita akan mengulurkan tangan persahabatan kepada mereka?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_60">
+			<Text>Yang Mulia, saya merasa saatnya telah tiba bagi kita untuk mengirimkan delegasi diplomatik ke negara-negara tetangga kita. Hal ini akan memungkinkan kita untuk menanamkan benih persahabatan, dan mungkin memberikan kita wawasan yang lebih baik tentang apa yang sedang dilakukan oleh negara-negara lain tersebut.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_61">
+			<Text>Saya punya kabar baik! Jika kita menginginkannya, saya pikir kita mungkin memiliki sekutu di antara tetangga kita. Hal ini bisa berguna jika suatu saat kita membutuhkan bantuan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_62">
+			<Text>Jangan khawatir, Tuanku. Ada orang-orang di luar sana yang tidak akan pernah puas, apapun yang dilakukan. Penting untuk mengingat apa yang Anda perjuangkan, dan jika saatnya tiba... untuk memperjuangkannya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_63">
+			<Text>Yang Mulia, saya harus memperingatkan Anda bahwa mengutuk peradaban lain akan memiliki konsekuensi yang panjang dan berkepanjangan. Penting untuk mempertimbangkan hal-hal ini dengan cermat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_64">
+			<Text>Meskipun sepertinya kita mungkin telah menyinggung perasaan seseorang, jangan khawatir. Selalu akan ada pemimpin lain dengan ide-ide yang berbeda dari kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_65">
+			<Text>Sepertinya pilihan-pilihan kita telah mendapat dukungan dari salah satu tetangga kita. Namun, setiap orang memiliki agendanya sendiri, dan saya yakin ada orang lain yang mungkin mengawasi kita dengan waspada.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_66">
+			<Text>Yang Mulia, Jika boleh saya sampaikan, saya rasa sudah waktunya bagi kita untuk mulai menjelajahi apa yang ada di luar perairan kita. Mungkin unit-unit darat kita cocok untuk kesempatan ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_67">
+			<Text>Bukan hanya tanah kita yang dapat ditingkatkan, tetapi juga perairan kita. Saya mengusulkan agar kita mencari peluang untuk memanfaatkan sumber daya di sepanjang pantai.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_68">
+			<Text>Saya pikir kita mungkin memiliki kesempatan untuk meyakinkan pengikut agama lain tentang kesalahan pemahaman mereka. Apakah kita akan memanfaatkan kesempatan ini?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_69">
+			<Text>Misionaris asing telah berusaha mendekati warga negara kita. Saya harus menyarankan agar kita mengambil tindakan terhadap ancaman ini terhadap tanah suci kita. Mungkin kita harus meluncurkan inkuisisi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_70">
+			<Text>Kawasan dengan daya tarik yang lebih tinggi akan dihuni oleh lebih banyak warga, sedangkan kawasan yang dibangun di rawa, bandara, atau hutan hujan tidak akan terlalu padat penduduknya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_71">
+			<Text>Kas negara kita penuh dengan emas, dan saya pikir mungkin bijaksana untuk melakukan investasi. Mungkin kita bisa memperluas angkatan bersenjata kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_72">
+			<Text>Kami belum membangun tempat suci, dan nabi besar yang telah kami tarik ke kota kami tidak memiliki tempat untuk pergi. Mari kita bangun satu!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_73">
+			<Text>Rakyat kita telah menarik seorang Nabi Agung ke tanah kita! Kirimkanlah orang suci ini ke Stonehenge dan bersukacitalah, karena saatnya telah tiba untuk mendirikan agama bagi diri kita sendiri.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_74">
+			<Text>Seorang insinyur hebat telah datang ke peradaban kita, siap bekerja keras untuk mengembangkan infrastruktur kita. Masing-masing memiliki bakat yang berbeda, tetapi semuanya dapat memperbaiki kota-kota kita dengan cara tertentu.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_75">
+			<Text>Saat ini kita memiliki kemampuan untuk membangun pelabuhan antariksa. Jika kita melanjutkan penelitian kita, kita mungkin bisa mengungkap misteri bintang-bintang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_76">
+			<Text>Kami telah menemukan cara untuk meningkatkan hasil pertanian kami. Untuk memanfaatkan potensi ini, saya mengusulkan agar kami mencoba mempertahankan dua lahan pertanian yang berdekatan di setiap petak lahan pertanian.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_77">
+			<Text>Kami telah kembali mengembangkan teknologi pertanian kami! Setiap lahan pertanian yang kami bangun berdampingan akan meningkatkan hasil panen keduanya - saya sarankan kita melakukan hal ini sesering mungkin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_78">
+			<Text>Zaman telah berubah, dan era delegasi diplomatik telah berlalu. Penting bagi kita untuk kini mendirikan Kedutaan Besar dengan negara-negara sahabat dan sekutu kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_79">
+			<Text>Bumi ini adalah anugerah, dan penting bagi kita untuk melindunginya. Saya merekomendasikan agar kita mendirikan Taman Nasional. Hal ini bahkan dapat menarik wisatawan!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_80">
+			<Text>Bukan hanya burung camar yang berkerumun di pantai kita sekarang. Jika kita membangun Resor Pantai, kita mungkin dapat memanfaatkan daya tarik baru ini ke laut.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_81">
+			<Text>Meskipun orang-orang kita sendiri cukup terampil, kita tetap dapat memperoleh manfaat dengan belajar dari orang lain. Mungkin kita harus mempertimbangkan untuk memulai Perjanjian Penelitian dengan salah satu negara tetangga kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_82">
+			<Text>Sebuah Relik! Jika kita dapat memajang ini agar rakyat kita dapat melihatnya, saya yakin hal ini akan menarik lebih banyak umat beriman ke tanah kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_83">
+			<Text>Sepertinya kita telah menjadi daya tarik yang cukup populer bagi orang-orang di seluruh dunia. Saya penasaran berapa banyak lagi turis yang akan melintasi perbatasan kita...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_84">
+			<Text>Kamu adalah penakluk yang berani dan gagah! Aku sangat yakin bahwa kamu akan segera menguasai semua tanah di hadapan kami.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_85">
+			<Text>Agama kami menyebar ke seluruh penjuru dunia. Sangat membahagiakan melihat begitu banyak orang menerima apa yang kami yakini sebagai kebenaran. Namun, masih banyak yang belum menyadari kebenaran tersebut.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_86">
+			<Text>Meskipun populasi kita terus bertambah, ruang untuk warga baru sangat terbatas. Kita perlu mencari cara untuk menambah lebih banyak perumahan di kota ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_87">
+			<Text>Yang Mulia, saya khawatir tentang kebahagiaan warga negara kita. Saya menyarankan agar kita menyelidiki cara untuk meningkatkan kepuasan mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_88">
+			<Text>Tim kami telah menemukan bahwa mereka memiliki keahlian khusus yang berguna, dan saya rasa kita harus mengeksplorasi hal ini. Jika kita mulai membangun distrik baru ini sekarang, saya yakin kita akan menyelesaikannya dalam waktu singkat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_89">
+			<Text>Sayang sekali, semua waktu yang kita habiskan dalam perang ini telah berdampak buruk pada rakyat kita. Saya melihat penderitaan di mata mereka, dan produktivitas kita telah mencapai titik terendah sepanjang sejarah.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_90">
+			<Text>Pembangunan Museum Arkeologi akan memungkinkan kita untuk melatih para arkeolog. Ada begitu banyak hal yang dapat dipelajari dari dunia, dan mereka akan membantu kita memperoleh pengetahuan ini.</Text>
+		</Row>
+		
+		
+		<!---->
+		<!-- META TEXT -->
+		<!---->
+		<Row Tag="LOC_META_1_HEAD">
+			<Text>PILIH PEMUKIM</Text>
+		</Row>
+		<Row Tag="LOC_META_1_BODY">
+			<Text>Klik pada unit Pemukim untuk memilihnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_8_HEAD">
+			<Text>AKHIR GILIRAN</Text>
+		</Row>
+		<Row Tag="LOC_META_8_BODY">
+			<Text>Karena tidak ada lagi keputusan yang perlu diambil pada giliran ini, klik tombol "Next Turn" untuk melanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_11a_BODY">
+			<Text>Tugas-tugas yang harus diselesaikan sebelum Anda dapat mengakhiri giliran Anda akan muncul di panel notifikasi di pojok kanan bawah layar.[Karena produksi telah selesai di kota ini, Anda akan menerima pengingat bahwa Anda perlu memilih barang berikutnya yang akan diproduksi sebelum dapat mengakhiri giliran Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_11_HEAD">
+			<Text>TINDAKAN YANG HARUS DILAKUKAN</Text>
+		</Row>
+		<Row Tag="LOC_META_11_BODY">
+			<Text>Klik pemberitahuan "Pilih Produksi" untuk memilih tugas produksi berikutnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_33b_HEAD">
+			<Text>TINDAKAN YANG HARUS DILAKUKAN</Text>
+		</Row>
+		<Row Tag="LOC_META_33b_BODY">
+			<Text>Penelitian harus dipilih sebelum putaran dapat diselesaikan.</Text>
+		</Row>
+		<Row Tag="LOC_META_13a_BODY">
+			<Text>Unit Pembangun telah ditambahkan ke Antrian Produksi kota. Pelatihan unit ini akan memakan waktu beberapa giliran untuk diselesaikan. Karena tidak ada keputusan lain yang perlu diambil pada giliran ini, tombol "Giliran Berikutnya" akan ditampilkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_13_HEAD">
+			<Text>AKHIR GILIRAN</Text>
+		</Row>
+		<Row Tag="LOC_META_13_BODY">
+			<Text>Klik tombol "Next Turn" untuk melanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_19_HEAD">
+			<Text>AKHIR GILIRAN</Text>
+		</Row>
+		<Row Tag="LOC_META_19_BODY">
+			<Text>Karena unit Warrior Anda telah menggunakan semua poin Gerakan [ICON_Movement], unit tersebut telah menyelesaikan aksinya untuk giliran ini.[NEWLINE][NEWLINE] Tugas produksi dan penelitian masih berlangsung, jadi tidak ada keputusan lain yang perlu diambil.</Text>
+		</Row>
+		<Row Tag="LOC_META_19b_BODY">
+			<Text>Klik tombol "Next Turn" sekali lagi untuk melanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_9_HEAD">
+			<Text>PILIH PAHLAWAN</Text>
+		</Row>
+		<Row Tag="LOC_META_9_BODY">
+			<Text>Klik pada unit Warrior untuk memilihnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_2_HEAD">
+			<Text>MENEMUKAN SEBUAH KOTA</Text>
+		</Row>
+		<Row Tag="LOC_META_2_BODY">
+			<Text>Klik tombol "Kota yang Ditemukan" untuk memerintahkan Pemukim Anda untuk mendirikan kota baru di lokasi ini.</Text>
+		</Row>
+		<Row Tag="LOC_META_3_HEAD">
+			<Text>PILIH PRODUKSI</Text>
+		</Row>
+		<Row Tag="LOC_META_3_BODY">
+			<Text>Buka Pengaturan Produksi Kota ini dengan mengklik tombol "Ubah Produksi Kota".</Text>
+		</Row>
+		<Row Tag="LOC_META_4a_HEAD">
+			<Text>PEMILIH PRODUKSI</Text>
+		</Row>
+		<Row Tag="LOC_META_4a_BODY">
+			<Text>Ini adalah Pengatur Produksi Kota. Dari sini Anda dapat membangun gedung, menciptakan keajaiban dunia, dan melatih unit militer dan sipil.</Text>
+		</Row>
+		<Row Tag="LOC_META_4b_BODY">
+			<Text>Pilih tombol Prajurit untuk memulai pelatihan unit Prajurit di kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_5a_BODY">
+			<Text>Peradaban adalah permainan berbasis giliran di mana keputusan diambil dan tindakan dilakukan selama giliran permainan, mirip seperti bermain permainan papan bersama teman-teman. Setelah semua pemain lain melakukan langkah mereka, giliran baru akan dimulai.</Text>
+		</Row>
+		<Row Tag="LOC_META_5b_BODY">
+			<Text>Membangun item di kota Anda membutuhkan waktu. Jumlah giliran permainan yang diperlukan ditampilkan pada setiap item di menu.[NEWLINE][NEWLINE] Perhitungan ini didasarkan pada biaya produksi item (ICON_Production) dibandingkan dengan hasil produksi kota (ICON_Production). Semakin tinggi hasil produksinya, semakin sedikit giliran yang diperlukan untuk membangun.</Text>
+		</Row>
+		<Row Tag="LOC_META_5_HEAD">
+			<Text>AKHIR GILIRAN</Text>
+		</Row>
+		<Row Tag="LOC_META_5_BODY">
+			<Text>Klik tombol "Giliran Berikutnya" untuk menyelesaikan giliran Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_7a_BODY">
+			<Text>Panel Riset menampilkan teknologi apa yang saat ini sedang dikembangkan oleh peradaban Anda. Panel ini kosong karena Anda belum memilih teknologi yang akan diteliti.</Text>
+		</Row>
+		<Row Tag="LOC_META_7_HEAD">
+			<Text>PILIH PENELITIAN</Text>
+		</Row>
+		<Row Tag="LOC_META_7_BODY">
+			<Text>Pilih teknologi pertambangan dari menu untuk memulai penelitiannya.</Text>
+		</Row>
+		<Row Tag="LOC_META_10_HEAD">
+			<Text>PINDAH PAHLAWAN</Text>
+		</Row>
+		<Row Tag="LOC_META_10_BODY">
+			<Text>Unit militer dapat menyerang unit musuh dengan bergerak ke hex mereka. Klik kanan pada unit Barbarian untuk menyerangnya. Coba lakukan itu sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_META_27_HEAD">
+			<Text>BANGUN MONUMEN</Text>
+		</Row>
+		<Row Tag="LOC_META_27_BODY">
+			<Text>Selain unit pelatihan, kota Anda dapat memfokuskan produksinya pada pembangunan bangunan seperti Monumen.[NEWLINE][NEWLINE] Coba bangun satu sekarang dengan memilihnya di Antrian Produksi kota.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_21">
+			<Text>Dengan adanya Barbarian di tengah-tengah kita, saya rasa rakyat kita akan lebih nyaman jika para Prajurit kita berada lebih dekat ke kota. Perintahkan mereka untuk kembali dan mempertahankan kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_28a_BODY">
+			<Text>Unit dapat diperintahkan untuk bergerak ke jarak yang lebih jauh dengan memberikan perintah multi-putaran. Hal ini akan menghilangkan kebutuhan untuk memberikan perintah gerakan terpisah setiap putaran untuk mencapai tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_META_28_HEAD">
+			<Text>PINDAH PAHLAWAN</Text>
+		</Row>
+		<Row Tag="LOC_META_28_BODY">
+			<Text>Coba perintahkan Warrior untuk kembali ke kota dengan mengklik tombol Move To, lalu klik kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_29_BODY">
+			<Text>Saat menggunakan perintah multi-langkah, jalur akan ditampilkan di peta yang menunjukkan jalur yang akan dilalui unit, beserta indikator jumlah langkah yang diperlukan hingga mencapai tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_22">
+			<Text>Yang Mulia, para Pramuka kami sangat antusias untuk menjelajahi wilayah sekitar dan menemukan area baru di benua ini. Kirimkan mereka ke sana!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_23">
+			<Text>Saat ini tidak ada lagi hal yang perlu ditangani, Yang Mulia.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_24">
+			<Text>Para ahli terkemuka kami telah menemukan cara-cara baru dan inovatif untuk mengekstraksi batu permata dan logam berharga dari bumi. Di sekitar sini terdapat banyak batu berharga, akan lebih bijaksana jika kita mengirim para Pembangun untuk membangun sebuah tambang di sana.</Text>
+		</Row>
+		<Row Tag="LOC_META_30_BODY">
+			<Text>Di seluruh peta tersebar berbagai jenis sumber daya. Ada 3 kategori sumber daya:[NEWLINE][NEWLINE]Mewah: Sumber daya ini berkontribusi pada kebahagiaan warga Anda secara keseluruhan.[NEWLINE][NEWLINE]Strategis: Esensial untuk menciptakan unit militer yang sangat kuat.[NEWLINE][NEWLINE]Bonus: Memberikan hasil tambahan berupa [ICON_Food] Makanan, [ICON_Production] Produksi, atau [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_META_31a_HEAD">
+			<Text>BANGUN TAMBANG BATU</Text>
+		</Row>
+		<Row Tag="LOC_META_31a_BODY">
+			<Text>Batu ini adalah sumber daya bonus. Ia memberikan tambahan +1 [ICON_Production]Produksi untuk kota Anda.[NEWLINE][NEWLINE] Jika Anda membangun peningkatan Tambang di sini, hasilnya akan meningkat menjadi +2 [ICON_Production]Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_META_31b_BODY">
+			<Text>Pindahkan unit Builder Anda ke sumber daya Batu dan suruh mereka membangun peningkatan Tambang Batu di sana.</Text>
+		</Row>
+		<Row Tag="LOC_META_32_BODY">
+			<Text>Peningkatan tambang meningkatkan [ICON_Production] Produksi kota tempat tambang tersebut berada. Produksi yang lebih tinggi memungkinkan unit dan bangunan dibangun lebih cepat. Singkatnya, semakin tinggi produksi suatu kota, semakin sedikit giliran yang dibutuhkan untuk membangun sesuatu di sana.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_26">
+			<Text>Warga kami merasa lega dengan kembalinya para prajurit kami ke kota. Mungkin saya menyarankan agar mereka mengambil sikap yang lebih defensif untuk sementara waktu? Mereka akan tetap waspada terhadap ancaman Barbar.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_27">
+			<Text>Berita baik! Para pengrajin kami telah menyelesaikan Monumen di kota kami! Monumen ini merupakan simbol prestasi dan ketekunan peradaban kami, dan menginspirasi rakyat kami untuk terus menjelajahi wilayah-wilayah di luar sana.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_28">
+			<Text>Yang Mulia, kita harus memperluas wilayah kerajaan kita. Kita memiliki keluarga-keluarga pemberani yang siap berangkat dan menaklukkan tanah-tanah baru demi kemuliaan rakyat kita. Jika kita tidak memperluas perbatasan kita, maka pada saatnya kita akan mendapati diri kita dikepung oleh musuh-musuh kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_29">
+			<Text>Para pemukim akan membutuhkan waktu untuk menyelesaikan pelatihan mereka. Pasukan Pengintai kita sebaiknya terus menjelajahi wilayah yang belum dijelajahi. Saya sarankan agar kita menempatkan Pasukan Prajurit di Ibu Kota untuk mempertahankannya.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_30">
+			<Text>Para Penduduk Baru siap untuk memulai perjalanan mereka untuk mendirikan kota baru dan memperluas peradaban kita. Tanah-tanah di luar sana berbahaya, dan akan bijaksana untuk memastikan perlindungan mereka dengan mengirimkan mereka bersama pengawalan militer.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_31">
+			<Text>Penduduk kami harus aman dalam perjalanan mereka di bawah perlindungan para Prajurit kami. Namun, kami akan kehilangan perlindungan di Ibu Kota [ICON_CAPITAL] setelah mereka pergi. Saya mengusulkan agar kita segera memulai pelatihan unit Slinger untuk mempertahankan kota.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_32">
+			<Text>Selamat, Yang Mulia. Para ahli kami telah mulai bekerja untuk mengembangkan cara-cara baru dalam menyimpan dan melestarikan makanan kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_33">
+			<Text>Semoga kejayaan peradaban besar kita tak mengenal batas! Kota besar kedua kami menunggu arahan Anda. Dengan kepemimpinan yang bijaksana dari Anda, kota ini pun akan tumbuh dan berkembang.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_34">
+			<Text>Seperti [ICON_CAPITAL] Capital kami, kota ini dapat membangun gedung dan unit, meningkatkan populasinya, dan memperluas wilayahnya. Semakin banyak kota berarti semakin banyak yang harus dikelola, tetapi saya sangat percaya pada Yang Mulia.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_36">
+			<Text>Yang Mulia telah menunjukkan kebijaksanaan dan pemahaman dalam hal-hal mendasar dalam memimpin sebuah peradaban. Saya akan siap membantu Anda kapan pun Anda membutuhkannya, tetapi untuk saat ini, saya akan pamit.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_37">
+			<Text>Petani kami sangat terampil dalam menyediakan [ICON_Food] makanan untuk masyarakat kami, tetapi kami perlu menemukan cara yang lebih baik untuk menyimpannya. Saya mengusulkan agar kita mengarahkan upaya para ilmuwan untuk menyelesaikan masalah ini.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_39">
+			<Text>Komitmen kami dalam mengembangkan bahasa tertulis yang konsisten telah memungkinkan kami untuk mencatat pengetahuan kami untuk digunakan di masa depan. Jika kami menyediakan lokasi bersama di kota kami bagi para ilmuwan kami untuk berbagi informasi ini, saya yakin upaya mereka akan jauh lebih efisien.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_40">
+			<Text>Hebat! Pembangunan di kampus telah dimulai. Para ilmuwan kami menantikan selesainya proyek ini.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_41">
+			<Text>Kampus telah selesai dibangun dan kami sudah mulai merasakan manfaatnya. Pembangunan perpustakaan akan sangat ideal di lokasi tersebut, jika Yang Mulia setuju dengan hal tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_42">
+			<Text>Sepertinya kita bukan satu-satunya yang bersaing untuk menguasai wilayah-wilayah ini. Saya sarankan kita bertindak dengan hati-hati.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_43">
+			<Text>Yang Mulia, kita sedang dalam perang. Keamanan kerajaan adalah hal yang paling penting. Kita harus segera memulai mobilisasi pasukan.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_44">
+			<Text>Mengintegrasikan tata kelola Anda dengan kode hukum yang ketat dapat memberikan manfaat terbesar bagi kita. Saya pikir inilah saatnya untuk menerapkan serangkaian kebijakan guna memperkuat kemajuan kita menuju peradaban yang lebih maju.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_45">
+			<Text>Disiplin yang ketat dalam barisan militer kita akan memberikan keunggulan bagi kita melawan gerombolan Barbar yang tidak terorganisir. Perencanaan Kota yang lebih terstruktur akan membuat kota-kota kita lebih terorganisir dan efisien. Saya mengusulkan agar kita menerapkan kebijakan-kebijakan ini.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_46">
+			<Text>Merawat rakyat kita sangat penting, tetapi kita juga harus melindungi mereka. Ada suku-suku barbar di sekitar kita yang hanya ingin merampok dan menjarah apa yang menjadi milik kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_47">
+			<Text>Kami terus membuat kemajuan dalam melatih tim Pembangun, dan penelitian terus berlanjut sesuai rencana. [Pasukan kami sudah sangat dekat dengan Desa Suku dan harus segera tiba.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_48">
+			<Text>Orang-orang kita telah menatap langit, dan mulai bertanya-tanya apakah nasib kita mungkin dipandu oleh tangan-tangan kekuatan yang lebih besar. Siapakah para dewa besar ini, dan berkah apa yang mungkin mereka berikan kepada kita?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_49">
+			<Text>Dalam kehidupan yang didedikasikan untuk mencari petunjuk dalam misteri alam semesta, seseorang telah mengalami pencerahan yang akan menjadi panduan bagi umat beriman kita selama berabad-abad ke depan. Biarlah ajaran Nabi Agung ini menyebar ke seluruh penjuru bumi, mencakup semua budaya. Dengan menyebarkan agama kita, kita dapat meraih kemenangan atas musuh-musuh kita.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_50">
+			<Text>Selamat, Yang Mulia! Kepemimpinan Anda telah menginspirasi rakyat kami untuk mencapai kehebatan, dan kini salah satu di antara mereka telah mencapai kejeniusan sejati. Kontribusi mereka akan dikenang sepanjang sejarah.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_51">
+			<Text>Yang Mulia, kita harus menjalin hubungan dagang dengan negara-negara tetangga. Melalui mereka, kita dapat meningkatkan perekonomian kita dan memperoleh wawasan baru tentang misteri dunia.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_52">
+			<Text>Yang Mulia, kami telah menjalin kontak dengan beberapa orang asing. Orang-orang ini lebih maju daripada penduduk desa suku yang telah membantu kami di masa lalu. Apakah kita harus memperpanjang tangan persahabatan, atau berusaha menaklukkan mereka?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_53">
+			<Text>Hati-hati, Yang Mulia. Kota ini adalah musuh bagi kita dan penduduknya pasti akan berjuang sampai akhir untuk mencegah kita menguasainya. Kita harus bersiap dengan baik.</Text>
+		</Row>
+		<Row Tag="LOC_META_33_HEAD">
+			<Text>PILIH PENELITIAN</Text>
+		</Row>
+    <Row Tag="LOC_META_332_HEAD">
+      <Text>PILIH PENELITIAN</Text>
+    </Row>
+    <Row Tag="LOC_META_332_BODY">
+      <Text>Klik tombol Pilih Penelitian untuk menampilkan pemilih penelitian.</Text>
+    </Row>
+    <Row Tag="LOC_META_331_HEAD">
+      <Text>PENELITIAN PERUBAHAN</Text>
+    </Row>
+		<Row Tag="LOC_META_33_BODY">
+			<Text>Pilih Teknologi Keramik dari menu Penelitian.</Text>
+		</Row>
+		<Row Tag="LOC_META_34_HEAD">
+			<Text>PEMBERITAHUAN</Text>
+		</Row>
+		<Row Tag="LOC_META_34_BODY">
+			<Text>Jika ada unit yang belum bergerak pada giliran ini dan sedang menunggu perintah, Anda dapat menghubungi mereka dengan mengklik pemberitahuan "Unit Membutuhkan Perintah". Klik pemberitahuan tersebut sekarang untuk diarahkan ke unit Pengintai Anda sehingga Anda dapat memberikan perintah baru.</Text>
+		</Row>
+		<Row Tag="LOC_META_35_HEAD">
+			<Text>PRAMUKA PINDAH</Text>
+		</Row>
+		<Row Tag="LOC_META_35_BODY">
+			<Text>Lanjutkan menjelajahi dunia bersama unit Pramuka Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_36a_BODY">
+			<Text>Ketika tidak sedang memajukan unit militer, seringkali merupakan ide yang baik untuk memperkuat unit tersebut. Ketika diperintahkan untuk memperkuat, unit akan menghabiskan hingga 2 giliran untuk menggali parit pertahanan. Hal ini akan meningkatkan [ICON_Strength] Kekuatan Tempur mereka jika diserang.</Text>
+		</Row>
+		<Row Tag="LOC_META_36_HEAD">
+			<Text>PERKUAT PAHLAWAN</Text>
+		</Row>
+		<Row Tag="LOC_META_36_BODY">
+			<Text>Coba perintahkan unit Warrior untuk melakukannya dengan mengklik tombol Fortify.</Text>
+		</Row>
+		<Row Tag="LOC_META_37_HEAD">
+			<Text>BONUS PENINGKATAN</Text>
+		</Row>
+		<Row Tag="LOC_META_37_BODY">
+			<Text>Unit ini kini akan memiliki keunggulan dalam pertempuran saat bertahan. Namun, jika unit tersebut dipindahkan, status pertahanannya akan hilang dan harus diperintahkan untuk memperkuat kembali agar dapat menerima bonus tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_38_HEAD">
+			<Text>TENAGA KERJA PEMBANGUN</Text>
+		</Row>
+		<Row Tag="LOC_META_38a_BODY">
+			<Text>Pembangun Anda masih memiliki satu unit tenaga kerja yang tersisa. [NEWLINE] [NEWLINE] Anda dapat menggunakannya untuk membangun Tambang di lahan Bukit (+[ICON_Production] Produksi), atau Ladang di lahan Dataran (+[ICON_Food] Makanan).[NEWLINE][NEWLINE][NEWLINE]Ini mungkin membutuhkan lebih dari satu giliran, satu giliran untuk memindahkan unit Pembangun, dan giliran lainnya untuk membangun perbaikan.</Text>
+		</Row>
+		<Row Tag="LOC_META_38b_BODY">
+			<Text>Ingat: Pembangun hanya dapat membangun peningkatan di dalam batas kota Anda.[NEWLINE][NEWLINE] Dengan menghasilkan [ICON_Culture] Budaya, batas kota Anda akan meluas, memungkinkan Anda mengakses lebih banyak sumber daya.</Text>
+		</Row>
+		<Row Tag="LOC_META_39_HEAD">
+			<Text>EKSPLORASI</Text>
+		</Row>
+		<Row Tag="LOC_META_39_BODY">
+			<Text>Silakan terus menjelajahi peta dengan unit Scout Anda. Akhiri giliran Anda setelah Anda selesai memberikan perintah kepada unit Builder dan Scout Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_40_BODY">
+			<Text>Kota Anda telah menyelesaikan pembangunan Gedung Monumen. Semua bangunan berkontribusi pada perkembangan kota dengan cara-cara tertentu. Gedung Monumen akan meningkatkan [ICON_Culture] Budaya yang dihasilkan oleh kota, yang memperluas pengaruh kota ke heksa tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_META_41_HEAD">
+			<Text>PENYELENGGARA LATIHAN</Text>
+		</Row>
+		<Row Tag="LOC_META_41_BODY">
+			<Text>Mulai melatih unit Pemukim.</Text>
+		</Row>
+		<Row Tag="LOC_META_41b_BODY">
+			<Text>Buka Pengatur Produksi dan mulailah melatih unit Pemukim. Ingat, Pengatur Produksi dapat diakses baik dari Panel Informasi kota maupun dari pengingat Pilih Produksi di Panel Pemberitahuan di sisi kanan tampilan permainan.</Text>
+		</Row>
+		<Row Tag="LOC_META_42_BODY">
+			<Text>Unit seperti Settlers dan Builders adalah unit sipil non-tempur dan karena itu tidak dapat melindungi diri mereka sendiri. Hal ini membuat mereka sangat rentan untuk ditangkap atau dibunuh oleh unit musuh. Namun, unit militer Anda dapat bertindak sebagai perlindungan bagi unit sipil jika mereka berada di hex yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_META_43a_BODY">
+			<Text>Cara mudah untuk memindahkan kedua unit tersebut bersama-sama adalah dengan menghubungkannya hingga mencapai tujuan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_META_43_HEAD">
+			<Text>PENGAWAL PEMUKIM</Text>
+		</Row>
+		<Row Tag="LOC_META_43_BODY">
+			<Text>Pilih salah satu antara Settler atau Warrior, lalu klik tombol Escort di panel unit.</Text>
+		</Row>
+		<Row Tag="LOC_META_44_HEAD">
+			<Text>FORMASI PERGERAKAN</Text>
+		</Row>
+		<Row Tag="LOC_META_44_BODY">
+			<Text>Mulai bergerak ke arah tenggara menuju penanda peta yang ditunjukkan. Jika Anda belum membuka bagian peta tersebut, mengirimkan Pengintai Anda ke sana juga dapat memudahkan perjalanan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_45a_BODY">
+			<Text>Dalam permainan Civilization, jika seorang pemain kehilangan semua kotanya, permainan berakhir. Sangat penting bagi Anda untuk melindungi kota-kota Anda, terutama [ICON_CAPITAL] Ibu Kota, dari ancaman asing.</Text>
+		</Row>
+		<Row Tag="LOC_META_45_HEAD">
+			<Text>GENDONGAN LATIHAN</Text>
+		</Row>
+		<Row Tag="LOC_META_45_BODY">
+			<Text>Tambahkan unit Slinger ke antrian produksi kota dan akhiri giliran Anda setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_46_BODY">
+			<Text>Seperti halnya dalam sejarah, penemuan teknologi seringkali menginspirasi teknologi baru, yang dibangun berdasarkan pengetahuan yang diperoleh dari masa lalu. Dalam permainan Civilization, hal ini disimulasikan melalui Pohon Teknologi. Klik tombol Pohon Teknologi yang terbuka di Panel Penelitian untuk melihatnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_46a_HEAD">
+			<Text>Pohon Teknologi Terbuka</Text>
+		</Row>
+		<Row Tag="LOC_META_46a_BODY">
+			<Text>Klik untuk membuka Pohon Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_META_47_BODY">
+			<Text>Pohon Teknologi menampilkan semua teknologi yang dapat diteliti dalam permainan Civilization, mulai dari era Kuno hingga era Informasi dan seterusnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_48_BODY">
+			<Text>Noda berwarna emas mewakili teknologi yang telah Anda selesaikan penelitiannya. Anda baru saja menyelesaikan penelitian tentang Keramik, jadi telah ditandai sebagai selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_49_BODY">
+			<Text>Noda abu-abu gelap mewakili teknologi yang tersedia untuk mulai diteliti, tetapi belum selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_50_BODY">
+			<Text>Noda abu-abu muda mewakili teknologi yang belum tersedia untuk mulai diteliti. Teknologi-teknologi ini perlu terlebih dahulu dibuka dengan meneliti satu atau lebih teknologi prasyarat.</Text>
+		</Row>
+		<Row Tag="LOC_META_51a_BODY">
+			<Text>Karena kami telah melakukan penelitian tentang Keramik, kami sekarang dapat memulai penelitian tentang Teknologi Penulisan.</Text>
+		</Row>
+		<Row Tag="LOC_META_51_HEAD">
+			<Text>PILIH PENELITIAN</Text>
+		</Row>
+		<Row Tag="LOC_META_51_BODY">
+			<Text>Mulai penelitian tentang Menulis dengan mengklik simpul Menulis di Pohon Teknologi.</Text>
+		</Row>
+		<Row Tag="LOC_META_52_BODY">
+			<Text>Perhatikan bahwa status node teknologi yang dituliskan telah berubah, menunjukkan bahwa teknologi tersebut saat ini sedang diteliti. Jumlah giliran yang diperlukan untuk menyelesaikan penelitian teknologi tersebut ditampilkan di sudut kanan atas node.</Text>
+		</Row>
+		<Row Tag="LOC_META_53A_BODY">
+			<Text>Simbol-simbol yang ditampilkan di dalam node teknologi mewakili unit-unit baru, bangunan, keajaiban, dan kemampuan yang dapat dibuka setelah teknologi tersebut selesai dikembangkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_53B_BODY">
+			<Text>Misalnya, setelah Anda selesai meneliti teknologi Penulisan, Anda akan dapat membangun distrik Kampus serta gedung Perpustakaan di semua kota Anda. Kampus dan Perpustakaan memungkinkan Anda untuk meningkatkan jumlah [ICON_Science] Ilmu Pengetahuan yang dihasilkan setiap giliran, sehingga Anda dapat meneliti teknologi dengan lebih cepat!</Text>
+		</Row>
+		<Row Tag="LOC_META_54_BODY">
+			<Text>Karena Anda sudah selesai menandai penelitian baru, kita bisa menutup Pohon Teknologi dengan mengklik tombol X di pojok kanan atas.</Text>
+		</Row>
+		<Row Tag="LOC_META_54a_HEAD">
+			<Text>Tutup Pohon</Text>
+		</Row>
+		<Row Tag="LOC_META_54a_BODY">
+			<Text>Klik untuk menutup Pohon Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_META_55_BODY">
+			<Text>Lanjutkan memindahkan unit Pemukim Anda ke lokasi yang ditunjukkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_56_BODY">
+			<Text>Dalam memilih lokasi untuk mendirikan kota baru, penting untuk mempertimbangkan kesuburan tanah di sekitarnya. Kedekatan dengan sumber [ICON_Food] makanan, sumber daya, dan air segar semuanya sangat penting. Untuk tutorial ini, kami telah menemukan lokasi yang ideal untuk Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_57_BODY">
+			<Text>Ketika unit Pemukim Anda siap, klik tombol "Bangun Kota" untuk membuat kota baru di sini. Hal ini mungkin memerlukan perpindahan ke giliran berikutnya jika unit Pemukim Anda kehabisan poin Gerakan [ICON_Movement].</Text>
+		</Row>
+		<Row Tag="LOC_META_58_BODY">
+			<Text>Untuk memenangkan permainan Civilization, sebagai pemain, Anda harus mengalahkan semua peradaban lain di dunia. Ada beberapa cara untuk mencapainya. Anda dapat menaklukkan kota-kota mereka secara militer dan memasukkannya ke dalam peradaban Anda. Anda juga bisa menang secara teknologi, atau melalui dominasi budaya atau agama.</Text>
+		</Row>
+		<Row Tag="LOC_META_59_BODY">
+			<Text>Di jalan menuju kemenangan, terdapat strategi dasar yang dapat membantu Anda dalam membangun peradaban Anda. Untuk tutorial ini, kami telah menyediakan empat tujuan yang harus Anda capai. Selesaikan keempat tujuan tersebut dan Anda dapat menyelesaikan tutorial ini. Namun, untuk MENANGKAN tutorial ini, Anda perlu menyelesaikan tujuan kelima.</Text>
+		</Row>
+		<Row Tag="LOC_META_61_BODY">
+			<Text>Selamat! Anda telah menyelesaikan dasar-dasar membangun dan mempertahankan peradaban yang akan bertahan sepanjang masa. Anda dapat menyelesaikan tutorial ini, atau Anda dapat terus bermain dan memenangkan permainan ini dengan mengalahkan peradaban lawan.</Text>
+		</Row>
+		<Row Tag="LOC_META_63_BODY">
+			<Text>Dalam tutorial ini, Anda bermain di peta kecil dengan satu peradaban lawan. Permainan Civilization standar menampilkan peta dunia yang lebih besar, dengan beberapa peradaban lawan, yang semuanya bersaing untuk menang. Tugasnya lebih besar, tetapi tujuannya tetap sama.</Text>
+		</Row>
+		<Row Tag="LOC_META_62_BODY">
+			<Text>Untuk memenangkan permainan ini, Anda harus menaklukkan semua kota peradaban lawan dengan pasukan militer Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_76_BODY">
+			<Text>Buka Pengatur Produksi kota pertama Anda dengan mengklik tombol produksi pada Banner Kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_77_BODY">
+			<Text>Dalam Civilization VI, terdapat berbagai jenis distrik yang dapat dibangun di kota-kota Anda, masing-masing dengan tujuan tertentu.</Text>
+		</Row>
+		<Row Tag="LOC_META_78_BODY">
+			<Text>Dengan menyelesaikan penelitian tentang Penulisan, Anda kini dapat membangun distrik Kampus di kota Anda.[NEWLINE][NEWLINE] Distrik Kampus ini dirancang untuk meningkatkan jumlah [ICON_Science] Sains yang dihasilkan oleh kota yang menaunginya.</Text>
+		</Row>
+		<Row Tag="LOC_META_79_BODY">
+			<Text>Banyak distrik dalam permainan juga mendapatkan bonus tergantung pada lokasi mereka di dalam kota. Kampus mendapatkan bonus jika dibangun di samping Pegunungan atau Hutan.</Text>
+		</Row>
+		<Row Tag="LOC_META_80_HEAD">
+			<Text>BANGUN KAMPUS</Text>
+		</Row>
+		<Row Tag="LOC_META_80_BODY">
+			<Text>Klik tombol Kampus di Production Chooser untuk mulai membangun kampus di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_META_81_BODY">
+			<Text>Ketika menempatkan sebuah distrik, peta akan sedikit berubah untuk menandakan lokasi-lokasi ideal di mana distrik tersebut dapat dibangun.</Text>
+		</Row>
+		<Row Tag="LOC_META_82_BODY">
+			<Text>Lahan ini memiliki pegunungan di dua sisinya, masing-masing memberikan +1 [ICON_Science] Ilmu Pengetahuan per giliran. Menempatkan Kampus di sini akan sangat ideal.</Text>
+		</Row>
+		<Row Tag="LOC_META_83_BODY">
+			<Text>Klik hex ini untuk mulai membangun kampus di sini.</Text>
+		</Row>
+		<Row Tag="LOC_META_84_BODY">
+			<Text>Karena Anda telah menyelesaikan Teknologi Penulisan, sekarang Anda harus memilih topik penelitian selanjutnya. Jika Anda membutuhkan saran, Peternakan dan Pengolahan Tembaga keduanya merupakan pilihan yang baik.</Text>
+		</Row>
+		<Row Tag="LOC_META_85_BODY">
+			<Text>Peternakan Hewan akan memungkinkan Anda untuk membangun perbaikan Padang Rumput dan Kamp di kota-kota Anda.[NEWLINE][NEWLINE] Kerajinan Perunggu akan membantu Anda secara militer dengan membuka distrik Perkemahan, serta memungkinkan Anda untuk melatih Prajurit Tombak.</Text>
+		</Row>
+		<Row Tag="LOC_META_86_BODY">
+			<Text>Beberapa bangunan hanya dapat dibangun di distrik tertentu. Perpustakaan adalah bangunan yang eksklusif untuk distrik Kampus. Karena kami telah menyelesaikan pembangunan di Kampus, kami sekarang dapat membangun Perpustakaan di sana.</Text>
+		</Row>
+		<Row Tag="LOC_META_87_HEAD">
+			<Text>BANGUN PERPUSTAKAAN</Text>
+		</Row>
+		<Row Tag="LOC_META_87_BODY">
+			<Text>Klik tombol "Pilih Produksi" di pojok kanan bawah untuk mulai membuat Perpustakaan.</Text>
+		</Row>
+		<Row Tag="LOC_META_88_BODY">
+			<Text>Selamat!!![NEWLINE]Anda telah memenangkan permainan Civilization pertama Anda.[NEWLINE][NEWLINE]Anda sekarang siap menghadapi tantangan dan tujuan yang jauh lebih besar, menjelajahi dunia baru, bertemu peradaban baru untuk pertama kalinya, dan meraih kemenangan sesuai dengan syarat yang Anda tentukan.</Text>
+		</Row>
+		<Row Tag="LOC_META_89_BODY">
+			<Text>Ketika terlibat dalam perang dengan peradaban lain, disarankan untuk memiliki jumlah unit tempur yang cukup, baik untuk mempertahankan kota-kota Anda maupun untuk bertempur di luar negeri.</Text>
+		</Row>
+		<Row Tag="LOC_META_90_BODY">
+			<Text>Terkadang perlu menghentikan produksi di sebuah bangunan atau distrik untuk melatih unit-unit yang akan bertempur dalam perang. Untuk melakukannya, cukup ubah tugas produksi saat ini dari kota tersebut menjadi unit tempur yang ingin Anda buat.</Text>
+		</Row>
+		<Row Tag="LOC_META_91_BODY">
+			<Text>Ketika Anda puas dengan ukuran militer Anda, Anda dapat melanjutkan produksi apa yang sedang dibangun sebelumnya tanpa kehilangan kemajuan yang telah Anda capai.</Text>
+		</Row>
+		<Row Tag="LOC_META_92_BODY">
+			<Text>Menjalin hubungan diplomatik dengan peradaban lain bisa sangat menguntungkan. Tentu saja, hubungan tersebut juga bisa memburuk. Cara Anda berinteraksi dengan pemimpin lain adalah pilihan Anda. Ingatlah, dalam perjalanan menuju kemenangan, Anda tidak selalu bisa menjadi teman semua orang.</Text>
+		</Row>
+		<Row Tag="LOC_META_93a_BODY">
+			<Text>Dengan mengumpulkan [ICON_CULTURE] Budaya, Anda baru saja membuka Kode Hukum, yang berisi pemerintahan pertama Anda: Kerajaan.</Text>
+		</Row>
+		<Row Tag="LOC_META_93b_HEAD">
+			<Text>PEMERINTAH</Text>
+		</Row>
+		<Row Tag="LOC_META_93b_BODY">
+			<Text>Untuk mengaksesnya, klik tombol Pemerintah.</Text>
+		</Row>
+		<Row Tag="LOC_META_94_BODY">
+			<Text>Ada banyak jenis pemerintahan dalam Civilization VI. Selain berbagai keuntungan, setiap pemerintahan memiliki sejumlah slot di mana Anda dapat menerapkan kebijakan.</Text>
+		</Row>
+		<Row Tag="LOC_META_95a_BODY">
+			<Text>Pemerintahan pertama yang tersedia untuk Anda adalah Chiefdom. Pemerintahan ini memiliki 2 slot yang tersedia untuk kebijakan. Slot pertama di Chiefdom diperuntukkan untuk kebijakan militer. Slot kedua diperuntukkan untuk kebijakan ekonomi.</Text>
+		</Row>
+		<Row Tag="LOC_META_95b_HEAD">
+			<Text>POLITIK PEMERINTAH</Text>
+		</Row>
+		<Row Tag="LOC_META_95b_BODY">
+			<Text>Klik tombol Ubah Kebijakan</Text>
+		</Row>
+		<Row Tag="LOC_META_96_BODY">
+			<Text>Untuk memasukkan kebijakan ke dalam slot, klik dan seret kebijakan dari sisi kanan ke slot yang sesuai di pemerintahan Anda di sisi kiri.[NEWLINE][NEWLINE] Coba lakukan sekarang dengan menambahkan kebijakan Disiplin ke slot Militer, lalu tambahkan kebijakan Perencanaan Kota ke slot Ekonomi. Klik tombol Konfirmasi Kebijakan setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_97_BODY">
+			<Text>Dengan menerapkan kebijakan ini, unit militer Anda akan mendapatkan bonus Kekuatan Tempur +5 [ICON_Strength] saat bertempur melawan Barbarian. Selain itu, kota-kota Anda akan mendapatkan bonus Produksi +1 [ICON_Production] per giliran, memungkinkan mereka untuk melatih unit dan membangun bangunan lebih cepat dari sebelumnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_98_BODY">
+			<Text>Sama seperti Anda meneliti teknologi baru dengan menghasilkan [ICON_Science] Sains di kota-kota Anda, Anda membuka fitur civics dengan menghasilkan [ICON_Culture] Budaya.[NEWLINE][NEWLINE] Anda telah membuka fitur Code of Laws yang memungkinkan Anda untuk mendirikan pemerintahan pertama Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_99a_BODY">
+			<Text>Sekarang Anda perlu memilih kota baru untuk dituju.</Text>
+		</Row>
+		<Row Tag="LOC_META_99b_HEAD">
+			<Text>POHON KEWARGANEGARAAN</Text>
+		</Row>
+		<Row Tag="LOC_META_99b_BODY">
+			<Text>Buka Pohon Kewarganegaraan dengan mengklik tombol Pohon Kewarganegaraan di pojok kiri atas layar.</Text>
+		</Row>
+		<Row Tag="LOC_META_100_BODY">
+			<Text>Sama seperti Pohon Teknologi, Pohon Kebijakan juga memiliki pilihan dan jalur yang berbeda seiring Anda melanjutkan permainan.[NEWLINE]Untuk tutorial ini, klik Kebijakan Kerajinan untuk mulai mengembangkan selanjutnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_100b_HEAD">
+			<Text>PILIH SIPIL</Text>
+		</Row>
+		<Row Tag="LOC_META_100b_BODY">
+			<Text>Pilih Keterampilan Kerajinan sebagai pilihan sipil.</Text>
+		</Row>
+    		<Row Tag="LOC_META_100c_HEAD">
+			<Text>Tutup Pohon</Text>
+		</Row>
+		<Row Tag="LOC_META_100c_BODY">
+			<Text>Klik untuk menutup Pohon Kewarganegaraan</Text>
+		</Row>
+		<Row Tag="LOC_META_101_BODY">
+			<Text>Klik "Next Turn" untuk melanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_102_HEAD">
+			<Text>PEMBANGUN KERETA API</Text>
+		</Row>
+		<Row Tag="LOC_META_102_BODY">
+			<Text>Klik Builder untuk memulai pelatihan unit Builder.</Text>
+		</Row>
+		<Row Tag="LOC_META_103_BODY">
+			<Text>Kota merupakan fondasi utama dari setiap peradaban besar. Ukuran sebuah kota diwakili oleh populasi warganya [ICON_Citizen], yang ditampilkan di sebelah kiri nama kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_103_OTHER_BODY">
+			<Text>Unit Slinger telah menyelesaikan pelatihan di ibu kota Anda. Unit Slinger adalah unit kelas jarak jauh, memungkinkan mereka menyerang dari jarak jauh tanpa terlibat dalam pertempuran jarak dekat. Hal ini mencegah mereka menerima kerusakan balik selama serangan.</Text>
+		</Row>
+		<Row Tag="LOC_META_104_BODY">
+			<Text>Setiap kota juga mengklaim wilayah di sekitarnya untuk kendali eksklusif Anda. Wilayah-wilayah ini ditandai dengan batas berwarna yang mengelilingi kota. Fitur-fitur unik di dalam batas wilayah Anda akan memiliki pengaruh yang signifikan terhadap potensi kekuatan masing-masing kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_104_OTHER_BODY">
+			<Text>Unit jarak jauh cenderung memiliki kekuatan pertahanan yang lebih rendah dibandingkan dengan unit pertempuran jarak dekat, jadi disarankan untuk menjaga mereka tetap dekat dengan unit sekutu jenis lain untuk perlindungan.</Text>
+		</Row>
+		<Row Tag="LOC_META_105_BODY">
+			<Text>Anda harus menentukan bagaimana setiap kota dalam peradaban Anda akan berkembang dan meluas seiring waktu, meningkatkan wilayah yang Anda kuasai, serta membangun gedung-gedung dan distrik-distrik baru di dalam wilayah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_105_OTHER_BODY">
+			<Text>Seiring kamu maju dalam permainan dan meneliti teknologi baru, kamu akan membuka unit-unit yang lebih baik, lebih kuat, dan lebih canggih. Membangun pasukan tempur yang kuat dan beragam sangat penting untuk bersaing dengan peradaban lain dan menjaga keamanan rakyat Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_WRITING_COMPLETE">
+			<Text>Kami baru saja menyelesaikan penelitian tentang Menulis.</Text>
+		</Row>
+		<Row Tag="LOC_META_POTTERY_COMPLETE">
+			<Text>Selain [ICON_Food] Makanan, penduduk Anda juga membutuhkan [ICON_Amenities] Fasilitas di kota-kota mereka. Salah satu sumber [ICON_Amenities] Fasilitas adalah sumber daya mewah, seperti [ICON_Resource_Coffee] Kopi yang berada di samping [ICON_CAPITAL] Ibu Kota Anda. Setelah teknologi Keramik selesai, akan menjadi ide yang baik untuk meneliti Irigasi agar Pembangun Anda dapat meningkatkan sumber daya mewah, seperti [ICON_Resource_Coffee] Kopi di dekat ibu kota [ICON_CAPITAL] kami. Hal ini akan menyediakan [ICON_Amenities] Fasilitas untuk kota kami, meningkatkan kebahagiaannya.</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_6_COMPLETE">
+			<Text>Anda telah berhasil mencapai tujuan untuk meningkatkan ubin yang berada dalam jangkauan kota kedua!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_8_COMPLETE">
+			<Text>Anda telah menyelesaikan tujuan menjelajahi desa suku lainnya!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_9_COMPLETE">
+			<Text>Anda telah berhasil mencapai tujuan mengembangkan kota hingga memiliki populasi enam!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_10_COMPLETE">
+			<Text>Anda telah menyelesaikan tujuan membangun lima perbaikan!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_14_COMPLETE">
+			<Text>Anda telah berhasil menyelesaikan tujuan membangun Tembok di kota ibu kota [ICON_CAPITAL] Anda!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_15_COMPLETE">
+			<Text>Anda telah berhasil menyelesaikan tujuan membangun Barak!</Text>
+		</Row>
+		<Row Tag="LOC_META_106_BODY">
+			<Text>Setiap kota menghasilkan berbagai jenis hasil di awal setiap giliran. Hasil-hasil ini diperoleh dari heks yang dikuasai oleh kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_107_BODY">
+			<Text>Setiap heksagon di dalam batas kota Anda dapat memberikan sejumlah hasil yang dapat membantu Anda mengembangkan peradaban Anda. [ICON_Food] Makanan dan [ICON_Production] Produksi adalah dua dari hasil tersebut.[NEWLINE][NEWLINE] [ICON_Food] Makanan mendorong pertumbuhan kota, meningkatkan [ICON_Citizen] Populasi kota. Semakin banyak [ICON_Food] Makanan, semakin cepat pertumbuhannya. [NEWLINE] [NEWLINE] [ICON_Production] Produksi digunakan untuk membangun barang baru, seperti unit militer dan peningkatan kota. Semakin banyak [ICON_Production] Produksi yang dimiliki kota Anda, semakin cepat Anda dapat membangun sesuatu.</Text>
+		</Row>
+		<Row Tag="LOC_META_108_BODY">
+			<Text>Namun, setiap hex harus diolah oleh populasi [ICON_Citizen] Anda untuk mendapatkan hasil panen dari hex tersebut. Setiap warga [ICON_Citizen] dapat mengolah 1 hex di dalam wilayah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_109_BODY">
+			<Text>Meningkatkan populasi [ICON_Citizen] di kota Anda sangat penting untuk memanfaatkan semua hasil dari lahan sekitar.</Text>
+		</Row>
+		<Row Tag="LOC_META_110_BODY">
+			<Text>Sekarang terserah Anda untuk memutuskan apa yang ingin Anda produksi di kota ini.[NEWLINE][NEWLINE][NEWLINE] - Latihlah seorang Pembangun untuk memperluas dan memperbaiki wilayah sekitar di dalam batas wilayah Anda.[NEWLINE][NEWLINE][NEWLINE] - Latih unit tempur untuk memperluas ukuran dan kekuatan militer Anda. [NEWLINE][NEWLINE] - Bangun Gudang Pangan untuk menyediakan tambahan [ICON_Food] Pangan untuk kota Anda dan lebih banyak [ICON_Housing] Perumahan untuk penduduk [ICON_Citizen] Anda.</Text>
+		</Row>
+		<!---->
+		<!--TUTORIAL GOALS TEXT-->
+		<!---->
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_1">
+			<Text>Tujuan:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_2">
+			<Text>Untuk MENYELESAIKAN tutorial:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_3">
+			<Text>Untuk MENGIKUTI tutorial:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_1">
+			<Text>JELAJAHI: Jelajahi area-area yang belum terjamah di wilayah ini.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_1">
+			<Text>Gunakan Scout Anda untuk menemukan dan menjelajahi semua Desa Suku di wilayah tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_2">
+			<Text>PERTAHANAN: Pindahkan pasukan ke kota.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_2">
+			<Text>Pindahkan pasukanmu kembali ke kota untuk mempertahankan.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_3">
+			<Text>PERTAHANKAN: Jaga para prajurit di dalam kota.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_3">
+			<Text>Tempatkan pasukanmu di dalam kota untuk mempertahankannya.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_4">
+			<Text>PELATIHAN PENYELENGGARA: Pelatihan lengkap untuk unit Penyelenggara.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_4">
+			<Text>Latih sepenuhnya unit Pemukim untuk memperluas peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_5">
+			<Text>Mendirikan Kota Baru: Mengantar Pemukim ke lokasi yang ditentukan.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_5">
+			<Text>Dampingi Pemukim dengan Prajurit Anda ke lokasi yang ditentukan.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_6">
+			<Text>PENGEMBANGAN: Gunakan Builder untuk meningkatkan kualitas lahan di sekitar kota baru.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_6">
+			<Text>Gunakan Builder untuk memperbaiki lahan di sekitar kota baru.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_7">
+			<Text>ILMU PENGETAHUAN: Bangunlah sebuah kampus di ibu kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_7">
+			<Text>Pembangunan kampus secara menyeluruh di ibu kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_8">
+			<Text>Temukan dan jelajahi desa suku lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_9">
+			<Text>Capai populasi 6 di salah satu kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_10">
+			<Text>EKSPLOIT: Bangun 5 peningkatan</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_11">
+			<Text>HANCURKAN: Basmi ancaman Barbarian dari wilayah Anda dan hancurkan kamp Barbarian.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_12">
+			<Text>Hancurkan peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_13">
+			<Text>PEMBANGUNAN PENINGKATAN: Gunakan unit Pembangun Anda untuk membangun peningkatan ketiga di kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_14">
+			<Text>Bangun Tembok Kuno di Kota Ibukota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_15">
+			<Text>Bangun Distrik Perkemahan dan tingkatkan dengan Barak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_16">
+			<Text>Latih lima unit militer, termasuk setidaknya satu pemanah atau penabrak. [NOT YET IMPLEMENTED].</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_17">
+			<Text>UNTUK MENANG: Hancurkan peradaban lain dengan merebut Ibukotanya.</Text>
+		</Row>
+		<!---->
+		<!--CITY PANEL BUILT-IN ADVISOR MESSAGES-->
+		<!---->
+		<Row Tag="LOC_ADVISOR_CITYPANEL_HOUSING_INTRO">
+			<Text>UNTUK MENDAPATKAN PERUMAHAN:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_AMENITY_INTRO">
+			<Text>UNTUK MENDAPATKAN FASILITAS:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CONSTRUCT">
+			<Text>[NEWLINE][NEWLINE][NEWLINE] Membangun Bangunan: {1_Buildings}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_ZONE">
+			<Text>[NEWLINE][NEWLINE][NEWLINE] Tambahkan Distrik: {1_District}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_BUILD">
+			<Text>[NEWLINE] [NEWLINE] Peningkatan Tempat: {1_Increase}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_IMPROVE_LUXURIES">
+			<Text>[NEWLINE][NEWLINE] Tingkatkan sumber daya mewah.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_RESEARCH">
+			<Text>[NEWLINE] [NEWLINE] Teknologi Penelitian: {1_Techs}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
+			<Text>[NEWLINE] [NEWLINE] Buka Civics: {1_Civics}</Text>
+		</Row>
+		<Row Tag="LOC_META_53_BODY">
+			<Text>Simbol-simbol yang ditampilkan di dalam node teknologi mewakili unit baru, bangunan, keajaiban, dan kemampuan yang dapat dibuka setelah teknologi tersebut selesai dikembangkan. Misalnya, setelah Anda menyelesaikan penelitian teknologi Keramik, Anda dapat membangun bangunan Lumbung di semua kota Anda. Pekerja Anda juga akan mendapatkan kemampuan untuk memanen sumber daya Gandum di dekat kota Anda. Meskipun memanen sumber daya Gandum memberi Anda sejumlah besar [ICON_Food] Makanan, sumber daya tersebut akan dihapus dari peta. Dalam kebanyakan kasus, lebih baik merawat sumber daya Gandum dengan membangun perbaikan Pertanian di atasnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_167_BODY">
+			<Text>Kemajuan teknologi rakyat Anda capai melalui penelitian. Dengan menyelesaikan penelitian tentang teknologi, Anda akan membuka cara-cara baru untuk mengeksploitasi tanah, unit militer baru, peningkatan kota baru, dan masih banyak lagi.</Text>
+		</Row>
+		<Row Tag="LOC_META_111_BODY">
+			<Text>Sama seperti pembangunan unit baru yang didorong oleh [ICON_Production] Produksi, penelitian teknologi baru didorong oleh [ICON_Science] Sains.</Text>
+		</Row>
+		<Row Tag="LOC_META_112_BODY">
+			<Text>Setiap kota dalam kerajaan Anda menghasilkan sejumlah kecil [ICON_Science] Ilmu Pengetahuan per giliran. Kecepatan penyelesaian proyek penelitian Anda ditentukan oleh total [ICON_Science] Ilmu Pengetahuan yang dihasilkan oleh semua kota Anda. [Semakin banyak [ICON_Science] Ilmu Pengetahuan yang Anda hasilkan, semakin cepat Anda meneliti teknologi baru.</Text>
+		</Row>
+		<Row Tag="LOC_META_SELECT_IRRIGATION">
+			<Text>Pilih Irigasi dari panel pemilih penelitian.</Text>
+		</Row>
+    <Row Tag="LOC_META_6_HEAD">
+      <Text>PILIH PENELITIAN</Text>
+    </Row>
+		<Row Tag="LOC_META_6_BODY">
+			<Text>Klik tombol Pilih Penelitian untuk membuka Panel Penelitian.</Text>
+		</Row>
+		<Row Tag="LOC_META_113_BODY">
+			<Text>Untuk tujuan tutorial ini, kami telah mempercepat proses produksi unit ini. Biasanya, proses produksi ini akan memakan waktu beberapa putaran lagi untuk diselesaikan.</Text>
+		</Row>
+		<Row Tag="LOC_META_12_BODY">
+			<Text>Klik pemberitahuan "Pilih Produksi" untuk membuka menu Produksi kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_15_BODY">
+			<Text>Klik pada unit Warrior untuk memilihnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_114_BODY">
+			<Text>Semua Desa Suku akan memberikan hadiah saat dieksplorasi oleh pemain. Desa Suku ini telah memberi Anda unit Pengintai baru, yang telah muncul di kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_115_BODY">
+			<Text>Lanjutkan menjelajahi dunia bersama Scout Anda. Akhiri giliran saat aksinya selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_116_BODY">
+			<Text>Peradaban Anda akan selalu meneliti suatu teknologi. Karena Anda baru saja menyelesaikan penambangan, Anda harus memilih teknologi apa yang akan diteliti selanjutnya sebelum dapat melanjutkan ke giliran berikutnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_117_BODY">
+			<Text>Penelitian tentang teknologi keramik telah dimulai. Akhiri giliran Anda setelah Anda memindahkan unit Scout Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_118_BODY">
+			<Text>Untuk memenangkan permainan Civilization, Anda harus mengalahkan semua peradaban lain di dunia. Ada beberapa cara untuk mencapainya. Sebagian besar permainan akan berakhir pada tahun 2050 atau setelah jumlah giliran yang ditentukan. Jika tidak ada pemain yang mencapai kemenangan pada saat itu, skor akan menentukan pemenangnya. Skor dihitung sebagai ukuran umum pencapaian setiap pemain di semua bidang usaha.</Text>
+		</Row>
+		<Row Tag="LOC_META_119_BODY">
+			<Text>Status kondisi setiap Victory dilacak di panel Peringkat Dunia. [NEWLINE] [NEWLINE] Buka sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_META_119a_HEAD">
+			<Text>Peringkat Dunia</Text>
+		</Row>
+		<Row Tag="LOC_META_119a_BODY">
+			<Text>Klik untuk membuka panel Peringkat Dunia</Text>
+		</Row>
+		<Row Tag="LOC_META_120_BODY">
+			<Text>Tab "Keseluruhan" memberikan gambaran umum tentang semua jenis kemenangan dan peringkat Anda dibandingkan dengan pemain lain.</Text>
+		</Row>
+		<Row Tag="LOC_META_121_BODY">
+			<Text>Tab lainnya memberikan detail yang lebih spesifik tentang setiap set peringkat. [Tutup panel saat Anda siap untuk melanjutkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_122_BODY">
+			<Text>Sisa tutorial ini akan membantu Anda mencapai kemenangan Domination pertama Anda.[NEWLINE][NEWLINE]Tujuan dari kemenangan Domination adalah agar peradaban Anda menjadi yang terakhir yang menduduki kota ibu kota [ICON_CAPITAL] miliknya sendiri.[Untuk tutorial ini, artinya Anda harus menggunakan pasukan militer Anda untuk merebut kota ibu kota [ICON_CAPITAL] milik lawan Anda, sambil mencegah mereka merebut kota ibu kota Anda. Namun, kami telah menyediakan tiga tujuan opsional yang, jika diselesaikan, akan sangat membantu Anda dalam mencapai tujuan ini.</Text>
+		</Row>
+		<Row Tag="LOC_META_123_BODY">
+			<Text>Jika Anda ragu tentang sesuatu, atau mencari informasi lebih lanjut tentang hal-hal yang Anda lihat dalam tutorial ini, kemungkinan besar Anda akan menemukannya di Civilopedia.</Text>
+		</Row>
+		<Row Tag="LOC_META_64_BODY">
+			<Text>Distrik adalah area khusus di kota Anda yang didedikasikan untuk menghasilkan hasil tertentu. Bangunan dapat dibangun di distrik untuk meningkatkan hasil tersebut sekaligus memberikan manfaat lain bagi kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_65_BODY">
+			<Text>Misalnya, Anda telah membuka distrik {DISTRICT_TYPE} yang didedikasikan untuk menyediakan {YIELD_TYPE} bagi peradaban Anda. Membangun bangunan {DISTRICT_BUILDING} di distrik ini akan meningkatkan produksi {YIELD_TYPE} bagi peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_66_BODY">
+			<Text>Untuk menempatkan distrik, pilih distrik tersebut di menu produksi kota Anda seperti halnya memilih bangunan atau unit. Beberapa distrik memiliki aturan tentang lokasi penempatannya, tetapi yang lebih penting adalah distrik dapat memberikan keuntungan yang lebih besar jika ditempatkan di lokasi yang optimal.</Text>
+		</Row>
+		<Row Tag="LOC_META_67_BODY">
+			<Text>Ketika Anda siap untuk menetapkan zona di suatu distrik, permainan akan membantu Anda memilih lokasi terbaik. Terkadang Anda mungkin tidak memiliki lokasi yang valid di kota Anda untuk menempatkan distrik baru secara langsung. Lokasi tersebut mungkin perlu dibersihkan dari hambatan, atau semua lahan kota yang sudah ada mungkin sudah mengalami peningkatan.</Text>
+		</Row>
+		<Row Tag="LOC_META_68_BODY">
+			<Text>Memperluas ukuran kota Anda adalah salah satu cara untuk mendapatkan lebih banyak lokasi untuk distrik, serta peningkatan.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_5">
+			<Text>Yang Mulia, jika boleh saya sampaikan... Meskipun para ilmuwan kami bersedia untuk meneliti topik-topik lain, saya rasa lebih baik tidak mengganggu mereka sampai mereka menyelesaikan proyek saat ini kecuali benar-benar diperlukan.</Text>
+		</Row>
+		<Row Tag="LOC_META_69_BODY">
+			<Text>Setiap kemajuan penelitian dalam suatu teknologi tidak akan sia-sia, sehingga ada kasus di mana mengubah fokus penelitian secara strategis dapat dibenarkan. Namun, lebih baik memiliki teknologi yang sudah selesai daripada banyak teknologi yang belum selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_73_BODY">
+			<Text>Dalam Civilization VI, Anda dapat memperoleh Eureka Moment yang mempercepat penelitian teknologi Anda melalui pencapaian dalam permainan. Eureka Moment ini diperoleh dengan menemukan keajaiban alam. Pencapaian lainnya dapat berupa memenangkan pertempuran dengan unit tertentu atau membangun sebuah bangunan. Mencapai pencapaian-pencapaian ini sangat mempercepat kemajuan teknologi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_127_BODY">
+			<Text>Pramuka sangat cocok untuk menyelidiki Desa Suku karena mereka mendapatkan pengalaman dari kegiatan tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_META_72_BODY">
+			<Text>Setiap kemajuan produksi pada suatu item dalam antrean tidak akan hilang, sehingga ada kasus di mana mengubah fokus produksi kota Anda secara strategis dapat dibenarkan. Namun, seringkali lebih baik menyelesaikan apa yang telah Anda mulai sebelum memulai sesuatu yang baru.</Text>
+		</Row>
+		<Row Tag="LOC_META_74_BODY">
+			<Text>Anda mungkin telah memperhatikan bahwa unit Builder Anda menghilang setelah menggunakan 'charge' bangunan yang terakhir. Hal ini terjadi karena seluruh tenaga kerjanya telah habis. Anda perlu melatih lebih banyak Builder seiring kemajuan permainan untuk memperbaiki wilayah di sekitar kota-kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_75_BODY">
+			<Text>Pramuka, berbeda dengan unit militer lainnya, mendapatkan pengalaman menjelajahi Desa Suku. Mereka juga bisa mendapatkan pengalaman menemukan keajaiban alam di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_META_128_BODY">
+			<Text>Anda mungkin telah memperhatikan bahwa kota-kota Anda menghasilkan sejumlah kecil [ICON_Faith] Faith setiap gilirannya.[NEWLINE][NEWLINE][ICON_Faith] Faith diperoleh seiring waktu melalui bangunan, distrik, dan kebijakan tertentu.</Text>
+		</Row>
+		<Row Tag="LOC_META_129_BODY">
+			<Text>Sekarang setelah Anda telah mengumpulkan cukup [ICON_Faith] Faith, Anda dapat mengambil langkah pertama untuk mendirikan sebuah Agama dengan membentuk sebuah Pantheon, yang akan memberikan Anda pilihan manfaat strategis.</Text>
+		</Row>
+		<Row Tag="LOC_META_129b_HEAD">
+			<Text>Pilih Pantheon</Text>
+		</Row>
+		<Row Tag="LOC_META_129b_BODY">
+			<Text>Klik tombol Agama untuk membuka layar Agama dan pilih Pantheon.</Text>
+		</Row>
+		<Row Tag="LOC_META_129c">
+			<Text>Ada banyak Pantheon yang dapat dipilih dengan efek gameplay yang berbeda-beda. Setelah dipilih oleh seorang pemain, Pantheon tersebut akan dihapus dari daftar Pantheon yang tersedia dan menjadi eksklusif untuk agama pemain tersebut selama permainan berlangsung. Pilihlah dengan bijak!</Text>
+		</Row>
+		<Row Tag="LOC_META_129d">
+			<Text>Pilih sebuah Pantheon, lalu klik tombol 'Telah menemukan Pantheon ini' setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_META_130_BODY">
+			<Text>Selamat! Langkah selanjutnya adalah menarik seorang Nabi Agung, yang akan mampu mendirikan sebuah Agama. Namun, terlebih dahulu, Anda perlu membangun distrik Tempat Suci atau menerapkan kebijakan pemerintah yang sesuai, keduanya akan memberikan Anda Poin Nabi Agung.</Text>
+		</Row>
+		<Row Tag="LOC_META_131_BODY">
+			<Text>Ada jumlah kesempatan yang terbatas untuk mendirikan sebuah Agama. Melakukannya adalah opsional, tetapi ingatlah bahwa jika Anda tidak melakukannya, Anda mungkin tidak memiliki pertahanan yang efektif terhadap pemain yang berusaha meraih Kemenangan Agama dengan mengonversi warga negara [ICON_Citizen] Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_131b_HEAD">
+			<Text>Tutup Agama</Text>
+		</Row>
+		<Row Tag="LOC_META_132_BODY">
+			<Text>Nabi Agung Anda [ICON_GreatProphet] telah mendirikan agama baru, dan Anda harus menyesuaikannya dengan memilih nama, simbol, serta dua keyakinan agama tambahan yang akan melengkapi keyakinan Pantheon yang telah Anda pilih sebelumnya.</Text>
+		</Row>
+		<Row Tag="LOC_META_133_BODY">
+			<Text>Agama baru Anda dapat menyebar antar kota, mengubah warga kota [ICON_Citizen] menjadi pengikutnya. Sebuah kota dapat memiliki campuran beberapa agama. Agama yang memiliki mayoritas pengikut di sebuah kota akan menjadi agama yang memberikan bonus.</Text>
+		</Row>
+		<Row Tag="LOC_META_134_BODY">
+			<Text>Meskipun Agama akan menyebar secara alami dari kota ke kota, Anda dapat memicu pergeseran mendadak dengan melatih unit Misionaris dan Rasul, lalu mengirim mereka untuk menyebarkan Agama rakyat Anda. Unit-unit ini dapat diperoleh dengan menghabiskan [ICON_Faith] Iman untuk membelinya di tab Pembelian pada menu Produksi kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_135_BODY">
+			<Text>Menyebarkan agama Anda secara agresif sangat penting jika Anda menargetkan Kemenangan Agama. Bahkan jika Anda tidak menargetkannya, bijaksana untuk memantau bagaimana agama menyebar di seluruh dunia. Lawan penyebarannya di mana memungkinkan untuk mengurangi peluang pemain lain meraih Kemenangan dengan cara ini.</Text>
+		</Row>
+		<Row Tag="LOC_META_136_BODY">
+			<Text>Anda telah mendapatkan kesempatan untuk mengklaim seorang [ICON_GreatPerson] Tokoh Besar untuk peradaban Anda. [Tokoh Besar memberikan manfaat yang signifikan bagi peradaban Anda berdasarkan bidang keahlian mereka. Terdapat berbagai jenis [ICON_GreatPerson] Tokoh Besar, termasuk seniman, insinyur, dan pemimpin militer.</Text>
+		</Row>
+		<Row Tag="LOC_META_136b_HEAD">
+			<Text>Orang-orang Hebat</Text>
+		</Row>
+		<Row Tag="LOC_META_136b_BODY">
+			<Text>Buka panel [ICON_GreatPerson] Great People untuk mengklaim [ICON_GreatPerson] Great Person Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_137_BODY">
+			<Text>Ini adalah panel [ICON_GreatPerson] Tokoh Besar. Panel ini menampilkan semua tokoh besar [ICON_GreatPerson] yang saat ini tersedia untuk diklaim oleh peradaban, manfaat yang mereka berikan, dan biayanya.</Text>
+		</Row>
+		<Row Tag="LOC_META_138_BODY">
+			<Text>Setiap [ICON_GreatPerson] Tokoh Besar memiliki satu atau lebih kesempatan untuk mengaktifkan bonus khusus. Mereka akan muncul sebagai unit di salah satu kota Anda, dan Anda harus mengaktifkan bonus mereka di lokasi khusus di peta. Setelah mereka menggunakan semua bonus mereka, [ICON_GreatPerson] Tokoh Besar akan menghilang.</Text>
+		</Row>
+		<Row Tag="LOC_META_139_BODY">
+			<Text>Seorang [ICON_GreatPerson] Tokoh Besar diperoleh dengan mengumpulkan cukup banyak Poin Tokoh Besar [ICON_GreatPerson] dari jenisnya, kemudian menggunakannya untuk merekrut Tokoh Besar [ICON_GreatPerson] ke dalam peradaban Anda. Poin-poin ini terutama berasal dari distrik dan bangunan, tetapi juga dapat diperoleh dari kebijakan dan efek lainnya. Jika Anda terburu-buru, Anda dapat menghabiskan [ICON_Gold] Emas atau [ICON_Faith] Keyakinan untuk langsung mendapatkan [ICON_GreatPerson] Tokoh Besar yang Anda inginkan.</Text>
+		</Row>
+		<Row Tag="LOC_META_140_BODY">
+			<Text>Anda dapat memilih untuk melewatkan [ICON_GreatPerson] Tokoh Besar yang tidak Anda inginkan. Jika Anda melakukannya, pemain lain akan memiliki kesempatan untuk mengklaimnya, dan pilihan Anda untuk melewatkan tidak dapat dibatalkan. Namun, Poin Tokoh Besar [ICON_GreatPerson] Anda akan disimpan untuk kesempatan di masa mendatang.</Text>
+		</Row>
+		<Row Tag="LOC_META_141_BODY">
+			<Text>Anda baru saja menyelesaikan unit Trader. Trader melakukan perjalanan antara dua kota dan menghasilkan pendapatan untuk kota asal mereka.</Text>
+		</Row>
+		<Row Tag="LOC_META_142_BODY">
+			<Text>Peradaban Anda dapat mendirikan sejumlah [ICON_TradeRoute] Jalur Perdagangan yang terbatas. Anda dapat memperluas kapasitas ini dengan distrik Pusat Perdagangan atau Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_META_142b_HEAD">
+			<Text>Tetapkan Rute Perdagangan</Text>
+		</Row>
+		<Row Tag="LOC_META_142b_BODY">
+			<Text>Klik tindakan unit 'Tetapkan Rute Perdagangan'.</Text>
+		</Row>
+		<Row Tag="LOC_META_143_BODY">
+			<Text>Saat ini tidak ada kota lain yang dapat Anda jadikan mitra dagang. Lanjutkan menjelajahi peta, atau bangunlah kota baru milik Anda sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_META_144_BODY">
+			<Text>Ini adalah Panel Perdagangan, menampilkan kota-kota yang dapat Anda jalin perdagangan saat ini. Pedagang memiliki jangkauan terbatas, tetapi mengunjungi kota-kota terdekat akan mendirikan Pos Perdagangan di sana, memungkinkan mereka digunakan sebagai jembatan ke tujuan yang lebih jauh.</Text>
+		</Row>
+		<Row Tag="LOC_META_145_BODY">
+			<Text>Tergantung pada bangunan dan distrik di destinasi luar negeri, Anda dapat memperoleh hasil berupa [ICON_Science] Sains, [ICON_Faith] Keyakinan, [ICON_Culture] Budaya, atau [ICON_Gold] Emas setiap giliran selama beberapa giliran tertentu. Untuk destinasi domestik, Anda dapat memperoleh [ICON_Food] Makanan dan [ICON_Production] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_META_145b_BODY">
+			<Text>Pilih tujuan yang Anda inginkan dari daftar kota yang tersedia.</Text>
+		</Row>
+		<Row Tag="LOC_META_145c_BODY">
+			<Text>Klik 'Mulai Rute' untuk mengirim Trader ini menuju tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_META_146_BODY">
+			<Text>Pedagang ini akan melakukan perjalanan ke tujuan dan kembali, menghasilkan hasil yang relevan setiap giliran. Setelah kembali, Anda dapat memilih rute baru.</Text>
+		</Row>
+		<Row Tag="LOC_META_147_BODY">
+			<Text>Pedagang juga akan membangun jalan antar kota selama perjalanannya. Unit yang bergerak di jalan umumnya tidak mengalami penalti pergerakan [ICON_Movement] akibat medan.</Text>
+		</Row>
+		<Row Tag="LOC_META_148_BODY">
+			<Text>Anda telah menemukan kota-negara di dekat Anda. Kota-negara ini adalah peradaban kecil yang memiliki kesamaan dengan pemain lain dalam beberapa hal, tetapi mereka hanya dapat memiliki satu kota dan tidak dapat memenangkan permainan. Dengan bekerja sama dengan tetangga kota-negara Anda, Anda dapat membangun hubungan yang menguntungkan dan bahkan mendapatkan dukungan mereka dalam perang.</Text>
+		</Row>
+		<Row Tag="LOC_META_149_BODY">
+			<Text>Anda juga dapat memilih untuk memaksa kota-kota mereka bergabung ke dalam kerajaan Anda atau menghancurkannya hingga rata dengan tanah - tetapi mereka jauh lebih tangguh daripada Barbarian untuk dikalahkan, dan Anda berisiko membuat sekutu-sekutu mereka yang lain marah.</Text>
+		</Row>
+		<Row Tag="LOC_META_150_BODY">
+			<Text>Klik tombol negara kota atau klik negara kota untuk membuka panel negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_151_BODY">
+			<Text>Ini adalah panel kota-negara. Anda dapat memperoleh Duta Besar dan mengirimkannya ke kota-negara. Melakukan hal ini dapat memberikan Anda buff yang semakin baik untuk [ICON_Science] Sains, [ICON_Culture] Budaya, [ICON_Production] Produksi, [ICON_Gold] Emas, atau [ICON_Faith] Keyakinan. Klik nama kota-negara dalam daftar.</Text>
+		</Row>
+		<Row Tag="LOC_META_152_BODY">
+			<Text>Ini adalah Quest yang dapat Anda selesaikan untuk kota - kota ini. Ini adalah salah satu cara untuk mendapatkan Envoy dan meningkatkan persahabatan Anda dengannya. Anda juga bisa mendapatkan Envoys dengan menyelesaikan item tertentu di Pohon Kebijakan, serta seiring waktu melalui pemerintahan dan kebijakan.</Text>
+		</Row>
+		<Row Tag="LOC_META_153_BODY">
+			<Text>Unit Anda mendekati kota musuh. Serangan terhadap kota biasanya merupakan tugas yang sulit dan berisiko tinggi, yang membutuhkan kombinasi jenis unit dan pendekatan taktis.</Text>
+		</Row>
+		<Row Tag="LOC_META_154_BODY">
+			<Text>Peringkat pertahanan dan bilah kesehatan kota ditampilkan pada Plakat Namanya. Kota ini memiliki Tembok. Kota ini dapat melancarkan serangan jarak jauh dari jarak 2 heks, dan akan sangat tahan terhadap unit pertempuran jarak dekat.</Text>
+		</Row>
+		<Row Tag="LOC_META_155_BODY">
+			<Text>Beberapa unit pengepungan dapat meningkatkan peluang kamu. Katapel dapat menyerang dari jarak jauh dan menyebabkan kerusakan yang signifikan pada Tembok, sementara Ram Pengepungan atau Menara Pengepungan memungkinkan unit pertempuran jarak dekat untuk menyerang Tembok atau mengelilinginya.</Text>
+		</Row>
+		<Row Tag="LOC_META_156_BODY">
+			<Text>Anda telah bertemu dengan pemimpin peradaban lain. Dalam Civilization VI, biasanya akan ada beberapa peradaban lain yang berbagi peta dunia dengan Anda. Peradaban-peradaban ini dikendalikan oleh kecerdasan buatan (AI) permainan, dan memiliki kemampuan serta ambisi yang sama dengan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_157_BODY">
+			<Text>Saat Anda bermain, Anda perlu mempertimbangkan cara berinteraksi dengan tetangga Anda dan mengamati mereka dengan cermat untuk meningkatkan pemahaman Anda tentang strategi mereka.</Text>
+		</Row>
+		<Row Tag="LOC_META_158_BODY">
+			<Text>Pemimpin peradaban yang telah Anda temui dalam permainan akan muncul di sini. Ikon pemimpin di sebelah kanan paling jauh mewakili peradaban Anda. Semua pemimpin lainnya akan terdaftar di sebelah peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_META_158b_HEAD">
+			<Text>Diplomasi Pemimpin</Text>
+		</Row>
+		<Row Tag="LOC_META_158b_BODY">
+			<Text>Klik ikon pemimpin peradaban lain untuk mengakses tampilan Diplomasi.</Text>
+		</Row>
+		<Row Tag="LOC_META_159_BODY">
+			<Text>Ketika Anda menghubungi pemimpin lain, Anda dapat melakukan berbagai tindakan, seperti bertukar barang, menegosiasikan perjanjian politik, mengajukan tuntutan, atau mendeklarasikan perang.</Text>
+		</Row>
+		<Row Tag="LOC_META_160_BODY">
+			<Text>Anda dapat mengirimkan Delegasi untuk memperkuat hubungan Anda dan mengungkapkan informasi lebih lanjut tentang ibu kota mereka [ICON_CAPITAL].</Text>
+		</Row>
+		<Row Tag="LOC_META_161_BODY">
+			<Text>Menyerang musuh akan memberi tahu semua peradaban lain bahwa Anda memiliki masalah dengan mereka. Hal ini membuka jalan menuju perang. Jika Anda tidak mengungkapkan perasaan Anda, perang yang Anda nyatakan akan menjadi Perang Mendadak, yang akan memberikan reputasi "Pencari Perang" yang bertahan lama pada Anda, yang mungkin memengaruhi hubungan Anda dengan pemimpin lain di masa depan.</Text>
+		</Row>
+		<Row Tag="LOC_META_162_BODY">
+			<Text>Anda juga dapat bernegosiasi dengan seorang pemimpin. Hal ini dapat mencakup perdagangan komoditas atau kesepakatan politik seperti Perbatasan Terbuka atau Perang Bersama. Sebagai alternatif, Anda dapat menuntut agar mereka berurusan dengan Anda. Hal ini akan merusak hubungan Anda, tetapi mereka mungkin akan menurut jika mereka lemah atau ingin menghindari perang.</Text>
+		</Row>
+		<Row Tag="LOC_META_163_BODY">
+			<Text>Apa yang Anda ketahui tentang para pemimpin ini dirangkum di sini. Perhatikan agenda-agenda mereka. Jika Anda bertindak bertentangan dengan agenda-agenda mereka, hubungan Anda dengan mereka bisa memburuk dan berpotensi menimbulkan konflik.</Text>
+		</Row>
+		<Row Tag="LOC_META_164_BODY">
+			<Text>Meningkatkan tingkat akses Anda ke peradaban ini akan mengungkapkan informasi yang lebih rinci tentang mereka, dan Anda akan diberitahu ketika mereka melakukan tindakan tertentu. Disarankan untuk meningkatkan hal ini sebanyak mungkin dengan para pemimpin yang Anda temui, atau Anda tidak akan mengetahui strategi mereka.</Text>
+		</Row>
+		<Row Tag="LOC_META_165_BODY">
+			<Text>Bagian ini menjelaskan apa yang dipikirkan pemimpin tentang Anda, dan alasannya. Jika Anda ingin memperbaiki (atau memperburuk) hubungan Anda, Anda akan menemukan beberapa saran di sini. Mungkin tidak selalu mungkin untuk menghindari melakukan sesuatu yang mengganggu mereka dari waktu ke waktu, jadi penting untuk mengetahui cara menyeimbangkan situasi.</Text>
+		</Row>
+		<Row Tag="LOC_META_166_BODY">
+			<Text>Diplomasi akan semakin penting seiring dengan perkembangan sejarah Anda. Siapa tetangga Anda dan apa yang mereka inginkan akan memiliki dampak jangka panjang terhadap perkembangan peradaban Anda - dan hampir pasti akan menjadi hambatan dalam perjalanan Anda menuju kemenangan.</Text>
+		</Row>
+		<Row Tag="LOC_META_168_BODY">
+			<Text>Negara Kota adalah peradaban kecil yang tidak dapat memenangkan permainan. Membangun hubungan diplomatik yang baik dengan mereka dapat sangat menguntungkan. Hal ini dilakukan dengan mengirim Utusan ke Negara Kota.</Text>
+		</Row>
+		<Row Tag="LOC_META_169_BODY">
+			<Text>Unit pedagang dapat dilatih di salah satu kota Anda. Selain memberikan tambahan [ICON_Gold] Emas dan manfaat lain bagi peradaban Anda, [ICON_TradeRoute] Rute Perdagangan sangat penting untuk membangun jalan antar kota.</Text>
+		</Row>
+		<!---->
+		<!--ROCCO LINES-->
+		<!---->		
+		<Row Tag="ADVISOR_LINE_FTUE_1ALT_1">
+			<Text>Selamat datang, Cleopatra. Nasib rakyat kami berada di tanganmu. Tanggung jawab yang besar telah dibebankan padamu. Mungkin aku bisa membantu.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_1ALT_2">
+			<Text>Selamat datang, Gilgamesh. Nasib rakyat kami berada di tanganmu. Tanggung jawab yang besar telah dibebankan padamu. Mungkin aku bisa membantu.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2_ALT">
+			<Text>Sudah terlalu lama kita mengembara di dunia ini tanpa memiliki tanah yang bisa kita sebut sebagai milik kita sendiri. Saatnya kita menanam akar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_22a">
+		   <Text>Para pemukim pemberani, kami menunggu perintah Anda. Kita harus mendirikan kota pertama kita di sini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_3_ALTV2">
+		   <Text>Dari benih kota kecil ini, engkau akan membangun sebuah kerajaan. Namun, untuk benar-benar berkembang, kita harus terlebih dahulu memenuhi kebutuhan rakyat kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_23">
+		   <Text>Tanah-tanah di hadapan kita menyimpan kekayaan dan bahaya yang tak terkira. Anda harus mempertimbangkannya dengan cermat saat menentukan tujuan akhir mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_36">
+			<Text>Meskipun saat ini masih kecil, kota kita akan terus berkembang jika Anda mengizinkannya. Nasib kota ini dan nasib rakyat kami bergantung pada Anda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_37a">
+			<Text>Kami beruntung karena tanah di sekitar kota kami kaya akan sumber daya. Mengembangkan wilayah tersebut akan menjadi kunci bagi kelangsungan hidup kami...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_38">
+			<Text>Kami beruntung memiliki tanah yang subur di wilayah kami. Namun, sebuah peradaban terdiri dari manusia, bukan hanya tanah.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_46_ALT">
+		   <Text>Tanah-tanah tersebut pasti akan menarik perhatian para perampok Barbarian yang merajalela di wilayah ini. Kita harus bersiap untuk melawan jika ingin bertahan hidup.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_5_ALT_2">
+			<Text>Kota kami membutuhkan Pejuang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_51a">
+			<Text>Jika rakyat kita ingin bertahan hidup di tanah ini, kita harus mengarahkan usaha mereka. Hanya dengan begitu kita dapat menguasai dunia ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_6ALTV_1">
+			<Text>Perlindungan rakyat adalah prioritas utama kami. Arahkan kota Anda menuju pembentukan seorang Pejuang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_61">
+		   <Text>Pelatihan telah dimulai. Karyawan kami sudah merasa lebih aman.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_62">
+			<Text>Kekaisaran kita tidak akan dibangun dalam semalam. Kami telah melakukan semua yang bisa kami lakukan hari ini...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_63">
+			<Text>Tidak ada hal lain yang perlu Anda urus.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_7ALT">
+			<Text>Para Prajurit kami terus berlatih. Namun, jika kita ingin menjadi lebih dari sekadar suku-suku barbar yang kita lawan, kita harus menjelajahi bidang-bidang pengembangan lainnya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_71">
+			<Text>Di antara kita ada orang-orang yang memiliki kecerdasan luar biasa dalam mengungkap rahasia dunia. Kita hanya perlu membimbing mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_8ALT">
+		   <Text>Sangat baik. Seiring dengan meningkatnya pemahaman masyarakat kita tentang bumi, kemampuan kita untuk memanfaatkan kekayaannya dan meningkatkan kapasitas produksi kita pun akan meningkat. Kita harus memberi mereka waktu untuk melakukan pekerjaan mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_81">
+			<Text>Tidak ada lagi hal-hal yang memerlukan perhatian Anda hari ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_9ALT">
+			<Text>Penjarah barbar mendekati kota kita! Kita pasti menjadi target yang terlalu berharga bagi mereka untuk diabaikan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_92">
+			<Text>Kita tidak boleh membiarkan para barbar ini merampok dan menghancurkan segala sesuatu yang telah kita bangun. Para Prajurit kita telah menyelesaikan latihan mereka. Mari kita kirimkan mereka ke medan perang!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_94">
+			<Text>Pejuang adalah pedang yang akan kita gunakan untuk mengalahkan musuh kita. Mereka hanya membutuhkan tanganmu untuk membimbing mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_10ALT">
+			<Text>Kemenangan! Bangsa Barbar telah belajar bahwa kita bukanlah bangsa yang bisa diremehkan. Namun, mereka akan kembali, dan kali ini saya khawatir mereka tidak akan menganggap kita remeh lagi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_12ALT">
+			<Text>Kita harus memanfaatkan jeda dalam pertempuran ini. Dengan pasukan kita yang sekarang siap, kita dapat mengarahkan kemampuan produksi kita ke kota itu sendiri.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_121">
+			<Text>Sangat baik. Keterampilan yang akan dikuasai oleh para Pembangun ini akan secara signifikan meningkatkan peradaban kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_13ALT">
+			<Text>Tanah-tanah di sekitar kota kita subur. Namun hingga saat ini, tanah-tanah tersebut belum dikembangkan. Kita harus membentuk tenaga kerja jika ingin memaksimalkan sumber daya yang ada di wilayah kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_131">
+			<Text>Kami tidak memiliki hal lain yang memerlukan perhatian Anda hari ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_14_ALT">
+			<Text>Sementara para Pembangun kami berlatih untuk meningkatkan kualitas hidup di dalam wilayah kami, kami tidak boleh mengabaikan wilayah di luarnya. Satu-satunya cara untuk benar-benar menguasai dunia ini adalah dengan memahaminya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_15ALT">
+			<Text>Di luar pertempuran, para Prajurit kami merupakan penjelajah yang ideal di dunia yang tidak pasti dan berbahaya ini. Cukup berikan perintah, dan mereka akan berangkat ke tempat yang belum diketahui.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_151">
+			<Text>Sendirian, berjalan kaki, wilayah liar memberikan beban berat bagi pasukan kita. Mungkin ada jalan yang lebih mudah...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_153">
+			<Text>Upaya para Prajurit kita telah membuahkan hasil. Mereka telah menemukan sebuah desa suku kecil.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_154">
+			<Text>Orang-orang ini tampaknya berbeda dengan suku-suku Barbar yang kita temui. Mungkin sebaiknya kita menjalin kontak daripada berperang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_155">
+			<Text>Kami telah menangani semua hal yang diperlukan hari ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_FTUE_47_ALT">
+			<Text>Para Prajurit kami berdiri di depan gerbang desa. Mereka menunggu perintah Anda untuk masuk.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_16_ALT">
+			<Text>Sepertinya persahabatan memang ada balasannya. Keberhasilan kita melawan Barbarian telah sampai ke desa ini. Terkesan dengan budaya kita, mereka ingin memberontak melawan penindas mereka dan bergabung dengan kita dalam perjuangan melawan gerombolan Barbarian.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_17_ALT">
+			<Text>Meskipun tidak mahir dalam seni berperang, suku ini memiliki pengetahuan yang luas tentang wilayah tersebut. Kemampuan mereka untuk bergerak dengan cepat di medan membuat mereka menjadi pengintai yang ideal. Kita harus memanfaatkan mereka dengan baik.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_171">
+			<Text>Mungkin ada pemukiman lain yang sejenis di tanah-tanah di depan. Akan lebih bijaksana bagi kita untuk mencarinya di masa depan...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_18_ALT">
+			<Text>Kita harus menggunakan para Pramuka ini dengan hati-hati. Mereka adalah penjelajah yang hebat tetapi pejuang yang buruk. Akan bijaksana bagi mereka untuk menghindari pertempuran sebanyak mungkin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_181">
+			<Text>Tidak ada hal lain yang memerlukan perhatian Anda hari ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_21_ALT">
+			<Text>Penjelajahan mungkin membawa banyak manfaat, tapi jangan sampai kita melupakan keamanan ibu kota kita. Kita harus mengarahkan para prajurit kita pulang untuk melindunginya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_22_ALT">
+			<Text>Para Pramuka kami menunggu perintah. Mereka harus menjelajahi dan mengajarkan kepada kami tentang tanah-tanah baru yang belum ditemukan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_23_ALT">
+			<Text>Tidak ada lagi hal yang perlu ditangani hari ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_231">
+			<Text>Tim kami sedang bekerja keras untuk memenuhi pesanan Anda. Mari kita manfaatkan waktu ini untuk lebih mengembangkan para Pramuka kami.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_232">
+			<Text>Tidak ada hal lain yang memerlukan perhatian Anda hari ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_26_ALT">
+			<Text>Warga negara kami bersuka cita atas kembalinya para Pejuang pemberani kami. Mungkin mereka harus memperkuat posisi mereka untuk mempertahankan diri dari ancaman Barbar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_261">
+			<Text>Sangat baik, dengan para prajurit kita yang telah memperkuat posisi mereka, rakyat kita aman. Akan bijaksana untuk mempertahankan keunggulan ini selama mungkin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_24_ALT">
+			<Text>Sementara pasukan kita mempersiapkan pertahanan kota kita, para ahli terbaik kita telah menemukan cara untuk mengekstraksi sumber daya berharga langsung dari bumi. Dengan ketersediaan batu berharga yang melimpah di sekitar kita, para Pembangun kita mungkin dapat memanfaatkan pengetahuan ini setelah mereka menyelesaikan pelatihan mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_241">
+			<Text>Orang-orang kami senang dalam mengejar ilmu pengetahuan. Kami hanya perlu mengarahkan usaha mereka, dan mereka akan menemukan misteri lain dari dunia ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_242">
+			<Text>Keputusan yang bijaksana. Kini, masyarakat kita dapat menemukan penggunaan baru untuk bahan-bahan yang kita temukan di Tambang dan Batu Bara kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_243">
+			<Text>Namun, janganlah kita melupakan upaya eksplorasi para Pramuka. Ada dunia yang luas di depan kita yang perlu kita temukan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_19_ALT">
+			<Text>Seiring para Pramuka kita terus maju, mari kita fokus pada ibu kota kita sendiri. Seiring pertumbuhan kota kita, begitu pula meningkatnya kebutuhan masyarakat kita...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_191">
+			<Text>Para Pembangun kami kini siap bertindak. Membangun pertanian di lahan subur di dalam kota kami akan meningkatkan hasil panen dan memastikan pasokan pangan yang lebih baik bagi warga kami.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_192">
+			<Text>Dataran ini memiliki tanah yang subur. Tempat yang ideal untuk menanam tanaman pertama kita...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_193">
+			<Text>Sangat baik. Dengan perut yang kenyang, rakyat kita akan sejahtera dan populasi kita akan terus bertambah...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_194">
+			<Text>Namun ingatlah, kekuatan para Pembangun kami tidaklah terbatas. Akan lebih bijaksana bagi kita untuk memanfaatkan bakat mereka sebaik mungkin sebelum mereka kelelahan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_20_ALT">
+			<Text>Dengan kebutuhan dasar yang terpenuhi, masyarakat kita kini memiliki kemampuan untuk membangun struktur yang lebih rumit. Mungkin sebuah Monumen untuk semua yang telah mereka capai akan menginspirasi mereka untuk berkembang lebih jauh...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_201">
+			<Text>Sungguh luar biasa, seiring dengan meningkatnya kebanggaan terhadap budaya mereka sendiri, rakyat kita akan terdorong untuk menyebarkan peradaban kita melampaui batas-batas negara mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_202">
+			<Text>Dan ikuti jejak para Pramuka kami yang berani.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_204">
+			<Text>Sekarang setelah rakyat kita telah terpenuhi kebutuhannya, mari kita alihkan perhatian para pembangun ke tempat lain. Ada sumber daya berharga di sekitar kota kita yang belum dimanfaatkan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_205">
+			<Text>Arahkan upaya para Pembangun kami untuk memanfaatkan bahan-bahan berharga ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_206">
+			<Text>Sangat baik. Batu yang kami ambil dari tambang ini akan meningkatkan kapasitas produksi kami.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_207">
+			<Text>Sepertinya beberapa dari kami masih membutuhkan arahan Anda...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_209">
+			<Text>Dengan selesainya proyek tambang kami, kami harus mengalihkan perhatian para pembangun untuk melakukan perbaikan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2091">
+			<Text>Masih ada lahan berharga di dalam wilayah kita, kita harus membimbing mereka dengan hati-hati.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2092">
+			<Text>Rakyat kami masih menanti perintah Anda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_27_ALT">
+			<Text>Kami beruntung. Monumen ini berdiri sebagai simbol prestasi dan keteguhan hati rakyat kita. Sesungguhnya, mereka kini akan terinspirasi untuk melangkah lebih jauh ke tanah-tanah di luar sana.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_28_ALT">
+			<Text>Mungkin saat ini kita sudah siap untuk memperluas peradaban kita melampaui kota ibu kota kita. Jika kita tidak mengklaim wilayah di sekitarnya, pasti orang lain yang akan melakukannya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_29_ALT">
+			<Text>Sungguh luar biasa, para pemukim pemberani ini siap membawa budaya kita ke tempat yang belum dikenal. Namun, akan membutuhkan waktu sebelum mereka siap untuk perjalanan yang menanti mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_292">
+			<Text>Ada laporan tentang perampok berbahaya yang berkeliaran di wilayah sekitar. Akan lebih baik jika para Prajurit ini tetap berada di sini untuk menjaga keamanan Ibu Kota kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_30_ALT">
+			<Text>Para Pemukim kami telah menyelesaikan persiapan dan menunggu perintah Anda. Namun, tanah di hadapan mereka menyimpan bahaya yang tak terkira. Kita tidak boleh membiarkan mereka berangkat tanpa perlindungan...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_301">
+			<Text>Baiklah, dengan tim kita yang sudah siap, sekarang kita harus menentukan tujuan kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_302">
+			<Text>Ada sebuah wilayah yang kaya akan sumber daya yang tidak jauh dari Ibu Kota. Mari kita kirimkan para Pemukim kita ke sana.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_31_ALT">
+			<Text>Meskipun para penduduk kami aman di bawah perlindungan para Prajurit kami, Ibu Kota kami kini tak berdaya. Tanpa perlindungan militer, kami pasti akan dikuasai oleh musuh-musuh kami.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_311">
+			<Text>Meskipun para prajurit kami sangat berani, pasukan tempur yang baik haruslah beragam. Pemanah sling memberikan gaya bertempur yang berbeda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_312">
+			<Text>Dengan pengetahuan datanglah kesempatan. Seiring dengan bertambahnya pemahaman masyarakat kita tentang dunia ini, jalan-jalan baru pun terbuka bagi kita...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_33_ALT">
+			<Text>Lokasi sangat penting dalam mendirikan pemukiman baru. Kami beruntung telah menemukan tempat yang begitu ideal.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_331">
+			<Text>Perintahkan orang-orang kita untuk menetap di sini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_332">
+			<Text>Bagus sekali. Peradaban kita terus berkembang melampaui ekspektasi. Suatu saat nanti, mungkin saja peradaban ini akan menyaingi ibu kota kita sendiri.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_34_ALT">
+			<Text>Kota baru ini sudah merindukan untuk berkembang. Penduduknya menanti bimbingan Anda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_35_ALT">
+			<Text>Kami menerima laporan tentang peradaban lain yang berkembang di benua ini. Tampaknya kami bukan satu-satunya yang bersaing untuk menguasai wilayah-wilayah ini.</Text>
+		</Row>
+		<!---->
+		<!--EDIT BELOW-->
+		<!---->		
+		<Row Tag="ADVISOR_LINE_2_ALT">
+			<Text>Sepertinya kita akhirnya berhasil melacak para perampok Barbarian yang mengganggu wilayah ini hingga ke sumbernya. Kita harus menghancurkan benteng ini atau berisiko menghadapi serangan di masa depan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_3_ALT">
+			<Text>Meskipun demikian, saya tetap menyarankan agar berhati-hati. Meskipun primitif dan liar, para Barbar ini adalah prajurit yang tangguh dan perkemahan mereka dijaga dengan ketat. Untuk memastikan kemenangan, kita harus menyerang dengan kekuatan yang sangat besar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_4_ALT">
+			<Text>Kota kami terus berkembang. Warga kami sudah sejahtera dan populasi kami terus bertambah!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_5_ALT">
+			<Text>Meskipun para ilmuwan kami bersedia untuk meneliti topik-topik lain, mungkin tidak bijaksana untuk mengalihkan perhatian mereka dari pekerjaan saat ini kecuali benar-benar diperlukan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_6_ALT">
+			<Text>Tugas yang sedang dihadapi ini sangat penting. Saya sarankan agar kita bersabar dalam hal ini. Sebaiknya kita membiarkan para pegawai kita melanjutkan pekerjaan mereka jika memungkinkan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_7_ALT">
+			<Text>Kami telah menemukan desa ramah lainnya di dekat sini. Mungkin sebaiknya kita mengirim seorang pengintai untuk menyelidiki.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_8_ALT2">
+			<Text>Sebuah kota yang baik dapat menjadi kota yang hebat melalui perencanaan yang matang. Memutuskan lokasi untuk sebuah distrik kota merupakan keputusan yang penting. Pastikan untuk memilih lokasi yang paling sesuai untuk distrik tersebut agar dapat memperoleh manfaat yang maksimal.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_38_ALT">
+			<Text>Warisan kita suatu hari nanti akan tercatat melampaui kata-kata yang diucapkan.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_381">
+			<Text>Sepertinya para Slingers kami telah menyelesaikan pelatihan mereka. Warga kota kami sudah merasa lebih aman...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_382">
+			<Text>Seiring dengan terus berkembangnya dan meningkatnya kemampuan militer kita, masa depan kita menjadi semakin aman.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_383">
+			<Text>Dengan selesainya pelatihan Slingers kami, kami sekarang dapat mengarahkan upaya masyarakat kami ke bidang-bidang baru.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_384">
+			<Text>Rakyat kami masih menanti perintah Anda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_39_ALT">
+			<Text>Dengan menulis, kita mempersatukan rakyat kita. Bahasa tertulis yang sama memungkinkan ide-ide berkembang dan pengetahuan kolektif kita tumbuh. Jika kita menyediakan tempat untuk mengumpulkan dan berbagi pengetahuan ini, rakyat kita pasti akan makmur...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_391">
+			<Text>Dengan mengkonsentrasikan sumber daya dan keahlian ke dalam distrik-distrik, kita dapat mengoptimalkan pertumbuhan kota kita. Kita harus memilih lokasi distrik-distrik ini dengan hati-hati agar dapat memaksimalkan manfaatnya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_40_ALT">
+			<Text>Para tokoh terkemuka dalam peradaban kita sudah tidak sabar menanti selesainya kampus ini...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_401">
+			<Text>Namun, kita tidak boleh membiarkan para pemikir besar ini menganggur. Mari kita alihkan perhatian mereka ke hal lain...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_41_ALT">
+			<Text>Para cendekiawan dan ilmuwan terkemuka telah mulai berkumpul di kampus kami. Menyediakan perpustakaan bagi mereka akan semakin membantu mereka dalam penelitian dan kegiatan ilmiah mereka.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_ALT">
+			<Text>Rakyat kami telah berkembang pesat di bawah bimbingan Anda. Sungguh, peradaban kami tiada tandingannya. Mungkin kini saatnya bagi Anda untuk membuktikan hal ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_2">
+			<Text>Tugas yang ada di hadapan kita memang besar, namun di bawah kepemimpinan Anda, kita tidak akan gagal. Seperti biasa, saya siap mendampingi Anda jika Anda membutuhkan bantuan di sepanjang perjalanan. Semoga peradaban kita benar-benar abadi selamanya.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_3">
+			<Text>Kami telah menang! Sekarang Anda siap untuk menghadapi tantangan yang lebih besar, menjelajahi dunia baru, bertemu peradaban baru, dan meraih kemenangan sesuai dengan syarat Anda sendiri.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_42_ALT">
+			<Text>Sumber daya dan tanah tidaklah terbatas. Sepertinya kini kita menghadapi persaingan. Karena kita belum mengetahui niat sebenarnya dari orang-orang ini, mungkin sebaiknya kita bertindak dengan hati-hati.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_43_ALT">
+			<Text>Perang telah tiba! Rakyat kita dalam bahaya. Kita harus segera mengerahkan pasukan atau berisiko dikalahkan. Tidak ada waktu untuk menunda!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_44_ALT">
+			<Text>Rakyat kami benar-benar berkembang di bawah bimbingan Anda. Namun, seiring dengan pertumbuhan peradaban kami, kepemimpinan kami pun harus berkembang.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_441">
+			<Text>Kita harus segera menerapkan kebijakan untuk lebih mengarahkan pertumbuhan masyarakat kita...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_45_ALT">
+			<Text>Disiplin adalah inti dari setiap tentara dan merupakan keunggulan berharga dibandingkan dengan gerombolan Barbar yang tidak terorganisir. Perencanaan kota akan membuat kota-kota kita lebih terorganisir dan efisien. Saya mengusulkan agar kita menerapkan kedua kebijakan ini.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_453">
+			<Text>Meskipun kebijakan-kebijakan kita mulai menunjukkan hasilnya, peradaban kita akan terus berkembang. Kita harus merencanakan masa depan...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_48">
+			<Text>Orang-orang kami telah memandang langit, dan mulai bertanya-tanya apakah nasib kami mungkin dipandu oleh tangan-tangan kekuatan yang lebih besar. Siapakah para dewa besar ini, dan berkah apa yang mungkin mereka berikan kepada kami?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_50_ALT">
+			<Text>Inspirasi Anda sangat menular. Meskipun peradaban kita mencapai keagungan di bawah kepemimpinan Anda, ada satu di antara rakyat kita yang benar-benar menonjol di atas yang lain. Di bawah bimbingan Anda, dampaknya akan benar-benar bergema sepanjang sejarah.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_51_ALT">
+			<Text>Isolasi bukanlah kunci menuju kemakmuran. Para pedagang memungkinkan kita untuk menjalin hubungan dengan tetangga kita. Melalui perdagangan, kita dapat meningkatkan perekonomian kita dan memperoleh wawasan baru tentang misteri dunia.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_52_ALT">
+			<Text>Kami telah menjalin kontak dengan kelompok yang lebih maju dari Suku Desa yang pernah membantu kami di masa lalu. Apakah kita harus memperluas tangan persahabatan atau berusaha menaklukkan mereka?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_WONDER_73">
+			<Text>Keindahan dan keagungan dunia ini terkadang cukup untuk menginspirasi masyarakat kita menuju arah pemikiran yang baru. Ini adalah penemuan yang beruntung...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_POP_HUT_1">
+			<Text>Sekali lagi, para Pramuka yang berani membuktikan nilai mereka bagi masyarakat kita.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_GENERAL_1">
+			<Text>Bolehkah saya memberikan saran...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_GENERAL_2">
+			<Text>Sesuai keinginan Anda.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_7_ALT_2">
+			<Text>Kami telah menemukan desa ramah lainnya di dekat sini. Mungkin sebaiknya kita mengirim seorang pengintai untuk menyelidiki.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

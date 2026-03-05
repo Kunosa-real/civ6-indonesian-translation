@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BANDNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Row>
+		<!-- Prefix -->
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
+			<Text>Udara</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
+			<Text>Asing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
+			<Text>Kuno</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
+			<Text>Marah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
+			<Text>Hewan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
+			<Text>Menarik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
+			<Text>Arktik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
+			<Text>Suaka</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
+			<Text>atom</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
+			<Text>Audio</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
+			<Text>Buruk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
+			<Text>Besar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
+			<Text>Hitam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
+			<Text>Buta</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
+			<Text>Pirang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
+			<Text>Biru</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
+			<Text>Rusak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
+			<Text>Cokelat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
+			<Text>Kerbau</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
+			<Text>Murah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
+			<Text>Klasik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
+			<Text>Dingin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
+			<Text>Kolektif</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
+			<Text>Dingin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
+			<Text>Gelap</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
+			<Text>Hari</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
+			<Text>Dalam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
+			<Text>Mengerikan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
+			<Text>Listrik </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
+			<Text>Tercerahkan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
+			<Text>Epik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
+			<Text>Ekstrim</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
+			<Text>Palsu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
+			<Text>Menyala</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
+			<Text>Penerbangan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
+			<Text>Hutan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
+			<Text>Bebas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
+			<Text>Ramah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
+			<Text>Takut</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
+			<Text>Berbulu </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
+			<Text>Kemarahan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
+			<Text>Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
+			<Text>Emas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
+			<Text>Bersyukur</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
+			<Text>Hijau</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
+			<Text>Lucu sekali</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
+			<Text>Suci</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
+			<Text>Panas </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
+			<Text>Manusia</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
+			<Text>Lapar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
+			<Text>Nila</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
+			<Text>Industri</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
+			<Text>Besi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
+			<Text>Riang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
+			<Text>Baik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
+			<Text>Lampu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
+			<Text>Kecil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
+			<Text>Kesepian</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
+			<Text>Hilang </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
+			<Text>Keras</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
+			<Text>Rendah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
+			<Text>Setia</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
+			<Text>Sihir</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
+			<Text>Besar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
+			<Text>Maksimum</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
+			<Text>Pertengahan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
+			<Text>Mega</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
+			<Text>Mengancam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
+			<Text>Tengah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
+			<Text>Tengah malam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
+			<Text>Pikiran</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
+			<Text>Mini</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
+			<Text>Kecil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
+			<Text>Modern</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
+			<Text>Sederhana</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
+			<Text>Gunung</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
+			<Text>Bisu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
+			<Text>Misteri</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
+			<Text>Alami</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
+			<Text>Baru</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
+			<Text>Malam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
+			<Text>Nuklir</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
+			<Text>Tua</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
+			<Text>Oranye</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
+			<Text>Dikuasai</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
+			<Text>Pucat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PEOPLE">
+			<Text>Rakyat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
+			<Text>Sempurna</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
+			<Text>Parfum</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
+			<Text>Kecil mungil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
+			<Text>Berwarna merah muda</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
+			<Text>Politik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
+			<Text>Psikedelik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
+			<Text>Ungu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
+			<Text>Diam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
+			<Text>Radikal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
+			<Text>Pelangi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
+			<Text>Acak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
+			<Text>Nyata</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
+			<Text>Merah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
+			<Text>Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
+			<Text>Renaisans</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
+			<Text>Menyaingi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
+			<Text>Sakit</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
+			<Text>Diam </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
+			<Text>Perak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
+			<Text>Menghancurkan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
+			<Text>Sosial</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
+			<Text>Ruang angkasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
+			<Text>Cepat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
+			<Text>Dicuri</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
+			<Text>Super </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
+			<Text>Pembicaraan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
+			<Text>Jinak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
+			<Text>Beracun</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
+			<Text>Tradisional</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
+			<Text>Unik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
+			<Text>Bawah tanah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
+			<Text>Tidak dikenal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
+			<Text>vegan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
+			<Text>Perang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
+			<Text>Air</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
+			<Text>Putih</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
+			<Text>Liar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
+			<Text>Xerik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
+			<Text>Kuning</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
+			<Text>Muda</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
+			<Text>Tekun</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+			<Text>titanium</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+			<Text>Kematian</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+			<Text>Neraka</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+			<Text>Kejam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+			<Text>Tanah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+			<Text>Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+			<Text>raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+			<Text>Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+			<Text>Lapis baja</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+			<Text>Berhubung dgn sibernetika</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+			<Text>Sangat buruk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+			<Text>Mengerikan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+			<Text>Celaka</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+			<Text>Rasa takut</Text>
+		</Row>
+		<!-- Suffix-->
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
+			<Text>Hewan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
+			<Text>Semut</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
+			<Text>Atlas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
+			<Text>Penulis</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
+			<Text>Pita</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
+			<Text>orang barbar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
+			<Text>Pantai</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
+			<Text>Beruang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
+			<Text>mengalahkan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
+			<Text>Lonceng</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
+			<Text>Buku</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
+			<Text>Sarapan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
+			<Text>Keranjang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
+			<Text>Kerbau</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
+			<Text>Bug</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
+			<Text>Pembangun</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
+			<Text>Kanal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
+			<Text>Kartu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
+			<Text>wortel</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
+			<Text>Mobil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
+			<Text>Kastil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
+			<Text>Kucing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
+			<Text>Gua</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
+			<Text>Sel</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
+			<Text>Kursi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
+			<Text>Chinchilla</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
+			<Text>Kota</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
+			<Text>Civics</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
+			<Text>Peradaban</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
+			<Text>Klub</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
+			<Text>Pesisir</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
+			<Text>Kopi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
+			<Text>benua</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
+			<Text>kue</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
+			<Text>Negara</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
+			<Text>Awak kapal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
+			<Text>gagak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
+			<Text>Budaya</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
+			<Text>Tanggal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
+			<Text>Kematian</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
+			<Text>Dewa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
+			<Text>berlian</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
+			<Text>Distrik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
+			<Text>Anjing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
+			<Text>Naga</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
+			<Text>Burung rajawali</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
+			<Text>Echidna</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
+			<Text>Belut</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
+			<Text>Gajah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
+			<Text>Keadaan darurat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
+			<Text>Kaisar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
+			<Text>Kerajaan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
+			<Text>Permaisuri</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
+			<Text>Emu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
+			<Text>Musuh</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
+			<Text>Utusan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
+			<Text>Peristiwa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
+			<Text>Ledakan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
+			<Text>Mata</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
+			<Text>Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
+			<Text>Peternakan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
+			<Text>Pejuang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
+			<Text>Api</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
+			<Text>Makanan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
+			<Text>Jenius</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
+			<Text>Hantu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
+			<Text>Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
+			<Text>Kambing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
+			<Text>Emas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
+			<Text>Gosip</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
+			<Text>Gubernur</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
+			<Text>Gitar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
+			<Text>Topi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
+			<Text>Jantung</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
+			<Text>Tinggi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
+			<Text>kuda nil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
+			<Text>Sejarah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
+			<Text>Kuda</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
+			<Text>Rumah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
+			<Text>Diburu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
+			<Text>Peningkatan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
+			<Text>Pulau</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
+			<Text>Jaket</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
+			<Text>Jet</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
+			<Text>Kubis</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
+			<Text>Raja</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
+			<Text>Anak kucing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
+			<Text>Laser</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
+			<Text>Liga</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
+			<Text>Surat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
+			<Text>Kadal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
+			<Text>Rendah</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
+			<Text>Loyalis</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
+			<Text>Mesin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
+			<Text>Maniak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
+			<Text>Peta</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
+			<Text>Logam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
+			<Text>Pikiran</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
+			<Text>tambang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
+			<Text>Bangsa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
+			<Text>Kebisingan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
+			<Text>Pengamatan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
+			<Text>Orkestra</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
+			<Text>Memesan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
+			<Text>Panteon</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
+			<Text>Berpesta</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
+			<Text>Merak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
+			<Text>Penguin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEOPLE">
+			<Text>Rakyat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
+			<Text>paprika</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
+			<Text>Penyair</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
+			<Text>Kolam</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
+			<Text>Kekuatan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
+			<Text>Pangeran</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
+			<Text>Putri</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
+			<Text>Produksi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
+			<Text>Nabi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
+			<Text>punk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
+			<Text>anak anjing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
+			<Text>Ratu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
+			<Text>Pertanyaan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
+			<Text>Kelinci</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
+			<Text>penjaga hutan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
+			<Text>Menolak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
+			<Text>Revolusi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
+			<Text>Badak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
+			<Text>Kerusuhan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
+			<Text>sungai</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
+			<Text>Robot</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
+			<Text>Sabotase</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
+			<Text>Sains</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
+			<Text>Pemukim</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
+			<Text>Slang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
+			<Text>Kemalasan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
+			<Text>Ular</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
+			<Text>Jiwa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
+			<Text>Sekop</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
+			<Text>Laba-laba</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
+			<Text>mata-mata</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
+			<Text>Tupai</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
+			<Text>Bintang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
+			<Text>Batu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
+			<Text>Lampu lalu lintas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
+			<Text>Kejutan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
+			<Text>sushi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
+			<Text>Penguasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
+			<Text>Teknologi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
+			<Text>Harimau</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
+			<Text>Ubin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
+			<Text>Tomat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
+			<Text>Pedagang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
+			<Text>Menipu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
+			<Text>Ternyata</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
+			<Text>Penyu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
+			<Text>burung nasar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
+			<Text>dinding</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
+			<Text>Serigala</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
+			<Text>Wombat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
+			<Text>Keajaiban</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
+			<Text>Gambang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
+			<Text>Yak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
+			<Text>Zombi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+			<Text>Mesin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+			<Text>Mekanisme</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+			<Text>Golem</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+			<Text>Raksasa binatang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+			<Text>Patung raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+			<Text>Hulk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+			<Text>Binatang buas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+			<Text>Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+			<Text>Keburukan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+			<Text>Robot</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+			<Text>robot</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+			<Text>Cyclops</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+			<Text>Raksasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+			<Text>Titan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+			<Text>Pejalan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+			<Text>Penghancur</Text>
+		</Row>
+	</EnglishText>
+</GameData>

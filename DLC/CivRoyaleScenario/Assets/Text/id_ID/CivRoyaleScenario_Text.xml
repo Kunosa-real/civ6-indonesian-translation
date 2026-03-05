@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+
+		<!-- Loading Screen -->
+		<Row Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO">
+			<Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+		</Row>
+
+		<!-- Victories -->
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB">
+			<Text>Mereka semua menertawakan kami. Mereka mengatakan kepada kami bahwa kami terlalu lemah dan terlalu sedikit untuk bisa mencapai pendarat. Nah, siapa yang tertawa sekarang? Siapa faksi terakhir di planet bodoh dan busuk ini? Siapa yang punya tiket sekali jalan ke pesawat ruang angkasa baru yang berkilau, minum air bersih dan menghirup udara yang tidak mengandung debu beracun? Kami![NEWLINE][NEWLINE]Kami keluar dari sini! Awas, alam semesta!</Text>
+		</Row>		
+		
+		<!-- Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Satu unit Infanteri telah bergabung dengan faksi Anda.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Unit Penembak Mesin telah bergabung dengan faksi Anda.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Unit Anti-Tank telah bergabung dengan faksi Anda.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Warga sipil yang berlindung di reruntuhan telah bergabung dengan faksi Anda.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Anda telah menemukan Helikopter yang berfungsi.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Anda telah menemukan Tank yang berfungsi.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Unit Artileri telah bergabung dengan faksi Anda.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Anda telah menemukan Perangkat Termonuklir yang berfungsi.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Zombimu menuntut korban lain.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_B">
+			<Text>[COLOR_FLOAT_MILITARY]Lebih banyak mayat untuk gerombolan.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_C">
+			<Text>[COLOR_FLOAT_MILITARY]Anda telah menemukan gerombolan zombie.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_IMPROVISED_TRAP_GOODIES">
+			<Text>Anda tersandung jebakan!</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_GRIEVING_GIFT_GOODIES">
+			<Text>Itu adalah jebakan!</Text>
+		</Row>
+
+		<!-- HUD UI -->
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS">
+			<Text>Berputar hingga Safe Zone menyusut.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_B">
+			<Text>{1_Turns} Berputar hingga Safe Zone menyusut.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE">
+			<Text>Zona Aman berada pada ukuran minimum.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_B">
+			<Text>Zona Aman telah stabil. [COLOR_RED]Evakuasi diblokir oleh faksi lain yang masih hidup.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_C">
+			<Text>Zona Aman telah stabil. [COLOR_RED]Sinyal pendarat jarak jauh masih diganggu oleh faksi lain![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH">
+			<Text>Kejatuhan: Kategori {1_safeZonePhase} (Kerusakan {2_dangerZoneDamage})</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_CATEGORY">
+			<Text>Kategori</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP">
+			<Text>Sebuah unit akan menerima kerusakan sebesar {1_Damage} akibat terjatuh di atas ring.[NEWLINE]Sejauh ini Zona Aman telah ditutup {2_RingCount} {2_RingCount : plural 1?time; other?times;}.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_DAMAGE">
+			<Text>Kerusakan</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP">
+			<Text>Jumlah kerusakan yang akan dihadapi oleh penyintas Anda dalam Kematian Merah.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS">
+			<Text>{1_Turns : plural 1?Turn; other?Turns;}</Text>  
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP">
+			<Text>Berapa putaran hingga Red Death mencapai Safe Zone.</Text>
+		</Row>
+    <Row Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING">
+      <Text>Warga Sipil Anda terkena dampaknya!</Text>
+    </Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_PLAYER_NAME_LABEL">
+			<Text>Nama Pemain:</Text>
+		</Row>
+		
+		<!--Global Ability Tracker-->
+		<Row Tag="LOC_CIV_ROYALE_GLOBAL_ABILITY_AVAILABLE">
+			<Text>Kemampuan Tersedia!</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_GLOBAL_ABILITY_CHARGES">
+			<Text>Biaya: {1_CurrentCharges} / {2_Max_Charges}</Text>
+		</Row>
+
+
+		<!-- Notifications -->
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE">
+			<Text>Penurunan Pasokan!</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY">
+			<Text>Penurunan Pasokan telah muncul!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Reruntuhan Kota Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Anda telah menemukan reruntuhan kota yang mungkin berisi perbekalan yang sangat dibutuhkan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE">
+			<Text>Zona Aman Ditetapkan</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY">
+			<Text>Kematian Merah sedang melakukan reformasi. Zona Aman di tengah badai telah ditandai di peta Anda.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE">
+			<Text>Zona Aman Menyusut</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY">
+			<Text>Kematian Merah semakin parah. Zona Aman telah bergeser dan menjadi lebih kecil.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_MESSAGE">
+			<Text>Peta Harta Karun Baru</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_SUMMARY">
+			<Text>Anda telah menemukan peta harta karun baru yang terpendam.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_MESSAGE">
+			<Text>Salam Maria Siap</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_SUMMARY">
+			<Text>Salam Maria siap untuk ditempatkan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_MESSAGE">
+			<Text>Gerombolan Zombi Membusuk</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_SUMMARY">
+			<Text>Zombie Horde Anda terbunuh karena pembusukan.</Text>
+		</Row>
+		
+		<!-- Supply Drop Improvement -->
+		<Row Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME">
+			<Text>Penurunan Pasokan</Text>
+		</Row>
+		
+		<!-- Goody Hut Improvements -->
+		<Row Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME">
+			<Text>Reruntuhan Kota</Text>
+		</Row>		
+		<Row Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME">
+			<Text>Menjelajahi Reruntuhan Kota</Text>
+		</Row>
+
+		
+		<!--Improvised Trap Improvement-->
+		<Row Tag="LOC_IMPROVEMENT_IMPROVISED_TRAP">
+			<Text>Perangkap Improvisasi</Text>
+		</Row>
+		
+		<!-- Destroyed City Feature -->
+		<Row Tag="LOC_FEATURE_DESTROYED_CITY_NAME">
+			<Text>Kota yang Hancur</Text>
+		</Row>
+		
+		<!-- MiniMap -->
+		<Row Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP">
+			<Text>Kematian Merah</Text>
+		</Row>		
+		<Row Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP">
+			<Text>Zona Aman</Text>
+		</Row>
+        	
+		<!-- Promotions -->
+		<Row Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME">
+			<Text>Resimen Pramuka</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION">
+			<Text>Unit dan pembentukannya mengabaikan hukuman Pergerakan [ICON_Movement] untuk Hutan, Hutan Hujan, dan Perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur vs. Kru AT.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur saat menyerang Senapan Mesin.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur melawan Tank lain.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur saat bertahan melawan Tank dan Kru AT.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur vs. Tank dan Helikopter.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Unit yang berdekatan dari kelas berbeda mendapatkan +10 [ICON_Strength] Kekuatan Tempur vs. Tank dan Helikopter.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur saat bertahan di Hutan, Hutan, Perbukitan, atau Rawa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_NAME">
+			<Text>Ganti Tabung Peluncur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_DESC">
+			<Text>+1 [ICON_Range] Jangkauan Serangan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_MOVE_NAME">
+			<Text>Ganti Aktuator Kaki</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_MOVE_DESC">
+			<Text>+2 [ICON_Movement] Gerakan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_NAME">
+			<Text>Isi Ulang Perbaikan Nanites</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_DESC">
+			<Text>+10 tingkat penyembuhan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_1_NAME">
+			<Text>Ganti Laras Senapan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_1_DESC">
+			<Text>+8 [ICON_Strength] Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_2_NAME">
+			<Text>Ganti Komputer Penargetan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_2_DESC">
+			<Text>+8 [ICON_Strength] Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_3_NAME">
+			<Text>Amunisi Baru</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_3_DESC">
+			<Text>+8 [ICON_Strength] Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_NAME">
+			<Text>Otak!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_DESC">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_NAME">
+			<Text>Otak!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_DESC">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_NAME">
+			<Text>Otak!!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_DESC">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_NAME">
+			<Text>Ugh!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_DESC">
+			<Text>Tidak Ada Kerusakan Pembusukan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_NAME">
+			<Text>Gra!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_DESC">
+			<Text>+1 [ICON_Movement] Gerakan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_NAME">
+			<Text>Graha!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_DESC">
+			<Text>+1 [ICON_Movement] Gerakan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_NAME">
+			<Text>Gra!!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_DESC">
+			<Text>+1 [ICON_Movement] Gerakan</Text>
+		</Row>
+
+		<!-- Unit Abilities -->
+		<Row Tag="LOC_ABILITY_TANK_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Gerakan jika dimulai di Wasteland.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_NAME">
+			<Text>Regenerasi Xenologis</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_DESCRIPTION">
+			<Text>Unit menyembuhkan setiap belokan di luar air atau kejatuhan. Menyembuhkan pada 50% tarif standar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_UNITPANEL_DESCRIPTION">
+			<Text>Menyembuhkan setiap belokan di luar air atau kejatuhan. Menyembuhkan pada 50% tarif standar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_NAME">
+			<Text>Kamuflase Xenologis</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_DESCRIPTION">
+			<Text>Tidak terlihat oleh unit musuh kecuali berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_NAME">
+			<Text>Mengamati Akhir</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_DESCRIPTION">
+			<Text>+3 penglihatan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME">
+			<Text>Dulu Bencana</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION">
+			<Text>Kehilangan 50 HP daripada mati seketika karena WMD.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME">
+			<Text>Peluncuran WMD Mampu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION">
+			<Text>Dapat meluncurkan senjata pemusnah massal.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Mengabaikan biaya pergerakan [ICON_Movement] tambahan dari naik dan turun.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_NAME">
+			<Text>Perisai Inersia Defensif</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Kekuatan Tempur saat bertahan. Sepenuhnya kebal terhadap air, Red Death, dan kerusakan WMD.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_NAME">
+			<Text>Tidak Ada Suku Cadang</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_DESCRIPTION">
+			<Text>Unit tidak sembuh per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_NAME">
+			<Text>Pembusukan Zombi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_DESCRIPTION">
+			<Text>Menerima kerusakan peluruhan per giliran dan hanya menyembuhkan dengan promosi atau dengan membunuh unit non-zombie.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_NAME">
+			<Text>Munculnya Pertarungan Zombi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_DESCRIPTION">
+			<Text>Memunculkan gerombolan zombie saat membunuh unit non-zombie.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_NAME">
+			<Text>Tidak ada rasa sakit</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur saat bertahan dari serangan jarak jauh.</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_NAME">
+			<Text>Kekebalan Penyebaran Mutan</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_DESCRIPTION">
+			<Text>Kebal terhadap kerusakan dari Mutant yang menyebarkan Red Death.</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_SPEED_NAME">
+			<Text>Gerakan Radioaktif</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_SPEED_DESCRIPTION">
+			<Text>+3 [ICON_Movement] Gerakan dalam Kematian Merah.</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_NAME">
+			<Text>Resistensi Radioaktif</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_DESCRIPTION">
+			<Text>-50% kerusakan Kematian Merah.</Text>
+		</Row>
+		<Row Tag="LOC_MAD_SCIENTISTS_UNIT_SHIELD_MODIFIER">
+			<Text>+{1_Amount} Pelindung Inersia</Text>
+		</Row>
+		<Row Tag="LOC_BORDERLORD_EDGENESS_COMBAT_BONUS_MODIFIER">
+			<Text>+{1_Amount} Ketajaman</Text>
+		</Row>
+		<Row Tag="LOC_ZOMBIES_DEFENSE_BONUS_VS_RANGED_COMBAT_MODIFIER">
+			<Text>+{1_Amount} Zombie Berjarak Melawan</Text>
+		</Row>
+		<Row Tag="LOC_SHIELDS_DEPLETED">
+			<Text>Perisai Habis</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_TT">
+			<Text>Perisai Inersia Pertahanan[NEWLINE][NEWLINE]Menampilkan Perisai Inersia Pertahanan yang memberikan +10 [ICON_Strength] Kekuatan Tempur saat bertahan. Perisai juga memberikan kekebalan penuh terhadap air, Red Death, dan kerusakan akibat ledakan WMD. Perisai Inersia Defensif bertahan selama 4 putaran dan memerlukan 6 putaran untuk mengisi ulang.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_ACTIVE_TT">
+			<Text>Perisai Aktif. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_ACTIVE_WORLDTEXT">
+			<Text>Berlindung!</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_RECHARGING_TT">
+			<Text>Perisai sedang Mengisi Ulang. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_NAME">
+			<Text>Visi Jalan</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_TT">
+			<Text>Visi Jalan[NEWLINE][NEWLINE]Mengungkapkan semua wilayah yang telah dieksplorasi sebelumnya.</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_ACTIVE_TT">
+			<Text>Visi Jalan Aktif. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_ACTIVE_WORLDTEXT">
+			<Text>Saya Ingat Itu!</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_RECHARGING_TT">
+			<Text>Visi Jalan sedang Mengisi Ulang. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_PLACE_TRAP_TT">
+			<Text>Bangun Perangkap Improvisasi[NEWLINE][NEWLINE]Tempatkan Perangkap Improvisasi pada hex saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_PLACE_TRAP_OUT_OF_TRAPS_TT">
+			<Text>Keluar dari Perangkap.</Text>
+		</Row>
+		<Row Tag="LOC_PLACE_TRAP_FAILED_WORLDTEXT">
+			<Text>Tidak Dapat Memasang Perangkap Di Sini</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PANEL_TRAPS">
+			<Text>Perangkap</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_NAME">
+			<Text>Kirim Hadiah Berduka</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_TT">
+			<Text>Kirim Hadiah Berduka[NEWLINE][NEWLINE]Pilih hex untuk menyebarkan Hadiah Berduka yang terperangkap di giliran berikutnya. Hadiah Berduka akan terlihat seperti Supply Drop biasa bagi semua pemain lainnya. Anda dapat menyimpan hingga dua Hadiah Berduka dan keduanya memerlukan 5 giliran untuk diisi ulang.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_ACTIVE_WORLDTEXT">
+			<Text>Tidak Dapat Menempatkan Hadiah Di Sini</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_COUNT_TT">
+			<Text>Hadiah Siap: {1_giftCount}</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_RECHARGING_TT">
+			<Text>Membungkus Kado Baru. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_EMPTY_TT">
+			<Text>Hadiah dari Duka.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CLOAK_TT">
+			<Text>Kamuflase Xenologis[NEWLINE][NEWLINE]Sebagian besar menjadi tidak terlihat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CLOAK_ACTIVE_TT">
+			<Text>Jubah Aktif. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CLOAK_RECHARGING_TT">
+			<Text>Jubah sedang Mengisi Ulang. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_NAME">
+			<Text>Bakar Peta Harta Karun</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_TT">
+			<Text>Bakar Peta Harta Karun[NEWLINE][NEWLINE]Bakar peta harta karunmu yang terpendam dan dapatkan yang baru.[NEWLINE]&quot;Mereka tidak akan pernah menemukan harta karun untukku sekarang!&quot;</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_ACTIVE_WORLDTEXT">
+			<Text>Itu akan terbakar!</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_RECHARGING_TT">
+			<Text>Peta Harta Karun Bakar sedang Diisi Ulang. Giliran Tersisa: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_TT">
+			<Text>Unit Pengorbanan[NEWLINE][NEWLINE]Korbankan unit ini untuk mendapatkan promosi kepada Mata Abadi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_TT_B">
+			<Text>Unit Pengorbanan[NEWLINE][NEWLINE]Korbankan unit ini untuk memberikan promosi ke {1_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_TT_C">
+			<Text>Berjalanlah di Papan[NEWLINE][NEWLINE]Hancurkan unit ini untuk menghibur kru GDRRRrrrr dan berikan promosi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_WORLDTEXT">
+			<Text>Saya mati untuk melayani!</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_WORLDTEXT_PIRATE">
+			<Text>Arr! Sebuah anugerah bagi para dewa laut dalam!</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT">
+			<Text>Mata Abadi hanya menerima pengorbanan dari kutukan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_B">
+			<Text>{1_UnitName} hanya menerima pengorbanan dari heks yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_C">
+			<Text>Anda hanya dapat membuat unit berjalan di papan saat berdekatan dengan GDRRRrrrr.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT">
+			<Text>Mata Abadi telah terwujud sepenuhnya dan tidak lagi membutuhkan pengorbanan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_B">
+			<Text>{1_UnitName} sudah terwujud sepenuhnya dan tidak lagi membutuhkan pengorbanan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_C">
+			<Text>Kru GDRRRrrrr bosan melihat unit-unit berjalan di papan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAD_SPREAD_TT">
+			<Text>Toggle Radiant Personalities[NEWLINE][NEWLINE]Toggle kemampuan unit ini untuk menyebarkan radiasi Red Death saat bergerak.</Text>
+		</Row>
+
+		<!-- Terrain Replacements -->
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME">
+			<Text>Gurun</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME">
+			<Text>Tanah Terlantar (Perbukitan)</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME">
+			<Text>Tanah Terlantar (Gunung)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME">
+			<Text>Gurun (Gunung)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_OCEAN_NAME">
+			<Text>Lautan Beracun</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_LAKE">
+			<Text>Danau Beracun</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_COAST">
+			<Text>Pantai Beracun</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ICE_NAME">
+			<Text>Busuk Besar (Dilarang)</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARSH_NAME">
+			<Text>Rawa</Text>
+		</Row>
+		
+		<!-- Unit Replacements -->
+		<Row Tag="LOC_UNIT_SETTLER_NAME">
+			<Text>Sipil</Text>
+		</Row>
+		
+		<!-- Barbarian Replacements -->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
+			<Text>Pos Penyerang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
+			<Text>perampok</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>perampok</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+			<Text>Pos Raider Baru</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+		  <Text>Kami telah menerima rumor bahwa kelompok Raiders baru telah pindah ke wilayah terdekat.</Text>
+		</Row>
+		
+		<!-- Overlays -->
+		<Row Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT">
+			<Text>Zona Bonus Tempur Edgelord</Text>
+		</Row>
+		
+		<!-- Zombie Combat Unit -->
+		<Row Tag="LOC_UNIT_ZOMBIE_NAME">
+			<Text>Gerombolan Zombi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ZOMBIE_DESCRIPTION">
+			<Text>Gerombolan Zombi yang Hampir Tidak Bersenjata</Text>
+		</Row>
+		
+		<!-- Crippled GDR -->
+		<Row Tag="LOC_UNIT_CRIPPLED_GDR_NAME">
+			<Text>GDR yang lumpuh</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CRIPPLED_GDR_DESCRIPTION">
+			<Text>Robot Kematian Raksasa ini telah mengalami hari-hari yang lebih baik. Ini tidak akan pernah sama tetapi masih merupakan kekuatan yang harus diperhitungkan.</Text>
+		</Row>
+
+		<!-- Faction Specific Unit Naming -->
+		<Row Tag="LOC_UNIT_UNDYING_EYE_NAME">
+			<Text>Mata Abadi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIRATE_TREASURE_TANK_NAME">
+			<Text>Tangki Harta Karun</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIRATE_TREASURE_CRIPPLED_GDR_NAME">
+			<Text>GDRRRrrrr</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIRATE_TREASURE_INFANTRY_NAME">
+			<Text>Orang darat</Text>
+		</Row>
+
+		<!-- Combat Modifier Strings -->
+		<Row Tag="LOC_TRAIT_JOCKS_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Saksikan Kesempurnaan</Text>
+		</Row>
+						
+		<!-- WMDs -->
+		<Row Tag="LOC_WMD_HAIL_MARY_NAME">
+			<Text>Salam Maria</Text>
+		</Row>
+		<Row Tag="LOC_WMD_HAIL_MARY_DISABLED_COOLDOWN">
+			<Text>[COLOR:Red]{1_turns} berputar hingga hulu ledak Salam Maria berikutnya.[ENDCOLOR]</Text>
+		</Row>
+		
+		<!-- Treasure Locations -->
+		<Row Tag="LOC_TREASURE_UNIT_INFANTRY_RECRUITED">
+			<Text>Kami menemukan beberapa rekrutan baru!</Text>
+		</Row>
+		<Row Tag="LOC_TREASURE_UNIT_TANK_RECRUITED">
+			<Text>Itu sebuah tank!</Text>
+		</Row>
+		<Row Tag="LOC_TREASURE_UNIT_CRIPPLED_GDR_RECRUITED">
+			<Text>GDRRRRrrrr!</Text>
+		</Row>
+				
+		<!-- UFO Unit Names -->
+		<Row Tag="LOC_UFO_UNIT_NAME1">
+			<Text>&quot;Gas Rawa&quot;</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME2">
+			<Text>&quot;Awan Langka&quot;</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME3">
+			<Text>&quot;Saksi Mabuk&quot;</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME4">
+			<Text>&quot;Obat Tidur&quot;</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME5">
+			<Text>&quot;Meteorit yang Tidak Terlacak&quot;</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME6">
+			<Text>&quot;Tes Senjata Rahasia&quot;</Text>
+		</Row>
+		
+	</EnglishText>
+</GameData>

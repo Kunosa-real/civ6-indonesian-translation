@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+    <Row Tag="LOC_DIPLOMACY_DISCUSS">
+      <Text>Minta Janji</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_CASUS_BELLI">
+      <Text>Alasan Perang</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
+      <Text>Alasan Perang merupakan alasan untuk berperang di mana hukuman normal bagi pemicu perang (Warmonger) atas deklarasi perang atau penaklukan kota-kota dikurangi atau dihilangkan.</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TITLE">
+			<Text>LAPORAN INTEL</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON">
+			<Text>Berita Gosip:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_NAME">
+			<Text>GOSIP</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON">
+			<Text>Tingkat Akses:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL">
+			<Text>Tingkat Akses:</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_HEADER">
+			<Text>TINGKAT AKSES</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP">
+			<Text>Hubungan Kami:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_HEADER">
+			<Text>HUBUNGAN KITA</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TO_RAISE_RELATIONSHIP">
+			<Text>Untuk [COLOR_Civ6Green]meningkatkan[ENDCOLOR] hubungan Anda, Anda dapat:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
+			<Text>Untuk [COLOR_Civ6Red]menurunkan[ENDCOLOR] hubungan Anda, Anda dapat:[NEWLINE]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+      <Text>Perjanjian:</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
+			<Text>Agenda:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
+			<Text>Pemerintah:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
+			<Text>Hubungan:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP">
+			<Text>Hubungan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_REASONS">
+			<Text>ALASAN DI BALIK HUBUNGAN SAAT INI</Text>
+		</Row>			
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_NOTHING_ABJECT">
+			<Text>Tidak ada hal yang secara signifikan mempengaruhi hubungan Anda pada saat ini.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLOMACY_INTEL_INFORMATION_SHARED_HEADER">
+			<Text>Informasi yang Dibagikan:</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_NEXT_ACCESS_LEVEL_HEADER">
+			<Text>Tingkat Akses Berikutnya:</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_GAIN_ACCESS_LEVEL_HEADER">
+      <Text>Untuk [COLOR_Civ6Green]meningkatkan[ENDCOLOR] tingkat akses Anda, Anda dapat:</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_LAST_TEN_TURNS">
+      <Text>10 PUTARAN TERAKHIR</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_OLDER">
+      <Text>LEBIH TUA</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
+      <Text>Tidak ada</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
+      <Text>+{1_Value} Baru {1_Value: plural 1? Report; other? Report;}</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
+      <Text>Tidak Ada Barang Baru</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NO_RECENT">
+      <Text>[COLOR_Grey]Tidak ada laporan dalam 10 putaran terakhir.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_HISTORICAL_AGENDA">
+      <Text>Agenda Sejarah</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_RANDOM_AGENDA">
+      <Text>Agenda Acak</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
+      <Text>Agenda acak disembunyikan. Dapatkan akses tingkat RAHASIA untuk mengungkapkannya.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
+      <Text>Tidak ada agenda historis</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_RANDOM_AGENDA_NONE">
+      <Text>Tidak ada agenda acak</Text>
+    </Row>
+	<!-- Used in titles -->
+	<Row Tag="LOC_DIPLOMACY_OF">
+      <Text>OF</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
+      <Text>Tawarkan perdagangan yang menguntungkan.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE">
+      <Text>Menolak peradaban yang telah ditolak oleh {1_Civ}.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_TRADE_ROUTE">
+      <Text>Buatlah Rute Perdagangan [ICON_TradeRoute] dengan {1_Civ}.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
+      <Text>Buka Perbatasan bagi {1_Civ}.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
+      <Text>Kirimkan delegasi atau dirikan kedutaan besar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_POSITIVE_AGENDA">
+      <Text>Penuhi salah satu agenda mereka.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
+      <Text>Bertentangan dengan salah satu agenda mereka.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_THEM">
+      <Text>Laporkan pemimpin ini.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_REJECT_PROMISE">
+      <Text>Gagal menepati janji yang telah mereka minta.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_BREAK_PROMISE">
+      <Text>Melanggar janji yang telah kamu buat kepada mereka.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
+      <Text>Laporkan teman dari {1_Civ}.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
+      <Text>Menyatakan Persahabatan dengan musuh yang dikenal dari {1_Civ}.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DRAG_BUTTON_TOOLTIP">
+      <Text>Seret untuk mengubah ukuran.</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_DRAG_BUTTON_CLICK_TOOLTIP">
+			<Text>Klik untuk mengubah ukuran</Text>
+		</Row>
+	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
+      <Text>Jadikan kesepakatan ini lebih adil.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE_TOOLTIP">
+      <Text>Bernegosiasi dengan pemimpin untuk mendapatkan penawaran yang lebih baik.[NEWLINE]Hal ini dapat mengubah item di KEDUA BELAH PIHAK meja negosiasi.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_MY_OFFER">
+      <Text>Tawaran Saya:</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_OFFER">
+      <Text>Tawaran mereka:</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_IT_WILL_TAKE_TOOLTIP">
+      <Text>Tanyakan kepada pemimpin ini apa yang diperlukan untuk mendapatkan hal ini dari mereka.[NEWLINE]Hal ini hanya akan menambah item di sisi kami dari meja perundingan.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
+      <Text>Lihat semua gosip yang Anda dengar sebagai hasil dari tingkat akses Anda.</Text>
+  </Row>
+  <Row Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
+      <Text>Ringkasan</Text>
+  </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
+      <Text>Lihat informasi penting tentang tingkat akses Anda dengan pemimpin ini, termasuk jenis-jenis gosip yang dapat Anda akses.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
+      <Text>Lihat detail hubungan Anda dengan pemimpin ini, termasuk alasan-alasan yang diketahui terkait hubungan Anda saat ini. Tingkatkan Level Akses Anda untuk melihat informasi tambahan di sini.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS_TOOLTIP">
+      <Text>Agenda merupakan faktor utama yang memengaruhi hubungan Anda dengan para pemimpin lainnya. Para pemimpin memiliki Agenda Historis dan Agenda Tersembunyi. Mengungkap Agenda Tersembunyi sangat penting untuk memahami apa yang disukai dan tidak disukai oleh pemimpin tersebut.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
+      <Text>Pemerintah saat ini yang diadopsi oleh peradaban ini.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
+      <Text>Gosip</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
+      <Text>Tingkat Akses</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOVERNMENT">
+      <Text>Pemerintah</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGENDAS">
+      <Text>Agenda</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGREEMENTS">
+      <Text>Perjanjian</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_OUR_RELATIONSHIP">
+      <Text>Hubungan Kami</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_OTHER_RELATIONSHIPS">
+      <Text>Hubungan</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_OVERVIEW">
+      <Text>Laporan Intelijen: Ringkasan</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_GOSSIP">
+      <Text>Laporan Intelijen: Gosip</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_ACCESS_LEVEL">
+      <Text>Laporan Intelijen: Tingkat Akses</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
+      <Text>Laporan Intelijen: Hubungan</Text>
+    </Row>
+    <Row Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
+      <Text>Anarki ({1_num} {1_Num: plural 1? round; other? round;})</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
+			<Text>Tidak ada</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
+			<Text>{1_CivName} telah mengecam perbuatan jahat {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
+			<Text>{1_CivName} telah menyatakan persahabatannya dengan {2_CivName}. [{3_RemainingTurns} putaran lagi {3_RemainingTurns : plural 1?turn; other?turns;}]</Text>
+		</Row>
+  </BaseGameText>
+</GameData>

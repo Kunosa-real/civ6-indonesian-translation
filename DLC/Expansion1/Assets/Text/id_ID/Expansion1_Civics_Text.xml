@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Policy Names -->
+		<Row Tag="LOC_POLICY_AUTOCRACY_NAME">
+			<Text>Warisan Otokratis</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_OLIGARCHY_NAME">
+			<Text>Warisan Oligarkis</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
+			<Text>Warisan Partai Republik</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONARCHY_NAME">
+			<Text>Warisan Monarki</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THEOCRACY_NAME">
+			<Text>Warisan Teokratis</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
+			<Text>Warisan Pedagang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FASCISM_NAME">
+			<Text>Warisan Fasis</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMUNISM_NAME">
+			<Text>Warisan Komunis</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEMOCRACY_NAME">
+			<Text>Warisan Demokrat</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
+			<Text>Laporan Setelah Tindakan</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
+			<Text>Semua unit mendapatkan +25% pengalaman tempur.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Rute Perdagangan Anda ke kota Sekutu menyediakan +4 [ICON_Food] Makanan dan +4 [ICON_Production] Produksi untuk kedua kota. Poin Aliansi dengan semua sekutu meningkat sebesar 0,25 tambahan per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
+			<Text>Prestise Sipil</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
+			<Text>Mendirikan [ICON_GOVERNOR] Gubernur dengan minimal 2 Promosi menyediakan +1 [ICON_Amenities] Fasilitas dan +2 [ICON_Housing] Perumahan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% pertumbuhan lebih cepat dan 3 Loyalitas per giliran untuk kota-kota yang bukan di benua [ICON_Capital] Ibu Kota asli Anda.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] Emas dan +10% [ICON_PRODUCTION] Produksi di kota-kota yang bukan di [ICON_Capital] benua Ibu Kota asli Anda.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
+			<Text>Kantor Komunikasi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
+			<Text>[ICON_Governor] Gubernur memberikan +1 Loyalitas per giliran ke kotanya, per Promosi yang dimiliki Gubernur [ICON_Governor].</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>Ekstra [ICON_Gold] Emas dari bangunan di Pusat Komersial: +50% jika populasi kota [ICON_CITIZEN] berjumlah 10 orang atau lebih, +50% jika distrik memiliki setidaknya +4 bonus kedekatan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>Ekstra [ICON_Culture] Budaya dari bangunan di Lapangan Teater: +50% jika populasi [ICON_CITIZEN] kota berjumlah 10 orang atau lebih, +50% jika distrik memiliki setidaknya +3 bonus kedekatan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMITANEI_NAME">
+			<Text>Batasanei</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
+			<Text>+2 Loyalitas per giliran untuk kota dengan unit garnisun.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Akumulasi kelelahan perang 25% lebih sedikit dari biasanya. +2 Loyalitas per giliran untuk kota dengan unit garnisun.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Level Mata-Mata Musuh berkurang 2 di wilayah Anda. Namun semua kota menderita -2 Loyalitas per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRAETORIUM_NAME">
+			<Text>Praetorium</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
+			<Text>[ICON_Governor] Gubernur memberikan +2 Loyalitas per giliran ke kotanya.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>Tambahan [ICON_Science] Sains dari gedung-gedung di Kampus: +50% jika populasi [ICON_CITIZEN] kota berjumlah 10 orang atau lebih, +50% jika distrik memiliki setidaknya +3 bonus kedekatan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
+			<Text>Kemampuan Serangan Kedua</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
+			<Text>Pemeliharaan Perangkat Nuklir berkurang 50% [ICON_Gold] Emas per putaran.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Ekstra [ICON_Faith] Iman dari bangunan di Tempat Suci: +50% jika populasi [ICON_CITIZEN] kota 10 atau lebih, +50% jika distrik memiliki setidaknya +3 bonus kedekatan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WISSELBANKEN_NAME">
+			<Text>Wisselbanken</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Rute Perdagangan Anda ke kota Sekutu menyediakan +2 [ICON_Food] Makanan dan +2 [ICON_Production] Produksi untuk kedua kota. Poin Aliansi dengan semua sekutu meningkat sebesar 0,25 tambahan per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONASTICISM_NAME">
+			<Text>Monastisisme</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
+			<Text>Keberanian Senja</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INQUISITION_NAME">
+			<Text>Penyelidikan</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ISOLATIONISM_NAME">
+			<Text>Isolasionisme</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
+			<Text>Surat Marque</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROBBER_BARONS_NAME">
+			<Text>Baron Perampok</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ELITE_FORCES_NAME">
+			<Text>Pasukan Elit</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVISM_NAME">
+			<Text>Kolektivisme</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROGUE_STATE_NAME">
+			<Text>Negara Nakal</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
+			<Text>+75% [ICON_Science] Ilmu pengetahuan di kota yang memiliki Situs Suci.[NEWLINE]TAPI: -25% [ICON_Culture] Kebudayaan di semua kota.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk semua unit serangan jarak dekat.[NEWLINE]TAPI: Tidak dapat menyembuhkan di luar wilayah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
+			<Text>Mulai Inkuisisi dengan 1 tuduhan Rasul. Seluruh Satuan Keagamaan +15 [ICON_Religion] Kekuatan Tempur Keagamaan di wilayah sahabat.[NEWLINE]TAPI : -25% [ICON_Science] Sains di seluruh kota.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
+			<Text>Rute domestik menyediakan +2 [ICON_Food] Makanan, +2 [ICON_Production] Produksi.[NEWLINE]TAPI: Tidak dapat melatih atau membeli Pemukim atau menetap di kota baru.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
+			<Text>Perampok Angkatan Laut: +100% [ICON_Production] Produksi, +2 [ICON_Movement] Pergerakan. Hasil panen meningkat dua kali lipat dari penjarahan Jalur Perdagangan.[NEWLINE]TAPI: [ICON_TradeRoute] Jalur Perdagangan menghasilkan -50%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
+			<Text>+50% [ICON_Gold] Emas di kota yang memiliki Bursa Efek. +25% [ICON_Production] Produksi di kota yang memiliki Pabrik.[NEWLINE]TAPI: -2 [ICON_Amenities] Fasilitas di semua kota.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
+			<Text>+100% pengalaman tempur untuk semua unit.[NEWLINE]TAPI: +2 [ICON_Gold] Emas untuk mempertahankan setiap unit tempur dan mata-mata.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
+			<Text>Peternakan +1 [ICON_Food] Makanan. Semua kota +2 [ICON_Housing] Perumahan. +100% bonus kedekatan Zona Industri.[NEWLINE]TAPI: [ICON_GreatPerson] Poin Orang Hebat diperoleh 50% lebih lambat.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
+			<Text>+50% [ICON_Production] Produksi untuk proyek program nuklir dan Perangkat Nuklir.[NEWLINE]TAPI: Tidak mendapat pengaruh terhadap Utusan [ICON_Envoy] baru.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
+			<Text>Hasil yang diperoleh dari penjarahan dan penggerebekan pantai adalah +100%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Hasil yang diperoleh dari penjarahan dan penggerebekan pantai adalah +50%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
+			<Text>Akademi Militer, Pelabuhan Laut, dan Tembok Renaisans menghasilkan +2 [ICON_Science] Sains.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
+			<Text>Menerima 100 [ICON_Gold] Emas per Banding ubin saat mengganti Peternakan dengan distrik Lingkungan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_Production] Produksi dan +5 [ICON_Gold] Emas dari seluruh [ICON_TradeRoute] Jalur Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+			<Text>Hasil yang diperoleh dari penjarahan dan penggerebekan pantai adalah +100%. +50% hadiah dari penjarahan [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Hasil yang diperoleh dari penjarahan, penggerebekan pantai, dan penjarahan Jalur Perdagangan [ICON_TradeRoute] adalah +50%.</Text>
+		</Row>
+		<!-- Updated from base game -->
+		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Memungkinkan pembentukan tiga unit identik menjadi Angkatan Darat atau Armada. Mengizinkan satu Casus Belli baru yang dapat digunakan untuk membenarkan perang: Perang Perluasan Wilayah.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

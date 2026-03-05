@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Saya menerima syarat-syarat perdamaian Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Semoga damai menyertai Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Saya tidak ingin diingat sebagai seorang provokator perang. Mari kita kesampingkan perbedaan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Saya harus akui, saya jauh lebih suka berdamai dengan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Anda telah berjuang dengan gagah berani dan telah memperoleh perdamaian. Kami dengan senang hati menawarkan gencatan senjata.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY">
+			<Text>Ya, ya. Itu hal yang baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Saya menghormati lawan yang tangguh. Mari kita hidup dalam damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORGO_ANY">
+			<Text>Perang ini telah mencapai akhir. Kalian dapat memiliki perdamaian, jika kalian ingin hidup.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Baiklah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HOJO_ANY">
+			<Text>Saya merasa terhormat menemukan lawan sepadan di medan perang. Saya lebih memilih menyarungkan pedang saya daripada menghancurkan seorang prajurit yang begitu hebat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY">
+			<Text>Saya menerima syarat-syarat perdamaian Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY">
+			<Text>Proposal yang baik, kami terima.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Saya lebih tertarik untuk mengejar kehidupan daripada menimbulkan kematian. Biarlah ada perdamaian di antara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Damai bagi Anda dan Kerajaan Anda. Kami sudah lelah dengan perang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY">
+			<Text>Kami terkesan. Semoga ada perdamaian di antara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SALADIN_ANY">
+			<Text>Semoga kita dapat mengetahui kebijaksanaan dan kedamaian sekarang setelah kita telah mengalami begitu banyak perang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Merupakan kewajiban bangsa kita untuk menjaga hak dan kepentingan sendiri. Tugas itu telah selesai; mari kita maju dengan damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Saya menerima syarat-syarat perdamaian Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Ya, mari kita gencatan senjata. Perang ini tidak membawa kita ke mana-mana.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Atas nama Kerajaan Inggris Raya dan Irlandia, saya menyetujui perdamaian ini antara kedua negara kita.</Text>
+		</Row>
+
+		<!-- AI refuses human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Tidak akan ada perdamaian di antara kita!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Saya tidak bisa mengatakan ya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Sama sekali tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Tidak! Saya tidak menerima ini!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Selama aku masih hidup.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GANDHI_ANY">
+			<Text>Maaf, tapi tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh menolak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY">
+			<Text>Saya akan mempertimbangkannya nanti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Tidak. Saya tidak bisa menerimanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HOJO_ANY">
+			<Text>Selama aku masih hidup.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PEDRO_ANY">
+			<Text>Tidak akan ada perdamaian di antara kita!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PERICLES_ANY">
+			<Text>Athena menurun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Bukan untuk semua Rusia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Tidak, demi Tuhan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY">
+			<Text>Kami akan mengabaikan permohonan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SALADIN_ANY">
+			<Text>Anda harus mengajukan tawaran yang lebih baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Kamu tidak serius, kan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Tidak akan ada perdamaian di antara kita!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Bukan untuk seluruh Kekaisaranmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Sebuah penolakan yang sangat tegas.</Text>
+		</Row>
+
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Damai, oke?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Biarkan perang ini berakhir. Mari kita berjalan dalam cahaya suci perdamaian.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Aku memohon kepadamu demi kebaikan orang-orang yang kita cintai, biarlah ada perdamaian di antara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Damai jauh lebih menarik daripada perang, bukan begitu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Anda telah membela rakyat Anda dengan baik. Saya akan memberikan Anda perdamaian, sekarang, jika Anda mau menerimanya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Balas dendam hanya akan membuat dunia buta. Mari kita pilih perdamaian, instead.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Dari kedalaman dunia bawah hingga pegunungan Ea, aku belum pernah bertarung melawan lawan sekuat dirimu. Mari kita berdamai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Anda telah mendapatkan istirahat Anda... kedamaian?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Aku akan memberimu kedamaian, jika kau menginginkannya. Kita berdua punya harta yang harus dihitung.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Tidak ada lagi yang perlu diperjuangkan. Mari kita renungkan tindakan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Waktunya telah tiba untuk perdamaian. Setuju?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Demokrasi telah memilih perdamaian. Apakah Anda akan menerima akhir dari perang ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Saya dapat menemukan titik temu untuk mengakhiri perang ini, jika Anda bersedia bernegosiasi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Mari kita jalin kedamaian Tuhan di antara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Waktunya untuk perdamaian telah tiba. Mari kita akhiri perang ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Semoga damai menyertai Anda, dan menyertai kita berdua. Apakah Anda bersedia membantu saya mengakhiri perang ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Saya telah melindungi kepentingan negara dan menjaga hak-hak kita. Pekerjaan itu telah selesai. Kini, kita dapat hidup dalam damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Waktunya telah tiba untuk perdamaian. Setuju?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Perang, perang yang mengerikan! Mari kita pilih perdamaian Romawi. Apa jawabanmu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Kami tidak dapat tidak berpikir bahwa kesepakatan dapat dicapai yang memuaskan kedua belah pihak.</Text>
+		</Row>
+
+		<!-- Human accepts, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Perang telah berakhir.</Text>
+		</Row>
+
+		<!-- Human rejects, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Kemudian perang terus berlanjut.</Text>
+		</Row>
+
+		<!-- Choices -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
+			<Text>Menolak Perjanjian Perdamaian</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_POSITIVE">
+			<Text>Terima Perjanjian Perdamaian</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

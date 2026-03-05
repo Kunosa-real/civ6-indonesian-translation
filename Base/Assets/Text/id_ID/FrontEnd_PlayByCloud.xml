@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_NOTIFY">
+			<Text>[ICON_Exclamation] Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_UNSEEN_COMPLETE_GAME">
+			<Text>[ICON_Exclamation] Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_NEW_MP_MODE">
+			<Text>[ICON_Exclamation] Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
+			<Text>Bermain Dengan Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_CLOUD_NOTIFY">
+			<Text>[ICON_Exclamation] Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME">
+			<Text>[ICON_Exclamation] Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_NEW_MODE">
+			<Text>[ICON_Exclamation] Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
+			<Text>Memainkan game multipemain asinkron, yang akan disimpan di awan dan dibagikan dengan semua pemain. Memerlukan koneksi aktif ke server Civilization.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NO_LOGIN_TT">
+			<Text>Tidak Masuk ke server Civilization.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NO_LOGIN_AGE_TT">
+			<Text>Usia yang terkait dengan Akun 2K yang ditautkan ini tidak memenuhi persyaratan usia yang sah untuk mengakses bagian tertentu dari game. Silakan hubungi dukungan pelanggan untuk mendapatkan bantuan.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT">
+			<Text>Sekarang giliran Anda dalam permainan Play By Cloud.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_GAME_READY_TT">
+			<Text>Salah satu game Play By Cloud Anda siap dimulai.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME_TT">
+			<Text>Salah satu game Play By Cloud Anda baru saja selesai.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NEW_MODE_TT">
+			<Text>Mode multipemain baru tersedia!</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TITLE">
+			<Text>Siap Bermain</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TEXT">
+			<Text>Anda sudah siap dalam permainan ini. Anda akan diberitahu di menu utama dan lobi Play By Cloud saat giliran Anda tiba. Anda dapat keluar dari game ini dengan aman dan memainkan game pemain tunggal atau multipemain tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_OK">
+			<Text>TIDAK MELAKUKAN APA-APA</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_LOBBY_EXIT">
+			<Text>KELUAR KE LOBI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LOBBY">
+			<Text>Bermain Dengan Cloud</Text>
+		</Row>
+		<!-- Cloud Game Screen -->
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
+			<Text>Daftar</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
+			<Text>Templat</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
+			<Text>Tuan rumah</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
+			<Text>Bergabung</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
+			<Text>Mulai</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES">
+			<Text>Permainan Saya</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES_TT">
+			<Text>Menampilkan game aktif yang sedang Anda mainkan.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES">
+			<Text>Permainan Terbuka</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES_TT">
+			<Text>Menampilkan permainan publik yang tersedia untuk diikuti.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES">
+			<Text>Game yang sudah selesai</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_TT">
+			<Text>Menampilkan riwayat permainan yang Anda selesaikan.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN">
+			<Text>[ICON_Exclamation] Game yang sudah selesai</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN_TT">
+			<Text>Salah satu game Play By Cloud Anda baru saja diselesaikan.[NEWLINE][NEWLINE] Menampilkan riwayat game yang Anda selesaikan.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
+			<Text>Sekarang giliran Anda dalam permainan ini.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_GAME_READY_TOOLTIP">
+			<Text>Permainan ini siap untuk dimulai.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_UNSEEN_COMPLETE_TOOLTIP">
+			<Text>Game ini baru saja selesai.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_CLOUD_PLAYER_TURN_TOOLTIP">
+			<Text>Sekarang giliran {1_player_name} dalam permainan ini.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_YOUR_TURN">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_UNSEEN_COMPLETE">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY">
+			<Text>Menunggu Permainan Dimulai</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY_TT">
+			<Text>Menunggu tuan rumah memulai pertandingan.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS">
+			<Text>Tidak Cukup Pemain Manusia</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS_TT">
+			<Text>Tidak dapat memulai permainan.  Diperlukan dua pemain manusia untuk memulai.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT">
+			<Text>Sekarang giliran Anda dalam permainan Play By Cloud.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_GAME_READY_TT">
+			<Text>Salah satu game Play By Cloud Anda siap dimulai.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_UNSEEN_COMPLETE_GAME_TT">
+			<Text>Salah satu game Play By Cloud Anda baru saja selesai.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_NEW_MP_MODE_TT">
+			<Text>Mode multipemain baru tersedia!</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_BASE_TT">
+			<Text>Play By Cloud, Internet, jaringan, dan pertandingan kursi panas dapat diatur atau bergabung di sini.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
+			<Text>PERMAINAN PITBOSS</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
+			<Text>Pitboss</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
+			<Text>Mainkan game multipemain di mana server khusus mengontrol game dalam jangka waktu yang lama.</Text>
+		</Row>
+		<!-- Multiplayer Joining Room Screen -->
+		<Row Tag="LOC_MP_ROOM_TOO_MANY_MATCHES">
+			<Text>Tidak dapat bergabung dengan game. Anda sudah berada dalam jumlah maksimum yang diizinkan untuk game Play By Cloud yang aktif.</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_TOO_MANY_MATCHES_TITLE">
+			<Text>Terlalu Banyak Pertandingan</Text>
+		</Row>
+		<!-- Lobby Screen -->
+		<Row Tag="LOC_MULTIPLAYER_PLAY_GAME">
+			<Text>Bermain Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PLAY_GAME_TT">
+			<Text>Lanjutkan bermain game multipemain yang sudah Anda ikuti.</Text>
+		</Row>
+		<!-- Join Code Popup  -->
+		<Row Tag="LOC_JOIN_CODE_POPUP_TITLE">
+			<Text>Bergabung dengan Kode Bergabung</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_TEXT">
+			<Text>Bergabunglah dengan permainan dengan menggunakan Kode Bergabung. Kode Gabung dapat ditemukan di tab Ringkasan Game di Ruang Pementasan game. Kode Bergabung peka terhadap huruf besar/kecil.</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_EDITBOX">
+			<Text>Kode Bergabung:</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_CANCEL">
+			<Text>Batal</Text>
+		</Row>
+		<!-- Staging Room -->
+		<Row Tag="LOC_START_WAITING_FOR_TURN">
+			<Text>Menunggu giliran</Text>
+		</Row>
+		<Row Tag="LOC_START_WAITING_FOR_TURN_TT">
+			<Text>Klik untuk mengamati keadaan dunia game saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUIT_GAME">
+			<Text>BERHENTI</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_QUIT_GAME_TITLE">
+			<Text>Keluar dari permainan</Text>
+		</Row>		
+		<Row Tag="LOC_GAME_MENU_QUIT_GAME_WARNING">
+			<Text>Apakah Anda yakin ingin keluar dari game multipemain ini? Anda akan kehilangan progres Anda dan dikeluarkan dari game ini.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_TITLE">
+			<Text>Keluar dari permainan</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_PROMPT">
+			<Text>Berhenti dari permainan...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_TITLE">
+			<Text>Keluar dari Kesalahan</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL">
+			<Text>Kesalahan saat keluar dari permainan.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_ACCEPT">
+			<Text>Baiklah.</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_JOIN_CODE">
+			<Text>Kode Bergabung:</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_COPY_JOIN_CODE">
+			<Text>Klik Gabungkan Kode untuk menyalin</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_END_GAME_TITLE">
+			<Text>Menghapus Game</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_END_GAME_WARNING">
+			<Text>Apakah Anda yakin ingin menghapus game multipemain ini? Ini akan mengakhiri permainan untuk semua pemain.</Text>
+		</Row>
+		<!-- Options Screen -->
+		<Row Tag="LOC_OPTIONS_WEBHOOK_URL">
+			<Text>Putar Melalui URL Webhook Cloud:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_FREQ">
+			<Text>Frekuensi Play By Cloud Webhook:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_MODE">
+			<Text>Mainkan Dengan Mode Cloud:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_MODE_TOOLTIP">
+			<Text>Mode A - Kompatibel dengan IFTTT[NEWLINE] Variabel Muatan JSON[NEWLINE][ICON_Bullet]"value1" = Nama Game[NEWLINE][ICON_Bullet]"value2" = Nama Pemain[NEWLINE][ICON_Bullet]"value3" = Giliran Game[NEWLINE] Mode B - Kompatibel dengan Discord[NEWLINE] Variabel Muatan JSON[NEWLINE][ICON_Bullet]"content" = Pesan Pemberitahuan</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_FREQ_MY_TURN">
+			<Text>Giliranku</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_FREQ_EVERY_TURN">
+			<Text>Setiap Belokan</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_PAYLOAD_MODE_A">
+			<Text>Mode A</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_PAYLOAD_MODE_B">
+			<Text>Mode B</Text>
+		</Row>
+		
+		<!-- PlayByCloud Notification Reminder Popup -->
+		<Row Tag="LOC_PBC_NOTIFY_REMINDER_TITLE">
+			<Text>Siapkan notifikasi Anda!</Text>
+		</Row>
+		<Row Tag="LOC_PBC_OVERVIEW_DESC">
+			<Text>
+				Play By Cloud is an asynchronous multiplayer format where all players take their turns on a common savegame, which is stored on a hosted server. This is a more modern version of “passing the savegame,” which was the ancient practice of sharing a floppy disk with a common save file between friends (if you are unfamiliar with the concept of a “floppy disk,” please ask a respected adult of venerable age).[NEWLINE][NEWLINE]A Play By Cloud game may last a long time (on the order of days or weeks) as each player takes his or her turn at a time that is convenient to them. You will receive notifications when it is your turn to play. You may see a Steam notification if Steam is active, or you may use the webhooks. Webhooks are a generic message format that the technically-inclined can integrate into other messaging services, email, or Internet of Things devices.[NEWLINE][NEWLINE]In asynchronous multiplayer, it is considered courteous to take your turn at your earliest possible convenience to keep the game moving. In ancient times, players were morally obligated to protect the floppy disk from corruption, with unscrupulous players resorting to “losing” the savegame when in an untenable situation. Play By Cloud eliminates such rascally behavior.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_REMINDER_DESC">
+			<Text>
+				We recommend you enable notifications prior to starting a Play By Cloud match.[NEWLINE][NEWLINE]You must have notifications configured to receive notifications outside of Sid Meier’s Civilization VI.
+			</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_ALT">
+			<Text>Jangan Ingatkan</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_ALT_TT">
+			<Text>Jangan pernah menampilkan pengingat ini lagi.</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND">
+			<Text>Jangan tampilkan ini lagi</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_TT">
+			<Text>Jangan pernah menampilkan pengingat ini lagi.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

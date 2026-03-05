@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_STATUE_OF_ZEUS_NAME">
+			<Text>Patung Zeus</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_OF_ZEUS_DESCRIPTION">
+			<Text>Memberikan 3 Pemanah, 3 Tombak, dan Pendobrak. +50% [ICON_PRODUCTION] Produksi menuju unit anti-kavaleri. Harus dibangun di atas tanah datar yang berdekatan dengan distrik Perkemahan dengan Barak.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSPHERE_NAME">
+			<Text>Lingkungan</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSPHERE_DESCRIPTION">
+			<Text>Ketika selesai, terima 100 [ICON_SCIENCE] Sains untuk setiap Rawa, Hutan Hujan, dan Hutan di kota ini. +1 Banding ke ubin yang berdekatan dengan Hutan Hujan dan Rawa di kerajaan Anda. Harus dibangun di sepanjang Sungai yang berdekatan dengan distrik Lingkungan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSPHERE_EXPANSION2_DESCRIPTION">
+			<Text>+200% [ICON_POWER] Listrik untuk semua Pembangkit Listrik Tenaga Angin Lepas Pantai, Pembangkit Listrik Tenaga Surya, Pembangkit Listrik Tenaga Angin, Pembangkit Listrik Tenaga Panas Bumi, dan Bendungan Pembangkit Listrik Tenaga Air. Bangunan ini dan perbaikannya memberikan Pariwisata [ICON_TOURISM] setara dengan Kekuatan [ICON_POWER] mereka. +1 Banding ke ubin yang berdekatan dengan Hutan Hujan dan Rawa di kerajaan Anda. Harus dibangun di sepanjang Sungai yang berdekatan dengan distrik Lingkungan.</Text>
+		</Row>
+		<Row Tag="LOC_TOURISM_LENS_GREEN_ENERGY_TOOLTIP">
+			<Text>Pengunjung terkagum-kagum dengan sumber Kekuatan hijau Anda.[NEWLINE]Menghasilkan +{1_CurrentTourists} [ICON_Tourism] Pariwisata[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_OF_ZEUS_QUOTE">
+			<Text>“Di atas kepala dewa ada mahkota zaitun; di tangan kanannya ia mempunyai patung Kemenangan yang bersayap”[NEWLINE]- Samuel Augustus Mitchell</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSHPERE_QUOTE">
+			<Text>&quot;Surga ada di bawah kaki kita dan juga di atas kepala kita&quot;[NEWLINE]- Henry David Thoreau</Text>
+		</Row>
+	</EnglishText>
+</GameData>

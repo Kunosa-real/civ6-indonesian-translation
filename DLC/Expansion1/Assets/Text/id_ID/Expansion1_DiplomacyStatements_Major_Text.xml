@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_POUNDMAKER">
+			<Text>Ya! Lebih baik masyarakat kita berjalan beriringan daripada berjalan sendirian.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_POUNDMAKER">
+			<Text>Meskipun kami sudah dekat sebelumnya, Cree harus menempuh jalurnya sendiri sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_POUNDMAKER">
+			<Text>Sepanjang hidup saya, saya telah mencari perdamaian antar bangsa. Biarkan aliansi kita menunjukkan jalan yang lebih baik kepada orang lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_POUNDMAKER">
+			<Text>Ini sangat bagus! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_POUNDMAKER">
+			<Text>Mungkin suatu hari nanti Anda akan menyadari bahwa kedua bangsa kita lebih kuat ketika kita bersatu.</Text>
+		</Row>
+
+		<!-- Chandragupta Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Sungguh, India telah lama memikirkan hal yang sama terhadap rakyat Anda. Menyatakan hal ini secara terbuka adalah suatu kehormatan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Orang-orang saya tidak memiliki antusiasme yang sama dengan saya terhadap persahabatan kami. Tapi mereka mungkin akan bersikap hangat padamu, suatu hari nanti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>India sangat menghargai rakyat Anda. Dengan izin Anda, saya akan menyatakan persahabatan kita bersama kepada semua orang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Saya bisa menghormatinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Kesalahannya ada pada saya. Maafkan aku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Saya sangat menikmati menjadi tuan rumah bagi delegasi Anda. Mereka memberi saya banyak hal untuk dipertimbangkan tentang masa depan kita bersama.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Meskipun saya akan dengan senang hati menyambut delegasi Anda, saya sibuk di tempat lain. Lain kali!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Delegasi kami membawa banyak hadiah. Minumlah semua buttermilk berbumbu yang Anda inginkan! Kami selalu dapat mengirim lebih banyak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Meskipun saya mengabaikan kata-kata kejam Anda, India akan selalu mengingatnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Anda mempermalukan rakyat Anda! Anda berbicara dengan dua mulut, tidak satupun yang menyenangkan. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Anda dipersilakan untuk berbicara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>India melihat masa depan Anda bukan sebagai saingan atau bawahan di masa depan, melainkan sebagai mitra sejati. Apa yang kamu katakan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Rakyat kita sudah menumpahkan cukup banyak darah—baik darahmu maupun darahku. Mari kita akhiri perang ini demi mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Apakah ini sebuah lelucon? TIDAK.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Sudah waktunya untuk menarik pasukan kita dari medan perang. Anda harus melihat hikmahnya dalam hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Saya dengan rendah hati menerima permintaan Anda. India mendapat banyak keuntungan dari pengaturan seperti itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>saya tidak bisa. Untuk saat ini, perbatasan India harus tetap tertutup bagi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Membuka perbatasan Anda akan membantu membawa orang-orang Anda lebih dekat dengan saya. Tentu saja saya akan membalasnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Saya tidak percaya tentara Anda bermaksud mengancam India. Namun, yang terbaik adalah mereka mundur. Langsung.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Anda mempelajari pelajaran saya sendiri dengan sangat baik. Aku mengajarimu dalam kematianku sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tidak. India tidak akan mendapatkan keuntungan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Usulan yang bijaksana!</Text>
+		</Row>
+
+		<!-- Lautaro Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Dunia akan tahu bahwa kita memimpin dua bangsa dengan satu keinginan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Mapuche tidak siap untuk persahabatan ini. Mungkin suatu saat nanti kita akan mencapainya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Seseorang akan; dua orang. Haruskah kita mengatakan kepada dunia bahwa kita berdiri sebagai teman?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Ya bagus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Ini meninggalkan rasa tidak enak di mulutku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Saya berterima kasih atas delegasi Anda. Mapuche menyambut mereka sebagai pengunjung terhormat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Delegasi Anda tidak boleh memasuki kota Mapuche.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche mengirim hadiah. Kain adalah karya terbaik kami. Charquicannya enak. Mohon terima ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Perbuatanmu mencerminkan sifat sejatimu. Mapuche tidak tahan denganmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche menggunakan namamu sebagai kutukan. Siapa yang tahan bersamamu? Teman-temanmu membelakangimu. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LAUTARO_ANY">
+			<Text>Itu kamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Saya tahu sekarang bahwa Anda layak. Mapuche mengundang Anda untuk berdiri bersama kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LAUTARO_ANY">
+			<Text>Mapuche tidak lagi berminat pada perang ini. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LAUTARO_ANY">
+			<Text>saya tidak bisa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Perang ini mengikat kita pada jalan yang merusak. Marilah kita berjalan dengan bebas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Anda dipersilakan melintasi tanah Mapuche.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Tanah ini hanya untuk Mapuche saja. Anda harus pergi ke tempat lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche ingin menjelajahi tanah Anda, sama seperti Anda ingin menjelajahi tanah kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LAUTARO_ANY">
+			<Text>Mapuche berpikir pasukanmu bermaksud menyakiti kami. Saya akan memberi Anda kesempatan untuk menenangkan pikiran kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Kami menolak sampai akhir, tapi sudah terlambat… sudah terlambat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Anda menyinggung perasaan saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Anda menghormati Mapuche dengan ini.</Text>
+		</Row>
+
+		<!-- Poundmaker Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Saya paling bahagia membuat perdamaian antar negara. Persahabatan antara orang-orang kami memberi saya kegembiraan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Baguslah kalau kamu ingin berteman dengan Cree, tapi orang-orangku belum siap. Tidak sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Cree siap menyambut Anda sebagai teman. Tolong, saya mohon, hormati kepercayaan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Bagus, bagus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Ini bukan yang saya inginkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Orang-orang saya menyambut delegasi Anda ke kebakaran dewan kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Tidak, umatKu tidak menginginkan hadiah seperti ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>UmatKu mengirimimu hadiah—jubah kerbau dan pimihkan. Dengan ini Anda akan bertahan melewati musim dingin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Perkataanmu tidak ada gunanya, rakyatmu tersesat, dan kamu tidak mempunyai teman yang akan mendampingimu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Aku bersumpah untuk melindungi rakyatku dari orang sepertimu. Kebohonganmu mencemari udara. Anda hidup hanya untuk mencuri. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_POUNDMAKER_ANY">
+			<Text>Terima kasih kembali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Sudah lama Cree menjadi sekutu teman-teman kita. Akankah Anda menjadi orang berikutnya yang bergabung dengan kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>Dari perang yang tidak adil bisa tercipta kedamaian di antara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>Tidak, ini tidak bisa dipertahankan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Saya selalu menginginkan perdamaian. Bisakah masyarakat kita menemukan cara untuk menempuh jalan ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Ada cukup ruang bagi orang-orang Anda untuk melintasi tanah kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Cree tidak mempercayaimu. Tolong tetap di tanahmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Rakyatku ingin melintasi wilayahmu. Apakah Anda akan mengizinkannya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_POUNDMAKER_ANY">
+			<Text>Mengapa Anda mengirim begitu banyak tentara ke dekat perbatasan kita? Satu tindakan gegabah, perdamaian akan hancur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Seandainya saya menginginkan perang, saya tidak akan berada di sini sekarang. Anda tidak menangkap saya. Saya menyerahkan diri saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Orang bodoh akan menerima ini. Saya tidak bodoh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Saya melihat hikmahnya dalam hal ini. Sepakat.</Text>
+		</Row>
+
+		<!-- Robert The Bruce Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hari yang sangat membahagiakan! Kita akan berdiri bersama sebagai satu, seperti dua lengan yang asin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Saya pikir Anda adalah orang yang tepat, tetapi Skotlandia masih memiliki keraguan terhadap Anda. Tidak sekarang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Di dunia yang dipenuhi para penggunjing, orang-orang yang berpikiran adil harus bersatu sebagai teman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Agung.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tidak, saya mengerti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Saya telah menerima delegasi Anda dan mentraktir mereka cèilidh. Kami menari sampai ayam berkokok!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Skotlandia lebih memilih perkataan jujur ​​darimu daripada hadiah yang adil, jadi aku mengirim delegasimu kembali.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Terimalah pakaian wol dan haggis terbaik milik bangsaku. Oh, dan dengarkan para piper! Apakah mereka tidak hebat?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Anda berbau timbunan sampah! Dasar perantara kata-kata yang tidak berguna! Keluar dari hadapanku!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Dasar idiot! Aku akan memberimu kapak, tapi aku khawatir pate tebalmu akan menghancurkannya. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Ayo, bicaralah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Kita sangat mirip, kamu dan aku. Pegang tanganku, dan mari kita tunjukkan pada dunia bahwa kita bersekutu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Skotlandia senang mengerahkan kekuatan Anda, tetapi cukup sudah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tentu saja tidak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Mari kita bicara dengan jelas. Tidak ada “saling melepaskan diri, penghentian permusuhan, dan sebagainya.” Gencatan senjata atau tidak?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Itu adil. Ingatlah untuk tidak merobohkan tembok padang rumput saat Anda melintasinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Anda tidak bisa datang dan berkeliaran begitu saja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tetangga yang baik adalah yang membiarkan seseorang melintasi ladangnya, setujukah Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Pasukan Anda tidak boleh berparade di luar wilayah Skotlandia. Sebaiknya pindahkan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Angin sepi bertiup melalui dataran tinggi hari ini. Sebuah keluhan bagi Skotlandia. Bisakah kamu mendengarnya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tawaran yang buruk. TIDAK.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hmm. Sepakat.</Text>
+		</Row>
+
+		<!-- Seondeok Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Korea dengan senang hati menerima pernyataan Anda. Aku hendak menanyakan hal yang sama padamu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Saya tidak dapat menerima pernyataan Anda. Melakukan hal ini akan menimbulkan lebih banyak masalah bagi Korea daripada manfaatnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Saya merasa saya harus menyatakan persahabatan Korea dengan rakyat Anda. Tentu saja dengan persetujuan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Sungguh luar biasa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Kalau begitu, hal ini tidak akan terjadi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Kami bersyukur menerima delegasi Anda. Kami menyambut hadiah yang Anda berikan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Korea berhati-hati dalam menerima hadiah sampai kita mengetahui niat pemberinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Terimalah yukpo kami yang lezat. Kedelai membuat daging sapi empuk dan beraroma.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Korea tidak melakukan apa pun yang pantas menerima hinaan keji Anda! Tapi sekarang, mungkin kita akan melakukannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Anda adalah jeroan laut—bau busuk Anda melekat pada apa pun yang Anda sentuh. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SEONDEOK_ANY">
+			<Text>Anda mungkin berbicara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Sekutu Korea adalah kekuatannya. Kami berdua akan menjadi lebih kuat bersama-sama.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Aku akan mengkhianati keinginanku untuk mengalahkanmu dengan imbalan perdamaian abadi. Itu, aku tidak akan mengkhianati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Di luar pertanyaan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Perang ini telah menjadi gangguan bagi kami berdua. Mari kita melepaskan diri dan memperhatikan orang-orang kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Saya menyambut baik perdagangan dan pertukaran ide yang dilakukan tanpa batas negara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Adalah bijaksana untuk menutup perbatasan kami untuk Anda sampai niat Anda jelas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Meskipun ada kehati-hatian, perbatasan yang terbuka dapat meningkatkan hubungan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SEONDEOK_ANY">
+			<Text>Korea tidak menghargai tentara di dekat perbatasan kita. Segera tarik mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Aku sudah meramalkan nasibku sendiri, tapi bukan berarti Korea akan ikut bernasib sama denganku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Terima kasih, tapi saya tidak setuju.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Tawaran yang menarik. Korea akan setuju.</Text>
+		</Row>
+
+		<!-- Genghis Khan Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Elang terbang melampaui merpati dan kelinci. Marilah kita berdiri dalam persahabatan, dan orang lain akan gemetar ketakutan dalam bayang-bayang kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Tidak. Jangan berasumsi Mongolia sangat mengagumi Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Terimalah persahabatan Mongolia! Saya ingin melihat dunia gemetar ketika mereka mengetahui bahwa kita bersatu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mongolia akan menghargai hal ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mongolia akan mengingat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Penunggang saya mengantar delegasi Anda ke tempat aman dan membagikan hadiah Anda. Jumlahnya memadai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Hadiah Anda tidak diperlukan. Jika saya menginginkan barang-barang itu, saya akan mengambilnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Aku mengirimimu hadiah—kuda berlebih, busur pemuda, dan airag untuk membentengimu. Minum habis!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bodoh dan lemah! Bagaimana kamu belum ditaklukkan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kelemahan dan kebodohanmu membuatku marah. Suatu hari nanti, mungkin dalam waktu dekat, Anda akan menyadari bahayanya. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Saya akan mempertimbangkan kata-kata Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Berkendara dengan Mongolia. Anda tahu hati Anda mendambakan aliansi ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Meskipun saya lebih memilih untuk melanjutkan perjuangan ini, Mongolia tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Tidak jika Anda menambahkan kuda terbaik Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kami berdua tahu Mongolia akan mengalahkan Anda. Mari kita hentikan perang ini. Untuk saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Anda boleh melintasi wilayah kami. Kagumi kekuatan kami saat Anda melewatinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Apa yang menjadi milik kita adalah milik kita, entah itu ternak atau tanah. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Saya ingin Anda membiarkan pasukan saya melintasi wilayah Anda. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Tentara yang Anda miliki di dekat perbatasan kami adalah target yang menggiurkan. Demi keselamatan mereka, Anda harus memindahkannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Anda telah membuat klan Mongolia tertatih-tatih. Rasa hormatku padamu hampir menyamai kebencianku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Anda menyebutnya kesepakatan. Saya menyebutnya perampokan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Sepakat. Yang terbaik untuk kita berdua.</Text>
+		</Row>
+
+		<!-- Shaka Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Tentu saja! Anak-anak Zulu menghormati bangsa Anda, dan Anda telah membuktikan diri Anda sebagai teman sejati.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Anda bukanlah teman sejati bagi anak-anak Zulu. Dengan lebih banyak usaha, Anda bisa melakukannya, tapi sekarang? TIDAK.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Anak-anak Zulu akan mendukungmu jika kamu mendukung mereka. Haruskah kita menyatakan persahabatan kita?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Saya tidak bisa bersyukur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Jangan mengejekku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Delegasi Anda telah tiba. Anak-anak Zulu menyambut hadiah Anda, tapi jangan berpikir untuk membeli kesetiaan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Sampai saya mengetahui ukuran Anda, saya tidak dapat menerima hadiah apa pun yang Anda berikan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Aku mengirimkan iklwa upacara. Namanya diambil dari suara yang mereka keluarkan saat ditarik dari luka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Kata-katamu kotor. Anda memiliki kebusukan di pusat Anda. Satu-satunya cara untuk membersihkannya adalah dengan menghentikannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Tubuh yang lemah bisa berlatih. Pikiran yang lemah bisa belajar. Namun seperti yang Anda ungkapkan, tidak ada obat untuk jantung lemah. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SHAKA_ANY">
+			<Text>Kamu lagi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Perbedaan di antara masyarakat kita tidak berarti apa-apa. Maukah kamu bertarung di sisi kami? Ini yang terpenting.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SHAKA_ANY">
+			<Text>Jika Anda mencari perdamaian, anak-anak Zulu akan menerima permintaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SHAKA_ANY">
+			<Text>Anda membuang-buang waktu saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Perang ini menghancurkan kami berdua. Kemenangan apa pun akan sia-sia. Ayo, mari kita simpan senjata kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Sepakat. Lebih baik melihat kekuatan sesamamu daripada membayangkan kelemahannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Anak-anak Zulu tidak ada gunanya rakyatmu melakukan kesalahan di tanah kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Anak-anak Zulu tidak menyembunyikan apa pun. Orang-orang Anda diterima di tanah kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SHAKA_ANY">
+			<Text>Pasukan yang Anda berbaris di sepanjang perbatasan Zulu menjadi sasaran yang menggiurkan bagi impi saya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Benar, kamu mengakhiri pemerintahanku. Tapi aku akan terus hidup dalam mimpi burukmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Jangan mengejekku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Ya—untuk saat ini.</Text>
+		</Row>
+
+		<!-- Tamar Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Saya pikir ini lelucon yang kejam, tetapi setelah direnungkan, saya perhatikan ketulusan Anda. Georgia menyetujui permintaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Persahabatan? Georgia memiliki banyak hal, tetapi tidak satupun yang melibatkan menjadi teman Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Anda termasuk di antara sedikit orang yang bisa dipercaya oleh Georgia. Jika Anda setuju, saya akan memberitahukannya kepada semua orang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Tindakan Anda layak untuk saya syukuri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Anda tidak mungkin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Delegasi Anda tidak menyebabkan insiden. Saya menganggap itu sebuah kesuksesan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgia mempunyai masalah yang mendesak. Ini bukan waktunya untuk menjadi tuan rumah bagi pedagang Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Pedagang Georgia membawa banyak rangkaian churchkhela. Mereka membuat makanan penutup yang mengenyangkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Anda adalah orang yang menjijikkan. Rakyat Anda berhak mendapatkan pemimpin yang lebih baik dari Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Menyebutmu sebagai orang yang tidak bijaksana adalah sebuah penghinaan terhadap orang yang mengutuk. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TAMAR_ANY">
+			<Text>Mengapa kamu menggangguku?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Menggabungkan kekuatan kita akan membuat musuh bersama kita terdiam. Anggaplah Anda melihat manfaatnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TAMAR_ANY">
+			<Text>Saya puas Anda telah mempelajari pelajaran Anda. Perang ini mungkin akan berakhir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TAMAR_ANY">
+			<Text>Sangat disesalkan. Sangat disesalkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Perang ini harus diakhiri. Saya tidak mengakui kesalahan apa pun dalam penyebabnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Saya kira hal ini akan mendorong perdagangan antar masyarakat kita. Georgia akan membuka perbatasannya. Untuk saat ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgia tidak membutuhkan pengaruh asing di wilayahnya. Setidaknya, bukan milikmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Penasihat saya merekomendasikan Georgia untuk membuka perbatasannya. Saya melihat ada hikmah dalam kata-kata mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TAMAR_ANY">
+			<Text>Anda menguji kesabaran saya terhadap tentara di sepanjang perbatasan Georgia. Hapus mereka atau mereka akan dihapus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Tembok tidak cukup untuk menyelamatkan Georgia dari kehancuran. Aku juga tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Coba lagi. Kali ini, dengan tawaran nyata.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Sungguh menyakitkan bagiku untuk menyetujuinya, tapi aku harus melakukannya.</Text>
+		</Row>
+
+		<!-- Wilhelmina Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Kami sangat senang menerima uluran tangan persahabatan. Semoga masa depan kita panjang dan sejahtera!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Kami tidak mengakui klaim persahabatan Anda dengan Belanda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Peradaban yang memiliki hubungan persahabatan seperti kita harus mengumumkan hal ini kepada dunia, setujukah Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Luar biasa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Sangat disayangkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Kami telah menyambut delegasi Anda dengan kehormatan yang pantas, dan kami berterima kasih.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Tidak pantas bagi kami untuk menerima hadiah Anda, karena saya yakin Anda memahaminya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Belanda mengirimi Anda hadiah ucapan selamat—sepatu kayu, keju, dan beberapa stroopwafel yang lezat. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Kami memberi Anda keuntungan dari pendapat jujur ​​kami: Bahwa Anda tidak layak untuk memerintah, dan merupakan ancaman bagi Belanda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Merupakan keinginan kuat kami untuk memberi tahu Anda betapa buruknya kami menemukan Anda, dan kami berharap masa pemerintahan Anda singkat. (Mencela Anda).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILHELMINA_ANY">
+			<Text>Anda mendapatkan perhatian kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Anda telah terbukti sebagai mitra yang dapat diandalkan dalam perjuangan bangsa kita, dan kami berupaya memperdalam hubungan ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Ya. Pertarungan kami sudah berlangsung cukup lama. Mari kita membangun kembali apa yang telah hilang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Tidak mungkin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Belanda lebih memilih berdagang barang daripada pukulan. Kita harus segera mengakhiri perang ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Belanda dengan senang hati menerima usulan Anda dan akan membuka perbatasan kami untuk Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Kami tidak bisa membiarkan Anda melintasi tanah kami dengan bebas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Bukankah kepentingan kita akan terlayani dengan baik dengan membuka jalur perjalanan antar wilayah kita?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILHELMINA_ANY">
+			<Text>Apakah menurut Anda kami tidak mengetahui rencana Anda? Kami meminta Anda segera memindahkan pasukan Anda dari perbatasan kami! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Dengan pertolongan Tuhan, semoga suatu saat Belanda dapat merebut kembali wilayahnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Kita harus menolaknya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Kami belum mendengar tawaran yang lebih baik.</Text>
+		</Row>
+
+		<!-- Leader Text-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tetangga terbaik adalah tetangga yang jauh. Saat ini, Anda adalah tetangga terbaik India.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tidak ada jarak antara tanah kami. Rakyatku terpaksa menanggung bau busukmu sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Orang-orang Anda sangat bangga dengan asal mereka. Jelas mereka mengikuti petunjuk Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Bagaimana caramu memimpin orang yang membosankan? Apakah mereka mengikuti contoh yang Anda berikan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Saya sangat menghormati mereka yang menyatakan persahabatan mereka kepada dunia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Pilihlah pertemanan Anda dengan bijak—tetapi Anda harus memilih.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bijaksana untuk menjaga perdamaian dengan tetangga Anda. Perseteruan darah harus dibayar mahal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Jauhkan peperangan Anda. Jika tidak, Anda akan melacak kotoran tersebut melalui tanah Anda sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Penguasaanmu atas rahasia penciptaan membuat iri umat-Ku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Ketika orang lain menggapai langit, kamu mencakar tanah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kavaleri yang Anda turunkan memang memalukan, tapi untungnya kecil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Anda tidak akan memakai kandung kemih domba dan menyebutnya helm. Jadi mengapa mengklaim Anda telah mengumpulkan “kavaleri?”</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SHAKA_ANY">
+			<Text>Pasukan yang Anda turunkan menunjukkan kekuatan Anda. Apakah Anda membersihkan rakyat jelata? Selalu bijaksana untuk membersihkan rakyat jelata.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SHAKA_ANY">
+			<Text>Mengapa membiarkan pasukan Anda mempertahankan identitas mereka? Mereka harus bersatu untuk melayani satu keinginan—keinginan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TAMAR_ANY">
+			<Text>Saya menghargai tembok yang Anda bangun untuk rakyat Anda. Anda memiliki semangat Georgia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TAMAR_ANY">
+			<Text>Orang-orang Anda terlalu percaya. Mereka akan membiarkan siapa pun masuk ke kota mereka—bahkan orang barbar sekalipun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Belanda berkembang dengan setiap pengiriman yang Anda kirimkan kepada kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Mereka yang menolak perdagangan sering kali berpikir bahwa mereka dapat mengambil apa yang mereka inginkan dari kami. Mereka salah besar.</Text>
+		</Row>
+		<!-- First AI line -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Saya Chandragupta, Kaisar Maurya dari India bersatu. Tidak, itu belum terlintas di kepalaku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LAUTARO_ANY">
+			<Text>Saya Lautaro, si Swift Hawk. Mapuche menghormati saya dengan hormat. Akankah saya melihat hal yang sama dari Anda?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_POUNDMAKER_ANY">
+			<Text>Saya Poundmaker, dan saya mewakili Cree. Semoga selalu ada kedamaian di antara kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Saya Robert si Bruce. Skotlandia mengikuti saya—baik melalui ladang gandum atau melalui pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SEONDEOK_ANY">
+			<Text>Saya, Seondeok dari Korea, mengakui Anda. Pertemuan kami sudah diramalkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Saya Jenghis Khan. Di hadapanku terbentang tanah Mongolia di masa depan. Di belakangku adalah satu-satunya kavaleri yang penting.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SHAKA_ANY">
+			<Text>Anda berdiri di hadapan Shaka dari Zulu. Beranikah kamu membelakangi pasukanku? Saya tidak akan membuat kesalahan seperti itu.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TAMAR_ANY">
+			<Text>Saya Tamar dari Georgia. Katakan apa yang Anda mau dan lanjutkan perjalanan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILHELMINA_ANY">
+			<Text>Saya Wilhelmina, Ratu Belanda. Saya sangat senang akhirnya bisa bertemu dengan Anda.</Text>
+		</Row>					
+		<!-- AI invitation to visit nearby City -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Anda bepergian dekat wilayah India. Mengapa tidak mengunjungi dan bersantai di sumur besar kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LAUTARO_ANY">
+			<Text>Anda mendekati tanah Mapuche. Apakah Anda ingin berjalan di antara chemamull kami, dan belajar dari nenek moyang kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_POUNDMAKER_ANY">
+			<Text>Saya mengundang Anda untuk datang sebagai tamu saya dan melihat bagaimana kehidupan Cree.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Saat Anda berada di lingkungan ini, tidakkah Anda ingin melihat ibu kota kami?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SEONDEOK_ANY">
+			<Text>Anda harus mengunjungi ibu kota kami. Seowon kami adalah contoh terbaik pemikiran ilmiah dan politik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Tahukah Anda tanah siapa yang Anda dekati? Lihatlah Keshik berkumpul, dan ketahuilah bahwa ini adalah Mongolia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SHAKA_ANY">
+			<Text>Anda harus melakukan perjalanan ke ibu kota Zulu. Ada kekuatan dalam ikanda kami—yang harus Anda lihat sendiri.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TAMAR_ANY">
+			<Text>Saya akan mengarahkan Anda ke ibukota kami. Lihatlah tsikhe kami yang sangat dapat dipertahankan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILHELMINA_ANY">
+			<Text>Belanda menyambut Anda untuk mempelajari ibu kota kami, dan mengundang Anda untuk membalasnya.</Text>
+		</Row>		
+		<!-- AI accepts Human invitation -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hanya orang bodoh yang bisa menolak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LAUTARO_ANY">
+			<Text>Anda menghormati Mapuche dengan ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_POUNDMAKER_ANY">
+			<Text>Saya melihat hikmahnya dalam hal ini. Sepakat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tidak bisa mengatakan tidak untuk itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SEONDEOK_ANY">
+			<Text>Tawaran yang menarik. Korea akan setuju.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Saya bisa menerima ini.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SHAKA_ANY">
+			<Text>Dapat diterima.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TAMAR_ANY">
+			<Text>Baiklah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILHELMINA_ANY">
+			<Text>Kami mengucapkan terima kasih.</Text>
+		</Row>		
+		<!-- AI invitation to exchange Capital Information -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Kita harus berbicara tentang ibu kota kita. Tentukan seberapa jauh jarak kita satu sama lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LAUTARO_ANY">
+			<Text>Saya akan memberi tahu Anda tentang ibu kota Mapuche, jika Anda mau memberi tahu saya tentang ibu kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_POUNDMAKER_ANY">
+			<Text>Datang dan lihatlah di mana orang-orang saya tinggal, dan tunjukkan kepada kami di mana Anda menyebut rumah mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Saya punya pikiran untuk melihat modal Anda. Dan karena saya orang yang adil, saya akan membawa Anda melihat Skotlandia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SEONDEOK_ANY">
+			<Text>Saya akan memberikan arahan ke ibukota kami, sebaiknya Anda membalasnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kita harus bertukar informasi tentang ibukota kita. Suatu hari nanti aku mungkin ingin mengunjungimu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SHAKA_ANY">
+			<Text>Saya dapat mengarahkan Anda ke ibu kota Zulu, jika Anda mengarahkan saya ke ibu kota Anda. Memang benar, ada risiko yang bisa ditanggung bersama—tapi risikonya kecil.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TAMAR_ANY">
+			<Text>Kita harus memberikan arahan ke ibu kota kita sehingga kita dapat berhubungan langsung satu sama lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILHELMINA_ANY">
+			<Text>Kami ingin memperdagangkan lokasi ibu kota kami, demi keuntungan bersama dan abadi.</Text>
+		</Row>	
+
+		<!-- Diplomatic rationales for denouncement -->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BILLIONAIRE_TRADE">
+			<Text>(Anda tidak berdagang dengan mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>(Hasil sains Anda menyedihkan.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_FLOWER_OF_SCOTLAND_WAR_NEIGHBORS">
+			<Text>(Anda berkelahi dengan tetangga Anda.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HORNS_CHEST_LOINS">
+			<Text>(Penggunaan korps/tentara Anda menyedihkan.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HORSE_LORD">
+			<Text>(Kavaleri Anda terlalu kompetitif.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_IRON_CONFEDERACY_FEW_ALLIANCES">
+			<Text>(Anda tidak memiliki cukup aliansi.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MAURYA_EMPIRE_NEIGHBORS">
+			<Text>(Perbatasanmu terlalu dekat dengannya.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>(Anda tidak membangun cukup tembok.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>(Anda kehilangan kota karena kurangnya loyalitas.)</Text>
+		</Row>
+
+		<!-- Human Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>India tidak takut perang. Hal maksimal yang dapat Anda lakukan adalah memperlambat kemajuan kami yang sah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Saya tahu Anda tidak bisa dipercaya! Kami telah lama bersiap untuk perang ini. Apakah kamu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Anda bisa saja menemukan cara lain. Sekarang, penyesalanmu akan diukur dengan darah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Dasar bajingan tak berperasaan! Anda akan makan sendiri sebelum menginjakkan kaki di Skotlandia!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Kekalahanmu akan terjadi dengan cepat… rakyatmu, akan terlupakan. Ini sudah saya perkirakan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Tidak ada lagi kata-kata. Hari ini, Mongolia menuntut kekalahan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Kata-kata yang kuat, tetapi gemetar di bibirmu. Aku sudah melihatmu melemah karena ketakutan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Hati orang Georgia tidak akan gemetar di hadapan orang banyak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Agresi berbahaya Anda tidak akan berhasil. Belanda menolak!</Text>
+		</Row>
+
+		<!-- AI Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Wilayah Anda bisa lebih maju di bawah pemerintahan India. Yang terbaik yang saya lihat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Ini akan menjadi perang. Mapuche akan menggunakan senjatamu sendiri untuk melawanmu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Saya tidak ingin menimbulkan teror perang terhadap Anda—tetapi keadilan menuntut hal itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Perang masih melekat di hati kita. Mengapa meneruskan perdamaian palsu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Bintang-bintang memprediksi kekalahan Anda. Mengapa berdebat dengan surga?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Anda menghalangi pasukan saya. Segera, kamu akan jatuh di hadapan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Terlalu banyak kelemahan dalam dirimu. Jangan takut—anak-anak Zulu akan menghapusnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Tuhan berperang bersama kita. Anda berdiri sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Belanda tidak takut pada Anda. Saat kami mengalahkan Anda, kami akan menjadi lebih kuat dari sebelumnya.</Text>
+		</Row>
+
+	</EnglishText>
+</GameData>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Moments-->
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER">
+			<Text>Kota dekat Sungai Banjir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_DESCRIPTION">
+			<Text>Sebuah kota ditempatkan dalam 2 ubin dari sungai yang bisa banjir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_INSTANCE_DESCRIPTION">
+			<Text>Warga {CityName} menyesuaikan diri dengan rumah barunya, dan tetap waspada terhadap sungai terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO">
+			<Text>Kota dekat Gunung Berapi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_DESCRIPTION">
+			<Text>Sebuah kota ditempatkan dalam 2 ubin gunung berapi yang bisa meletus.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_INSTANCE_DESCRIPTION">
+			<Text>“Kami akan baik-baik saja,” ucap warga {CityName}. “Semua gunung sedikit berasap, kan?”</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST">
+			<Text>Sumber Daya Pertama yang dikonsumsi untuk Kekuasaan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda menggunakan sumber daya untuk menghasilkan [ICON_Power] Tenaga untuk kotanya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Gelombang mesin dan asap yang mengepul menandai dimulainya pembangkit listrik kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD">
+			<Text>Sumber Daya Pertama yang dikonsumsi untuk Kekuasaan di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama di dunia yang mengonsumsi sumber daya untuk menghasilkan Tenaga bagi kota-kotanya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Meningkatnya asap! Mesin bersenandung! Kekuatan alam telah dimanfaatkan oleh {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} demi kekuatan dan kemajuan!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE">
+			<Text>Fase Perubahan Iklim</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_DESCRIPTION">
+			<Text>Emisi CO2 telah meningkat cukup besar sehingga mengubah iklim dunia ke tingkat yang lebih berbahaya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_INSTANCE_DESCRIPTION">
+			<Text>Dunia mencapai {ClimateChangeName}, menyebabkan konsekuensi yang mengerikan bagi lingkungan global.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL">
+			<Text>Kanal Selesai</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL_DESCRIPTION">
+			<Text>Anda telah menyelesaikan distrik Kanal pertama peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL_INSTANCE_DESCRIPTION">
+			<Text>Pembukaan Kanal {CityName} membawa pembaruan perdagangan dan kemakmuran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST">
+			<Text>Pemerintahan Tingkat 4 Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda mengadopsi Pemerintahan Tingkat 4 yang pertama.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Rakyat kami terus mengembangkan sistem politiknya, dan berupaya membentuk pemerintahan baru yang revolusioner, {GovernmentType}.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD">
+			<Text>Pemerintahan Tingkat 4 Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama mengadopsi Pemerintahan Tingkat 4 di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Orang-orang pemberani {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} telah mengembangkan sistem politik baru {GovernmentType}, meresmikan era pemerintahan baru!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST">
+			<Text>Terowongan Gunung Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda membangun Terowongan Gunung pertamanya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Duduklah, dan izinkan saya menyanyikan balada tentang bagaimana John Henry menggali terowongan gunung pertama di {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}. </Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD">
+			<Text>Terowongan Gunung Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama membangun Terowongan Gunung di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Gunung bukanlah halangan bagi masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, karena mereka adalah orang pertama di dunia yang membangun terowongan melalui gunung tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST">
+			<Text>Perbaikan Pertama Pasca Bencana Alam</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda membangun perbaikan pertamanya pada ubin yang diperkaya oleh bencana alam.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Masyarakat adaptif {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} membangun setelah bencana alam, memanfaatkan lahan yang diperbarui.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST">
+			<Text>Perbaikan Ramah Lingkungan Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_DESCRIPTION">
+			<Text>Peradaban Anda membangun peningkatan ubin pertamanya yang didedikasikan untuk menyediakan Tenaga [ICON_Power] terbarukan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Sekarang kita telah membangun {ImprovementType} ini untuk menghasilkan energi bersih, mungkin kabut asap {CityName} akan mulai hilang.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD">
+			<Text>Perbaikan Ramah Lingkungan Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama membangun perbaikan ubin yang didedikasikan untuk menyediakan Tenaga [ICON_Power] terbarukan di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Saat warga {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} bersorak atas pembukaan {ImprovementType} baru mereka di dekat {CityName}, matahari melepaskan diri dari awan. Langit sudah tampak lebih bersih!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD">
+			<Text>Banjir Pesisir Dimitigasi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_DESCRIPTION">
+			<Text>Penghalang Banjir Anda telah mencegah kerusakan besar akibat banjir pesisir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_INSTANCE_DESCRIPTION">
+			<Text>Naiknya air laut menghantam Penghalang Banjir {CityName}, namun kota ini aman.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD">
+			<Text>Banjir Sungai Dimitigasi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_DESCRIPTION">
+			<Text>Infrastruktur yang Anda bangun telah mencegah kerusakan akibat banjir sungai.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_INSTANCE_DESCRIPTION">
+			<Text>Air {RiverName} naik, namun kehati-hatian kami mencegah banjir di daratan sekitarnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT">
+			<Text>Resolusi Kemenangan Diplomatik Dimenangkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_DESCRIPTION">
+			<Text>Anda telah memenangkan resolusi Kemenangan Diplomatik dan mendapatkan Poin Kemenangan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_INSTANCE_DESCRIPTION">
+			<Text>Kita telah mendapatkan rasa hormat dari peradaban dunia, dan bahkan musuh kita pun harus mengakui fakta ini.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET">
+			<Text>Ekspedisi Exoplanet Diluncurkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_DESCRIPTION">
+			<Text>Anda telah meluncurkan ekspedisi peradaban Anda ke planet yang jauh.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_INSTANCE_DESCRIPTION">
+			<Text>Ekspedisi kami ke planet yang jauh meninggalkan orbit, sementara orang-orang kami menyaksikan dengan mata penuh harap dan berlinang air mata.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD">
+			<Text>Ekspedisi Exoplanet Pertama di Dunia Diluncurkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Anda adalah orang pertama di dunia yang meluncurkan ekspedisi ke planet yang jauh.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Pesawat luar angkasa dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} meluncur dari gravitasi bumi, dalam perjalanan menuju dunia yang jauh, penuh dengan manusia, perbekalan, dan harapan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES">
+			<Text>Sambungan Kereta Api Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_DESCRIPTION">
+			<Text>Peradaban Anda membangun Jalur Kereta Api pertama yang menghubungkan dua kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_INSTANCE_DESCRIPTION">
+			<Text>Kereta Api {CityName} &amp; {OtherCityName} berhasil menghubungkan kota-kota kita.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD">
+			<Text>Sambungan Kereta Api Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama membangun Rel Kereta Api untuk menghubungkan dua kota di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Palu membawa pulang paku emas, penonton bersorak, karena masyarakat {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} telah menyelesaikan jalur kereta api pertama di dunia antara {CityName} dan {OtherCityName}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB">
+			<Text>Konser Band Rock Pertama</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_DESCRIPTION">
+			<Text>Peradaban Anda melakukan konser Rock Band pertamanya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_INSTANCE_DESCRIPTION">
+			<Text>Band terkenal dunia dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} melakukan debut mereka di hadapan banyak penggemar yang berbahagia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD">
+			<Text>Konser Band Rock Pertama di Dunia</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Peradaban Anda adalah yang pertama mengadakan konser Rock Band di dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Penonton yang sangat banyak bersorak saat band dari {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tampil di panggung dalam konser yang akan menentukan usia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL">
+			<Text>Tawaran Resolusi Kongres Dunia Dimenangkan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_DESCRIPTION">
+			<Text>Anda telah berhasil memenangkan tawaran suatu Resolusi, dan dapat menentukan hasilnya.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_INSTANCE_DESCRIPTION">
+			<Text>Dengan berhasil mengajukan sebuah Resolusi, kita mengambil langkah pertama menuju kekuasaan di Kongres Dunia: Kapasitas untuk menentukan prioritas dunia.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER">
+			<Text>Pemungutan Suara Resolusi Kongres Dunia Dimenangkan Sendirian</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_DESCRIPTION">
+			<Text>Meskipun Anda adalah satu-satunya yang memberikan suara untuk resolusi tersebut, resolusi pilihan Anda telah diajukan ke Kongres Dunia untuk dipertimbangkan.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_INSTANCE_DESCRIPTION">
+			<Text>Satu-satunya suara kami yang mengesahkan Resolusi ini menunjukkan bahwa peradaban kita benar-benar merupakan anggota Kongres Dunia yang sangat diperlukan.</Text>
+		</Row>
+		<!--Updates to old Moments-->
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_XP2">
+			<Text>Koloni Mars Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION_XP2">
+			<Text>Anda telah mendirikan koloni di Mars.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION_XP2">
+			<Text>Tentu saja, siapa pun bisa hadir di Mars. Tapi koloni kami adalah yang terbaik.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_XP2">
+			<Text>Koloni Mars Pertama di Dunia Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION_XP2">
+			<Text>Anda adalah orang pertama di dunia yang mendirikan koloni di Mars.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION_XP2">
+			<Text>Seorang insinyur menyaksikan gemuruh roket dari landasan peluncuran, membawa para penjajah menuju kehidupan baru. “Ini benar-benar terjadi,” katanya. “Kita akan ke Mars.”</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION_XP2">
+			<Text>Pembangun Anda telah membuat perbaikan ubin unik ini untuk pertama kalinya.</Text>
+		</Row>
+		<!--Commemorations-->
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_EXPANSION2_GOLDEN_AGE">
+			<Text>Zaman Keemasan Langit dan Bintang:[NEWLINE]Membuka [ICON_TechBoosted] Eureka untuk Satelit, Fusi Nuklir, dan Nanoteknologi jika berada di Era Informasi. Saat dipilih di Era Masa Depan, [ICON_TechBoosted] Eureka untuk Material Cerdas, Sistem Prediktif, dan Misi Luar Dunia akan terbuka. +100% XP diperoleh untuk semua Unit Udara. Tambang aluminium mengumpulkan +2 sumber daya lebih banyak per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNITS_KILLED_BY_GDR">
+			<Text>Bonus Dedikasi: Unit Non-Barbar dibunuh oleh Robot Kematian Raksasa(masing-masing +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_GDR_KILL_OPPONENT_NOTIFICATION">
+			<Text>Anda telah menghancurkan unit non-Barbar dengan Robot Kematian Raksasa.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON">
+			<Text>Perang Otomatis</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_GOLDEN_AGE">
+			<Text>Zaman Keemasan Automaton Warfare:[NEWLINE]Dapatkan Robot Kematian Raksasa di ibu kota Anda. Dapatkan 3 [ICON_Resource_Uranium] Uranium per giliran. [ICON_Resource_Uranium] Tambang uranium mengumpulkan +1 sumber daya lebih banyak per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_NORMAL_AGE">
+			<Text>Bonus Dedikasi Automaton Warfare:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda membunuh unit non-Barbar dengan Robot Kematian Raksasa.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_DARK_AGE">
+			<Text>Bonus Dedikasi Automaton Warfare:[NEWLINE]Dapatkan +1 Skor Era setiap kali Anda membunuh unit non-Barbar dengan Robot Kematian Raksasa.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

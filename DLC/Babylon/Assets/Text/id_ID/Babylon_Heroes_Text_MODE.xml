@@ -1,0 +1,704 @@
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_GREAT_PEOPLE_TITLE"/>
+		<Delete Tag="LOC_HUD_GREATPEOPLE_TOOLTIP"/>
+		<Delete Tag="LOC_BUILDING_ORACLE_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_SHRINE_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_TEMPLE_DESCRIPTION"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- REPLACEMENTS -->
+		<Row Tag="LOC_GREAT_PEOPLE_TITLE">
+			<Text>Pahlawan &amp; Orang Hebat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
+			<Text>Pahlawan &amp; Orang Hebat[NEWLINE][NEWLINE]Lihat [ICON_GreatPerson] Orang Hebat yang tersedia dan kemajuan Anda dalam mendapatkan [ICON_GreatPerson] Orang Hebat[NEWLINE]Lihat semua Pahlawan yang ditemukan dengan status dan kemampuan mereka saat ini</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Memanggil Pahlawan biayanya 15% lebih murah [ICON_Faith] Iman, dan Perlindungan Orang Hebat biayanya 25% lebih murah [ICON_Faith] Iman. Distrik di kota ini memberikan +2 poin [ICON_GreatPerson] Orang Hebat sesuai jenisnya (misalnya, [ICON_GreatWriter] poin Penulis Hebat dari distrik Theater Square). Harus dibangun di atas bukit.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Unit Pahlawan yang diklaim atau ditarik kembali di Kota ini memiliki Umur [ICON_Lifespan] 10% lebih lama. Memungkinkan pembelian Misionaris. Misionaris hanya dapat dibeli dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Semua unit Pahlawan memiliki Umur [ICON_Lifespan] 10% lebih lama. Meningkatkan pertumbuhan sebesar 15% di semua kota. Harus dibangun di sebelah Sungai.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Memanggil Pahlawan di kota ini biayanya 15% lebih sedikit [ICON_Faith] Iman. Memungkinkan pembelian Rasul, Guru, Inkuisitor, dan dengan keyakinan yang tepat, Biksu Prajurit. Unit ini hanya dapat dibeli dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<!--Hero Units-->
+		<Row Tag="LOC_UNIT_HERO_ANANSI_NAME">
+			<Text>Anansi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_ANANSI_DESCRIPTION">
+			<Text>Demigod dan penjelajah cerita rakyat Afrika, terkenal karena kecerdasan dan tipu dayanya.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_ARTHUR_NAME">
+			<Text>Arthur</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_ARTHUR_DESCRIPTION">
+			<Text>Raja dan pendiri Ksatria Meja Bundar, terkenal karena kebajikan dan kesatriaannya.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_BEOWULF_NAME">
+			<Text>Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_BEOWULF_DESCRIPTION">
+			<Text>Prajurit perkasa dari ujung Utara, terkenal karena kekuatan dan keberaniannya dalam pertarungan tunggal.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HERCULES_NAME">
+			<Text>Hercules</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HERCULES_DESCRIPTION">
+			<Text>Demigod dengan kekuatan manusia super, terkenal dengan Labornya yang terkenal.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIMIKO_NAME">
+			<Text>Himiko</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIMIKO_DESCRIPTION">
+			<Text>Dukun-Ratu Jepang kuno, terkenal karena kebijaksanaan dan kekuatan mistiknya.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIPPOLYTA_NAME">
+			<Text>Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIPPOLYTA_DESCRIPTION">
+			<Text>Prajurit Ratu Amazon, terkenal karena kepemimpinan dan keterampilan bela dirinya.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HUNAHPU_NAME">
+			<Plurality>2</Plurality>
+			<Text>Hunahpu &amp; Xbalanque</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HUNAHPU_DESCRIPTION">
+			<Text>Atlet legendaris dan pahlawan Maya, terkenal karena kekuasaannya atas kematian dan Dunia Bawah.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_OYA_NAME">
+			<Text>Oya</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_OYA_DESCRIPTION">
+			<Text>Orisha sang angin, badai, dan kilat, terkenal karena kekuatan ekstrimnya.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MAUI_NAME">
+			<Text>Maui</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MAUI_DESCRIPTION">
+			<Text>Demigod dan pahlawan mitos Polinesia, terkenal karena prestasi dan pemberiannya kepada umat manusia.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MULAN_NAME">
+			<Text>Mulan</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MULAN_DESCRIPTION">
+			<Text>Prajurit yang setia dan terampil, terkenal karena pengabdian dan kesetiaannya.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_SINBAD_NAME">
+			<Text>Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_SINBAD_DESCRIPTION">
+			<Text>[COLOR_LIGHTBLUE]Pahlawan Angkatan Laut.[ENDCOLOR] Petualang dan pemburu kekayaan, terkenal karena perjalanannya yang aneh dan menakjubkan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_WUKONG_NAME">
+			<Text>Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_WUKONG_DESCRIPTION">
+			<Text>Raja Kera, pahlawan Tiongkok kuno, terkenal karena kelicikan dan keabadiannya.</Text>
+		</Row>
+		<!--Other Units-->
+		<Row Tag="LOC_UNIT_QUESTING_KNIGHT_NAME">
+			<Text>Ksatria Pencari</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_QUESTING_KNIGHT_DESCRIPTION">
+			<Text>Kavaleri Berat. Salah satu Ksatria pilihan Arthur dan diperkuat oleh tanggung jawabnya.</Text>
+		</Row>
+		<!--Abilities and Classes-->
+		<Row Tag="LOC_HERO_CLASS_NAME">
+			<Text>Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE_NAME">
+			<Text>Menginspirasi</Text>
+		</Row>
+		<Row Tag="LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk semua unit dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_HERO_COMBAT_STRENGTH_UNIT_MODIFIER">
+			<Text>+{1_Amount} [ICON_Strength] Bonus Tempur dari Pahlawan Inspiratif terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HIPPOLYTA_HEAL_PER_TURN_NAME">
+			<Text>Bantuan Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_HIPPOLYTA_HEAL_PER_TURN">
+			<Text>Hippolyta secara otomatis menyembuhkan {1_Amount} HP setiap giliran.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNAHPU_RESURRECT_KILL_NAME">
+			<Text>Kebangkitan Si Kembar</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_HUNAHPU_RESURRECT_KILL">
+			<Text>Unit darat biasa mana pun yang dibunuh oleh Hunahpu &amp; Xbalanque akan dibangkitkan di bawah kendali Anda dengan HP dan pergerakan penuh.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MULAN_STRENGTH_PER_TURN_NAME">
+			<Text>Pengabdian Mulan</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_MULAN_STRENGTH_PER_TURN">
+			<Text>Mulan memperoleh {1_Amount} [ICON_Strength] Kekuatan Tempur setiap giliran.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MULAN_FORTIFY_NAME">
+			<Text>Pembangkangan Mulan</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_MULAN_FORTIFY">
+			<Text>Mulan membentengi sepenuhnya secara otomatis di akhir setiap belokan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WUKONG_STEALTH_NAME">
+			<Text>Penyamaran Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_WUKONG_STEALTH">
+			<Text>Sun Wukong tersembunyi kecuali berdekatan dengan unit musuh.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WUKONG_LIFESPAN_NAME">
+			<Text>Keabadian Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WUKONG_LIFESPAN">
+			<Text>Sun Wukong telah meningkatkan [ICON_Lifespan] Umur secara signifikan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SINBAD_GOLD_FOR_DISCOVERY_NAME">
+			<Text>Perjalanan Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_SINBAD_GOLD_FOR_DISCOVERY">
+			<Text>Sinbad mendapatkan {1_GoldReward} [ICON_GOLD] Emas setiap kali dia menemukan Benua atau Keajaiban Alam.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN_NAME">
+			<Text>navigator</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN">
+			<Text>Bisa masuk ubin Samudera.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_TRAIT_SUMERIA_HEROES_LIFESPAN">
+			<Text>Semua unit Pahlawan memiliki {1_Amount} Umur [ICON_Lifespan] lebih lama.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM">
+			<Text>{1_Amount}% [ICON_Production] Peningkatan produksi dari Quest Heroik</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST_NAME">
+			<Text>Lincah</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST">
+			<Text>Mengabaikan hukuman pergerakan [ICON_Movement] di medan Hutan dan Hutan Hujan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST_NAME">
+			<Text>Kasar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST">
+			<Text>Mengabaikan penalti pergerakan [ICON_Movement] di medan Perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST_NAME">
+			<Text>Cepat</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST">
+			<Text>Mengabaikan semua medan [ICON_Movement] Hukuman gerakan.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Diplomatik</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_MODIFIER">
+			<Text>Bisa memasuki negeri asing saat tidak sedang berperang.</Text>
+		</Row>
+		<!--Building Modifier strings-->
+		<Row Tag="LOC_MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT">
+			<Text>{1_Amount} [ICON_Faith] Iman untuk mengingat Pahlawan.</Text>
+		</Row>
+		<!--Unit Commands-->
+		<Row Tag="LOC_UNITCOMMAND_KILL_WEAKER_UNIT_DESCRIPTION">
+			<Text>Tantangan Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_KILL_WEAKER_UNIT_HELP">
+			<Text>Targetkan unit musuh yang berdekatan dengan [ICON_Strength] Kekuatan Tempur kurang dari Beowulf. Beowulf segera menghancurkan targetnya. Biaya 1 Pengisian, 1 Gerakan [ICON_MOVEMENT].</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TRANSFORM_UNIT_DESCRIPTION">
+			<Text>Penghargaan Arthur</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TRANSFORM_UNIT_HELP">
+			<Text>Targetkan unit militer darat terdekat yang Anda kendalikan. Arthur mengubah unit tersebut menjadi Questing Knight: unit Kavaleri Berat yang unik dengan peningkatan Kekuatan Tempur [ICON_Strength] dan Umur {1_LifespanVal} [ICON_Lifespan]. Biaya 1 Pengisian, 1 Gerakan [ICON_MOVEMENT].</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_DESCRIPTION">
+			<Text>Trik Anansi</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_HELP">
+			<Text>Gunakan saat berada di Bonus atau Sumber Daya Mewah. Anansi menghabiskan sumber daya dan menghasilkan {1_ScienceReward} [ICON_SCIENCE] Sains dan {2_CultureReward} [ICON_CULTURE] Budaya. Perbaikan apa pun yang ada akan hancur. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_DESCRIPTION">
+			<Text>Kerja Hercules</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_HELP">
+			<Text>Gunakan ketika berlokasi di Distrik ramah yang sedang dibangun. Hercules segera menyelesaikan pembangunan Distrik tersebut. Biaya 2 Biaya dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_DESTROY_DEVELOPMENT_DESCRIPTION">
+			<Text>Kemarahan Hercules</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_DESTROY_DEVELOPMENT_HELP">
+			<Text>Gunakan ketika berada di Distrik musuh. Hercules menghancurkan semua bangunan yang ada dan menjarah Distrik. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_GRANT_ENVOY_DESCRIPTION">
+			<Text>Pesona Himiko</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_GRANT_ENVOY_HELP">
+			<Text>Targetkan Negara-Kota yang berdekatan. Himiko segera menempatkan 1 Utusan [ICON_Envoy] gratis di Negara-Kota. Jika kamu sudah menjadi Suzerain di sana, Himiko juga mendapatkan {1_FaithChange} [ICON_FAITH] Iman. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FORCE_LEVY_MILITARY_DESCRIPTION">
+			<Text>Aturan Himiko</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FORCE_LEVY_MILITARY_HELP">
+			<Text>Gunakan ketika berada dalam wilayah Negara-Kota tempat Anda menjadi Penguasanya. Himiko segera memungut biaya militernya tanpa biaya. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESTORE_UNIT_MOVES_DESCRIPTION">
+			<Text>Perintah Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESTORE_UNIT_MOVES_HELP">
+			<Text>Targetkan unit teman terdekat yang telah bergerak atau menyerang pada giliran ini. Hippolyta segera memulihkan pergerakan dan serangan unit. Dapat digunakan sekali per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_NAVAL_GOLD_RAID_DESCRIPTION">
+			<Text>Keberuntungan Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_NAVAL_GOLD_RAID_HELP">
+			<Text>Targetkan unit angkatan laut musuh atau Kamp Barbar yang berdekatan. Targetnya terselesaikan atau rusak sebesar 50%, dan Sinbad segera mendapatkan {1_GoldReward} [ICON_GOLD] Emas. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_DESCRIPTION">
+			<Text>Penemuan Maui</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_HELP">
+			<Text>Gunakan ketika berada di lahan kosong yang tidak dimiliki. Maui membuat Bonus atau Sumber Daya Mewah acak di plot. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_DESCRIPTION">
+			<Text>Badai Oya</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_HELP">
+			<Text>Merusak semua musuh yang berdekatan dan menyembuhkan semua unit milik yang berdekatan dengan {1_DamageAmount}. Biaya 1 Pengisian dan berakhir giliran.</Text>
+		</Row>
+		<!--Projects-->
+		<!--Create Anansi-->
+		<Row Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_NAME">
+			<Text>Kisah Heroik</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_SHORT_NAME">
+			<Text>Kisah Heroik</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_DESCRIPTION">
+			<Text>Temukan Pahlawan baru.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ANANSI_NAME">
+			<Text>Pengabdian kepada Anansi</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ANANSI_SHORT_NAME">
+			<Text>Pengabdian kepada Anansi</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ANANSI_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Anansi. Jika sudah selesai, Anansi akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Arthur-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_NAME">
+			<Text>Pengabdian kepada Arthur</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_SHORT_NAME">
+			<Text>Pengabdian kepada Arthur</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Arthur. Jika sudah selesai, Arthur akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Beowulf-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_NAME">
+			<Text>Pengabdian kepada Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_SHORT_NAME">
+			<Text>Pengabdian kepada Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Beowulf. Setelah selesai, Beowulf akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Hercules-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HERCULES_NAME">
+			<Text>Pengabdian kepada Hercules</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HERCULES_SHORT_NAME">
+			<Text>Pengabdian kepada Hercules</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HERCULES_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Hercules. Jika sudah selesai, Hercules akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Himiko-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_NAME">
+			<Text>Pengabdian kepada Himiko</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_SHORT_NAME">
+			<Text>Pengabdian kepada Himiko</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Himiko. Jika sudah selesai, Himiko akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Hippolyta-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_NAME">
+			<Text>Pengabdian kepada Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_SHORT_NAME">
+			<Text>Pengabdian kepada Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Hippolyta. Setelah selesai, Hippolyta akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Hunahpu-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_NAME">
+			<Text>Pengabdian kepada Hunahpu &amp; Xbalanque</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_SHORT_NAME">
+			<Text>Pengabdian kepada Hunahpu &amp; Xbalanque</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Kembar Hunahpu &amp; Xbalanque. Setelah selesai, Hunahpu &amp; Xbalanque akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Oya-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_OYA_NAME">
+			<Text>Pengabdian pada Oya</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_OYA_SHORT_NAME">
+			<Text>Pengabdian pada Oya</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_OYA_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Oya. Jika sudah selesai, Oya akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Maui-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MAUI_NAME">
+			<Text>Pengabdian kepada Maui</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MAUI_SHORT_NAME">
+			<Text>Pengabdian kepada Maui</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MAUI_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Maui. Jika sudah selesai, Maui akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Mulan-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MULAN_NAME">
+			<Text>Pengabdian kepada Mulan</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MULAN_SHORT_NAME">
+			<Text>Pengabdian kepada Mulan</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MULAN_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Mulan. Jika sudah selesai, Mulan akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Sinbad-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_SINBAD_NAME">
+			<Text>Pengabdian pada Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_SINBAD_SHORT_NAME">
+			<Text>Pengabdian pada Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_SINBAD_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Sinbad. Jika sudah selesai, Sinbad akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Create Wukong-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_WUKONG_NAME">
+			<Text>Pengabdian pada Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_WUKONG_SHORT_NAME">
+			<Text>Pengabdian pada Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_WUKONG_DESCRIPTION">
+			<Text>Persembahkan kota ini kepada Pahlawan Sun Wukong. Jika sudah selesai, Sun Wukong akan muncul di pusat kota.</Text>
+		</Row>
+		<!--Great Works-->
+		<Row Tag="LOC_GREATWORKOBJECT_HERO">
+			<Text>[ICON_GreatWork_HeroRelic] Peninggalan Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_ANANSI_NAME">
+			<Text>Drum Anansi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_ANANSI_NAME">
+			<Text>Epik Anansi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_ARTHUR_NAME">
+			<Text>Piala Arthur</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_ARTHUR_NAME">
+			<Text>Epik Arthur</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_BEOWULF_NAME">
+			<Text>Pedang Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_BEOWULF_NAME">
+			<Text>Epik Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HERCULES_NAME">
+			<Text>Klub Hercules</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HERCULES_NAME">
+			<Text>Epik Hercules</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HIMIKO_NAME">
+			<Text>Mahkota Himiko</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HIMIKO_NAME">
+			<Text>Epik Himiko</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HIPPOLYTA_NAME">
+			<Text>Korset Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HIPPOLYTA_NAME">
+			<Text>Epik Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HUNAHPU_NAME">
+			<Text>Mantel Pahlawan Kembar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HUNAHPU_NAME">
+			<Text>Epik Pahlawan Kembar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_OYA_NAME">
+			<Text>Pisau Oya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_OYA_NAME">
+			<Text>Epik Oya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_MAUI_NAME">
+			<Text>Obor Maui</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_MAUI_NAME">
+			<Text>Epik Maui</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_MULAN_NAME">
+			<Text>Baju besi Mulan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_MULAN_NAME">
+			<Text>Epik Mulan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_SINBAD_NAME">
+			<Text>Kompas Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_SINBAD_NAME">
+			<Text>Epik Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_WUKONG_NAME">
+			<Text>Staf Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_WUKONG_NAME">
+			<Text>Epik Sun Wukong</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="LOC_BUILDING_NAME_FOR_HERO">
+			<Text>{1_BuildingName} dari {2_HeroName}</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_TARGETS">
+			<Text>Tidak ada target yang tersedia</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HERO_FAILURE_NOT_ENOUGH_CHARGES">
+			<Text>Sisa Biaya Tindakan tidak mencukupi</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HERO_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Membutuhkan gerakan penuh</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HERO_FAILURE_NO_MOVES">
+			<Text>Tidak ada gerakan yang tersisa</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_ONCE_PER_TURN">
+			<Text>Sudah menggunakan giliran ini</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_OWNED_PLOT">
+			<Text>Tidak dapat digunakan pada lahan milik.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_USED_CITY">
+			<Text>Kemampuan ini telah digunakan di {1_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_USED_FEATURE">
+			<Text>Kemampuan ini telah digunakan pada {1_FeatureName} ini.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_AT_WAR">
+			<Text>Tidak dapat menargetkan distrik di kota yang berperang dengan kita.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_CITY_AT_WAR">
+			<Text>Tidak dapat menargetkan kota yang sedang berperang dengan kita.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_LEVY_AVAILABLE">
+			<Text>Negara-Kota ini tidak memiliki unit yang dapat diretribusi.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_IN_SUZERAIN_TERRITORY">
+			<Text>Harus berada di dalam wilayah Negara-Kota tempat Anda menjadi penguasanya.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_LEVY_ACTIVE">
+			<Text>Militer Negara-Kota ini sudah dipungut.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_SUZERAIN_OF_CITY">
+			<Text>Anda bukan Penguasa {1_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_INCOMPLETE_DISTRICT">
+			<Text>Harus digunakan pada distrik yang sedang dibangun.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DISTRICT">
+			<Text>Harus digunakan pada suatu distrik.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DEVELOPMENT">
+			<Text>Harus digunakan pada suatu distrik atau perbaikan.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_LUXURY_OR_BONUS_RESOURCE">
+			<Text>Harus digunakan pada Sumber Daya Mewah atau Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_PILLAGED">
+			<Text>Distrik ini sudah dijarah.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_CITY_CENTER">
+			<Text>Tidak dapat digunakan di Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_RESOURCE">
+			<Text>Tidak dapat digunakan pada sumber daya yang ada.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_IMPROVEMENT">
+			<Text>Tidak dapat digunakan pada ubin yang ditingkatkan.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_WONDER">
+			<Text>Tidak dapat digunakan pada Wonder.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_VALID_RESOURCES">
+			<Text>Tidak ada Sumber Daya yang valid di lokasi ini.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_ALLIED_PLOT">
+			<Text>Tidak dapat digunakan pada plot milik peradaban sekutu.</Text>
+		</Row>
+		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_HEROIC_RELIC">
+			<Text>Arkeolog Anda {1_UnitName} telah menemukan benda ikonik peninggalan Pahlawan leluhur {2_ActingCiv}.</Text>
+		</Row>
+		<Row Tag="LOC_CAN_TRAIN_FAILURE_SAME_ERA">
+			<Text>Pahlawan hanya dapat muncul satu kali per Era.</Text>
+		</Row>
+		<!--Heroes Popup-->
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_GOODY_HUT">
+			<Text>Penduduk desa suku telah berbagi mitos dan legenda mereka dengan kami. Kami telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_PROJECT">
+			<Text>Kisah Pahlawan telah menyebarkan berita tentang perbuatan legendaris di kalangan masyarakat kita. Kami telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_CITY_STATE">
+			<Text>Seiring berkembangnya pengaruh kami dengan {2_SourcePlayerName}, mereka berbagi mitos dan legenda. Kami telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_CITY_STATE_SUZERAIN">
+			<Text>Kekuasaan kami atas {2_SourcePlayerName} telah mengungkap lebih banyak tentang mitos dan legenda mereka. Kami telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_NEW_CONTINENT">
+			<Text>Kami telah menemukan benua {2_ContinentName} beserta mitos dan legenda baru. Kami telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_NATURAL_WONDER">
+			<Text>Pemandangan {2_FeatureName} yang menakjubkan telah menginspirasi mitos dan legenda setempat. Kami telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_ENCOUNTER">
+			<Text>Sebuah legenda berdiri di hadapan kita! Pasukan kami secara pribadi telah bertemu dengan {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISCOVER_HERO_HELP">
+			<Text>Anda dapat mengklaim Pahlawan ini dengan menyelesaikan Proyek Pengabdian Pahlawan di Kota mana pun yang memiliki bangunan [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR]. Hanya satu Pengabdian Pahlawan yang dapat dilakukan di setiap kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISCOVER_HERO_NAVAL_HELP">
+			<Text>Anda dapat mengklaim Pahlawan ini dengan menyelesaikan Proyek Pengabdian Pahlawan di Kota mana pun yang memiliki bangunan [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] yang mampu melatih unit angkatan laut. Hanya satu Pengabdian Pahlawan yang dapat dilakukan di setiap kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISCOVER_CLAIMED_HERO_HELP">
+			<Text>Pahlawan ini telah diklaim oleh {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="LOC_HERO_EXPIRED_MESSAGE">
+			<Text>Pahlawan [ICON_Lifespan] Umurnya Kedaluwarsa</Text>
+		</Row>
+		<Row Tag="LOC_HERO_EXPIRED_DESC">
+			<Text>{1_UnitName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?has; other?have;} kami telah mencapai akhir umur [ICON_Lifespan] mereka dan telah meninggalkan negara kami.</Text>
+		</Row>
+		<Row Tag="LOC_HERO_KILLED_MESSAGE">
+			<Text>Pahlawan Terbunuh</Text>
+		</Row>
+		<Row Tag="LOC_HERO_KILLED_DESC">
+			<Text>{1_UnitName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?has; other?have;} kami gugur dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_HEROES_HELP_RECALL_DESC">
+			<Text>Setelah Pahlawan habis masa berlakunya atau terbunuh, mereka dapat dipanggil kembali dengan membelinya menggunakan [ICON_Faith] Keyakinan di Kota tempat [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] mereka berada.[NEWLINE][NEWLINE]Pahlawan yang Diingat kembali dengan [ICON_Lifespan] Umur dan Biaya Tindakan mereka yang diperbarui, tetapi biaya Keyakinan [ICON_Faith] untuk memanggil mereka kembali meningkat seiring dengan kemunculannya. Pahlawan dapat dipanggil kembali satu kali per Era.</Text>
+		</Row>
+		<Row Tag="LOC_LOOK_AT_HERO">
+			<Text>Lihatlah Pahlawan</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="LOC_NOTIFICATION_HERO_DISCOVERED_MESSAGE">
+			<Text>Pahlawan Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_DISCOVERED_SUMMARY">
+			<Text>Anda telah menemukan {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOW_LIFESPAN_MESSAGE">
+			<Text>Pahlawan [ICON_Lifespan] Umur Rendah</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOW_LIFESPAN_SUMMARY">
+			<Text>Putaran {1_HeroClassName: plural 1?Hero; other?Heroes;} {1_HeroClassName} {1_HeroClassName: plural 1?has; other?have;} kami kurang dari {2_NumTurns} yang tersisa di [ICON_Lifespan] Umurnya.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOST_LIFESPAN_EXPIRED_MESSAGE">
+			<Text>Pahlawan Hilang</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOST_LIFESPAN_EXPIRED_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Hero; other?Heroes;} {1_HeroClassName} {1_HeroClassName: plural 1?has; other?have;} kami telah mencapai akhir masa hidup [ICON_Lifespan] mereka. Mereka milik sejarah sampai kita mengumpulkan cukup [ICON_Faith] Iman untuk mengingatnya.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Dapat Mengingat Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>Anda telah mengumpulkan cukup [ICON_Faith] Iman untuk mengingat {1_HeroClassName: plural 1?Hero; other?Heroes;} {1_HeroClassName} di Kota {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_KILLED_OTHER_MESSAGE">
+			<Text>Pahlawan Terbunuh</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_KILLED_OTHER_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Hero; other?Heroes;} {1_HeroClassName} {1_HeroClassName: plural 1?has; other?have;} gugur dalam pertempuran.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_EXPIRED_OTHER_MESSAGE">
+			<Text>Pahlawan Berangkat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_EXPIRED_OTHER_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Hero; other?Heroes;} {1_HeroClassName} {1_HeroClassName: plural 1?has; other?have;} mencapai akhir umur [ICON_Lifespan] mereka.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_MESSAGE">
+			<Text>Pahlawan Diklaim</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_SUMMARY">
+			<Text>{1_CivName} telah mengklaim {2_HeroName: plural 1?Hero; other?Heroes;} {2_HeroName}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_UNMET_SUMMARY">
+			<Text>Pemain yang belum terpenuhi telah mengklaim {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_RECALLED_OTHER_MESSAGE">
+			<Text>Pahlawan Teringat</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_RECALLED_OTHER_SUMMARY">
+			<Text>{1_CivName} telah menarik kembali {2_HeroName: plural 1?Hero; other?Heroes;} {2_HeroName}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIM_FAILED_MESSAGE">
+			<Text>Produksi Terselamatkan</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIM_FAILED_SUMMARY">
+			<Text>Anda tidak dapat mengklaim {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName} tepat waktu. Namun {2_Production} [ICON_Production] Produksi telah diselamatkan dari upaya tersebut dan diberikan kepada kota {3_CityName}.</Text>
+		</Row>
+		<!--GreatPeoplePopup-->
+		<Row Tag="LOC_GREAT_PEOPLE_TAB_HEROES">
+			<Text>Pahlawan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_RECRUITED_STATE">
+			<Text>DIKLAIM OLEH:</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_DISCOVERED_STATE">
+			<Text>TELAH MENEMUKAN</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_LOOK_AT_HERO_TT">
+			<Text>Tutup panel ini dan pilih unit pahlawan ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_LOOK_AT_CITY_TT">
+			<Text>Tutup panel ini dan pilih kota asal pahlawan yang telah meninggal ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_CIVILOPEDIA_ENTRY_TT">
+			<Text>Buka entri Civilopedia untuk unit pahlawan ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_FAITH_RECALL">
+			<Text>Ingatlah dengan Iman</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_FAITH_RECALL_TT">
+			<Text>Hero ini bisa di recall karena {1_Faith} [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_INSUFFICIENT_FAITH_TT">
+			<Text>[COLOR_RED]Tidak cukup [ICON_Faith] Iman untuk mengingat.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_DECEASED">
+			<Text>[COLOR_RED]MATAHARI[ENDCOLOR]</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
+			<Text>Keajaiban Alam yang Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
+			<Text>Penemuan keajaiban alam memberikan bonus pengalaman bagi para Pramuka. Keajaiban alam juga memberikan bonus kedekatan dengan distrik Situs Suci. Semua petak yang berdekatan menerima +2 Banding.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
+			<Text>Dua keajaiban alam ubin yang dapat ditemukan di daerah pesisir dan menyediakan +3 [ICON_Food] Makanan dan +2 [ICON_Science] Ilmu Pengetahuan. Bonus kedekatan yang besar dengan distrik Kampus.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
+			<Text>Dua keajaiban alam ubin. Muncul dengan Tebing yang berdekatan dengan air dan memberikan +3 [ICON_Culture] Budaya, +3 [ICON_Gold] Emas, +2 [ICON_Food] Makanan. Perbaikan tidak dapat ditempatkan di atasnya.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
+			<Text>Salah satu keajaiban alam ubin. Muncul sebagai Danau dan memberikan +5 [ICON_Faith] Keyakinan, +1 [ICON_Science] Ilmu Pengetahuan, dan Air Tawar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
+			<Text>Dua ubin keajaiban alam. Muncul sebagai Danau dan memberikan +2 [ICON_Faith] Iman dan +2 [ICON_Culture] Budaya. Unit sembuh sepenuhnya jika mereka sembuh selama satu giliran yang berdekatan dengan Laut Mati. Tidak menyediakan Air Tawar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
+			<Text>Tiga ubin keajaiban alam yang tidak bisa dilewati. Memberikan +1 [ICON_Faith] Iman ke petak yang berdekatan. Unit agama yang bergerak di sebelah Gunung Everest mengabaikan Bukit selama sisa permainan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
+			<Text>Dua ubin keajaiban alam yang tidak bisa dilewati. Muncul di medan pantai dan memberikan +2 [ICON_Science] Ilmu Pengetahuan ke petak yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
+			<Text>Satu ubin keajaiban alam yang tidak bisa dilewati. Memberikan +2 [ICON_Food] Makanan ke petak yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
+			<Text>Keajaiban alam empat ubin. Menyediakan +2 [ICON_Food] Makanan dan +2 [ICON_Culture] Budaya.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
+			<Text>Tiga ubin keajaiban alam yang tidak bisa dilewati. Memberikan +1 [ICON_CULTURE] Budaya dan +1 [ICON_Emas] Emas ke petak yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
+			<Text>Dua ubin keajaiban alam yang tidak dapat dilewati. Menggandakan hasil medan dari semua ubin yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
+			<Text>Satu ubin keajaiban alam yang tidak bisa dilewati. Memberikan +1 [ICON_CULTURE] Budaya dan +1 [ICON_Ilmu] Ilmu Pengetahuan ke petak yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
+			<Text>Dua ubin keajaiban alam yang tidak bisa dilewati. Memberikan +1 [ICON_Gold] Emas dan +1 [ICON_Science] Ilmu Pengetahuan ke petak yang berdekatan.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

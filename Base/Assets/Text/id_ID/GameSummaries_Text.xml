@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_HOF_GRAPH_CITY_BUILDINGS">
+			<Text>Bangunan Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_CULTURE">
+			<Text>Budaya Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_DISTRICTS">
+			<Text>Kabupaten Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_FAITH">
+			<Text>City Faith</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_FOOD">
+			<Text>Makanan Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_GOLD">
+			<Text>Emas Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_POPULATION">
+			<Text>Populasi Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_PRODUCTION">
+			<Text>Produksi Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_SCIENCE">
+			<Text>Ilmu Pengetahuan Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_TOURISM">
+			<Text>Wisata Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_WONDERS">
+			<Text>Keajaiban Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_CAMPS">
+			<Text>Kamp Barbar Dibersihkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_KILLS">
+			<Text>Orang Barbar Terbunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BUILDINGS">
+			<Text>Bangunan yang Dibangun</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_CAPTURED">
+			<Text>Kota yang Ditangkap</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_FOUNDED">
+			<Text>Kota-kota yang Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_LOST">
+			<Text>Kota-kota yang hilang</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CIVICS">
+			<Text>Kewarganegaraan Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_COMBATS">
+			<Text>Jumlah Pertempuran</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CULTURE">
+			<Text>Budaya Pemain</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_DISTRICTS">
+			<Text>Kabupaten yang Dibangun</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_FAITH">
+			<Text>Keyakinan Pemain</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOLD">
+			<Text>Pemain Emas</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOODY_HUTS">
+			<Text>Desa-desa Suku Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GREAT_PEOPLE">
+			<Text>Orang-orang Hebat yang Dihasilkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_NATURAL_WONDERS">
+			<Text>Keajaiban Alam yang Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_NUKES">
+			<Text>Nuklir Diluncurkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCIENCE">
+			<Text>Ilmu Pemain</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCORE">
+			<Text>Skor Pemain</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_TECHS">
+			<Text>Teknologi yang Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_KILLED">
+			<Text>Unit Terbunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_LOST">
+			<Text>Unit yang hilang</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_DECLARED">
+			<Text>Perang dideklarasikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_RECEIVED">
+			<Text>Deklarasi Perang Diterima</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WONDERS">
+			<Text>Keajaiban yang Dibangun</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_BELIEFS">
+			<Text>Keyakinan Agama</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_CITIES">
+			<Text>Kota-kota Religius</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_FOLLOWERS">
+			<Text>Penganut Agama</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS">
+			<Text>Status Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_BUILDINGS">
+			<Text>Bangunan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_DISTRICTS">
+			<Text>Distrik</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_INITIAL_COLUMN">
+			<Text>Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_POPULATION">
+			<Text>Populasi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_TURN_FOUNDED">
+			<Text>Belok Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_WONDERS">
+			<Text>Keajaiban</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS">
+			<Text>Hasil Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_CULTURE">
+			<Text>Budaya</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FAITH">
+			<Text>Iman</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FOOD">
+			<Text>Makanan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_GOLD">
+			<Text>Emas</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_INITIAL_COLUMN">
+			<Text>Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_PRODUCTION">
+			<Text>Produksi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_SCIENCE">
+			<Text>Sains</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_TOURISM">
+			<Text>Pariwisata</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS">
+			<Text>Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_INITIAL_COLUMN">
+			<Text>Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_TURNS_ACTIVE">
+			<Text>Ternyata Aktif</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS">
+			<Text>Agama</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_BELIEFS">
+			<Text>Keyakinan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_CITIES">
+			<Text>Kota</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOLLOWERS">
+			<Text>Pengikut</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOUNDER">
+			<Text>Pendiri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_HOLY_CITY">
+			<Text>Kota Suci</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_INITIAL_COLUMN">
+			<Text>Agama</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_TURN_FOUNDED">
+			<Text>Belok Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS">
+			<Text>Unit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_INITIAL_COLUMN">
+			<Text>Unit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_KILLS">
+			<Text>Membunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_LOST">
+			<Text>Hilang</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_TRAINED">
+			<Text>Terlatih</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BARBARIANS_KILLED">
+			<Text>Orang Barbar Terbunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BARBARIAN_CAMPS">
+			<Text>Kamp Barbar Dibersihkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_CAPTURED">
+			<Text>Kota-kota yang Ditaklukkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_FOUNDED">
+			<Text>Kota-kota yang Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_LOST">
+			<Text>Kota-kota yang hilang</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CIVICS">
+			<Text>Kewarganegaraan Diperoleh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CIVIC_BOOSTS">
+			<Text>Kewarganegaraan Ditingkatkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_COMBATS">
+			<Text>Pertempuran yang Terjadi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT">
+			<Text>Pemerintah Favorit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT_ANNOTATION">
+			<Text>Aktif untuk gabungan {Number: plural 1? round; other? {Number} round;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT">
+			<Text>Unit Favorit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT_ANNOTATION">
+			<Text>{Number: plural 1? unit; other {Number} unit;} dilatih</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GOODY_HUTS">
+			<Text>Desa-desa Suku Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GOVERNMENT">
+			<Text>Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GREAT_PEOPLE">
+			<Text>Orang-orang Hebat yang Dihasilkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_LARGEST_CITY">
+			<Text>Kota Terbesar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_LARGEST_CITY_ANNOTATION">
+			<Text>{Number: plural 1? citizen; other?{Number}warga negara;}</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_NATURAL_WONDERS">
+			<Text>Keajaiban Alam yang Ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_NUKES">
+			<Text>Peluncuran Rudal Nuklir</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION">
+			<Text>Agama yang Paling Banyak Diikuti</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION_ANNOTATION">
+			<Text>{Number: plural 1? followers; other? followers;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RELGIONS_FOUNDED">
+			<Text>Agama yang Didirikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT">
+			<Text>Unit Terkuat</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT_ANNOTATION">
+			<Text>Terbunuh {Number: plural 1? unit; other?{Number} unit;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_TECHS">
+			<Text>Teknisi yang Diakuisisi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_TECH_BOOSTS">
+			<Text>Teknologi Ditingkatkan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_KILLED">
+			<Text>Unit Terbunuh</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_LOST">
+			<Text>Unit yang hilang</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_TRAINED">
+			<Text>Unit yang Dilatih</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WARS_DECLARED">
+			<Text>Perang dideklarasikan</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WARS_RECEIVED">
+			<Text>Perang Diterima</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT">
+			<Text>Unit Terlemah</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT_ANNOTATION">
+			<Text>{Number: plural 1? unit; other?{Number} unit;} hilang.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WONDERS">
+			<Text>Keajaiban yang Dibangun</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- UI -->
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
+			<Text>Efek yang Diaktifkan</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
+			<Text>Ciptakan Karya Besar</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
+			<Text>Agama yang ditemukan</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
+			<Text>Pensiun</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_CHARGES">
+			<Text>{1_AmountCost} { 1_Amount of Costs: plural 1? Costs; other? Costs;}</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
+			<Text>Aktifkan di distrik Situs Suci atau Stonehenge.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
+			<Text>Aktifkan di distrik atau keajaiban dengan slot Great Work yang tersedia.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
+			<Text>Aktifkan pada ubin yang tidak dimiliki pemain.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ENEMY_TERRITORY">
+			<Text>Aktifkan di wilayah musuh.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_NONHOSTILE_TERRITORY">
+			<Text>Aktifkan di wilayah kekuasaan asing yang tidak bermusuhan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_STATE_TERRITORY">
+			<Text>Aktifkan di wilayah negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_SUZERAIN_TERRITORY">
+			<Text>Aktifkan di wilayah negara kota yang Anda jadikan suzerain.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_DOES_NOT_NEED_OWNED_TILE">
+			<Text>Dapat diaktifkan bahkan pada ubin yang tidak Anda miliki.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OWNED_TILE">
+			<Text>Aktifkan pada ubin yang Anda miliki.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
+			<Text>Aktifkan di sebelah unit Barbarian.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
+			<Text>Aktifkan di samping Gunung.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_TO_OWNED_TILE">
+			<Text>Aktifkan di samping ubin yang Anda miliki.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_GREAT_WORK_OBJECT">
+			<Text>Aktifkan di kota dengan {LOC_GRAMMAR_A_WITH_IKON &lt;&lt;{1_NameTypeObjectLarge} &lt;&lt; {2_IconString}} karya besar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_COMPLETED_DISTRICT">
+			<Text>Aktifkan di kabupaten {1_District_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_SPACE_RACE_PROJECT">
+			<Text>Aktifkan proyek Space Race yang sedang dibangun.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_WONDER">
+			<Text>Aktifkan pada keajaiban yang sedang dibangun.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT">
+			<Text>Aktifkan di unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
+			<Text>Aktifkan pada unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
+			<Text>Aktifkan pada unit udara militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
+			<Text>Aktifkan pada ubin tanpa unit militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT_WITHIN_RANGE">
+			<Text>Aktifkan di unit darat militer dalam ubin {1_Distance}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
+			<Text>Aktifkan pada atau di samping ubin dengan {1_FeatureName}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
+			<Text>Aktifkan pada atau di samping keajaiban alam.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION">
+			<Text>Aktifkan di unit militer yang bukan Korps atau Angkatan Darat.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION">
+			<Text>Aktifkan di unit militer Korps.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
+			<Text>Aktifkan di unit militer Angkatan Darat.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION_SEA">
+			<Text>Aktifkan pada unit militer yang bukan Armada atau Armada.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION_SEA">
+			<Text>Aktifkan pada unit militer Armada.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION_SEA">
+			<Text>Aktifkan pada unit militer armada.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
+			<Text>Aktifkan pada sumber daya Mewah.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ANYWHERE">
+			<Text>Aktifkan di ubin mana pun.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_OPEN_PLAYER_RELIC_SLOT">
+			<Text>Harus memiliki slot [ICON_GreatWork_Relic] Relic yang terbuka di salah satu kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MISSING_BUILDING">
+			<Text>Kota tidak boleh memiliki bangunan {1_Building_Name}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_GOLD_COST">
+			<Text>Biaya tindakan {1_Number_of_Gold} [ICON_Emas] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
+			<Text>Mendirikan sebuah Agama, dan menetapkan kota ini sebagai Kota Suci.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
+			<Text>{1_Large Working Name} ({2_LargeIconString} {3_Large Working Name}).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
+			<Text>Efek Pasif</Text>
+		</Row>
+		<!-- Shared by Multiple Classes -->
+		<Row Tag="LOC_GREATPERSON_GOLD">
+			<Text>Dapatkan {Number} {Result Type} segera.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk teknologi Komputer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Modern.</Text>
+		</Row>
+		<!-- Generals -->
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
+			<Text>+5 [ICON_Strength] Bonus Tempur dari Jendral Besar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
+			<Text>+5 [ICON_Strength] Bonus Tempur dari Laksamana Agung.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_GENERAL_MOVEMENT_DESCRIPTION">
+			<Text>+1 [MOVEMENT ICON] Gerakan dari Jenderal Besar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_ADMIRAL_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_MOBER] Gerakan dari Laksamana Agung.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Klasik dan Abad Pertengahan dalam jarak 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Abad Pertengahan dan Renaisans dalam jarak 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Renaissance dan Industri dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Industri dan Modern dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Modern dan Atom dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Atom dan Informasi dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit tanah era Informasi dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
+			<Text>Mengubah unit Barbarian yang berdekatan ke dalam kendali Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
+			<Text>Memberikan 1 tingkat kenaikan pangkat ke unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
+			<Text>Secara instan menciptakan unit Knight.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EL_CID_ACTIVE">
+			<Text>Membentuk Korps dari unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GENGHIS_KHAN_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +25% pengalaman tempur ke unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
+			<Text>Secara instan membuat unit Bombard dengan 1 level promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
+			<Text>Membuat Relik [ICON_GreatWork_Relic].</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ANA_NZINGA_ACTIVE">
+			<Text>Gain {Number} [ICON_Envoy] {Number: plural 1 Envoy; other Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_NAPOLEON_BONAPARTE_ACTIVE">
+			<Text>Membentuk Angkatan Darat dari unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RANI_LAKSHMIBAI_ACTIVE">
+			<Text>Secara instan membuat unit Kavaleri dengan 1 tingkat promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
+			<Text>Gain {Number} [ICON_Envoy] {Number: plural 1 Envoy; other Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOHN_MONASH_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +75% pengalaman tempur ke unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
+			<Text>Distrik di ubin ini mendapatkan +1 slot unit udara.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
+			<Text>Menciptakan unit Infanteri secara instan dengan 1 tingkat promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DWIGHT_EISENHOWER_ACTIVE">
+			<Text>+5% [ICON_PRODUCTION] Produksi untuk unit militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GEORGY_ZHUKOV_ACTIVE">
+			<Text>Bonus flanking +50% untuk semua unit tanah.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +100% pengalaman tempur ke unit darat militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
+			<Text>Menciptakan unit Tank secara instan dengan 1 level promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
+			<Text>Menciptakan unit Anti-Tank Modern secara instan dengan 1 level promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +100% pengalaman tempur ke unit darat militer.</Text>
+		</Row>
+		<!-- Admirals -->
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Klasik dan Abad Pertengahan dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Abad Pertengahan dan Renaisans dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Renaissance dan Industri dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Industri dan Modern dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Modern dan Atom dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Atom dan Informasi dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur dan +1 [ICON_Movement] Pergerakan ke unit angkatan laut era Informasi dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
+			<Text>Memberikan 1 tingkat kenaikan pangkat ke unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
+			<Text>Membentuk Armada dari unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
+			<Text>Seketika menciptakan unit Quadrireme.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
+			<Text>Memungkinkan semua unit angkatan laut bergerak di atas ubin laut tanpa persyaratan teknologi normal.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
+			<Text>Dapatkan 50 [ICON_Gold] Emas (pada kecepatan Standar). Unit militer mendapatkan hadiah +40% untuk menjarah laut [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHENG_HE_ACTIVE">
+			<Text>Gain {Number} [ICON_Envoy] {Number: plural 1 Envoy; other Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANCIS_DRAKE_ACTIVE">
+			<Text>Dapatkan 75 [ICON_Gold] Emas (pada kecepatan Standar). Unit militer mendapatkan hadiah +50% untuk menjarah laut [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
+			<Text>Membentuk Armada dari unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
+			<Text>Secara instan membuat unit Ironclad dengan 1 level promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHING_SHIH_ACTIVE">
+			<Text>Dapatkan 100 [ICON_Gold] Emas (pada kecepatan Standar). Unit militer mendapatkan hadiah +60% untuk menjarah laut [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
+			<Text>+50% bonus pengapit untuk semua unit angkatan laut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +50% pengalaman tempur ke unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
+			<Text>Menciptakan unit Kapal Perang secara instan dengan 1 level promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE">
+			<Text>Mengumpulkan 25% lebih sedikit kelelahan perang dari biasanya.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +75% pengalaman tempur ke unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
+			<Text>+20% [ICON_Production] Produksi terhadap unit-unit kelas promosi Naval Raider.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRACE_HOPPER_ACTIVE">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Atom atau Informasi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +100% pengalaman tempur ke unit angkatan laut militer.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
+			<Text>Memberikan 1 tingkat promosi dan +200% pengalaman tempur ke unit angkatan laut militer.</Text>
+		</Row>
+		<!-- Engineers -->
+		<Row Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
+			<Text>Biarkan kota ini membangun satu distrik lebih banyak dari batas populasi [ICON_Citizen] yang diizinkan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk teknologi Pencetakan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
+			<Text>Hibah {Number} [ICON_PRODUCTION] Produksi menuju konstruksi keajaiban.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JAMES_OF_ST_GEORGE_ACTIVE">
+			<Text>Bangun Tembok Kuno dan Tembok Abad Pertengahan secara instan di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_RENAISSANCE">
+			<Text>Hibah {Number} [ICON_PRODUCTION] Produksi menuju konstruksi keajaiban.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WORKSHOP_CULTURE">
+			<Text>Lokakarya menyediakan +{Number} [IKON_CULTURE] Budaya.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_SMALL">
+			<Text>+{Number} [ICON_Housing] Perumahan untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_SMALL">
+			<Text>+{Number} [ICON_Amenities] { Number: plural 1? Facility; other? Facilities;} untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INDUSTRIAL">
+			<Text>Hibah {Number} [ICON_PRODUCTION] Produksi menuju konstruksi keajaiban.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
+			<Text>Secara instan membangun Pabrik dan Bengkel di distrik ini. Pabrik memberikan +2 [ICON_PRODUCTION] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
+			<Text>Kota ini menyediakan +{Number} Banding untuk setiap ubin yang dimilikinya.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
+			<Text>Bangunan regional distrik ini mencapai {Number} {Number: plural 1? tiles; other tiles;} lebih jauh.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
+			<Text>Bangunan regional distrik ini menyediakan +{Number} [ICON_PRODUCTION] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
+			<Text>+{Number}% [ICON_PRODUCTION] Produksi untuk proyek-proyek Space Race.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk teknologi Roket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
+			<Text>+{Number} [ICON_Housing] Perumahan untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_LARGE">
+			<Text>+{Number} [ICON_Housing] Perumahan untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_LARGE">
+			<Text>+{Number} [ICON_Amenities] { Number: plural 1? Facility; other? Facilities;} untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE">
+			<Text>Hibah {Number} [ICON_PRODUCTION] Produksi untuk pembangunan proyek Space Race.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
+			<Text>Kota ini menyediakan +{Number} Banding untuk setiap ubin yang dimilikinya.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
+			<Text>Bangunan daerah di distrik ini menyediakan +{Number} [ICON_Amenities] { Number: plural 1? Facility; other? Facilities;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
+			<Text>Hibah {Number} [ICON_PRODUCTION] Produksi menuju konstruksi keajaiban.</Text>
+		</Row>
+		<!-- Merchants -->
+		<Row Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
+			<Text>Memberikan {Number} gratis {Number: plural 1? copy; other? copy;} sumber daya Mewah di ubin ini ke [ICON_Capital] Ibu Kota Anda.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FAITH_SMALL">
+			<Text>Dapatkan {Number} [ICON_Iman] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PLOT">
+			<Text>Kota terdekat Anda mencaplok ubin ini ke dalam wilayahnya.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_TINY">
+			<Text>Keuntungan { Number : number #} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
+			<Text>Meningkatkan kapasitas Rute Perdagangan [ICON_TradeRoute] sebesar 1. Rute Perdagangan [ICON_TradeRoute] Asing ke kota ini memberikan +2 [ICON_Gold] Emas ke kedua kota.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARCO_POLO_ACTIVE">
+			<Text>Memberikan unit Pedagang gratis di kota ini, dan meningkatkan kapasitas Rute Perdagangan [ICON_TradeRoute] sebesar 1. Rute Perdagangan [ICON_TradeRoute] Asing ke kota ini memberikan +2 [ICON_Gold] Emas ke kedua kota.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_TO_INCOMING_FOREIGN_ROUTES">
+			<Text>Kota ini menyediakan +{Number} [ICON_Gold] Emas ke Rute Perdagangan [ICON_TradeRoute] asing.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_FROM_INCOMING_FOREIGN_ROUTES">
+			<Text>Kota ini menerima +{Number} [ICON_Gold] Emas dari Rute Perdagangan [ICON_TradeRoute] asing.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FREE_TRADER_UNIT">
+			<Text>Dapatkan satu unit Trader gratis di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_TRADE_ROUTE_CAPACITY">
+			<Text>Meningkatkan [ICON_TradeRoute] kapasitas Rute Perdagangan sebesar {Number}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_SMALL">
+			<Text>Keuntungan { Number : number #} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
+			<Text>Gain {Number} [ICON_Envoy] {Number: plural 1 Envoy; other Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
+			<Text>Secara instan membangun Bank dan Pasar di distrik ini. Bank mendapatkan 2 slot Pekerjaan Besar, yang dapat menampung apa saja.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARKET">
+			<Text>Seketika membangun Pasar di distrik ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BANK">
+			<Text>Langsung membangun sebuah Bank di distrik ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
+			<Text>Bank ini mendapatkan {Number} slot Great Work untuk menyimpan apa pun kecuali [ICON_GreatWork_Relic] Relik.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_MEDIUM">
+			<Text>Keuntungan { Number : number #} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_MEDIUM">
+			<Text>Gain {Number} [ICON_Envoy] {Number: plural 1 Envoy; other Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke kota Anda sendiri mendapatkan +{Number} [ICON_Gold] Emas untuk setiap distrik khusus di tempat tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
+			<Text>+1 Slot kebijakan ekonomi di pemerintahan mana pun.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_JEANS">
+			<Text>Memberikan {Number} [ICON_RESOURCE_JEANS] Jeans, sumber daya Mewah yang diproduksi secara unik yang menyediakan +4 [ICON_Amenities] Fasilitas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_LARGE">
+			<Text>Keuntungan { Number : number #} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PERFUME">
+			<Text>Memberikan {Number} [ICON_RESOURCE_PERFUME] Parfum, sumber daya Mewah yang diproduksi secara unik yang memberikan +6 [ICON_Amenities] Fasilitas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
+			<Text>Memberikan 1 [ICON_RESOURCE_OIL] Minyak, sumber daya Strategis. Rute Perdagangan [ICON_TradeRoute] Anda mendapatkan +2 [ICON_Gold] Emas untuk setiap sumber daya Strategis di kota tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_OIL">
+			<Text>Hibah {Number} [ICON_RESOURCE_OIL] Minyak, sumber daya strategis.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda mendapatkan +{Number} [ICON_Gold] Emas untuk setiap sumber daya Strategis yang ditingkatkan oleh kota tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
+			<Text>+{Number}% [ICON_Tourism] Tingkat pariwisata menuju peradaban lain yang memiliki [ICON_Trade_Route] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_COSMETICS">
+			<Text>Memberikan {Number} [ICON_RESOURCE_COSMETICS] Kosmetik, sumber daya Mewah yang diproduksi secara unik yang menyediakan +4 [ICON_Amenities] Fasilitas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
+			<Text>+{Number} {Number: plural 1? levels; other levels;} visibilitas diplomatik dengan semua peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_TOYS">
+			<Text>Memberikan {Number} [ICON_RESOURCE_TOYS] Mainan, sumber daya Mewah yang diproduksi secara unik yang menyediakan +4 [ICON_Amenities] Fasilitas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
+			<Text>Distrik Kawasan Industri menyediakan +{Number} [ICON_Tourism] Pariwisata.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
+			<Text>Distrik kampus menyediakan +{Number} [ICON_Tourism] Pariwisata.</Text>
+		</Row>
+		<!-- Scientists -->
+		<Row Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Klasik atau Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk Matematika dan 1 teknologi acak dari era Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MATHTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk teknologi Matematika.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARY">
+			<Text>Langsung membangun Perpustakaan di distrik ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARY_FREE_MAINTENANCE">
+			<Text>+{Number} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITY">
+			<Text>Seketika membangun Universitas di distrik ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITY_FREE_MAINTENANCE">
+			<Text>+{Number} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Abad Pertengahan atau Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
+			<Text>Bonus kedekatan [ICON_Faith] Iman di distrik Situs Suci ini juga memberikan bonus [ICON_Science] Sains.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FAITH">
+			<Text>Dapatkan {Number} [ICON_Iman] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk 2 teknologi acak dan momen Inspirasi [ICON_CivicBoosted] untuk 1 civic acak dari era Abad Pertengahan atau Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Abad Pertengahan atau Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
+			<Text>Memicu [ICON_CivicBoosted] Momen Inspirasi untuk {Number} acak {number: plural 1?civic; other?civics;} dari era Abad Pertengahan atau Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
+			<Text>Dapatkan 250 [ICON_Science] Ilmu Pengetahuan (pada kecepatan Standar) untuk setiap petak Gunung yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB">
+			<Text>Segera membangun Laboratorium Penelitian di distrik ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCHLABS_BIG_SCIENCE">
+			<Text>Laboratorium Penelitian menyediakan +{Number} [ICON_Science].</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
+			<Text>+{Number} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
+			<Text>Langsung membangun Universitas dan Perpustakaan di distrik ini. Universitas menyediakan +2 [ICON_Ilmu] Ilmu Pengetahuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Renaisans atau Industri.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
+			<Text>Berlaku {Number} gratis [ICON_GreatPerson] Great People yang bertujuan untuk merekrut semua Great People saat ini dan yang akan datang.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
+			<Text>Dapatkan 500 [ICON_Science] Ilmu Pengetahuan (pada kecepatan Standar) untuk setiap ubin keajaiban alam di sini atau yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk Kimia dan 1 teknologi acak dari era Industri.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk Komputer dan 1 teknologi acak dari era Modern.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Industri.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk teknologi Kimia.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
+			<Text>Perpustakaan menyediakan +{Number} [ICON_Science] Ilmu Pengetahuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_SMALL_SCIENCE">
+			<Text>Universitas menyediakan +{Number} [ICON_Science] Ilmu Pengetahuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_BIG_SCIENCE">
+			<Text>Universitas menyediakan +{Number} [ICON_Science] Ilmu Pengetahuan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Modern atau Atom.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_REVEAL_OIL">
+			<Text>Menampilkan [ICON_RESOURCE_OIL] Minyak tanpa persyaratan teknologi normal.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Industri atau Modern.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
+			<Text>Dapatkan {Number} [ICON_Science] Ilmu Pengetahuan untuk setiap petak Hutan Hujan di sini atau yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTIFACT_TOURISM_MODIFIER">
+			<Text>[ICON_GreatWork_Artefak] Artefak di semua kota Anda menghasilkan {ScalingFactor}% dari [ICON_Tourism] Pariwisata normalnya.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTIFACT_SCIENCE">
+			<Text>Dapatkan {Number} [ICON_Science] Ilmu Pengetahuan untuk setiap [ICON_GreatWork_Artifact] Artefak di kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk {Number} acak { Number: plural 1? technology; other technologies;} dari era Atom atau Informasi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
+			<Text>Memicu momen [ICON_TechBoosted] Eureka untuk semua teknologi dari era Informasi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
+			<Text>Hibah {Number} [ICON_PRODUCTION] Produksi untuk pembangunan proyek Space Race.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE">
+			<Text>+{Number}% [ICON_PRODUCTION] Produksi untuk proyek-proyek Space Race.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ABU_AL_QASIM_AL_ZAHRAWI_ACTIVE">
+			<Text>Unit tanah yang terluka dapat menyembuhkan +5 HP setiap giliran.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

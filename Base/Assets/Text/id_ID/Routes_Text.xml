@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Dapat dibangun melalui [ICON_TradeRoute] Rute Perdagangan atau oleh Insinyur Militer. Meningkatkan [ICON_Movement] Kecepatan pergerakan unit apa pun yang bergerak dari satu petak jalan ke petak jalan lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Dapat dibangun melalui [ICON_TradeRoute] Rute Perdagangan atau oleh Insinyur Militer. Meningkatkan [ICON_Movement] Kecepatan pergerakan unit apa pun yang bergerak dari satu petak jalan ke petak jalan lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+			<Text>Dapat dibangun melalui [ICON_TradeRoute] Rute Perdagangan atau oleh Insinyur Militer. Meningkatkan [ICON_Movement] Kecepatan pergerakan unit apa pun yang bergerak dari satu petak jalan ke petak jalan lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+			<Text>Dapat dibangun melalui [ICON_TradeRoute] Rute Perdagangan atau oleh Insinyur Militer. Meningkatkan [ICON_Movement] Kecepatan pergerakan unit apa pun yang bergerak dari satu petak jalan ke petak jalan lainnya.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

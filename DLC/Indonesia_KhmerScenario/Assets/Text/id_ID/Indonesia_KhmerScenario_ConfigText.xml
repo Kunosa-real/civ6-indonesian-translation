@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME">
+			<Text>Jalan menuju Nirwana</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP">
+			<Text>Agama manakah yang paling bersinar di Asia? Berlangsung 50 putaran.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME">
+			<Text>Asia Timur</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION">
+			<Text>Representasi skenario Asia Timur</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>Daerah di sekitar Samudera Hindia berkembang dengan banyak agama dan masyarakat. Surga telah memilih Anda untuk membawa terang ke seluruh negeri ini. Apakah iman Anda sanggup menghadapi tantangan? Bisakah kamu meyakinkan masyarakat Asia Tenggara untuk mengikuti agamamu?[NEWLINE][NEWLINE]Dalam skenario 50 giliran ini, bersainglah untuk mendapatkan pengikut terbanyak dari [ICON_Religion] Agamamu, [ICON_FAITH] Keyakinan terbanyak per giliran, dan kota asing terbanyak yang mengikuti [ICON_Religion] Agamamu.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION">
+			<Text>Nirwana dicapai dengan mencapai skor tertinggi setelah batas waktu.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO">
+			<Text>Semoga berkah surga turun atasmu, wahai penguasa! Banyak agama dianut di negeri ini, dan banyak kepercayaan menjanjikan keselamatan. Maukah Anda menyebarkan pesan Anda ke hati orang-orang? Ataukah jiwa-jiwa ini akan terombang-ambing oleh keyakinan lain? Serahkan urusan negara pada pengelolanya, dan arahkan hati welas asih Anda pada tugas pencerahan.</Text>
+		</Row>
+		<!-- China-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME">
+			<Text>Taoisme</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Taoisme. Agama ini mempunyai kepercayaan sebagai berikut:[NEWLINE][ICON_Bullet]Dewi Sungai: +1 [ICON_Amenities] Kemudahan ke kota jika mereka memiliki distrik Situs Suci yang berdekatan dengan Sungai.[NEWLINE][ICON_Bullet]Memberi Makan Dunia: Kuil dan Kuil menyediakan [ICON_Food] Makanan setara dengan intrinsiknya [ICON_Faith] Hasil iman.[NEWLINE][ICON_Bullet]Pagoda: Mengizinkan pembangunan Pagoda (+3 [ICON_Faith] Iman). Unit Imam +1 Hapus Bidah dan Guru +1 Biaya Penyembuhan. Dibuka dengan Percetakan.[NEWLINE][ICON_Bullet]Isolasi Biara: Tekanan Agama Anda tidak pernah turun karena kekalahan dalam Pertempuran Teologis.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION">
+			<Text>Dimulai dengan Kekaisaran Awal Civic.</Text>
+		</Row>
+		<!-- Chola-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Kekaisaran Chola</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME">
+			<Text>Shaivisme</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Shaivisme. Agama ini memiliki kepercayaan berikut:[NEWLINE][ICON_Bullet]Jalan Suci: Distrik Situs Suci mendapatkan +1 [ICON_Faith] Keyakinan dari ubin Hutan Hujan yang berdekatan.[NEWLINE][ICON_Bullet]Linga: Dapat membeli bangunan distrik Pusat Komersial dan Pelabuhan dengan [ICON_Faith] Keyakinan.[NEWLINE][ICON_Bullet]Pengurusan: Setiap Pusat Komersial atau distrik Pelabuhan di kota yang mengikuti Agama ini menyediakan +1 [ICON_FAITH] Iman.[NEWLINE][ICON_Bullet]Yoga: Dapat membeli unit sipil dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Dimulai dengan Navigasi Langit Civic.</Text>
+		</Row>
+		<!-- Ghaznavid-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME">
+			<Text>Ghaznavid</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Kekaisaran Ghaznawi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE">
+			<Text>Kekaisaran Ghaznawi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME">
+			<Text>Islam</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Islam. Agama ini memiliki kepercayaan sebagai berikut:[NEWLINE][ICON_Bullet]Cerita Rakyat Gurun: Distrik Situs Suci mendapatkan +1 [ICON_Faith] Iman dari ubin Gurun yang berdekatan.[NEWLINE][ICON_Bullet]Komunitas Keagamaan: Kuil dan Kuil masing-masing menyediakan +1 [ICON_Housing] Perumahan.[NEWLINE][ICON_Bullet]Masjid: Mengizinkan pembangunan Masjid (+3 [ICON_Faith] Iman). Unit Misionaris dan Biksu +1 Spread. Dibuka dengan Pencetakan.[NEWLINE][ICON_Bullet]Ziarah: +2 [ICON_Faith] Keyakinan untuk setiap kota yang mengikuti Agama ini di peradaban dan negara kota lain.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME">
+			<Text>Civics</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Dimulai dengan Navigasi Surgawi, Mata Uang, dan Kerajaan Awal Civics.</Text>
+		</Row>
+		<!-- Indonesia-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME">
+			<Text>Hindu Dharma</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Hindu Dharma. Agama ini mempunyai kepercayaan sebagai berikut:[NEWLINE][ICON_Bullet]Dewa Laut: +1 [ICON_Production] Produksi dari Kapal Nelayan.[NEWLINE][ICON_Bullet]Nusantara Besar: Ubin Pantai dan Danau memberikan bonus kedekatan kecil untuk distrik Situs Suci.[NEWLINE][ICON_Bullet]Kampung: Pembangun Anda sekarang dapat melakukan perbaikan Kampung. Terbuka dengan Persekutuan.[NEWLINE][ICON_Bullet]Pengkhotbah Keliling: Agama menyebar ke kota-kota yang berjarak 30%.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION">
+			<Text>Dimulai dengan Navigasi Langit Civic.</Text>
+		</Row>
+		<!-- Khmer-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME">
+			<Text>Buddhisme Theravada</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Budha Theravada. Agama ini mempunyai kepercayaan sebagai berikut:[NEWLINE][ICON_Bullet]Lingkaran Batu: +2 [ICON_Faith] Iman dan +2 [ICON_Production] Produksi dari Tambang.[NEWLINE][ICON_Bullet]Dāna: Lumbung masing-masing menyediakan +3 [ICON_FAITH] Iman. +1 [ICON_Amenities] Fasilitas tiap Kota.[NEWLINE][ICON_Bullet]Wat: Memungkinkan pembangunan Wats (+3 [ICON_Faith] Iman, +1 [ICON_Housing] Perumahan). Dibuka dengan Pencetakan.[NEWLINE][ICON_Bullet]Gereja Dunia: +1 [ICON_Culture] Budaya untuk setiap 5 pengikut Agama ini di peradaban lain.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME">
+			<Text>Civics</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION">
+			<Text>Dimulai dengan Kerajaan Awal, Teknik, dan Mistisisme Civics.</Text>
+		</Row>
+		<!-- Pala-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME">
+			<Text>Pala</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION">
+			<Text>Kekaisaran Pala</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE">
+			<Text>Pala</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME">
+			<Text>Buddhisme Mahayana</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Budha Mahayana. Agama ini mempunyai kepercayaan sebagai berikut:[NEWLINE][ICON_Bullet]Dewi Bumi: +1 Keyakinan [ICON_Faith] dari ubin dengan Daya Tarik Menawan atau lebih baik.[NEWLINE][ICON_Bullet]Etos Kerja: +1% [ICON_Production] Produksi untuk setiap pengikut.[NEWLINE][ICON_Bullet]Stupa Mahayana: Memungkinkan pembangunan Stupa (+3 [ICON_Faith] Iman, +1 [ICON_Amenities] Fasilitas). Dibuka dengan Pencetakan.[NEWLINE][ICON_Bullet]Perintah Suci: Misionaris dan Biksu 30% lebih murah untuk dibeli.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION">
+			<Text>Dimulai dengan Mistisisme Civic.</Text>
+		</Row>
+		<!-- Tufan-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME">
+			<Text>Tufan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Kekaisaran Tufan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE">
+			<Text>Tufan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME">
+			<Text>Buddhisme Vajrayana</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Dimulai dengan didirikannya Agama Buddha Vajrayana. Agama ini memiliki kepercayaan sebagai berikut:[NEWLINE][ICON_Bullet]Dewa Langit Terbuka: +2 [ICON_FOOD] Makanan dari Padang Rumput.[NEWLINE][ICON_Bullet]Meditasi Zen: +1 [ICON_Amenities] Fasilitas di kota dengan 2 distrik khusus.[NEWLINE][ICON_Bullet]Vajrayana Stupa: Mengizinkan pembangunan Stupa (+3 [ICON_Faith] Iman, +1 [ICON_Amenities] Fasilitas) Dibuka dengan Percetakan.[NEWLINE][ICON_Bullet]Semangat Misionaris: Unit keagamaan mengabaikan [ICON_Movement] Biaya pergerakan medan dan fitur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Dimulai dengan Mistisisme Civic.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

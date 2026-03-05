@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Pantheon-->
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
+			<Text>Dewi Api</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
+			<Text>+2 [ICON_FAITH] Keyakinan dari Celah Panas Bumi dan Tanah Vulkanik.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Production] Produksi dan +1 [ICON_Faith] Keyakinan dari peningkatan sumber daya Strategis.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_GreatPerson] Poin Orang Hebat dari Tempat Suci (Nabi), Kampus dengan Perpustakaan (Ilmuwan), dan Lapangan Teater dengan Amfiteater (Penulis).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
+			<Text>+1 Iman [ICON_Faith] dari ubin dengan Daya Tarik Menakjubkan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Food] Makanan dan +1 [ICON_Production] Produksi dari Kamp.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Budaya dari Perkebunan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
+			<Text>Ketika terpilih, terimalah Pembangun di ibukota Anda. Tingkat pertumbuhan kota 10% lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
+			<Text>Ketika terpilih, terimalah Pemukim di ibu kota Anda. Tingkat perluasan perbatasan 15% lebih cepat.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Amenities] Fasilitas dan +2 [ICON_Housing] Perumahan di kota jika memiliki distrik Situs Suci yang berdekatan dengan Sungai.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
+			<Text>+50 [ICON_Faith] Iman untuk setiap Pos Luar Barbarian selesai. Unit yang menyelesaikan Barbarian Outpost menyembuhkan +100 HP.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Production] Produksi dari Dataran Banjir Rawa, Oasis, dan Gurun.</Text>
+		</Row>
+		<!-- Follower-->
+		<Row Tag="LOC_BELIEF_HOLY_WATERS_NAME">
+			<Text>Perairan Suci</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION">
+			<Text>Meningkatkan Penyembuhan unit keagamaan Anda sebesar +10 di distrik Situs Suci milik kota dengan agama mayoritas Anda, atau ubin yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION">
+			<Text>Kuil dan Kuil masing-masing menyediakan +3 [ICON_FOOD] Makanan dan +2 [ICON_HOUSING] Perumahan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_EXPANSION2_DESCRIPTION">
+			<Text>Rute Perdagangan Internasional [ICON_TradeRoute] menyediakan +2 [ICON_GOLD] Emas ke kota-kota dengan Situs Suci dan tambahan +2 [ICON_GOLD] Emas untuk setiap bangunan di distrik Situs Suci.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION">
+			<Text>Mengizinkan menggunakan [ICON_FAITH] Iman untuk melatih Biksu Prajurit (Unit tempur darat) dan ubin yang berdekatan dengan Bom Budaya saat menyelesaikan Situs Suci.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_EXPANSION2_DESCRIPTION">
+			<Text>Bonus kedekatan Iman [ICON_Faith] distrik Situs Suci juga menyediakan [ICON_Production] Produksi.</Text>
+		</Row>
+		<!-- Founder-->
+		<Row Tag="LOC_BELIEF_SACRED_PLACES_NAME">
+			<Text>Tempat Suci</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PLACES_DESCRIPTION">
+			<Text>+2 [ICON_SCIENCE] Sains, [ICON_CULTURE] Budaya, [ICON_GOLD] Emas, dan [ICON_FAITH] Iman untuk setiap kota berikut Agama yang memiliki Keajaiban Dunia ini.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] Ilmu untuk setiap 4 pengikut Agama ini.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Iman atau +1 [ICON_CULTURE] Budaya dari masing-masing distrik Situs Suci atau Lapangan Teater masing-masing untuk setiap kota yang menganut Agama ini.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_FAITH] Iman setiap kota yang menganut Agama ini.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] Sains atau +1 [ICON_GOLD] Emas dari masing-masing distrik Kampus atau Pusat Komersial untuk setiap kota yang menganut Agama ini.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION">
+			<Text>+3 [ICON_GOLD] Emas untuk setiap kota yang mengikuti Agama.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_CULTURE] Budaya untuk setiap 4 pengikut Agama ini.</Text>
+		</Row>
+		<!-- Worship-->
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Dar-e Mehrs (+3 [ICON_Faith] Iman, +1 tambahan [ICON_FAITH] Iman untuk setiap era sejak dibangun atau terakhir diperbaiki. Tidak dapat dijarah oleh bencana alam.).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Gurdwaras (+3 [ICON_Faith] Iman, +2 [ICON_Food] Makanan, +1 [ICON_Housing] Perumahan).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_EXPANSION2_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Pagoda (+3 [ICON_Faith] Iman, +1 [ICON_Favor] Bantuan Diplomatik per giliran.).</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DISTRICT_CITY_CENTER_DESCRIPTION">
+			<Text>Ini adalah Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Sebuah kawasan di kota Anda yang didedikasikan untuk kegiatan ilmiah.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standar [ICON_Science] Bonus ilmu pengetahuan untuk setiap gunung yang berdekatan. Minor [ICON_Science] Bonus ilmu pengetahuan untuk ubin distrik yang berdekatan dan ubin hutan hujan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda untuk ibadah agama.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Faith] Bonus Iman untuk keajaiban alam yang berdekatan. Standard [ICON_Faith] Bonus Iman untuk setiap ubin gunung yang berdekatan. Minor [ICON_Faith] Bonus Iman untuk ubin distrik yang berdekatan dan ubin hutan yang belum dikembangkan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda untuk fasilitas militer.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang didedikasikan untuk membuat warga Anda bahagia dengan meningkatkan [ICON_Amenities] Fasilitas.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang khusus untuk situs-situs budaya.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standar [ICON_Culture] Bonus budaya untuk setiap keajaiban yang berdekatan. Minor [ICON_Culture] Bonus budaya untuk ubin distrik yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Sebuah distrik untuk aktivitas angkatan laut di kota Anda. Juga menghilangkan penalti pergerakan [ICON_Movement] saat naik dan turun kapal dari dan ke ubin ini. Harus dibangun di wilayah Pantai atau Danau yang berbatasan dengan daratan.[NEWLINE][NEWLINE]+1 kapasitas [ICON_TradeRoute] Jalur Perdagangan, jika kota ini belum memiliki distrik Pusat Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Gold] Bonus emas untuk setiap Pusat Kota yang berdekatan. Standard [ICON_Gold] Bonus emas untuk setiap sumber daya pesisir yang berdekatan. Minor [ICON_Gold] Bonus emas untuk ubin distrik yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NEIGHBORHOOD_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang menyediakan perumahan berdasarkan daya tarik ubin:[NEWLINE]Menakjubkan: +6 [ICON_Housing] Perumahan.[NEWLINE]Menawan: +5 [ICON_Housing] Perumahan.[NEWLINE]Rata-rata: +4 [ICON_Housing] Perumahan.[NEWLINE]Tidak Menarik: +3 [ICON_Housing] Perumahan.[NEWLINE]Jijik: +2 [ICON_Housing] Perumahan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Sebuah kawasan di kota Anda untuk kegiatan industri.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standar [ICON_Production] Bonus produksi untuk setiap tambang atau quarry yang berdekatan. Minor [ICON_Production] Bonus produksi untuk ubin distrik yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang khusus menangani keuangan dan perdagangan.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Kapasitas Rute Perdagangan, jika kota ini belum memiliki distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Gold] Bonus emas untuk setiap distrik Pelabuhan yang berdekatan, atau tepi ubin yang mengandung Sungai. Minor [ICON_Gold] Bonus emas untuk ubin distrik yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+			<Text>Sebuah distrik yang menyediakan sumber air segar bagi kota ini dari sungai, danau, oase, atau gunung yang berdekatan. Kota-kota yang belum memiliki sumber air segar yang ada akan menerima hingga 6 [ICON_Housing] perumahan. Kota-kota yang sudah memiliki sumber air segar yang ada akan menerima +2 [ICON_Housing] perumahan. Harus dibangun berdekatan dengan Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
+			<Text>Sebuah distrik yang memungkinkan Anda untuk membangun dan menyimpan pesawat terbang. Tidak dapat dibangun di bukit.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION">
+			<Text>Sebuah distrik yang diwajibkan untuk membangun proyek-proyek Science Victory. Hal ini meliputi Peluncuran Satelit Bumi, Pendaratan di Bulan, Pemukiman Koloni Mars, Hidroponik Koloni Mars, dan Reaktor Koloni Mars. Tidak dapat dibangun di bukit.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
+			<Text>Sebuah distrik yang unik di Yunani untuk situs-situs budaya. Menggantikan distrik Theater Square dan lebih murah untuk dibangun. Memberikan 1 [ICON_Envoy] Envoy saat selesai dibangun.[NEWLINE][NEWLINE]+1 [ICON_Culture] Bonus budaya untuk pusat kota yang berdekatan. +1 [ICON_Culture] Bonus budaya untuk setiap keajaiban dan distrik yang berdekatan. Hanya dapat dibangun di bukit.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standar [ICON_Culture] Bonus Budaya untuk Pusat Kota yang berdekatan. Standar [ICON_Culture] Bonus Budaya untuk setiap keajaiban dan distrik yang berdekatan. Hanya dapat dibangun di Bukit.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BATH_DESCRIPTION">
+			<Text>Sebuah distrik unik di Roma untuk pertumbuhan kota. Menggantikan distrik Aqueduct dan lebih murah untuk dibangun.[NEWLINE][NEWLINE]Distrik ini menyediakan sumber air segar bagi kota dari sungai, danau, oasis, atau gunung yang berdekatan. Kota yang belum memiliki sumber air segar akan mendapatkan hingga 6 [ICON_Housing] Perumahan. Kota yang sudah memiliki sumber air segar akan mendapatkan tambahan +2 [ICON_Housing] Perumahan. Harus dibangun di sebelah Pusat Kota. Dalam kedua kasus, Pemandian memberikan bonus tambahan +2 [ICON_Housing] Perumahan dan +1 [ICON_Amenities] Fasilitas. Harus dibangun di sebelah Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
+			<Text>Sebuah distrik yang unik di Jerman untuk kegiatan industri. Menggantikan distrik Zona Industri dan lebih murah untuk dibangun.[NEWLINE][NEWLINE]+ 2[ICON_Production] Bonus produksi jika berbatasan dengan distrik Pusat Perdagangan. +1 [ICON_Production] Bonus produksi untuk setiap sumber daya yang berbatasan. +1 [ICON_Production] Bonus produksi untuk setiap dua ubin distrik yang berbatasan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Production] Bonus produksi jika berdekatan dengan distrik Pusat Perdagangan. Standard [ICON_Production] Bonus produksi untuk setiap sumber daya yang berdekatan. Minor [ICON_Production] Bonus produksi untuk ubin distrik yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
+			<Text>Distrik unik di Rusia untuk aktivitas keagamaan. Menggantikan distrik Situs Suci dan lebih murah untuk dibangun.[NEWLINE][NEWLINE]Batas kota Anda bertambah satu ubin setiap kali seorang Tokoh Besar digunakan di kota ini. Lavra memberikan +1 [ICON_GreatWriter] poin Penulis Besar per giliran dengan sebuah Kuil, +1 [ICON_GreatArtist] poin Seniman Besar per giliran dengan sebuah Kuil, dan +1 [ICON_GreatMusician] poin Musisi Besar per giliran dengan sebuah Bangunan Ibadah.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
+			<Text>Sebuah distrik unik di Kongo yang hanya dapat dibangun di Hutan Hujan atau Hutan. Menggantikan distrik Tetangga tetapi tersedia lebih awal dan lebih murah untuk dibangun. Memberikan +5 [ICON_Housing] Perumahan, +2 [ICON_Food] Makanan, dan +4 [ICON_Gold] Emas, terlepas dari daya tariknya.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Sebuah distrik yang unik di Brasil. Menggantikan distrik Kompleks Hiburan, dan memberikan +2 [ICON_Amenities] Fasilitas, serta lebih murah untuk dibangun. Juga membuka proyek Karnaval, yang memberikan tambahan +1 [ICON_Amenities] Fasilitas saat sedang berlangsung dan berbagai poin [ICON_GreatPerson] Tokoh Besar setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
+			<Text>Distrik unik di Inggris untuk aktivitas naval di kota Anda. Menggantikan distrik Pelabuhan dan lebih murah untuk dibangun. Juga menghilangkan penalti pergerakan [ICON_Movement] saat naik dan turun kapal dari dan ke ubin ini. Harus dibangun di wilayah Pantai atau Danau yang berbatasan dengan daratan.[NEWLINE][NEWLINE]+1 [ICON_Movement] Gerak untuk semua unit laut yang dibangun di Dockyard[NEWLINE]+2 [ICON_Gold] Emas saat dibangun di benua asing[NEWLINE]+1 [ICON_TradeRoute] Kapasitas Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Gold] Bonus emas untuk setiap Pusat Kota yang berdekatan. Standard [ICON_Gold] Bonus emas untuk setiap sumber daya pesisir yang berdekatan. Minor [ICON_Gold] Bonus emas untuk ubin distrik yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REQUIRE_DISTRICT_Adjacency">
+			<Text>Harus berbatasan dengan distrik yang sudah ada atau Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REQUIRE_NOT_ADJACENT_TO_CITY">
+			<Text>Tidak boleh berbatasan dengan Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE1">
+			<Text>+{1_num} [ICON_Science] Sains dari gunung terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE2">
+			<Text>+{1_num} [ICON_Science] Sains dari gunung terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE3">
+			<Text>+{1_num} [ICON_Science] Sains dari gunung terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE4">
+			<Text>+{1_num} [ICON_Science] Sains dari gunung terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE5">
+			<Text>+{1_num} [ICON_Science] Sains dari gunung terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FARM">
+			<Text>+{1_num} [ICON_Science] Sains dari peternakan tetangga {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PLANTATION">
+			<Text>+{1_num} [ICON_Science] Sains dari perkebunan tetangga {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Ilmu pengetahuan dari ubin Hutan Hujan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Sains dari keajaiban alam terdekat, Great Barrier Reef.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari Hutan Hujan yang berdekatan {1_Num: plural of 1?tile; other tiles?}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari Hutan Hujan yang berdekatan {1_Num: plural of 1?tile; other tiles?}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari Hutan Hujan Tetangga {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Sains dari Hutan Hujan Tetangga {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Ilmu pengetahuan dari wilayah tetangga {1_Num : plural 1? region; other region }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Ilmu pengetahuan dari wilayah tetangga {1_Num : plural 1? region; other region }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari alam sekitar {1_Num: plural 1? miracle; other? miracle;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH1">
+			<Text>+{1_num} [ICON_Faith] Iman dari gunung yang berdekatan {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH2">
+			<Text>+{1_num} [ICON_Faith] Iman dari gunung yang berdekatan {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH3">
+			<Text>+{1_num} [ICON_Faith] Iman dari gunung yang berdekatan {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH4">
+			<Text>+{1_num} [ICON_Faith] Iman dari gunung yang berdekatan {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH5">
+			<Text>+{1_num} [ICON_Faith] Iman dari gunung yang berdekatan {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari ubin Hutan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari distrik-distrik tetangga.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari distrik tetangga.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_TUNDRA_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari Tundra yang berdekatan {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari gurun terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari Hutan Hujan yang berdekatan {1_Num: plural of 1?tile; other tiles?}.</Text>
+		</Row>
+		<Row Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari Hutan Terdekat {1_Num: plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari sungai yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari distrik Pelabuhan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari distrik Pelabuhan Angkatan Laut Kerajaan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CITY_CENTER_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari distrik Pusat Kota yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari laut yang berdekatan {1_Num : plural 1?resources; other resources }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WONDER_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Budaya dari wilayah tetangga {1_Num: plural 1? miracle; other? miracle;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
+			<Text>+{1_num} [ICON_Culture] Budaya dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
+			<Text>+{1_num} [ICON_Culture] Budaya dari Pusat Kota terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari tambang-tambang yang berdekatan { 1_Num: mines; other }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari tambang yang berdekatan {1_Num : plural 1?Mine; other?Mine;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari distrik tetangga {1_Num : plural 1?district; another district }.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari distrik Pusat Perdagangan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RESOURCE_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari sumber daya yang berdekatan {1_Num: single resource; other resources;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Sains dari daya tarik ubin.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari daya tarik ubin.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari daya tarik ubin.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari daya tarik ubin.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_FAITH">
+			<Text>+{1_num} [ICON_Faith] Keyakinan dari daya tarik ubin.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
+			<Text>[COLOR_RED]Peningkatan tersebut akan dihapus saat membangun distrik. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_FEATURE_TECH">
+			<Text>[COLOR_RED]Diperlukan {1_TechName} untuk menghapus {2_FeatureName} agar dapat membangun distrik di sini. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OK_REMOVE_FEATURE">
+			<Text>[COLOR_RED]Menempatkan distrik di sini akan menghapus {1_FeatureName}. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_HARVEST_TECH">
+			<Text>[COLOR_RED]Diperlukan {1_TechName} untuk menghapus {2_ResourceName} agar dapat membangun distrik di sini. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OK_HARVEST_RESOURCE">
+			<Text>[COLOR_RED]Menempatkan distrik di sini akan menghapus {1_ResourceName}. [ENDCOLOR]</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

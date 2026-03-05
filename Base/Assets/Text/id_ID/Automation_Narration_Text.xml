@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_AUTONARRATE_BUTTON_DONE">
+			<Text>Selesai</Text>
+		</Row>
+		
+		<Row Tag="LOC_AUTONARRATE_CITY_FOUNDED">
+			<Text>Sebuah kota didirikan oleh {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
+			<Text>Sebuah keajaiban diselesaikan oleh {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
+			<Text>{1_CivName} dikalahkan oleh {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
+			<Text>{1_CivName} telah dikalahkan.</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
+			<Text>{1_CivName} telah memenangkan pertandingan!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
+			<Text>{1_CivName} telah memenangkan pertandingan dengan penaklukan!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
+			<Text>{1_CivName} telah meraih kemenangan budaya!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
+			<Text>{1_CivName} telah meraih kemenangan keagamaan!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
+			<Text>{1_CivName} telah meraih kemenangan dengan skor!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
+			<Text>{1_CivName} telah meraih kemenangan sains!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="LOC_AUTONARRATE_MAKE_PEACE">
+			<Text>{1_CivName} telah berdamai dengan {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_DECLARE_WAR">
+			<Text>{1_CivName} telah menyatakan perang terhadap {2_CivName}.</Text>
+		</Row>
+		<!-- Era Change -->
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
+			<Text>{1_CivName} telah memasuki era baru.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
+			<Text>{1_CivName} telah memasuki era Kuno.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
+			<Text>{1_CivName} telah memasuki era Klasik.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
+			<Text>{1_CivName} telah memasuki era Abad Pertengahan.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
+			<Text>{1_CivName} telah memasuki era Renaisans.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
+			<Text>{1_CivName} telah memasuki era Industri.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
+			<Text>{1_CivName} telah memasuki era Modern.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
+			<Text>{1_CivName} telah memasuki era Atom.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
+			<Text>{1_CivName} telah memasuki era Informasi.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

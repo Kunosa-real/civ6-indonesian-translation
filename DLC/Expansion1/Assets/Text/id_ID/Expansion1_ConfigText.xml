@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- FrontEnd Text -->
+		<Row Tag="LOC_EXPANSION1_NAME">
+			<Text>Ekspansi: Naik turun</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION1_DESCRIPTION">
+			<Text>Ini adalah permainan yang menggunakan Ekspansi Bangkit dan Jatuh, yang mencakup Zaman Hebat, Loyalitas, Gubernur, dan Keadaan Darurat. Bisakah Anda memimpin rakyat Anda menuju Zaman Keemasan kemakmuran? Atau akankah kerajaanmu menghadapi tantangan Zaman Kegelapan?</Text>
+		</Row>
+		<!-- Map Config Text -->
+		<Row Tag="LOC_MAP_ARCHIPELAGO_NAME">
+			<Text>Kepulauan</Text>
+		</Row>
+		<Row Tag="LOC_TSLEUROPE_NAME">
+			<Text>Lokasi Awal Sejati Eropa</Text>
+		</Row>
+		<Row Tag="LOC_TSLEUROPE_DESCRIPTION">
+			<Text>Peradaban dimulai dari lokasi ibu kota bersejarah mereka di peta Eropa.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EUROPE_NAME">
+			<Text>Eropa</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EUROPE_DESCRIPTION">
+			<Text>Representasi Eropa dengan sumber daya, medan, dan fitur yang mencerminkan lokasi bersejarahnya.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_NAME">
+			<Text>Lengkungan Halus</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
+			<Text>Satu ubin keajaiban alam yang tak bisa dilewati. Memberikan +2 [ICON_FAITH] Iman dan +1 [ICON_GOLD] Emas ke ubin yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
+			<Text>Mata Sahara</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION">
+			<Text>Keajaiban alam tiga ubin. Menyediakan +1 [ICON_PRODUCTION] Produksi. Setelah game mencapai Era Atom, game ini memberikan tambahan +1 [ICON_PRODUCTION] Produksi dan +3 [ICON_SCIENCE] Sains.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_NAME">
+			<Text>masalah</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
+			<Text>Satu ubin keajaiban alam yang tak bisa dilewati. Memberikan +1 [ICON_CULTURE] Budaya ke ubin yang berdekatan. Unit tempur darat yang bergerak di sebelah Matterhorn mengabaikan Perbukitan selama sisa permainan dan mendapatkan +3[ICON_Strength] Kekuatan Tempur saat bertarung di perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_NAME">
+			<Text>Gunung Roraima</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
+			<Text>Empat ubin keajaiban alam yang tak bisa dilewati. Memberikan +1 [ICON_FAITH] Iman dan +1 [ICON_SCIENCE] Sains ke ubin yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
+			<Text>Hollow Ubsunur</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
+			<Text>Keajaiban alam empat ubin. Menyediakan +2 [ICON_FAITH] Iman, +1 [ICON_FOOD] Makanan, dan +1 [ICON_PRODUCTION] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME">
+			<Text>Zhangye Danxia</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION">
+			<Text>Tiga ubin keajaiban alam yang tak bisa dilewati. Memberikan 2 poin [ICON_GREATGENERAL] Great General dan 2 [ICON_GREATMERCHANT] poin Great Merchant jika Anda memiliki setidaknya salah satu ubin ini.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_NAME">
+			<Text>Danau Retba</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION">
+			<Text>Dua ubin keajaiban alam. Tampaknya sebagai Danau dan menyediakan +2 [ICON_CULTURE] Budaya, +2 [ICON_GOLD] Emas, dan +1 [ICON_PRODUCTION] Produksi. Tidak menyediakan Air Tawar.</Text>
+		</Row>
+		<!-- Player Config Text -->
+		<!-- District Config Text -->
+		<Row Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
+			<Text>Kopakabana</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Sebuah distrik unik di Brasil. Menggantikan distrik Taman Air, dan menyediakan Fasilitas +2 [ICON_Amenities]. Juga membuka proyek Karnaval, yang memberikan tambahan +1 [ICON_Amenities] Fasilitas saat berlangsung dan berbagai poin [ICON_GreatPerson] Orang Hebat setelah selesai. Tidak dapat dibangun di kota dengan Karnaval Jalanan. Tidak dapat dibangun di atas Terumbu Karang.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik unik di Brasil. Menggantikan distrik Kompleks Hiburan, dan menyediakan Fasilitas +2 [ICON_Amenities]. Juga membuka proyek Karnaval, yang memberikan tambahan +1 [ICON_Amenities] Fasilitas saat berlangsung dan berbagai poin [ICON_GreatPerson] Orang Hebat setelah selesai. Tidak dapat dibangun di kota dengan Copacabana.</Text>
+		</Row>
+		<!-- Unit Config Text -->
+		<Row Tag="LOC_UNIT_ZULU_IMPI_NAME">
+			<Text>Impi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
+			<Text>Unit Era Abad Pertengahan unik Zulu yang menggantikan Pikeman. Peningkatan bonus Flanking, biaya rendah dan perawatan rendah. Menghasilkan XP lebih cepat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
+			<Text>Hwacha</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
+			<Text>Unit Era Renaissance unik Korea yang menggantikan Field Cannon. Kekuatan Serangan Jarak Jauh [ICON_Ranged] Tinggi. Tidak bisa bergerak dan menyerang dalam giliran yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
+			<Text>penduduk dataran tinggi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>Unit Era Industri unik Skotlandia yang menggantikan Ranger. Unit pengintaian yang kuat. +5 [ICON_Strength] Bonus Kekuatan Tempur saat bertarung di medan Bukit dan Hutan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
+			<Text>Provinsi De Zeven</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>Unit Era Renaisans unik Belanda yang menggantikan Fregat. +7 [ICON_Strength] Kekuatan Tempur saat menyerang distrik yang dapat dipertahankan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
+			<Text>Keshig</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Unit Kavaleri Jarak Jauh Era Abad Pertengahan yang unik di Mongolia. Dapat mengawal unit sipil dan pendukung yang bergerak dengan kecepatan Gerakan [ICON_Movement] yang lebih tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
+			<Text>Khevsur</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>Unit Era Abad Pertengahan unik Georgia yang menggantikan Man-At-Arms. +7 [ICON_Strength] Bonus Kekuatan Tempur saat bertarung di medan perbukitan. Tidak ada [ICON_Movement] Hukuman pergerakan di medan perbukitan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
+			<Text>Malón Raider</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>Unit Era Renaisans Mapuche yang unik. +5 [ICON_Strength] Bonus Kekuatan Tempur jika berada dalam 4 heks wilayah persahabatan. Penjarahan membutuhkan 1 Gerakan [ICON_Movement].</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
+			<Text>Okihtcitaw</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Unit era Kuno unik Cree yang menggantikan Pramuka. Unit pengintaian yang kuat. Dimulai dengan 1 promosi gratis.</Text>
+		</Row>
+		<!-- America -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
+			<Text>Semua slot kebijakan Diplomatik di pemerintahan saat ini diubah menjadi slot Wildcard.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Amerika. +100% [ICON_Tourism] Tekanan pariwisata kota ini terhadap peradaban lain saat permainan memasuki era Modern.</Text>
+		</Row>
+		<!-- China -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Eureka dan [ICON_CivicBoosted] Inspirasi memberikan 50% kewarganegaraan dan teknologi, bukan 40%. Saat menyelesaikan keajaiban, terima [ICON_TechBoosted] Eureka dan [ICON_CivicBoosted] Inspirasi acak dari era keajaiban, jika tersedia.</Text>
+		</Row>
+		<!-- Cleopatra -->
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke peradaban lain menyediakan +4 [ICON_Gold] Emas untuk Mesir. [ICON_TradeRoute] Rute Perdagangan peradaban lain ke Mesir menyediakan +2 [ICON_Food] Makanan untuk mereka dan +2 [ICON_Gold] Emas untuk Mesir.  Berdagang dengan Sekutu menghasilkan bonus Poin Aliansi dua kali lebih banyak.</Text>
+		</Row>
+		<!-- Chandragupta -->
+		<Row Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
+			<Text>Chandragupta</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
+			<Text>Arthashastra</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
+			<Text>Dapat mendeklarasikan Perang Perluasan Wilayah setelah memperoleh Pelatihan Militer Civic.  +2 [ICON_Movement] Gerakan dan +5 [ICON_Strength] Kekuatan Tempur untuk 10 giliran pertama setelah mendeklarasikan Perang Perluasan Wilayah.</Text>
+		</Row>
+		<!-- England -->
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik unik di Inggris untuk aktivitas angkatan laut di kota Anda. Menggantikan distrik Pelabuhan. Juga menghapus penalti Pergerakan [ICON_Movement] untuk naik dan turun ke dan dari ubin ini. Harus dibangun di Medan Pantai atau Danau yang berdekatan dengan daratan.[NEWLINE][NEWLINE]+1 [ICON_Movement] Pergerakan untuk semua unit angkatan laut yang dibangun di Galangan Kapal[NEWLINE]+2 [ICON_Gold] Emas dan +4 Loyalitas per giliran ketika dibangun di benua asing. Tidak dapat dibangun di atas Terumbu Karang</Text>
+		</Row>
+		<!-- Lautaro-->
+		<Row Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
+			<Text>Mapuche</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
+			<Text>Mapuchen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
+			<Text>Kekaisaran Mapuche</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
+			<Text>Toqui</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
+			<Text>Kota dengan Gubernur [ICON_Governor] yang mapan memberikan +5% [ICON_CULTURE] Budaya, +5% [ICON_Production] Produksi, dan +10% pengalaman pertempuran terhadap semua unit yang dilatih di kota ini. Jumlah ini meningkat tiga kali lipat di kota-kota yang tidak didirikan oleh Mapuche. Semua kota dalam 9 ubin kota dengan [ICON_Governor] Gubernur Anda mendapatkan +4 Loyalitas per giliran terhadap peradaban Anda.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
+			<Text>+{1_Amount} versus peradaban di Zaman Keemasan atau melawan Kota Bebas</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_LAUTARO_NAME">
+			<Text>Lautaro</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
+			<Text>Elang Cepat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
+			<Text>Jika Unit Mapuche mengalahkan unit musuh di dalam batas kota musuh, kota tersebut kehilangan 5 Loyalitas.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+			<Text>+10 [ICON_Strength] Kekuatan Tempur saat melawan Kota Bebas atau peradaban yang berada di Zaman Keemasan atau Pahlawan. Mengalahkan unit musuh dalam batas kota musuh menyebabkan kota tersebut kehilangan 20 Loyalitas dan 40 loyalitas jika peradaban tersebut berada dalam Zaman Keemasan atau Pahlawan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
+			<Text>Chemamull</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membuat Chemamull, unik untuk Produksi Mapuche.[NEWLINE][NEWLINE]+1 [Icon_Production]. Memberikan Budaya [ICON_CULTURE] setara dengan 75% Daya Tarik ubin. Tambahan [ICON_TOURISM] Pariwisata setelah meneliti Penerbangan. Daya Tarik Minimal Menakjubkan.</Text>
+		</Row>
+		<!-- Gilgamesh-->
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
+			<Text>Dapat menyatakan perang terhadap siapa pun yang berperang dengan sekutunya tanpa hukuman penghasut perang. Saat berperang dengan musuh yang sama, mereka dan sekutunya berbagi hadiah penjarahan dan berbagi perolehan pengalaman tempur jika berada dalam 5 ubin.  Aliansi mereka memperoleh Poin Aliansi karena berperang dengan musuh yang sama. +5 [ICON_Strength] Kekuatan Tempur melawan unit pemain yang berperang dengan Anda dan sekutu Anda.</Text>
+		</Row>
+		<!-- Poundmaker-->
+		<Row Tag="LOC_CIVILIZATION_CREE_NAME">
+			<Text>Cree</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
+			<Text>Cree</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
+			<Text>Kekaisaran Cree</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
+			<Text>Tidak</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Kapasitas Jalur Perdagangan dan Trader gratis dengan teknologi Tembikar. Ubin yang tidak diklaim dalam 3 ubin kota Cree berada di bawah kendali Cree ketika Pedagang pertama kali pindah ke dalamnya.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POUNDMAKER_NAME">
+			<Text>pembuat pound</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
+			<Text>Ketentuan yang Menguntungkan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
+			<Text>Semua jenis Aliansi memberikan Visibilitas Bersama.[NEWLINE]Keluar [ICON_TradeRoute] Rute Perdagangan memberikan +1 [ICON_Food] Makanan kepada Poundmaker per Kamp atau Padang Rumput di tujuan. [ICON_TradeRoute] Rute Perdagangan yang dikirim ke kota Anda memberikan +1 [ICON_Gold] Emas kepada Poundmaker per Kamp atau Padang Rumput di tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
+			<Text>Mekewap</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Mekewap, unik untuk Cree.[NEWLINE][NEWLINE]Menyediakan +1 [ICON_PRODUCTION] Produksi dan +1 [ICON_Housing] Perumahan. +1 [ICON_GOLD] Emas jika berdekatan dengan sumber daya Mewah.  Untuk setiap 2 Sumber Daya Bonus yang berdekatan +1 [ICON_FOOD] Makanan.  Tambahan [ICON_PRODUCTION] Produksi, [ICON_GOLD] Emas, [ICON_FOOD] Makanan, dan [ICON_HOUSING] Perumahan saat Anda maju melalui Civics dan Pohon Teknologi. Harus ditempatkan berdekatan dengan sumber daya Bonus atau Kemewahan. Tidak dapat dibangun berdekatan dengan Mekewap lain.</Text>
+		</Row>
+		<!-- Robert the Bruce -->
+		<Row Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
+			<Text>Skotlandia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
+			<Text>Skotlandia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
+			<Text>Kekaisaran Skotlandia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
+			<Text>Pencerahan Skotlandia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Kota yang bahagia menerima tambahan +5% [ICON_SCIENCE] Sains dan +5% [ICON_PRODUCTION] Produksi. Kota yang bahagia menghasilkan +1 [ICON_GreatScientist] poin Great Scientist per Kampus dan +1 [ICON_GreatEngineer] poin Great Engineer per Zona Industri. Kota-kota yang gembira melipatgandakan jumlah ini.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
+			<Text>Robert si Bruce</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
+			<Text>Bannockburn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
+			<Text>Dapat mendeklarasikan Perang Pembebasan setelah mendapatkan Taktik Pertahanan Civic.  +100% [ICON_Production] Produksi dan +2 [ICON_Movement] Gerakan untuk 10 putaran pertama setelah menyatakan Perang Pembebasan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
+			<Text>Lapangan golf</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Lapangan Golf, unik di Skotlandia.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Fasilitas dan +2 [ICON_GOLD] Emas. +1 [ICON_CULTURE] Budaya jika berdekatan dengan distrik Pusat Kota dan +1 [ICON_CULTURE] Budaya jika berdekatan dengan distrik Kompleks Hiburan. Tambahan [ICON_TOURISM] Pariwisata dan [ICON_HOUSING] Perumahan saat Anda maju melalui Civics dan Pohon Teknologi. Tidak dapat ditempatkan di Gurun atau Bukit Gurun. Satu per kota. Ubin dengan Lapangan Golf tidak dapat ditukar. +1 Banding.</Text>
+		</Row>
+		<!-- Seondeok -->
+		<Row Tag="LOC_CIVILIZATION_KOREA_NAME">
+			<Text>Korea</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
+			<Text>Korea</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
+			<Text>Kekaisaran Korea</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
+			<Text>Tiga Kerajaan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
+			<Text>Tambang menerima +1 [ICON_SCIENCE] Sains untuk setiap distrik Seowon yang berdekatan. Peternakan menerima +1 [ICON_FOOD] Makanan untuk setiap distrik Seowon yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SEONDEOK_NAME">
+			<Text>Seondeok</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
+			<Text>Hwarang</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
+			<Text>[ICON_Governor] Gubernur yang didirikan di suatu kota memberikan +3% [ICON_Culture] Budaya dan [ICON_Science] Sains untuk setiap Promosi yang mereka peroleh, termasuk yang pertama.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEOWON_NAME">
+			<Text>Seowon</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
+			<Text>Sebuah distrik unik di Korea untuk upaya ilmiah. Menggantikan distrik Kampus. +4 [ICON_SCIENCE] Sains. -1 [ICON_Science] Ilmu untuk setiap ubin distrik yang berdekatan. Harus dibangun di atas bukit.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
+			<Text>Kedekatan: -1 [ICON_SCIENCE] Sains untuk setiap Kecamatan yang berdekatan.</Text>
+		</Row>
+		<!-- Genghis Khan -->
+		<Row Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
+			<Text>Mongolia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
+			<Text>Mongolia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
+			<Text>Kekaisaran Mongolia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
+			<Text>Örtöö</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
+			<Text>Memulai Jalur Perdagangan [ICON_TradeRoute] segera membuat Pos Perdagangan [ICON_TradingPost] di kota tujuan. Dapatkan tingkat tambahan Visibilitas Diplomatik [ICON_VisLimited] karena memiliki Pos Perdagangan [ICON_TradingPost] di kota mana pun dalam suatu peradaban. Semua unit Mongolia menggandakan Bonus Tempur [ICON_Strength] biasa karena memiliki tingkat Visibilitas Diplomatik [ICON_VisLimited] yang lebih tinggi daripada lawan mereka.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
+			<Text>Jenghis Khan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
+			<Text>Gerombolan Mongol</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
+			<Text>Semua unit kelas kavaleri memperoleh +3 [ICON_Strength] Kekuatan Tempur dan peluang untuk menangkap unit kelas kavaleri musuh yang dikalahkan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORDU_NAME">
+			<Text>Ordu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORDU_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Mongolia. Memberikan kemampuan yang memberikan +1 [ICON_MOVEMENT] Gerakan kepada Kavaleri Berat dan Ringan yang dilatih di kota ini. +25% pengalaman tempur untuk semua unit kelas kavaleri dan pengepungan yang dilatih di kota ini. Tidak boleh dibangun di distrik Perkemahan yang telah memiliki Barak.</Text>
+		</Row>
+		<!-- Shaka Zulu -->
+		<Row Tag="LOC_CIVILIZATION_ZULU_NAME">
+			<Text>Zulu</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
+			<Text>Zulu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
+			<Text>Kekaisaran Zulu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
+			<Text>Isibongo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
+			<Text>Kota dengan unit garnisun mendapatkan +3 Loyalitas per giliran, atau +5 jika itu adalah Korps atau Tentara. Menaklukkan kota dengan unit akan meningkatkannya menjadi Korps atau Angkatan Darat, jika Civics yang tepat dibuka.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SHAKA_NAME">
+			<Text>Shaka</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
+			<Text>Amabutho</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
+			<Text>Dapat membentuk Korps (Tentara Bayaran Civic) dan Tentara (Nasionalisme Civic) tadi. Tambahan +5 [ICON_STRENGTH] Kekuatan Tempur Dasar untuk Korps dan Pasukan. </Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IKANDA_NAME">
+			<Text>Ikanda</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
+			<Text>Sebuah distrik unik di Zulu yang menggantikan Perkemahan. Menyediakan +1 [ICON_Housing] Perumahan. Setelah Civic atau prasyarat Teknologi terpenuhi, Korps dan Tentara dapat langsung dibangun. Bangunan di Ikanda menerima +2 [ICON_GOLD] Emas dan +1 [ICON_SCIENCE] Sains. Pembentukan Korps dan Angkatan Darat yang lebih cepat.</Text>
+		</Row>
+		<!-- Spain -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
+			<Text>Dapat membentuk Armada dan Armada dengan Merkantilisme, bukan Nasionalisme dan Mobilisasi. [ICON_TradeRoute] Jalur Perdagangan menerima +3 [ICON_Gold] Emas, +2 [ICON_Faith] Iman, dan +1 [ICON_Production] Produksi. [ICON_TradeRoute] Jalur Perdagangan antar benua menerima tiga kali lipat jumlah tersebut. Kota-kota yang tidak berada di benua Ibu Kota asal Anda menerima +25% [ICON_Production] Produksi untuk distrik dan pembangun ketika didirikan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_EXPANSION1_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Misi, unik di Spanyol.[NEWLINE][NEWLINE]+2 [ICON_Faith] Iman. +2 [ICON_Faith] Iman, +1 [ICON_PRODUCTION] Produksi, dan +1 [ICON_FOod] Makanan jika berada di benua yang berbeda dengan [ICON_Capital] Modal Anda. +1 [ICON_Science] Sains untuk setiap Kampus dan distrik Situs Suci yang berdekatan. Ilmu [ICON_SCIENCE] Tambahan setelah Warisan Budaya ditemukan. +2 Loyalitas per giliran untuk kota-kota dengan peningkatan Misi yang berdekatan dengan Pusat Kota dan bukan di benua [ICON_Capital] Ibu Kota asli Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik unik di Yunani untuk situs budaya. Menggantikan distrik Theater Square dan lebih murah untuk dibangun. Penghargaan 1 [ICON_Envoy] Utusan ketika selesai.[NEWLINE][NEWLINE]+1 [ICON_Culture] Bonus Budaya untuk setiap distrik yang berdekatan dan tambahan +1 [ICON_Culture] Bonus Budaya untuk Pusat Kota yang berdekatan. +2 [ICON_Culture] Bonus budaya untuk setiap keajaiban yang berdekatan. Hanya dapat dibangun di Hills.</Text>
+		</Row>
+		<!-- Tamar-->
+		<Row Tag="LOC_CIVILIZATION_GEORGIA_NAME">
+			<Text>Georgia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
+			<Text>orang Georgia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
+			<Text>Kekaisaran Georgia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
+			<Text>Kekuatan dalam Persatuan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+			<Text>Saat melakukan Dedikasi di awal Zaman Keemasan atau Zaman Pahlawan, terima bonus Usia Normal untuk meningkatkan Skor Era selain bonus lainnya. +50% [ICON_Production] Produksi untuk bangunan pertahanan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TAMAR_NAME">
+			<Text>Tamar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
+			<Text>Kemuliaan Dunia, Kerajaan dan Iman</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
+			<Text>Kemenangan pertempuran memberikan [ICON_FAITH] Iman setara dengan 50% Kekuatan Tempur unit yang dikalahkan (pada Kecepatan Standar). Setiap Utusan [ICON_ENVOY] yang Anda kirimkan ke negara kota dengan agama mayoritas Anda dihitung sebagai dua Utusan [ICON_ENVOY]. (Harus memiliki Agama mayoritas). </Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_NAME">
+			<Text>Tsikhe</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
+			<Text>Sebuah bangunan unik di Georgia. Biaya produksi [ICON_Production] lebih rendah dibandingkan Renaissance Walls. Meningkatkan kekuatan pertahanan luar Anda ke tingkat setinggi mungkin. Menyediakan +3 [ICON_TOURISM] Pariwisata setelah maju ke Konservasi Civic. Memberikan +3 [ICON_Faith] Iman.</Text>
+		</Row>
+		<!-- Wilhemina -->
+		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
+			<Text>Belanda</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
+			<Text>Belanda</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
+			<Text>Kekaisaran Belanda</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
+			<Text>Grote Rivieren</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
+			<Text>Bonus kedekatan utama untuk Kampus, Lapangan Teater, dan Kawasan Industri jika berada di sebelah sungai. Bom Budaya ubin yang berdekatan saat menyelesaikan Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_WILHELMINA_NAME">
+			<Text>Wilhelmina</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
+			<Text>Radio Oranje</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke kota Anda sendiri memberikan +2 Loyalitas per giliran untuk kota awal. [ICON_TradeRoute] Jalur Perdagangan ke kota luar negeri atau dari kota luar negeri memberikan +2 [ICON_Culture] Budaya kepada Anda.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_POLDER_NAME">
+			<Text>Polder</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Polder, unik di Belanda.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Makanan, +1 [ICON_Production] Produksi, dan +0,5 [ICON_Housing] Perumahan. +1 [ICON_FOOD] Makanan jika berdekatan dengan perbaikan Polder. Produksi [ICON_PRODUCTION] tambahan, [ICON_GOLD] Emas, dan [ICON_FOOD] Makanan saat Anda maju melalui Civics dan Pohon Teknologi. Harus ditempatkan pada ubin Pantai atau Danau yang berdekatan dengan 3 atau lebih ubin tanah yang dapat dilewati. Meningkatkan Biaya Pergerakan [ICON_Movement] ubin menjadi 3.</Text>
+		</Row>
+		<!-- Jerusalem -->
+		<!-- XP2 -->
+		<Row Tag="LOC_BUILDING_TSIKHE_DESCRIPTION_XP2">
+			<Text>Sebuah bangunan unik di Georgia. Biaya produksi [ICON_Production] lebih rendah dan pertahanan luar lebih tinggi daripada Tembok Renaisans. Menyediakan +3 [ICON_TOURISM] Pariwisata setelah maju ke Konservasi Civic. Memberikan +4 [ICON_Faith] Iman. Ketika di Masa Emas [ICON_TOURISM] Pariwisata dan [ICON_FAITH] Iman +100%.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

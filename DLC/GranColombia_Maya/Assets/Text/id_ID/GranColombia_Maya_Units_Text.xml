@@ -1,0 +1,165 @@
+<GameData>
+	<EnglishText>
+		<!--Nihang Unit Abilities-->
+		<Row Tag="LOC_ABILITY_NIHANG_BARRACKS_STRENGTH_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Kekuatan Tempur dari Barak.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NIHANG_ARMORY_STRENGTH_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Kekuatan Tempur dari Gudang Senjata.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NIHANG_ACADEMY_STRENGTH_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Kekuatan Tempur dari Akademi Militer.</Text>
+		</Row>
+		<!--Nihang Unit Promotions-->
+		<Row Tag="LOC_PROMOTION_CLASS_NIHANG_NAME">
+			<Text>Nihang</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FLANKED_BONUS_NAME">
+			<Text>Tegh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FLANKED_BONUS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur saat diapit.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_NAME">
+			<Text>Trehsool Mukh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_DESCRIPTION">
+			<Text>Saat mengalahkan unit musuh, memperoleh [ICON_Faith] Keyakinan setara dengan 50% Kekuatan Tempur dasar unit tersebut. (pada Kecepatan Standar)</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_MOVEMENT_BONUS_NAME">
+			<Text>Jangi Mojeh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Gerakan.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_NAME">
+			<Text>Sanjo</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_DESCRIPTION">
+			<Text>Tidak ada penalti pertempuran saat rusak.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_NAME">
+			<Text>Jangi Kara</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Kekuatan Tempur saat Suzerain di Lahore.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LLANERO_ADJACENCY_STRENGTH_DESCRIPTION">
+			<Text>+2 [ICON_Strength] Kekuatan Tempur dari setiap unit Llanero yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_LLANERO_ADJACENCY_STRENGTH_DESCRIPTION">
+			<Text>+{CalculatedAmount} [ICON_Strength] Kekuatan Tempur dari Llanero yang berdekatan.</Text>
+		</Row>
+		<!--Natural Wonder Unit Abilities-->
+    <Row Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_NAME">
+      <Text>Arus Misterius</Text>
+    </Row>
+    <Row Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_DESCRIPTION">
+      <Text>Arus Misterius: Gerakan +1 [ICON_Movement].</Text>
+    </Row>
+		<Row Tag="LOC_ABILITY_WATER_OF_LIFE_NAME">
+			<Text>Air Kehidupan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WATER_OF_LIFE_DESCRIPTION">
+			<Text>Water of Life: +10 HP saat menyembuhkan di wilayah mana pun.</Text>
+		</Row>
+		<!--Great People-->
+		<Row Tag="LOC_GREAT_PERSON_CLASS_COMANDANTE_GENERAL_NAME">
+			<Text>Komandan Jenderal</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_JOSE_DE_SUCRE_NAME">
+			<Text>Antonio Jose de Sucre</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PAULA_SANTANDER_NAME">
+			<Text>Francisco de Paula Santander</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_ANTONIO_PAEZ_NAME">
+			<Text>José Antonio Páez</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_URDANETA_NAME">
+			<Text>Rafael Urdaneta</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MARINO_NAME">
+			<Text>Santiago Marino</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MACGREGOR_NAME">
+			<Text>Gregor McGregor</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PIAR_NAME">
+			<Text>Manuel Piar</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_NARINO_NAME">
+			<Text>Antonio Narino</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MONTILLA_NAME">
+			<Text>Mariano Montilla</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_RIBAS_NAME">
+			<Text>José Félix Ribas</Text>
+		</Row>
+		<!--Great People Ability Text-->
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_MOVEMENT_NAME">
+			<Text>Komandan Logistik Umum</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Gerakan dari Komandan Jenderal.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_STRENGTH_NAME">
+			<Text>Pimpinan Umum Komandan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_STRENGTH_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Bonus Tempur dari Komandan Jenderal.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMANDANTE_STRENGTH_AOE_LAND">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur untuk mendaratkan unit dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_JOSE_DE_SUCRE_SPAWN_UNIT">
+			<Text>Secara instan menciptakan unit tempur darat terkuat yang dapat Anda bangun dengan 1 level promosi.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_JOSE_DE_SUCRE_SPAWN_UNIT_XP2">
+			<Text>Secara instan menciptakan unit tempur darat terkuat yang dapat Anda bangun dengan 1 level promosi. Unit tidak memiliki biaya pemeliharaan sumber daya.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_RANDOM_CIVIC">
+			<Text>Memberikan 1 Civic acak.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_GOVERNOR_TITLE">
+			<Text>Memberikan 1 Gelar Gubernur [ICON_Governor].</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_CAVALRY_BUFF">
+			<Text>Memberikan +4 [ICON_Strength] Kekuatan Tempur ke unit kelas Kavaleri dalam 2 petak.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_CAVALRY_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Kekuatan Tempur (José Antonio Páez)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_RESET_UNIT_MOVES">
+			<Text>Semua unit tempur darat dalam 2 ubin mendapatkan kembali semua [ICON_Movement] Kemampuan gerakan dan serangan.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MELEE_ANTICAV_BUFF">
+			<Text>Memberikan +4 [ICON_Strength] Kekuatan Tempur kepada unit kelas Melee dan Anti-Kavaleri dalam 2 petak.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_MELEE_ANTICAV_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Kekuatan Tempur (Santiago Mariño)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_MACGREGOR_PROMOTION_PLUS_GOLD">
+			<Text>Memberikan 1 level promosi ke unit darat militer dan [ICON_Gold] Emas setara dengan 50% dari biaya pembelian unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_UNIT_STRENGTH">
+			<Text>Memberikan +7 [ICON_Strength] Kekuatan Tempur ke unit darat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_UNIT_STRENGTH_BUFF_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kekuatan Tempur (Manuel Piar)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NARINO_TRADE">
+			<Text>Meningkatkan kapasitas Jalur Perdagangan [ICON_TradeRoute] sebanyak 1. Memberikan unit Pedagang di kota terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_MONTILLA_UNIT_STR_VS_DISTRICTS">
+			<Text>Unit lahan dalam 2 ubin mendapatkan +4 [ICON_Strength] Kekuatan Tempur saat menyerang distrik.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_UNIT_STR_VS_DISTRICTS_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Kekuatan Tempur saat menyerang distrik (Mariano Montilla)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_RIBAS_DAMAGE_NEARBY_UNITS">
+			<Text>Unit musuh dalam 2 ubin kehilangan 30 HP.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

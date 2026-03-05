@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+		<Row Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
+			<Text>Teddy Roosevelt Persona Paket</Text>
+		</Row>
+		<Row Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
+			<Text>Teddy Roosevelt (Bull Moose) dan Teddy Roosevelt (Rough Rider) Personas</Text>
+		</Row>
+		<Row Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
+			<Text>Berisi persona Teddy Roosevelt (Bull Moose) dan Teddy Roosevelt (Rough Rider), masing-masing dengan penampilan, kemampuan, dan gaya bermain yang unik.</Text>
+		</Row>
+  </EnglishText>
+</GameData>

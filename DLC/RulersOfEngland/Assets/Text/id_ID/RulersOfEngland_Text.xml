@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Elizabeth-->
+		<Row Tag="LOC_ABILITY_ELIZABETH_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+100% Hadiah untuk menjarah rute perdagangan. (Elizabeth I)</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TRADE_AGREEMENT_NAME">
+			<Text>Perjanjian Perdagangan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TRADE_AGREEMENT_DESCRIPTION">
+			<Text>Mencoba memaksimalkan [ICON_TradeRoute] Jalur Perdagangan. Menyukai peradaban yang berdagang dengannya, tidak menyukai peradaban yang tidak berdagang dengannya.</Text>
+		</Row>
+		
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELIZABETH_ANY">
+			<Text>Saya Elizabeth, Ratu Britania, dan hanya mencari sekutu yang paling mulia dan setia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Mereka yang mau menyentuh tongkat penguasa tidak pantas mendapat belas kasihan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Biarkan para tiran takut.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELIZABETH_ANY">
+			<Text>Terima kasih atas minat Anda pada perjanjian perdagangan dengan Inggris.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELIZABETH_ANY">
+			<Text>Kuningan bersinar sama indahnya bagi orang bodoh seperti emas bagi tukang emas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Sisanya adalah keheningan.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Kami berbagi tujuan yang sama.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Anda tahu, saya sudah menikah dengan Inggris.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Saya mungkin tidak mempunyai suami, tetapi saya menghargai seorang teman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Teman - dan perdagangan - semakin kaya jika jumlahnya semakin banyak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Kata-kata Anda adil, tapi kami tahu bahwa adil bisa jadi buruk, dan bisa jadi buruk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Delegasi Anda disuguhi keajaiban makanan dan cuaca Inggris.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Menggoda, tapi aku menolaknya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Ini adalah sesuatu yang sangat, sangat baru bagi dunia – rebusan daun yang merangsang, seperti sup. Ini akan dikenal sebagai &quot;secangkir teh.&quot;</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Wit memperingatkan saya untuk menghindari jerat dan kepalsuan yang kini mengalir begitu bebas.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Tuhan mungkin memaafkanmu, tapi aku tidak pernah bisa. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_TRADE_AGREEMENT">
+			<Text>(Anda tidak berdagang dengan mereka.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELIZABETH_ANY">
+			<Text>Pernahkah Anda melihat lampu-lampu London mengubah kabut menjadi emas?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELIZABETH_ANY">
+			<Text>Baiklah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELIZABETH_ANY">
+			<Text>Kami berupaya memperluas pandangan kami terhadap dunia. Maukah kamu melakukan hal yang sama?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ELIZABETH_ANY">
+			<Text>Jika ruang singgasana ini dijadikan panggung, maka pementasannya kini sedang berlangsung.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Sebuah kapal akan berlayar lebih cepat dengan dua tiang, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ELIZABETH_ANY">
+			<Text>Kami tidak pernah berniat melancarkan perang tanpa akhir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ELIZABETH_ANY">
+			<Text>Sedikit demi sedikit. Penghinaan demi penghinaan. Dan sekarang Anda menuntut perdamaian. TIDAK.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Ada kemakmuran yang cukup bagi semua orang di dunia ini, tanpa menyia-nyiakannya untuk membeli tentara dan senjata.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Tidak pernah ada negara yang dirugikan oleh perdagangan bebas yang dilakukan oleh orang-orang yang cinta damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ELIZABETH_ANY">
+			<Text>Saya mendukung perdamaian, dan saya mendukung perdagangan. Saya ragu prioritas Anda seperti itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Biarkan rakyat kita mengembara ke mana pun mereka mau - orang Inggris selalu mengembara jauh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ELIZABETH_ANY">
+			<Text>Aku percaya padamu, tentu saja. Tapi aku akan lebih mempercayaimu jika tentaramu tidak berkeliaran di sekitar tanahku dengan membawa senjata.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Apakah Anda menganggap saya sebagai istri ikan biasa?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ELIZABETH_ANY">
+			<Text>Saya tahu banyak ketika saya melihatnya.</Text>
+		</Row>
+		
+		<!-- Harald Alt-->
+		<Row Tag="LOC_ABILITY_LEVIED_HARALD_DESCRIPTION">
+			<Text>Menerima [ICON_CULTURE] Budaya, [ICON_FAITH] Iman dan [ICON_SCIENCE] Ilmu Dari Pembunuhan setara dengan 50% dari [ICON_STRENGTH] Kekuatan Tempur lawan. (Harald Hardrada (Varangia))</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAGA_NAME">
+			<Text>Kisah Harald</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAGA_DESCRIPTION">
+			<Text>Menekankan perang protektorat. Mengagumi peradaban yang memulai perang protektorat. Tidak menyukai peradaban yang menyerang negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HARALD_ALT_ANY">
+			<Text>Kehormatan menuntut kita untuk berdiri teguh ketika budak kita terancam, dan Anda serta saya adalah orang-orang terhormat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HARALD_ALT_REASON_ANY">
+			<Text>{LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HARALD_ALT_ANY">
+			<Text>Raja yang baik adalah raja yang peduli pada orang-orang yang akan menjadi rajanya. Anda bukan raja yang baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HARALD_ALT_REASON_ANY">
+			<Text>{LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HARALD_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY}</Text>
+		</Row>
+		
+		<!-- Victoria Alt-->
+		<Row Tag="LOC_AGENDA_INDUSTRIAL_REVOLUTION_NAME">
+			<Text>Revolusi Industri</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIAL_REVOLUTION_DESCRIPTION">
+			<Text>Mencoba membangun industri, dan menyukai peradaban yang juga fokus pada [ICON_Production] Produksi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_VICTORIA_ALT_ANY">
+			<Text>Industri, seperti yang Anda tunjukkan dengan baik, adalah satu-satunya jalan kita ke depan. Dan Anda telah membuat kemajuan besar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_ALT_REASON_ANY">
+			<Text>{LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_VICTORIA_ALT_ANY">
+			<Text>Sebuah nasihat: kemajuan bukanlah sebuah alat. Ini adalah sebuah gelombang, dan akan menenggelamkan mereka yang tidak dapat mendahuluinya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_VICTORIA_ALT_REASON_ANY">
+			<Text>{LOC_DIPLO_WARNING_LEADER_VICTORIA_REASON_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_VICTORIA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_JULIUS_CAESAR_MOD_TITLE">
+			<Text>Paket Pemimpin Julius Caesar</Text>
+		</Row>
+		<Row Tag="LOC_JULIUS_CAESAR_MOD_TEASER">
+			<Text>Pemimpin Alternatif Baru - Julius Caesar</Text>
+		</Row>
+		<Row Tag="LOC_JULIUS_CAESAR_MOD_DESCRIPTION">
+			<Text>Berisi Pemimpin alternatif baru untuk Roma, Julius Caesar dari Roma</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_LIGHTHOUSE_DESCRIPTION">
+			<Text>+1 [ICON_FOOD] Makanan di semua ubin Pantai untuk kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_TEMPLE_DESCRIPTION">
+			<Text>Unit keagamaan yang dilatih di sini menerima promosi tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+			<Text>Bonus [ICON_Production] Produksi sama dengan bonus kedekatan distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_MOSQUE_DESCRIPTION">
+			<Text>Unit Misionaris dan Biksu yang dibuat di sini memiliki +1 Spread.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_PAGODA_DESCRIPTION">
+			<Text>Unit Priest yang dibuat di sini memiliki +1 Penghilang Bidat dan +1 Biaya Penyembuhan untuk unit Guru yang dilatih di sini.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>Memberikan 2 kewarganegaraan gratis yang dipilih secara acak setelah selesai. Semua unit Misionaris dan Biksu yang baru dilatih menerima +1 Spread.[NEWLINE][NEWLINE]Harus dibangun di Hutan atau Hutan Hujan.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_ANGKOR_WAT_DESCRIPTION">
+			<Text>Ketika keajaiban ini dibangun, terima +3 [ICON_ENVOY] Utusan dan +1 [ICON_Citizen] Populasi di semua Kota Saat Ini. +1 [ICON_Housing] Perumahan di semua kota. [NEWLINE][NEWLINE]Harus dibangun berdekatan dengan distrik Saluran Air.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 Slot kebijakan wildcard[NEWLINE][NEWLINE]Harus dibangun di Hill.</Text>
+		</Row>
+		<!-- China-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KAIFENG">
+			<Text>Kaifeng</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LINAN">
+			<Text>Lin&apos;an</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_QUANZHOU">
+			<Text>Quanzhou</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CHONGQING">
+			<Text>Chongqing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CHANGAN">
+			<Text>Chang&apos;an</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PANYU">
+			<Text>Panyu</Text>
+		</Row>
+		<!-- Chola-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ANURADHAPURA">
+			<Text>Anuradhapura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VENGI">
+			<Text>Vengi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BANAVASI">
+			<Text>Banavasi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KADARAM">
+			<Text>Kadaram</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PEGU">
+			<Text>Pegu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MA_NAKKAVARAM">
+			<Text>Ma-Nakkavaram</Text>
+		</Row>
+		<!-- Ghaznavid-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GHAZNA">
+			<Text>Ghazna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LAHORE">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BALKH">
+			<Text>Balkh</Text>
+		</Row>
+		<!-- Pala-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BIKRAMPUR">
+			<Text>Bikrampur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PATALIPUTRA">
+			<Text>Pataliputra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KANNAUJ">
+			<Text>Kannauj</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DURJAYA">
+			<Text>Durjaya</Text>
+		</Row>
+		<!-- Tufan-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LHASA">
+			<Text>Lhasa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_QAMDO">
+			<Text>Qamdo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BURANG">
+			<Text>Burang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_XINING">
+			<Text>Xining</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NAGQU">
+			<Text>Nagqu</Text>
+		</Row>
+		<!-- City States-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DALI">
+			<Text>Dali</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DALI_DESCRIPTION">
+			<Text>Negara-kota Dali</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DELHI">
+			<Text>Delhi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DELHI_DESCRIPTION">
+			<Text>Negara kota Delhi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GAOCHANG">
+			<Text>Gaochang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GAOCHANG_DESCRIPTION">
+			<Text>Negara kota Gaochang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GOA">
+			<Text>Goa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GOA_DESCRIPTION">
+			<Text>Negara-kota Goa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HEIAN">
+			<Text>Heian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_HEIAN_DESCRIPTION">
+			<Text>Negara-kota Heian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KAESONG">
+			<Text>Kaesong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAESONG_DESCRIPTION">
+			<Text>Negara kota Kaesong</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KASHGAR">
+			<Text>Kashgar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KASHGAR_DESCRIPTION">
+			<Text>Negara kota Kashgar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KHOTAN">
+			<Text>Khotan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KHOTAN_DESCRIPTION">
+			<Text>Negara kota Khotan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KUCHA">
+			<Text>Kucha</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KUCHA_DESCRIPTION">
+			<Text>Negara kota Kucha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LAMPHUN">
+			<Text>Lamphun</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_LAMPHUN_DESCRIPTION">
+			<Text>Negara kota Lamphun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LAMURI">
+			<Text>Lamuri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_LAMURI_DESCRIPTION">
+			<Text>Negara kota Lamuri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MALABANG">
+			<Text>Malabang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_MALABANG_DESCRIPTION">
+			<Text>Negara kota Malabang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PAGAN">
+			<Text>Penyembah berhala</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAGAN_DESCRIPTION">
+			<Text>Negara kota kafir</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALEMBANG_DESCRIPTION">
+			<Text>negara kota palembang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SAMARKAND">
+			<Text>Samarkand</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SAMARKAND_DESCRIPTION">
+			<Text>Negara kota Samarkand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SOMNATH">
+			<Text>Somnath</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOMNATH_DESCRIPTION">
+			<Text>Negara-kota Somnath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_THANG_LONG">
+			<Text>Terima kasih</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THANG_LONG_DESCRIPTION">
+			<Text>Negara kota Thăng Long</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TEMASEK">
+			<Text>Temasek</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TEMASEK_DESCRIPTION">
+			<Text>Negara kota Temasek</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TONDO">
+			<Text>Tondo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TONDO_DESCRIPTION">
+			<Text>Negara kota Tondo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TURPAN">
+			<Text>Turpan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TURPAN_DESCRIPTION">
+			<Text>Negara kota Turpan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_UJJAIN">
+			<Text>Ujjain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_UJJAIN_DESCRIPTION">
+			<Text>Negara kota Ujjain</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VIJAYA">
+			<Text>Wijaya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VIJAYA_DESCRIPTION">
+			<Text>Negara kota Vijaya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_XINGQING">
+			<Text>Xingqing</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_XINGQING_DESCRIPTION">
+			<Text>Negara-kota Xingqing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ZHONGJING">
+			<Text>Zhongjing</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ZHONGJING_DESCRIPTION">
+			<Text>Negara-kota Zhongjing</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCENARIO_MARITIME_NAME">
+			<Text>Maritim</Text>
+		</Row>
+		<!-- City States Traits-->
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di [ICON_Capital] Modal saat memproduksi unit</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di setiap distrik Pusat Komersial saat memproduksi unit.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Tambahan +2 [ICON_Production] Produksi di setiap distrik Pusat Komersial saat memproduksi unit.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_CULTURE] Kebudayaan di Ibukota [ICON_Capital].</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_CULTURE] Budaya di setiap distrik Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Tambahan +2 [ICON_CULTURE] Budaya di setiap distrik Pusat Kota.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_NAME">
+			<Text>Negara Kota Maritim</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_FOOD] Makanan di Ibukota [ICON_Capital].</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_FOOD] Makanan di setiap distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Tambahan +2 [ICON_FOOD] Makanan di setiap distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di [ICON_Capital] Ibukota saat memproduksi keajaiban, bangunan, dan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Produksi di setiap distrik Saluran Air saat memproduksi keajaiban, bangunan, dan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Tambahan +2 [ICON_Production] Produksi di setiap distrik Saluran Air saat memproduksi keajaiban, bangunan, dan distrik.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_NAME">
+			<Text>Bonus Penguasa Dali</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_NAME">
+			<Text>Bonus Raja Delhi</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_NAME">
+			<Text>Bonus Perguruan Gaochang</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_NAME">
+			<Text>Bonus Raja Goa</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_NAME">
+			<Text>Bonus Penguasa Heian</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_NAME">
+			<Text>Bonus Perguruan Kaesong</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_NAME">
+			<Text>Bonus Penguasa Kashgar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_NAME">
+			<Text>Bonus Perguruan Khotan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_NAME">
+			<Text>Bonus Penguasa Kucha</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_NAME">
+			<Text>Bonus Penguasa Lamphun</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_NAME">
+			<Text>Bonus Penguasa Lamuri</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_NAME">
+			<Text>Bonus Kerajaan Malabang</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_NAME">
+			<Text>Bonus Penguasa Pagan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_NAME">
+			<Text>Bonus Kesultanan Palembang</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_NAME">
+			<Text>Bonus Penguasa Samarkand</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_NAME">
+			<Text>Bonus Penguasa Somnath</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_NAME">
+			<Text>Bonus Raja Panjang</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_NAME">
+			<Text>Bonus Temasek Suzerain</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_NAME">
+			<Text>Bonus Penguasa Tondo</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_NAME">
+			<Text>Bonus Raja Turpan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_NAME">
+			<Text>Bonus Perguruan Ujjain</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_NAME">
+			<Text>Bonus Perguruan Vijaya</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_NAME">
+			<Text>Bonus Perguruan Xingqing</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_NAME">
+			<Text>Bonus Perguruan Zhongjing</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_BANDAR_BRUNEI_TRAIT_DESCRIPTION">
+			<Text>Distrik Anda di atau di sebelah petak Pantai menyediakan +2 [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas di kota-kota dengan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas di kota-kota dengan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_DESCRIPTION">
+			<Text>Distrik Anda di atau di sebelah petak Pantai menyediakan +2 [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_DESCRIPTION">
+			<Text>Distrik Anda di atau di sebelah petak Pantai menyediakan +2 [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Rute Perdagangan Anda ke kota-kota asing mendapatkan +1 [ICON_FAITH] Keyakinan untuk setiap sumber daya Kemewahan di tujuan.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas di kota-kota dengan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_DESCRIPTION">
+			<Text>Pos Perdagangan [ICON_TradingPost] Anda di kota-kota asing memberikan +1 [ICON_CULTURE] Budaya ke [ICON_TradeRoute] Rute Perdagangan Anda yang melewati atau menuju ke kota tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_DESCRIPTION">
+			<Text>Sumber daya Bonus Anda berperilaku seperti sumber daya Mewah, memberikan 1 [ICON_Amenities] Fasilitas per jenis.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas di kota-kota dengan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Fasilitas di kota-kota dengan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_DESCRIPTION">
+			<Text>Distrik Anda di atau di sebelah petak Pantai menyediakan +2 [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_DESCRIPTION">
+			<Text>Sumber daya Bonus Anda berperilaku seperti sumber daya Mewah, memberikan 1 [ICON_Amenities] Fasilitas per jenis.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_DESCRIPTION">
+			<Text>Distrik Anda di atau di sebelah petak Pantai menyediakan +2 [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_DESCRIPTION">
+			<Text>Sumber daya Bonus Anda berperilaku seperti sumber daya Mewah, memberikan 1 [ICON_Amenities] Fasilitas per jenis.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_DESCRIPTION">
+			<Text>Rute Perdagangan [ICON_TradeRoute] Anda ke negara kota mana pun memberikan +2 [ICON_FAITH] Iman untuk setiap distrik khusus di kota asal.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_DESCRIPTION">
+			<Text>Sumber daya Bonus Anda berperilaku seperti sumber daya Mewah, memberikan 1 [ICON_Amenities] Fasilitas per jenis.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_DESCRIPTION">
+			<Text>Pos Perdagangan [ICON_TradingPost] Anda di kota-kota asing memberikan +1 [ICON_CULTURE] Budaya ke [ICON_TradeRoute] Rute Perdagangan Anda yang melewati atau menuju ke kota tersebut.</Text>
+		</Row>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_SCENARIO_PAPERMAKING_NAME">
+			<Text>Pembuatan kertas</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PRINTING">
+			<Text>Log ke kertas. Kertas ke halaman. Halaman ke buku. Buku dalam pikiran. Pikiran ke jiwa.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_COMPASS_NAME">
+			<Text>Kompas</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Pergerakan untuk unit yang berangkat.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Dapat diselesaikan berkali-kali, meningkatkan [ICON_Envoy] Utusan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_GUILDS">
+			<Text>Seiring dengan berkembangnya kota-kota kita, orang-orang yang berpikiran sama berkumpul dalam kemakmuran.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>Membangun 3 Kuil.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_ENGINEERING">
+			<Text>Hasta yang distandarisasi juga mempunyai nilai di dunia sekuler.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
+			<Text>Memiliki 3 Misionaris.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_THEOLOGY">
+			<Text>Saat kami mengutus Misionaris, kami menemukan kebutuhan akan kepercayaan ortodoks.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
+			<Text>Membangun 2 Saluran Air.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_MACHINERY">
+			<Text>“Bayangkan sebuah kincir air,” kata Insinyur kami, “tetapi dapat menggerakkan hampir semua hal!”</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
+			<Text>Kembangkan kota menjadi 14 populasi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_FEUDALISM">
+			<Text>Kota-kota kita memiliki banyak sekali orang. Mari kita menyusun kewajiban dari raja kepada rakyat jelata.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PAPERMAKING">
+			<Text>Memelihara 3 [ICON_TradeRoute] Rute Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PAPERMAKING">
+			<Text>Tentunya ada cara yang lebih baik untuk menyimpan catatan karavan daripada mencoret-coret pecahan tembikar?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CIVIL_SERVICE">
+			<Text>Pada suatu waktu menjadi Suzerain dari 3 negara kota.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_CIVIL_SERVICE">
+			<Text>Bagaimana jika Anda dapat mendelegasikan Delegasi ke banyak sekretaris? </Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+			<Text>Bangun 3 Pasar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_BANKING">
+			<Text>Jalan menuju surga mungkin lebih baik daripada emas, namun emas hampir sama bermanfaatnya.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMPASS">
+			<Text>Bangun 3 Mercusuar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_COMPASS">
+			<Text>Seorang pelaut bermimpi berlayar dipandu oleh mercusuar surga yang tak terlihat.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
+			<Text>Miliki 15 kota yang mengikuti Agama Anda.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_DIVINE_RIGHT">
+			<Text>Bukti apa yang lebih baik mengenai kebenaran iman Anda selain pandangan banyak orang terhadap Anda?</Text>
+		</Row>
+		<!-- Districts-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Budaya dari Sungai yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_HARBOR_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Budaya dari distrik Pelabuhan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_CITY_CENTER_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Budaya dari distrik Pusat Kota yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_DISTRICT_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Budaya dari {1_Num : plural 1?district; other?districts;} yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_SEARESOURCE_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Budaya dari laut sekitar {1_Num : plural 1?resource; other?resources;}.</Text>
+		</Row>
+		<!-- Governments-->
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_MONARCHY_DESCRIPTION">
+			<Text>Modal menerima +3 [ICON_FAITH] Iman, +1 [ICON_CULTURE] Budaya, +1 [ICON_PRODUCTION] Produksi, dan +1 [ICON_FOOD] Hasil Pangan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_SCENARIO_THALASSOCRACY_NAME">
+			<Text>Thalassokrasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THALASSOCRACY_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Iman untuk setiap Kapal Nelayan.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THEOCRACY_DESCRIPTION">
+			<Text>Semua unit Religius memperoleh kemampuan Martir yang memberikan Relik [ICON_GreatWork_Relic] jika unit ini mati dalam Pertempuran Teologis.</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_CAMP_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Kamp.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Makanan. Hanya dapat dibangun berdasarkan sumber daya yang valid.[NEWLINE][NEWLINE]Jika dibangun berdasarkan sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Tambang.[NEWLINE][NEWLINE]+1 [ICON_Production] Produksi. -1 Banding. Dapat dibangun di atas bukit atau sumber daya yang valid.[NEWLINE][NEWLINE]Jika dibangun di atas sumber daya Mewah, kota akan memperoleh manfaat dari sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Padang Rumput.[NEWLINE][NEWLINE]+1 [ICON_Production] Produksi. Hanya dapat dibangun berdasarkan sumber daya yang valid.[NEWLINE][NEWLINE]Jika dibangun berdasarkan sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Perkebunan.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Makanan.  Hanya dapat dibangun berdasarkan sumber daya yang valid.[NEWLINE][NEWLINE]Jika dibangun berdasarkan sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_KAMPUNG_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Kampung.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Produksi dan +1 [ICON_Housing] Perumahan. +1 [ICON_FOOD] Makanan untuk setiap Kapal Nelayan yang berdekatan. Harus ditempatkan di petak Pantai atau Danau yang berdekatan dengan sumber daya laut.</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="LOC_POLICY_SCENARIO_URBAN_PLANNING_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Iman di semua kota.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSARIES_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Keyakinan dari [ICON_TradeRoute] Rute Perdagangan internasional.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_NAME">
+			<Text>Jalan Mulia</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Keyakinan dari [ICON_TradeRoute] Jalur Perdagangan dalam negeri.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CORVEE_DESCRIPTION">
+			<Text>+15% [ICON_Production] Produksi menuju keajaiban.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_DEVOTION_NAME">
+			<Text>Kesetiaan</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_DEVOTION_DESCRIPTION">
+			<Text>+25% [ICON_Production] Produksi menuju unit keagamaan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_RAJ_DESCRIPTION">
+			<Text>+6 [ICON_Faith] Keyakinan dari setiap negara kota tempat Anda menjadi penguasa.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
+			<Text>Setiap kota menerima +1 [ICON_FAITH] Iman untuk setiap distrik khusus yang dibangunnya.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Keyakinan dari masing-masing [ICON_Envoy] Utusan Anda di negara-kota.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CHARITY_NAME">
+			<Text>Amal</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_QUECHANG_NAME">
+			<Text>Quechang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_QUECHANG_DESCRIPTION">
+			<Text>+100% [ICON_PRODUCTION] Hasil produksi dari bangunan distrik Pusat Komersial.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+3 [ICON_FAITH] Keyakinan dari semua [ICON_TradeRoute] Jalur Perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_JUNK_NAME">
+			<Text>Sampah</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_JUNK_DESCRIPTION">
+			<Text>Menggandakan hasil produksi [ICON_FOOD] Pangan dan [ICON_PRODUCTION] dari bangunan distrik Pelabuhan.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_FESTIVALS_NAME">
+			<Text>Festival</Text>
+		</Row>
+		<!-- Projects-->
+		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang menyediakan Budaya [ICON_CULTURE] di setiap kesempatan.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang menyediakan Budaya [ICON_CULTURE] di setiap kesempatan.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Proyek berbasis distrik yang menyediakan [ICON_FAITH] Iman dalam jumlah besar di setiap kesempatan</Text>
+		</Row>
+		<!-- Religion-->
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM1_NAME">
+			<Text>Shaivisme</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM2_NAME">
+			<Text>Hindu Dharma</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM3_NAME">
+			<Text>Buddhisme Theravada</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM4_NAME">
+			<Text>Buddhisme Mahayana</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM5_NAME">
+			<Text>Buddhisme Vajrayana</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+			<Text>+2 [ICON_FOOD] Makanan dari Padang Rumput.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_STONE_CIRCLES_DESCRIPTION">
+			<Text>+2 [ICON_Faith] Iman dan +2 [ICON_Production] Produksi dari Tambang.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_DANA_NAME">
+			<Text>Dana</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_DANA_DESCRIPTION">
+			<Text>Lumbung masing-masing memberikan +3 [ICON_FAITH] Iman. +1 [ICON_Amenities] Fasilitas ke setiap Kota.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_NUSANTARA_DESCRIPTION">
+			<Text>Ubin Pantai dan Danau memberikan bonus kedekatan kecil untuk distrik Situs Suci.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_LINGA_NAME">
+			<Text>Lingga</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_LINGA_DESCRIPTION">
+			<Text>Dapat membeli gedung distrik Pusat Komersial dan Pelabuhan dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_NAME">
+			<Text>Stupa Vajrayana</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_DESCRIPTION">
+			<Text>Memungkinkan pembangunan Stupa (+3 [ICON_Faith] Iman, +1 [ICON_Amenities] Fasilitas) Tidak Terkunci dengan Pencetakan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_NAME">
+			<Text>Stupa Mahayana</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Stupa (+3 [ICON_Faith] Iman, +1 [ICON_Amenities] Fasilitas). Tidak terkunci dengan Pencetakan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_STEWARDSHIP_DESCRIPTION">
+			<Text>Setiap distrik Pusat Komersial atau Pelabuhan di kota yang mengikuti Agama ini menyediakan +1 [ICON_FAITH] Iman.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_KAMPUNG_DESCRIPTION">
+			<Text>Pembangun Anda sekarang dapat melakukan perbaikan Kampung. Tidak terkunci dengan Guild.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Masjid (+3 [ICON_Faith] Iman). Unit Misionaris dan Biksu +1 Spread. Tidak terkunci dengan Pencetakan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_PAGODA_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Pagoda (+3 [ICON_Faith] Iman). Unit Imam +1 Hapus Bidah dan Guru +1 Biaya Penyembuhan. Tidak terkunci dengan Pencetakan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_WAT_DESCRIPTION">
+			<Text>Mengizinkan pembangunan Wats (+3 [ICON_Faith] Iman, +1 [ICON_Housing] Perumahan). Tidak terkunci dengan Pencetakan.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_HOLY_ORDER_DESCRIPTION">
+			<Text>Misionaris dan Biksu 30% lebih murah untuk dibeli.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_YOGA_NAME">
+			<Text>Yoga</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_YOGA_DESCRIPTION">
+			<Text>Dapat membeli unit sipil dengan [ICON_Faith] Iman.</Text>
+		</Row>
+		<!-- Route-->
+		<Row Tag="LOC_ROUTE_SCENARIO_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Ditempatkan di awal skenario. Meningkatkan [ICON_Movement] Kecepatan pergerakan unit mana pun yang berpindah dari satu ubin jalan ke ubin jalan lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_SCENARIO_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Ditempatkan di awal skenario. Meningkatkan [ICON_Movement] Kecepatan pergerakan unit mana pun yang berpindah dari satu ubin jalan ke ubin jalan lainnya.</Text>
+		</Row>
+		<!-- Scoring-->
+		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOLLOWERS_NAME">
+			<Text>Pengikut Mengikuti Agama</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOREIGN_CITIES_NAME">
+			<Text>Kota Asing Mengikuti Agama</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FAITH_NAME">
+			<Text>Iman Per Putaran</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_1">
+			<Text>Aturan Skenario Khusus:</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_2">
+			<Text>Tidak Ada Pohon Teknologi, Emas, Diplomasi, Pariwisata, atau Sains. Batasan budaya sudah ditetapkan. Fitur tidak dapat dihapus.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_3">
+			<Text>Semua Unit Keagamaan dimulai dengan 1 promosi dan dapat dilatih.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_4">
+			<Text>Hanya satu Bonus Wilayah Kota-Negara yang menambahkan Hasil tambahan atau Fasilitas [ICON_Amenities] untuk setiap jenis Negara-Kota.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_5">
+			<Text>Pedagang tidak membuat jalan.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_6">
+			<Text>Poin diterima dari:</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_7">
+			<Text>Pengikut Agama Anda: {1_Followers} {1_Followers: plural 1?Point; other?Points;} untuk setiap penganut Agama ini.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_8">
+			<Text>Kota Luar Negeri:{2_Cities} {2_Cities : plural 1?Point; other?Points;} untuk semua kota luar negeri yang menganut Agama ini.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_9">
+			<Text>Iman: {1_Faith} {2_Faith : plural 1?Point; other?Points;} untuk setiap [ICON_FAITH] Iman per [ICON_TURN] Putaran.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_10">
+			<Text>Saat Anda mengirim Utusan [ICON_ENVOY] ke suatu Negara Kota, hal itu menambah 300 tekanan Keagamaan ke Negara Kota tersebut.</Text>
+		</Row>
+		<!-- Slots-->
+		<Row Tag="LOC_SLOT_SCENARIO_RELIGIOUS_NAME">
+			<Text>Keagamaan</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_UNIT_SCENARIO_BUILDER_DESCRIPTION">
+			<Text>Dapat membuat peningkatan ubin atau Memanen sejumlah sumber daya. Builder dapat digunakan 3 kali. Hal ini dapat ditingkatkan melalui kebijakan.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_TRADER_DESCRIPTION">
+			<Text>Dapat membuat dan memelihara satu Rute Perdagangan [ICON_TradeRoute].</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_PRIEST_NAME">
+			<Text>Pendeta</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_MONK_NAME">
+			<Text>Biarawan</Text>
+		</Row>
+		<Row Tag="LOC_UI_RELIGION_PRIEST_TT">
+			<Text>Para pendeta boleh menghilangkan kehadiran Agama lain di wilayahnya, dan memulai pertarungan teologis dengan unit Agama lain.</Text>
+		</Row>
+		<Row Tag="LOC_UI_RELIGION_MONK_TT">
+			<Text>Para biksu dapat mengubah warga [ICON_Citizen] menjadi Agama mereka dan memulai pertarungan teologis dengan unit Agama lain.</Text>
+		</Row>
+		<!-- Unit Promotion Classes-->
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_MISSIONARY_NAME">
+			<Text>Misionaris Religius</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_PRIEST_NAME">
+			<Text>Pendeta Agama</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_MONK_NAME">
+			<Text>Biksu Religius</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_GURU_NAME">
+			<Text>Guru Agama</Text>
+		</Row>
+		<!-- Unit Promotions-->
+		<Row Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_NAME">
+			<Text>Berjalan di Atas Air</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_DESCRIPTION">
+			<Text>Tidak ada penalti untuk pergerakan [ICON_Movement] saat bergerak dari laut atau sungai.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TRAVELER_NAME">
+			<Text>Wisatawan</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TRAVELER_DESCRIPTION">
+			<Text>Pergerakan [ICON_Movement] Lebih Cepat di Hutan, Hutan Hujan, Perbukitan, atau Rawa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_NAME">
+			<Text>Mualim</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Gerakan.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_NAME">
+			<Text>Praktisi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_DESCRIPTION">
+			<Text>+10 [ICON_Religion] Kekuatan Keagamaan dalam Pertarungan Teologis ketika berada di wilayah asing.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_GARRISON_DESCRIPTION">
+			<Text>+10 [ICON_Religion] Kekuatan Keagamaan dalam Pertarungan Teologis ketika menduduki suatu distrik.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_ORATOR_DESCRIPTION">
+			<Text>Dapat Menghapus Bidat 2 kali tambahan.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_NAME">
+			<Text>Ahli alkimia</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_DESCRIPTION">
+			<Text>+7 [ICON_Religion] Kekuatan Religius dalam Pertarungan Teologis saat bertahan di Hutan, Hutan Hujan, Perbukitan, atau Rawa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_NAME">
+			<Text>Penerjemah</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_DESCRIPTION">
+			<Text>Dapatkan 75 [ICON_FAITH] Iman jika unit ini mengubah suatu kota menjadi Agama Anda untuk pertama kalinya.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_NAME">
+			<Text>Sangha</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_DESCRIPTION">
+			<Text>2x bonus mengapit.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_NAME">
+			<Text>Memandu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Pergerakan ke unit Keagamaan di awal belokan dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SAGE_NAME">
+			<Text>Sage</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SAGE_DESCRIPTION">
+			<Text>+10 [ICON_Religion] Kekuatan Keagamaan dalam Pertarungan Teologis terhadap unit Keagamaan dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TEACHER_NAME">
+			<Text>Guru</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TEACHER_DESCRIPTION">
+			<Text>Unit ini beroperasi sebagai Medic, memberikan penyembuhan ekstra pada unit dalam 1 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_MASTER_NAME">
+			<Text>Menguasai</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_MASTER_DESCRIPTION">
+			<Text>+1 Biaya Penyembuhan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS_MODIFIER">
+			<Text>+10 [ICON_Religion] Kekuatan Religius dalam Pertarungan Teologis dari Promosi Sage unit Guru</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS">
+			<Text>+10 [ICON_Religion] Kekuatan Keagamaan dalam Pertarungan Teologis terhadap unit Keagamaan dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_GUIDE_MOVEMENT_AOE_RELIGIOUS">
+			<Text>+1 [ICON_Movement] Pergerakan ke unit Keagamaan di awal belokan dalam 2 ubin.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_SCENARIO_TYPE_MARITIME">
+			<Text>Maritim</Text>
+		</Row>
+		<!--Citizen Names-->
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_1">
+			<Text>Norbu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_2">
+			<Text>Phuntsok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_3">
+			<Text>Rabten</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_4">
+			<Text>tashi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_5">
+			<Text>Wangchuk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_1">
+			<Text>Dawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_2">
+			<Text>Jungney</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_3">
+			<Text>Pema</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_4">
+			<Text>Rinchen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_5">
+			<Text>Tsering</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_NO_MILITARY_SLOTS">
+			<Text>Tidak ada slot Kebijakan Keagamaan yang disediakan oleh pemerintah ini.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FILTER_MILITARY">
+			<Text>Keagamaan</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICY_TYPE_MILITARY">
+			<Text>Kebijakan Keagamaan</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Arahat</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Anagami</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Sakadagami</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Sotāpanna</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Puthujjana</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Pencerahan Tercapai</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Yang Tidak Kembali ke Dunia Fisik</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Seorang yang Kembali Sekali ke Dunia Fisik</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Seorang Pemasuk Arus menuju Jalan Pencerahan</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Orang Biasa</Text>
+		</Row>
+	</EnglishText>
+</GameData>

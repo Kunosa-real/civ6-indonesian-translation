@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- Multiplayer Lobby Screen -->
+		<Row Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Permainan sedang berlangsung</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Penyimpanan pemuatan game</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
+			<Text>Game ini menjalankan versi game yang berbeda.[NEWLINE] Game: {1_GameVersion} Lokal: {2_GameVersion}</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
+			<Text>Tidak dapat bergabung dengan game dengan versi yang berbeda.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

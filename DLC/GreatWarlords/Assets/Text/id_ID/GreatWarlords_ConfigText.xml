@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tokugawa-->
+		<Row Tag="LOC_LEADER_TOKUGAWA_NAME">
+			<Text>Tokugawa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_NAME">
+			<Text>Bakuhan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_DESCRIPTION">
+			<Text>Jalur Perdagangan [ICON_TradeRoute] Internasional menerima -25% Hasil dan [ICON_Tourism] Pariwisata, namun Jalur Perdagangan [ICON_TradeRoute] Domestik memberikan +1 [ICON_Culture] Budaya, +1 [ICON_Science] Sains, dan +2 [ICON_Gold] Emas untuk setiap Daerah Khusus di Tujuan. Kota-kota dalam 6 petak Ibukota [ICON_Capital] Jepang menerima +4 [ICON_Amenities] Fasilitas dan setelah meneliti Penerbangan menerima +1 [ICON_Tourism] Pariwisata untuk setiap Distrik. </Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_XP_DESCRIPTION">
+			<Text>Jalur Perdagangan [ICON_TradeRoute] Internasional menerima -25% Hasil dan [ICON_Tourism] Pariwisata, namun Jalur Perdagangan [ICON_TradeRoute] Domestik memberikan +1 [ICON_Culture] Budaya, +1 [ICON_Science] Sains, dan +2 [ICON_Gold] Emas untuk setiap Daerah Khusus di Tujuan. Kota-kota dalam 6 petak [ICON_Capital] Ibukota Jepang 100% setia dan setelah meneliti Penerbangan menerima +1 [ICON_Tourism] Pariwisata untuk setiap Distrik.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOKUGAWA">
+			<Text>Shogun Tokugawa Ieyasu yang Agung, Anda tahu betul bahwa pedang yang sabarlah yang akan menyerang. Jagalah tanah air Anda dengan hati-hati dari perampas kekuasaan dalam dan luar negeri, dan percayalah pada industri dan kecerdikan rakyat Anda, karena hanya merekalah yang dapat diandalkan. Tugas pemerintahan adalah tugas yang panjang, dan bebannya berat, namun tidak ada ruang untuk ketidakpuasan, atau keputusasaan, dengan tangan di atas pedang.</Text>
+		</Row>
+		<!-- Nzinga Mbande-->
+		<Row Tag="LOC_LEADER_NADER_SHAH_NAME">
+			<Text>Nader Syah</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NADER_SHAH_NAME">
+			<Text>Pedang Persia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NADER_SHAH_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kekuatan Tempur saat menyerang Unit Kesehatan penuh. Kota-kota yang tidak didirikan oleh Nader Shah menerima +2 [Icon_Faith] Iman dan +3 [Icon_Gold] Emas di Jalur Perdagangan Domestik [ICON_TradeRoute].</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_NADER_SHAH">
+			<Text>Shah para Shah, yang bangkit dari perbudakan menjadi raja terkaya di dunia, kami memanggil Anda! Sapukan kekuatanmu ke seluruh penjuru negeri, dan, dengan api dan baja, nyalakan dunia sekali lagi, agar kita dapat melihat kilauan emas dengan lebih baik melalui pancaran api.</Text>
+		</Row>
+		<!-- Suleiman Alt-->
+		<Row Tag="LOC_LEADER_SULEIMAN_ORIGINAL_NAME">
+			<Text>Sulaiman (Kanuni)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SULEIMAN_ALT_NAME">
+			<Text>Suleiman (Muhteşem)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SULEIMAN_ALT_NAME">
+			<Text>Yang Luar Biasa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SULEIMAN_ALT_DESCRIPTION">
+			<Text>+15% [Icon_Science] Sains dan [Icon_Culture] Budaya ketika berada di [ICON_GLORY_GOLDEN_AGE] Zaman Keemasan atau Zaman Pahlawan. +4 [ICON_Strength] Kekuatan Tempur ketika tidak berada dalam [ICON_GLORY_GOLDEN_AGE] Zaman Keemasan atau Zaman Pahlawan melawan Peradaban yang juga tidak berada dalam [ICON_GLORY_GOLDEN_AGE] Zaman Keemasan atau Zaman Pahlawan.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

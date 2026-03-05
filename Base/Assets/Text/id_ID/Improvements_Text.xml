@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Menciptakan Barbarian tambahan.[ICON_Gold] Penghargaan emas jika dihancurkan. -1 Banding</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Resor Tepi Laut.[NEWLINE][NEWLINE] Memberikan [ICON_Tourism] Pariwisata yang setara dengan Daya Tarik ubin. Hanya dapat dibangun di atas ubin Gurun Pesisir, Dataran Pesisir, atau Padang Rumput Pesisir. Daya Tarik minimum dari Breathtaking.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+			<Text>Membuka kemampuan Builder untuk membangun Pertanian.[NEWLINE][NEWLINE][NEWLINE] +1 [ICON_Food] Makanan. Hanya dapat dibangun di Padang Rumput atau Dataran.[NEWLINE][NEWLINE] Membangun peternakan yang berdekatan dengan Peternakan lain akan memberikan bonus untuk Perumahan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+			<Text>Membuka kemampuan Builder untuk membuat Tambang.[NEWLINE][NEWLINE][NEWLINE] +1 [ICON_PRODUCTION] Produksi. -1 Banding. Dapat dibangun di atas bukit atau sumber daya yang valid. Jika dibangun di atas sumber daya Mewah atau Strategis, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Tambang.[NEWLINE][NEWLINE][NEWLINE] +1 [ICON_PRODUCTION] Produksi. -1 Banding. Hanya dapat dibangun di atas sumber daya yang valid. Jika dibangun di atas sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membuat Kapal Penangkap Ikan.[NEWLINE][NEWLINE][NEWLINE] + 1 [FOOD ICON] Makanan. Hanya dapat dibangun di atas sumber daya yang valid. Jika dibangun di atas sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Padang Penggembalaan.[NEWLINE][NEWLINE][NEWLINE] + 1 [ICON_PRODUCTION] Produksi. Hanya dapat dibangun di atas sumber daya yang valid. Jika dibangun di atas sumber daya Strategis, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Perkebunan.[NEWLINE][NEWLINE] +2 [ICON_Gold] Emas. Hanya dapat dibangun di atas sumber daya yang valid. Jika dibangun di atas sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Kamp.[NEWLINE][NEWLINE][NEWLINE] + 1 [ICON_Gold] Emas. Hanya dapat dibangun di atas sumber daya yang valid. Jika dibangun di atas sumber daya Mewah, kota akan mendapatkan penggunaan sumber daya tersebut.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Pabrik Kayu.[LINE][LINE][LINE] +1 [PRODUCTION ICON] Produksi. +1 [ICON_PRODUCTION] Produksi jika berdekatan dengan Sungai. Hanya dapat dibangun di atas Hutan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Sumur Minyak.[NEWLINE][NEWLINE]-1 Banding. Hanya dapat dibangun di atas petak tanah dengan [ICON_RESOURCE_OIL] Minyak.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Rig Minyak Lepas Pantai.[NEW LINE][NEW LINE]-1 Banding. Hanya dapat dibangun di ubin Pantai atau Danau dengan [ICON_RESOURCE_OIL] Minyak.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+			<Text>Unit yang menduduki menerima +4 [ICON_Strength] Kekuatan Pertahanan, dan secara otomatis mendapatkan 2 giliran benteng.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+			<Text>Membuka kemampuan Insinyur Militer untuk membangun Landasan Udara. Dapat mendukung 3 unit udara. Hanya dapat dibangun di medan datar. -1 Banding.</Text>
+		</Row>
+		<!--Unique Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Château, yang unik di Prancis.[NEW LINE][NEW LINE] +2 [IKON_CULTURE] Budaya dan +1 [IKON_Emas] Emas. +1 Banding. +1 [ICON_CULTURE] Budaya untuk setiap keajaiban yang berdekatan (menjadi +2 setelah meneliti Penerbangan). +2 [ICON_Gold] Emas jika berada di petak yang memiliki tepi Sungai. Memberikan [TOURISM ICON] Pariwisata dari [CULTURAL ICON] Budaya setelah meneliti Penerbangan. Harus ditempatkan berdekatan dengan sumber daya Bonus atau Mewah. Tidak dapat dibangun berdekatan dengan Château lain.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+			<Text>Membuka kemampuan Builder untuk membangun Kepala Kolosal.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith untuk setiap 2 Hutan Hujan yang berdekatan. +1 [ICON_Faith] Faith untuk setiap 2 Hutan yang berdekatan. Tidak dapat dibangun di atas Salju atau Bukit Salju.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+			<Text>Membuka kemampuan Builder untuk membangun Tembok Besar, yang unik di Tiongkok.[NEWLINE][NEWLINE] Memberikan peningkatan pada [ICON_Power] Pertahanan. Bonus [ICON_Gold] Emas jika berdekatan dengan segmen lain. Tambahan [ICON_CULTURE] Budaya dan [ICON_Tourism] Pariwisata saat Anda maju melalui Pohon Teknologi untuk segmen yang berdekatan. Harus dibangun dalam satu garis di sepanjang perbatasan kerajaan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+			<Text>Membuka kemampuan Builder untuk membangun Kurgan, yang unik di Scythia.[NEWLINE][NEWLINE][NEWLINE] +1 [ICON_Faith] Faith dan +3 [ICON_Gold] Gold. +1 [ICON_Faith] Faith untuk setiap Pasture yang berdekatan (menjadi +2 setelah meneliti Stirrup). Memberikan [ICON_TOURISM] Pariwisata dari [ICON_FAITH] Iman setelah meneliti Penerbangan. Tidak dapat dibangun di atas Bukit.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Misi, yang unik di Spanyol. [NEW LINE] [NEW LINE] +2 [ICON_Belief] Keyakinan. Tambahan +2 [ICON_SCIENCE] Ilmu Pengetahuan setelah Warisan Budaya ditemukan. +2 [ICON_Belief] Keyakinan, +1 [ICON_PRODUCTION] Produksi, dan +1 [FOOD ICON] Makanan jika berada di benua yang berbeda dengan [ICON_KAPITAL] Ibu Kota. +1 [ICON_Science] Ilmu Pengetahuan untuk setiap distrik Kampus dan Tempat Suci yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+			<Text>Membuka kemampuan Legiun Romawi untuk membangun Benteng Romawi, yang unik di Roma.[NEWLINE][NEWLINE] Unit yang menduduki menerima +4 [ICON_Strength] Kekuatan Pertahanan, dan secara otomatis mendapatkan 2 putaran benteng.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun Sphinx, yang unik di Mesir.[NEW LINE][NEW LINE] +1 [ICON_Belief] Keyakinan dan +1 [ICON_CULTURE] Kebudayaan. +1 Daya tarik. +2 [ICON_Faith] Keyakinan jika berada di samping keajaiban. Tidak dapat dibangun di sebelah Sphinx lain. Dapat dibangun di Dataran Banjir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+			<Text>Membuka kemampuan Pembangun untuk membangun sebuah Stepwell, yang unik di India.[NEW LINE][NEW LINE] +1 [FOOD ICON] Makanan dan +1 [RESIDENTIAL ICON] Perumahan. +1 [ICON_CONFIDENCE] Keyakinan jika berdekatan dengan distrik Situs Suci. +1 [FOOD ICON] Makanan jika berdekatan dengan Pertanian. Tambahan [ICON_HOUSING] Perumahan, [ICON_Belief] Kepercayaan, dan [ICON_Food] Makanan jika berdekatan dengan Pertanian. Tidak dapat dibangun di atas Bukit atau berdekatan dengan Stepwell lain.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>Membuka kemampuan Builder untuk membangun Ziggurat, yang unik di Sumeria.[NEWLINE][NEWLINE]+2 [ICON_Science] Ilmu Pengetahuan. +1 [ICON_CULTURE] Kebudayaan jika berada di sebelah Sungai. Tidak dapat dibangun di atas Bukit.</Text>
+		</Row>
+		<!--Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+			<Text>[COLOR_FLOAT_CULTURE] {1_Relic} Relik Diberikan [FINAL COLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Belief]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Belief]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Belief]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY] Anda diberikan unit pengintaian. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY] Unit Anda telah di-upgrade.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY] Unit Anda telah mendapatkan pengalaman. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY] Unit Anda telah disembuhkan. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+			<Text>[COLOR_FLOAT_SCIENCE] Satu Teknologi gratis. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+			<Text>+{1_Num} Populasi Baru</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+			<Text>Anda diberikan {1_Num} {1_Num: jamak 1?{2_Unit} unit; lainnya?{2_Unit} unit;}.</Text>
+		</Row>
+		<!--Barbarian Camps -->
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+			<Text>[COLOR_FLOAT_CONFIDENCE]+{1_Num} [ICON_CONFIDENCE] [COLOR_FINISH]</Text>
+		</Row>
+		<!--Nuclear -->
+		<Row Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+			<Text>Membuka kemampuan Insinyur Militer untuk membangun Silo Rudal.[NEWLINE][NEWLINE] Bertindak sebagai tempat peluncuran Perangkat Nuklir dan Termonuklir.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

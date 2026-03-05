@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Yongle-->
+		<Row Tag="LOC_PROJECT_LIJIA_FAITH_NAME">
+			<Text>Lijia (Iman)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FAITH_SHORT_NAME">
+			<Text>Lijia (Iman)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FAITH_DESCRIPTION">
+			<Text>Proyek yang memberikan [ICON_Faith] Iman setiap putaran setara dengan 50% produksi kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FOOD_NAME">
+			<Text>Lijia (Makanan)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FOOD_SHORT_NAME">
+			<Text>Lijia (Makanan)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FOOD_DESCRIPTION">
+			<Text>Proyek yang menyediakan [ICON_Food] Makanan setiap giliran setara dengan 50% produksi kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_GOLD_NAME">
+			<Text>Lijia (Emas)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_GOLD_SHORT_NAME">
+			<Text>Lijia (Emas)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_GOLD_DESCRIPTION">
+			<Text>Proyek yang menyediakan [ICON_Gold] Emas setiap putaran setara dengan 100% produksi kota ini.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_YINDING_NAME">
+			<Text>Yinding</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_YINDING_DESCRIPTION">
+			<Text>Menyukai Peradaban dengan pendapatan per giliran positif, tidak menyukai peradaban dengan pendapatan per giliran negatif.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_POSITIVE_INCOME">
+			<Text>Mereka senang dengan penghasilan positif Anda</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_NEGATIVE_INCOME">
+			<Text>Sedih dengan penghasilan negatif Anda</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_YONGLE_ANY">
+			<Text>Aku adalah Kaisar Yongle, sahabat bagi mereka yang mengarahkan kapal dagangnya ke arahku, dan sangat buruk bagi mereka yang menentangku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Anda mungkin juga berusaha menaklukkan surga itu sendiri. Mari kita lihat seberapa tinggi anak panahmu terbang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Penaklukan dengan senjata tidak pernah menjadi tujuan saya, tetapi sekarang kita sampai pada titik di mana tidak ada alternatif lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_YONGLE_ANY">
+			<Text>Kami hanya berurusan dengan mereka yang memiliki sesuatu untuk ditawarkan. Seperti kamu, misalnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_YONGLE_ANY">
+			<Text>Kita harus mencari kekayaan, mulai dari penggembala sapi hingga raja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Jalan di hadapanku gelap, dan pepohonan pinus di sekelilingnya berwarna hitam. Di atas aku tidak dapat melihat langit, dan di bawah aku tidak dapat melihat bumi.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Semoga Anda belajar dari contoh kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Seorang teman setara. Anda tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Kami sedang membangun koalisi orang-orang yang berpikiran sama. Maukah kamu ambil bagian?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Biarkan keduanya mendapat manfaat</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Kami tidak bisa menerima hal seperti itu</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Kami telah berupaya semaksimal mungkin untuk mendidik masyarakat Anda mengenai pentingnya tata pemerintahan yang baik, kesopanan, dan kebijaksanaan. Saya tidak yakin kami berhasil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Kami sudah memiliki beberapa di antaranya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Sutra dan porselen, teh dan kain - sumber kehidupan kekaisaran Tiongkok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Gonggongan anjing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Aku telah berulang kali mengatakan kepadamu untuk menjauhi kejahatan. Sebentar lagi aku akan bosan menceritakannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_YONGLE_ANY">
+			<Text>Datang dan kunjungi Aula Harmoni Tertinggi, dan biarkan pikiran Anda tenang.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_YONGLE_ANY">
+			<Text>Surga adalah untuk itu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_YONGLE_ANY">
+			<Text>Kami mencari pengetahuan tentang dunia. Anda tertarik menuju pusat dunia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_YONGLE_ANY">
+			<Text>Saya telah dipanggil - apa itu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Menjadi satu dengan Ming, satu dengan Tiongkok – apa lagi yang lebih hebat?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_YONGLE_ANY">
+			<Text>Jika bumi damai, maka di surga pun damai.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_YONGLE_ANY">
+			<Text>Anda terus menolak keinginan pusat segala sesuatu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Perang hanya menjadikan janda. Tentunya ada hiburan yang lebih menguntungkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Dunia ini terbuka, mari kita jelajahi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Anda memerlukan izin kami untuk masuk, dan kami tidak memberikannya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Kami memiliki armada dagang dan karavan pedagang yang mencari akses ke tanah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_YONGLE_ANY">
+			<Text>Kami tahu betul cara menangani gerombolan barbar di perbatasan kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Saya berdiri dari singgasana saya untuk mendengarkan ini?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Perdagangan tidak begitu sulit jika semua orang sepakat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_POSITIVE_INCOME">
+			<Text>(Anda memiliki pendapatan positif per giliran.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_NEGATIVE_INCOME">
+			<Text>(Anda memiliki pendapatan negatif per giliran.)</Text>
+		</Row>
+		<!--Wu Zetian-->
+		<Row Tag="LOC_CITY_NAME_SHEN_DU">
+			<Text>Shendu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COURT_INTRIGUE_NAME">
+			<Text>Intrik Pengadilan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COURT_INTRIGUE_DESCRIPTION">
+			<Text>Menyukai peradaban yang tidak menimbulkan ancaman. Tidak menyukai peradaban dengan militer yang kuat atau peradaban dengan kota-kota terdekat.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WU_ZETIAN_ANY">
+			<Text>Saya Wu Zetian, Permaisuri yang paling ditakuti dan dicintai di Tiongkok. Satu-satunya Permaisuri di Tiongkok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Ini dia sekelompok pria yang mengayunkan pedang dan berteriak. Atau apakah saya harus menyebut kekacauan ini sebagai &quot;seni?&quot;</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Sayangku, waktunya telah tiba bagimu untuk pergi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WU_ZETIAN_ANY">
+			<Text>Kamu sudah sangat menghiburku. Setia seperti kasimku.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WU_ZETIAN_ANY">
+			<Text>Anda pikir saya di sini untuk dijadikan lawan? Akulah yang merencanakan!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Kumohon... Aku yakin kita bisa menyelesaikan sesuatu. Ini tidak harus menjadi akhir... bukan?</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Luar biasa. Aku akan memperlakukanmu seolah-olah kamu adalah anakku sendiri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Aku punya banyak pengagum, sayangnya.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Saya ingin mengenal Anda lebih baik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Teman adalah cara kita menaiki tangga ambisi kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Saya tidak mendapatkan apa pun dari bergaul dengan Anda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Hampir semua delegasi Anda telah kembali dengan utuh!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Oh... Ini pasti menarik di Dinasti Han. Sekarang sudah ketinggalan zaman, saya khawatir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Saya mengirimkan kepada Anda kuda-kuda yang diukir dari batu giok, penari dari seluruh wilayah Tiongkok, dan, seperti biasa, sutra terbaik yang dihasilkan alat tenun kami.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Kata-katamu tajam. Hal-hal lain lebih tajam. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Saya punya daftar musuh yang panjang. Anda ada di daftar itu. (Mencela Anda)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WU_ZETIAN_ANY">
+			<Text>Ibukota kami memiliki lapisan sejarah, seni tenggelam dalam debu. Maukah kamu melihatnya?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WU_ZETIAN_ANY">
+			<Text>Tentu saja.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WU_ZETIAN_ANY">
+			<Text>Semua jalan mengarah ke sini, menuju Kekaisaran Zhou. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WU_ZETIAN_ANY">
+			<Text>Silakan duduk. Minumlah teh. Bukan, bukan cangkir itu. Yang ini aku buat khusus untukmu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Jagalah teman-temanmu tetap dekat, dan pertahankan --- maksudku. Mari kita jaga sahabat kita tetap dekat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WU_ZETIAN_ANY">
+			<Text>Kematian jauh lebih menyenangkan tanpa semua teriakan. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WU_ZETIAN_ANY">
+			<Text>Maukah kamu menghentikan kebangkitanku di panggung dunia? Saya rasa tidak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Perang ini tidak lagi menginspirasi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Kami tidak menyembunyikan apa pun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Tidak. Yang terlarang punya aspek misteri, bukan?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Mari kita ukur luas tanah kita berdua, agar kita bisa lebih mengenal satu sama lain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WU_ZETIAN_ANY">
+			<Text>Kehadiranmu di sini… tidak kentara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Anda memiliki lebih banyak yang dapat Anda berikan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Saya tahu banyak ketika saya melihatnya.</Text>
+		</Row>
+		<!-- Qin Alt-->
+		<Row Tag="LOC_AGENDA_SIHAI_NAME">
+			<Text>Sihai</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SIHAI_DESCRIPTION">
+			<Text>Ingin semua Barbarian mengikuti sisinya. Tidak menyukai peradaban yang menghancurkan Pos-pos Barbar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_QIN_MELEE_UNITS_DESCRIPTION">
+			<Text>Unit ini dapat menggunakan tindakan untuk mengubah Barbarian yang berdekatan ke sisi Anda, tetapi unit ini akan dihapus. (Qin (Pemersatu))</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SIHAI_ATTACKS_BARBARIANS">
+			<Text>Kecewa karena Anda menyelesaikan Pos Luar Barbar</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SIHAI_IGNORES_BARBARIANS">
+			<Text>Mereka senang melihat Anda tidak membersihkan Pos-pos Barbarian</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_GREETING_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_QIN_ALT_ANY">
+			<Text>Sebagaimana kita mengolah tanah sebelum menghasilkan buah, demikian pula kita mengolah masyarakat yang lebih kecil agar mereka dapat bergabung dengan kita.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_QIN_ALT_ANY">
+			<Text>Hanya itukah dirimu, pembunuh manusia liar?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ATTACKS_BARBARIANS">
+			<Text>(Anda telah menyerang Kamp Barbar.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_ANY_REASON_AGENDA_IGNORES_BARBARIANS">
+			<Text>(Anda mengabaikan pembersihan Kamp Barbar.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

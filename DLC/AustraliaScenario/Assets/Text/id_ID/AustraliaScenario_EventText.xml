@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Political Event Titles-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_1">
+			<Text>PENJELAJAHI SIAP</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_2">
+			<Text>KAPAL KOLONI TIBA</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_3">
+			<Text>Suatu BANGSA TELAH LAHIR</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_4">
+			<Text>PERANG DUNIA I</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_5">
+			<Text>PERANG DUNIA II</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_6">
+			<Text>KOLONIS TAMBAHAN</Text>
+		</Row>
+		<!-- Political Event Descriptions-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_1">
+			<Text>Seorang penjelajah petualang telah meninggalkan koloni Inggris di New South Wales untuk mengungkap misteri benua Australia. </Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_2">
+			<Text>Kami telah merekrut kapal berjiwa tangguh untuk memulai koloni baru Anda. Harapan kita besar terhadap kelompok ini, tidak semuanya narapidana.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_3">
+			<Text>Kini setelah banyak generasi hidup dan mati sebagai penduduk asli Australia, masyarakat kami ingin membentuk negara bagian kami yang terpisah menjadi negara yang bersatu.  Sudah waktunya bagi Australia untuk melakukan federasi, membentuk negara baru yang merdeka dari Inggris. </Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_4">
+			<Text>Sebuah perang besar melanda benua Eropa dan negara ibu kita, Inggris, ikut terlibat dalam peperangan tersebut.  Kami akan mengirim pasukan untuk memberikan dukungan kami.  </Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_5">
+			<Text>Perang dunia lainnya telah pecah dan kali ini bahkan tanah air kita, Australia, berada dalam bahaya. Seperti yang diingatkan oleh perdana menteri kita John Curtin: “Api kebebasan yang dinyalakan di negeri ini oleh para pemukim pertama kita, dan terus menyala oleh generasi-generasi berikutnya, tidak dapat dipadamkan oleh musuh mana pun.”</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_6">
+			<Text>Kemajuan sipil Anda telah terlihat di Inggris.  Semakin banyak penjajah yang baru saja tiba dan ingin menjadikan koloni Anda sebagai rumah baru mereka.</Text>
+		</Row>
+		<!-- Political Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_1">
+			<Text>Gunakan penjelajah ini untuk empat putaran berikutnya untuk menemukan tempat terbaik untuk pemukiman baru.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_2">
+			<Text>Pemukim gratis akan muncul di awal giliran berikutnya di ubin pantai yang paling dekat dengan penjelajah Anda.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_3">
+			<Text>Setelah Anda menyelesaikan Federasi Civic Anda akan dapat meningkatkan ke sistem pemerintahan terkuat, Pemerintahan Negara Bagian.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_4">
+			<Text>Anda sekarang dapat memulai proyek AIF di kota mana pun. Setiap kontribusi yang Anda berikan dalam upaya perang akan meningkatkan kedudukan negara Anda di negara kami, memberi Anda +10 [ICON_Gold] Emas per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_5">
+			<Text>Menyelesaikan proyek AIF bahkan lebih penting saat ini dan akan memberi Anda hadiah +20 [ICON_Gold] Emas per giliran.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_6">
+			<Text>Pemukim gratis telah muncul di ibu kota Anda. Mulai saat ini, kota-kota baru harus dibangun dalam jarak 10 ubin dari salah satu kota Anda yang sudah ada.</Text>
+		</Row>
+		<!-- Danger Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_1">
+			<Text>{1_UnitName} Anda telah mengalami {2_Damage} kerusakan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_2">
+			<Text>{1_UnitName} Anda telah terbunuh.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_3">
+			<Text>{1_UnitName} Anda telah kehilangan 1 Gerakan [ICON_Movement] secara permanen.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_4">
+			<Text>Anda kehilangan {1_Amount} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_5">
+			<Text>{1_UnitName} Anda telah kembali ke kota terdekat {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_6">
+			<Text>{1_Improvement} terdekat Anda telah dijarah.</Text>
+		</Row>
+		<!-- Delay Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_1">
+			<Text>{1_UnitName} Anda telah kehilangan {2_Movement} poin pergerakan pada giliran ini.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_2">
+			<Text>{1_UnitName} Anda tidak akan dapat melewati belokan ini.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_3">
+			<Text>Pengetahuan tentang beberapa medan dekat {1_UnitName} telah hilang.</Text>
+		</Row>
+		<!-- Benefit Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_1">
+			<Text>Seorang {1_UnitName} telah tiba di kota terdekat {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_2">
+			<Text>{1_UnitName} telah tiba di sebelah {2_UnitName} Anda.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_3">
+			<Text>Wilayah yang belum dijelajahi di dekat {1_UnitName} Anda telah terungkap.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_4">
+			<Text>{1_UnitName} Anda telah memperoleh +1 Gerakan [ICON_Movement] secara permanen.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_5">
+			<Text>{1_UnitName} Anda telah sembuh total.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_6">
+			<Text>{1_UnitName} Anda telah menyembuhkan {2_HitPoints} poin kerusakan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_7">
+			<Text>Kota {1_CityName} terdekat Anda telah memperoleh 1 Populasi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_8">
+			<Text>Anda mendapatkan {1_Amount} [ICON_Gold] Emas.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_9">
+			<Text>Anda menerima Eureka untuk teknologi {1_TechName}.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_10">
+			<Text>Anda menerima Inspirasi untuk {1_CivicName} sipil.</Text>
+		</Row>
+		<!-- Exploration Event Titles-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_1">
+			<Text>Terjebak dalam Arus Rip</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_2">
+			<Text>Disikat Terhadap Ubur-ubur Kotak</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_3">
+			<Text>Mengumpulkan Cangkang Kerucut</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_4">
+			<Text>Tertunda oleh Kabut Berbahaya</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_5">
+			<Text>Dipasok kembali oleh Nelayan Aborigin</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_6">
+			<Text>Rock Hopper Untuk Disewa</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_7">
+			<Text>Perairan yang Berlimpah Terletak</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_1">
+			<Text>Kebutuhan Air yang Sangat Diremehkan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_2">
+			<Text>Menginjak Unta</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_3">
+			<Text>Menginjak Death Adder</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_4">
+			<Text>Tertunda oleh Badai Debu yang Tak henti-hentinya</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_5">
+			<Text>Oasis Terlihat</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_6">
+			<Text>Ditemukan Sampah Dingo yang Tidak Dijaga</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_1">
+			<Text>Dihalangi oleh Bushrangers</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_2">
+			<Text>Terjebak dalam Kebakaran Hutan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_3">
+			<Text>Dilecehkan oleh Dingo</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_4">
+			<Text>Makan Buah Beri yang Salah</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_5">
+			<Text>Disuplai oleh Penghuni Liar</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_6">
+			<Text>Barang Swagmen Untuk Dipekerjakan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_1">
+			<Text>Longsoran batu!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_2">
+			<Text>Malam yang Sangat Dingin</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_3">
+			<Text>Persediaan Jatuh Ke Ngarai</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_4">
+			<Text>Perjalanan Tanpa Hasil</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_5">
+			<Text>Fossickers Untuk Dipekerjakan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_6">
+			<Text>Ditemukan Mata Air Gunung</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_1">
+			<Text>Pertengkaran Dengan Kanguru Merah</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_2">
+			<Text>Kondisi Kekeringan yang Berlanjut</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_3">
+			<Text>Infeksi Spinifex</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_4">
+			<Text>Kehilangan Arah Sepenuhnya</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_5">
+			<Text>Pekerja Peternakan Untuk Dipekerjakan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_6">
+			<Text>Dipimpin ke Air oleh Galah Flock</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_1">
+			<Text>Kesengsaraan Malaria</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_2">
+			<Text>Kelaparan Karena Wabah Belalang</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_3">
+			<Text>Tersapu Banjir Bandang</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_4">
+			<Text>Terjebak di Dataran Lumpur</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_5">
+			<Text>Menangkap Yabbies Dalam Aliran</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_1">
+			<Text>Dikonsumsi Buaya Air Asin</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_2">
+			<Text>Luka Penuh yang Mengerikan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_3">
+			<Text>Digigit Laba-laba Jaring Corong</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_4">
+			<Text>Makan Ikan yang Salah</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_5">
+			<Text>Tersesat di Rawa</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_6">
+			<Text>Rumor Bunyip yang Mengerikan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_1">
+			<Text>Penuh Dengan Cacing Kerang</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_2">
+			<Text>Minum Terlalu Banyak Air Terlalu Cepat</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_3">
+			<Text>Menghindari Pemberontakan yang Hampir Terjadi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_4">
+			<Text>Dipulihkan di Billabong</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_5">
+			<Text>Pemulihan Damai</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_1">
+			<Text>Semuanya Di Sini Adalah Racun</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_2">
+			<Text>Mengagetkan seekor Kasuari</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_3">
+			<Text>Terkena Demam Berdarah</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_4">
+			<Text>Diganggu oleh Kawanan Semut yang Menyengat</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_5">
+			<Text>Misteri Ilmiah yang Terungkap</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_1">
+			<Text>Ular Coklat Timur yang gelisah</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_2">
+			<Text>Kayu Bakar yang Dibakar Dari Pohon Karet</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_3">
+			<Text>Emu Teritorial yang Marah</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_4">
+			<Text>Rumor Drop Bear Palsu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_5">
+			<Text>Menemukan Kopling Telur Emu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_1">
+			<Text>Kejatuhan yang Tidak Menguntungkan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_2">
+			<Text>Terserang penyakit kudis</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_3">
+			<Text>Arah yang Bertentangan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_4">
+			<Text>Lupa Menambatkan Kuda</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_5">
+			<Text>Menemukan Jalan Pintas</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_6">
+			<Text>Disuplai oleh Klan Aborigin</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_7">
+			<Text>Mengikuti Jalur Dingo</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_8">
+			<Text>Sengketa Dengan Penjelajah Saingan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_9">
+			<Text>Ditemukan Ketidakakuratan Dalam Peta</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_10">
+			<Text>Harta karun!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_11">
+			<Text>Pemandu Aborigin Untuk Dipekerjakan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_12">
+			<Text>Secara Tidak Sengaja Menyinggung Suku Aborigin</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_13">
+			<Text>Secara Tidak Sengaja Memulai Kebakaran Hutan</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_14">
+			<Text>Migrasi Aborigin</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_15">
+			<Text>Wacana Tanpa Hasil Dengan Suku Aborigin</Text>
+		</Row>
+		<!-- Exploration Event Descriptions-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_1">
+			<Text>Apa yang dimulai sebagai penyelaman yang menyegarkan di lautan berakhir dengan tragedi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_2">
+			<Text>Benda yang begitu rapuh, penuh rasa sakit yang cair.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_3">
+			<Text>Bagian luarnya yang indah menyembunyikan tombak kecil yang berbisa.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_4">
+			<Text>Itu bergulung dari laut, lebih tebal dari asap meriam.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_5">
+			<Text>Mereka mengetahui perairan setempat dan menangkap ikan lokal. Kami tidak melakukan keduanya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_6">
+			<Text>Bagaimana mereka memancing dari bebatuan pantai tanpa terpeleset? Sebuah misteri!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_7">
+			<Text>Itu adalah penemuan yang luar biasa. Cukup untuk mendukung penyelesaian.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_1">
+			<Text>Kuda-kudalah yang pertama mati, mengigau karena kehausan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_2">
+			<Text>Ditinggalkan oleh penjajah awal, mereka menjadi liar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_3">
+			<Text>Semuanya menyatu di medan yang terkena sinar matahari. Bahkan ular.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_4">
+			<Text>Itu mempengaruhi segalanya. Beberapa hari kemudian kami masih melepaskannya setelah kami bangun.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_5">
+			<Text>Kami menemukan pulau kehidupan di gurun terlantar itu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_6">
+			<Text>Anda harus mengerti. Itu penting untuk kelangsungan hidup kami.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_1">
+			<Text>Mereka mengambil makanan tetapi meninggalkan kami air. Mereka adalah pencuri, bukan pembunuh.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_2">
+			<Text>Itu terbakar lebih panas dari pada pengecoran. Alisnya hangus dan kulitnya terbakar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_3">
+			<Text>Mereka memburu kami selama berhari-hari, dan akhirnya membunuh hewan pengangkut yang tersesat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_4">
+			<Text>Rasa sakit menjalar ke dalam perut kami seperti bara panas.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_5">
+			<Text>Mereka menciptakan kehidupan baru bagi diri mereka sendiri, di alam liar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_6">
+			<Text>Petani keliling mencari pekerjaan tetap, tergantung musim.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_1">
+			<Text>Sungguh disayangkan kami berkemah di jalurnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_2">
+			<Text>Selimut tipis tidak mampu menghentikan angin dingin dari pegunungan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_3">
+			<Text>Kalau dipikir-pikir, kita seharusnya menyimpannya jauh dari tepian.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_4">
+			<Text>Apa yang tampaknya merupakan jalan pintas yang menjanjikan justru berakhir dengan upaya yang sia-sia.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_5">
+			<Text>Banyak yang mencari ladang emas di mana-mana. Hanya sedikit yang menemukan keberuntungan nyata.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_6">
+			<Text>Mata air yang terlindung memberi kami semua air yang bisa kami bawa.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_1">
+			<Text>Dalam pembelaan kami, kami berusaha mempelajari apa yang dibawanya di dalam kantongnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_2">
+			<Text>Tanaman yang rakus akan membuat kita mati kehausan sebelum mereka melakukannya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_3">
+			<Text>Ujung daunnya patah di daging kami saat kami bergesekan dengannya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_4">
+			<Text>Di medan yang serupa tanpa henti, sangat mudah bagi kami untuk tersesat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_5">
+			<Text>Itu adalah pekerjaan yang sepi dan berat, tetapi mereka tidak mempermasalahkan kondisinya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_6">
+			<Text>Kami berbaris ke tempat mereka menetap. Burung yang cantik. Agak main-main.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_1">
+			<Text>Ada cukup banyak nyamuk di udara untuk menggelapkan langit.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_2">
+			<Text>Mereka merusak lanskap apa pun yang dapat menopang kehidupan kita.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_3">
+			<Text>Jika tidak dapat mencapai tempat yang tinggi, seseorang bisa saja menghilang begitu saja.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_4">
+			<Text>Beberapa sepatu bot dan stoking hilang ditelan kotoran.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_5">
+			<Text>Mereka bisa dimakan saat direbus, kecuali cangkangnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_1">
+			<Text>Tidak ada suara atau jeritan. Hanya riak di air.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_2">
+			<Text>Bluebottles yang meledak itu pastilah pelakunya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_3">
+			<Text>Semakin kecil makhluk tersebut, semakin kuat racunnya. Umumnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_4">
+			<Text>Tidak semua ikan bisa dimakan. Terutama bukan yang itu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_5">
+			<Text>Medan tampaknya berubah sepanjang hari. Trik cahaya?</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_6">
+			<Text>Tidak diragukan lagi bahwa ada roh semak yang mengintai kita di rawa itu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_1">
+			<Text>Bahkan air paling segar di Pedalaman membawa bahaya bagi usus.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_2">
+			<Text>Setelah sekian lama tidak ada, rasa haus mengarah pada pilihan yang buruk.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_3">
+			<Text>Mereka menolak meninggalkan oasis. Hampir terjadi ledakan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_4">
+			<Text>Lubang air yang sepi membangkitkan semangat kami.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_5">
+			<Text>Hari yang indah. Apakah itu bisa menyeimbangkan yang lainnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_1">
+			<Text>Setiap serangga, hewan, bunga, akar, atau tanaman merambat mungkin telah membunuh kita.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_2">
+			<Text>Kalau dipikir-pikir, saat pertama kali ia melompat dan menendang keluar, kami tertawa.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_3">
+			<Text>Demamnya berlangsung selama beberapa waktu sebelum sebuah luka menunjukkan segel takdir.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_4">
+			<Text>Kami mengalami kemalangan yang luar biasa karena tidur di puncak bukit semut.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_5">
+			<Text>Ada keajaiban yang bisa ditemukan di hutan aneh ini.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_1">
+			<Text>Ini mengungkapkan sifat jahatnya ketika menyerang tanpa alasan yang jelas.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_2">
+			<Text>Kami tidak memperkirakan ledakannya. Beberapa orang mengira itu serangan meriam.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_3">
+			<Text>Gigitannya yang ganas membuat kami lengah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_4">
+			<Text>Kami belum pernah menjumpai koala karnivora. Kami adalah orang-orang yang beruntung.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_5">
+			<Text>Saat dimakan mentah, kuning telurnya memiliki konsistensi seperti tiram semak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_1">
+			<Text>Jika perlu, Anda bisa menembak gunung yang tertatih-tatih. Tidak demikian halnya dengan seseorang.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_2">
+			<Text>Kulit akan terkelupas dari langit-langit mulut seseorang. Sangat tidak menyenangkan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_3">
+			<Text>Kondisi yang keras dan emosi yang tidak menentu sering kali memicu pertengkaran.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_4">
+			<Text>Sebuah kesalahan sederhana di kota. Kurang dari itu di Pedalaman.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_5">
+			<Text>Jalan yang tampaknya biasa-biasa saja terkadang menunjukkan harapan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_6">
+			<Text>Beruntungnya kami, tidak semua tempat di hutan ini sepi dari kehidupan manusia.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_7">
+			<Text>Dingo melakukan perjalanan ke air dan memangsa. Yang terbaik adalah mengikuti penduduk setempat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_8">
+			<Text>Banyak yang ingin mengklaim sendiri temuannya. </Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_9">
+			<Text>Mungkin mereka benar. Perspektifnya aneh di Pedalaman.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_10">
+			<Text>Sayang sekali ditemukan pada mayat penjelajah yang gagal.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_11">
+			<Text>Kami dapat membagi kelompok kami untuk menjangkau lebih banyak wilayah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_12">
+			<Text>Belakangan, kami memahami bahwa ini adalah penghinaan besar terhadap klan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_13">
+			<Text>Pada saat itu, kami tidak tahu seberapa jauh perjalanannya. Semuanya terlalu jauh.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_14">
+			<Text>Kondisi yang buruk membuat mereka mencari peruntungan di tempat lain.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_15">
+			<Text>Tampaknya pertemuan mereka sebelumnya dengan pihak luar bersifat negatif.</Text>
+		</Row>
+
+		<!-- Exploration Event Journal Entries-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_1">
+			<Text>Tersapu ke laut, diduga tenggelam.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_2">
+			<Text>Menginjakkan kaki untuk mengawinkan penyengat. Amputasi tidak berhasil.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_3">
+			<Text>Pegang cangkang kerucut ke telinga. Tidak mendengar lautan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_4">
+			<Text>Visibilitas tidak ada. Tidak ada kemajuan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_5">
+			<Text>Ditukar dengan makanan segar dan air.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_6">
+			<Text>Tipe orang yang menyenangkan, bersemangat untuk bekerja.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_7">
+			<Text>Benar-benar tumpah ruah. Lokasi dicatat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_1">
+			<Text>Untuk bertahan hidup, kami mengandalkan air yang kami buat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_2">
+			<Text>Diinjak-injak. Dibutakan oleh ludah dromedaris. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_3">
+			<Text>Digigit di betis. Paru-paru segera ditutup setelahnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_4">
+			<Text>Visibilitas tidak ada. Ludahnya keruh. Tidak ada kemajuan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_5">
+			<Text>Selamat datang kelegaan di depan mata. Lokasi dicatat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_6">
+			<Text>Victuals diisi ulang. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_1">
+			<Text>Kehilangan gigi dalam baku hantam awal. Victual juga hilang.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_2">
+			<Text>Tidak dapat membedakan sisa-sisa di antara abu. Menekan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_3">
+			<Text>Raungan tak berujung. Empat malam tanpa tidur. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_4">
+			<Text>Kering sekali. Demoralisasi. Terlalu lemah untuk bepergian.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_5">
+			<Text>Diberi makan dan disuplai kembali. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_6">
+			<Text>Menyediakan peta ke pemukiman terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_1">
+			<Text>Persediaan medis hilang. Masih ada luka-luka, dan tidak dirawat dengan baik.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_2">
+			<Text>Radang dingin. Harus terus maju sebelum kita semua menderita.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_3">
+			<Text>Upaya pemulihan gagal. Lapar, terluka, kehilangan semangat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_4">
+			<Text>Pass adalah jalan buntu. Kembali ke perkemahan sebelumnya.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_5">
+			<Text>Mengarahkan ahli fosil ke kantor pertambangan kolonial terdekat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_6">
+			<Text>Terlindung dan disuplai kembali. Mencari makan dengan baik. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_1">
+			<Text>Tendangan berulang kali menyebabkan kerusakan organ, diikuti dengan kematian.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_2">
+			<Text>Tanah kering. Ekspedisi juga kering. Maju.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_3">
+			<Text>Mustahil menghindari gumpalan spinifex di medan ini.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_4">
+			<Text>Melintasi jalur kemarin dua kali sebelum tengah hari. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_5">
+			<Text>Stasiun pedalaman terdekat akan segera memiliki lebih banyak pekerja ternak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_6">
+			<Text>Kantong air dan perutnya terisi hingga pecah. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_1">
+			<Text>Demam yang tak ada habisnya. Pemulihan tidak mungkin dilakukan. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_2">
+			<Text>Mencari makan tidak efektif. Sabuk dikencangkan. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_3">
+			<Text>Keluar dari kamp pada malam hari, dianggap tewas.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_4">
+			<Text>Tidak ada kemajuan penting. Tertutup lalat. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_5">
+			<Text>Menemukan krustasea! Victuals diisi ulang. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_1">
+			<Text>Berangkat ketika kami pikir itu memuaskan. Salah menilai, sekali.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_2">
+			<Text>Korban melarikan diri sambil berteriak ke rawa. Diduga mati.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_3">
+			<Text>Betapa mengerikannya negeri yang tidak ramah ini!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_4">
+			<Text>Kematian yang berantakan diikuti kelumpuhan total.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_5">
+			<Text>Berjam-jam perjalanan yang sulit. Menemukan kamp. Milik kami, dari kemarin.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_6">
+			<Text>Klaim Bunyip jelas merupakan upaya syirik. Tidak ada kemajuan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_1">
+			<Text>Gatal menyebabkan infeksi. Tidak bisa tidur atau tetap duduk.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_2">
+			<Text>Diharapkan sembuh dari mabuk air. Tidak ada kemajuan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_3">
+			<Text>Prudence menyarankan agar kita memperpanjang masa pemulihan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_4">
+			<Text>Wudhu yang menyenangkan. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_5">
+			<Text>Victuals diisi ulang. Kantong air menggembung. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_1">
+			<Text>Satu lagi meninggal karena alasan yang tidak diketahui dari sumber yang tidak dikenal.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_2">
+			<Text>Tenggorokannya dipotong oleh burung dengan cakar silet. Kematian terjadi dengan cepat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_3">
+			<Text>Itu demam berdarah. Kita semua tahu bagaimana ini berakhir. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_4">
+			<Text>Bedroll tidak dapat digunakan. Menghabiskan hari merokok semut.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_5">
+			<Text>Membuat banyak catatan. Hak penamaan akan menjadi milik kita!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_1">
+			<Text>Menegaskan kembali bahayanya menyudutkan ular.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_2">
+			<Text>Kuda-kuda terkesima. Luka bakar terselamatkan. Alisnya hangus.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_3">
+			<Text>Mata hilang. Orbit terinfeksi. Emu menawarkan pahanya kepada korban.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_4">
+			<Text>Kehilangan satu hari untuk bertele-tele. Orang-orang bodoh mengelilingiku.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_5">
+			<Text>Victuals diisi ulang. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_1">
+			<Text>Cedera parah karena keanehan medan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_2">
+			<Text>Sangat membutuhkan makanan berkualitas.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_3">
+			<Text>Terjadi pertikaian, beberapa di antaranya serius. Semangat rendah.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_4">
+			<Text>Menekankan, dengan penuh semangat, perlunya penambatan.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_5">
+			<Text>Menemukan jejak tersembunyi untuk memperlancar perjalanan besok.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_6">
+			<Text>Ditukar dengan makanan segar dan air. Terus menerus.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_7">
+			<Text>Menemukan billabong, mengusir dingo, mengisi ulang air.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_8">
+			<Text>Akhirnya tercapai kesepakatan untuk hak penamaan bersama.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_9">
+			<Text>Diperlukan beberapa eksplorasi tambahan. Lokasi dicatat.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_10">
+			<Text>Janji akan imbalan telah membuat jumlah kami bersemangat. Semangat tinggi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_11">
+			<Text>Sungguh beruntung! Kami sekarang telah melipatgandakan kekayaan kami.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_12">
+			<Text>Buru-buru meninggalkan daerah itu untuk menghindari pertentangan lebih lanjut.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_13">
+			<Text>Bara api unggun mulai berkobar. Melarikan diri untuk hidup kita.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_14">
+			<Text>Mengarahkan klan ke pemukiman terdekat. Maju.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_15">
+			<Text>Perdagangan menolak, meskipun ada jaminan. Berangkat segera setelahnya.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

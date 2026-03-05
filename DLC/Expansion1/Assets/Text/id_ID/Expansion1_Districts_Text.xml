@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_NAME">
+			<Text>Plaza Pemerintah</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_NAME">
+			<Text>Taman air</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
+			<Text>Sebuah distrik yang ditempatkan satu kali di kerajaan Anda untuk memperingati pilihan pemerintahan Anda. Memberikan +8 Loyalitas per giliran ke kota ini, dan peningkatan +1 pada bonus kedekatan yang diperoleh oleh distrik mana pun yang berdekatan. Penghargaan +1 [Icon_Governor] Gelar Gubernur.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Sebuah distrik yang ditempatkan di petak pantai yang didedikasikan untuk membuat masyarakat Anda bahagia dengan meningkatkan Fasilitas [ICON_Amenities]. Tidak dapat dibangun di kota yang memiliki Kompleks Hiburan. Tidak dapat dibangun di atas Terumbu Karang.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang berspesialisasi dalam keuangan dan perdagangan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik untuk aktivitas angkatan laut di kota Anda. Juga menghapus penalti Pergerakan [ICON_Movement] untuk naik dan turun ke dan dari ubin ini. Harus dibangun di Daerah Pesisir atau Danau yang berdekatan dengan daratan. Tidak dapat dibangun di atas Terumbu Karang.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang didedikasikan untuk membuat masyarakat Anda bahagia dengan meningkatkan Fasilitas [ICON_Amenities]. Tidak dapat dibangun di kota yang memiliki Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari Sungai yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari Sungai yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Ilmu dari Sungai yang bersebelahan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari Sungai yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Sains.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NEGATIVE_DISTRICT_SCIENCE">
+			<Text>{1_num: number +#,###;-#,###} [ICON_Science] Ilmu pengetahuan dari distrik sekitar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Budaya dari Government Plaza yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Iman dari Plaza Pemerintah yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_GOLD">
+			<Text>+{1_num} [ICON_Gold] Emas dari Plaza Pemerintahan yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Produksi dari Plaza Pemerintah yang berdekatan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Sains dari Plaza Pemerintah yang berdekatan.</Text>
+		</Row>
+		<!-- Projects -->
+		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_NAME">
+			<Text>Karnaval</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_SHORT_NAME">
+			<Text>Karnaval (Pesisir)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
+			<Text>Proyek unik Brasil yang memberikan +1 [ICON_Amenities] Fasilitas saat aktif dan [ICON_GreatPerson] Poin Orang Hebat untuk [ICON_GreatEngineer] Insinyur Hebat, [ICON_GreatMerchant] Pedagang Hebat, [ICON_GreatWriter] Penulis Hebat, [ICON_GreatArtist] Seniman Hebat, dan [ICON_GreatMusician] Musisi Hebat setelah selesai.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
+			<Text>Roti dan Sirkus</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Roti dan Sirkus</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_WATER_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Roti dan Sirkus (Pesisir)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
+			<Text>Proyek kota yang meningkatkan tekanan Loyalitas yang diberikan kota ini pada dirinya sendiri dan kota-kota lain di sekitarnya.[NEWLINE][NEWLINE]Saat aktif, setiap warga [ICON_Citizen] Anda di sini memberikan +0,5 tekanan Loyalitas ke kota ini. Tekanan ini juga mempengaruhi kota-kota lain dalam 9 ubin, namun 10% kurang efektif per ubin. Setelah selesai, langsung dapatkan +20 Loyalitas di kota ini.[NEWLINE][NEWLINE]Membutuhkan: Distrik Kompleks Hiburan.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
+			<Text>Proyek kota yang meningkatkan tekanan Loyalitas yang diberikan kota ini pada dirinya sendiri dan kota-kota lain di sekitarnya.[NEWLINE][NEWLINE]Saat aktif, setiap Warga [ICON_Citizen] Anda di sini memberikan +1 Tekanan Loyalitas ke kota ini. Tekanan ini juga mempengaruhi kota-kota lain dalam 9 ubin, namun 10% kurang efektif per ubin. Setelah selesai, langsung dapatkan +20 Loyalitas di kota ini.[NEWLINE][NEWLINE]Membutuhkan: Distrik Taman Air.</Text>
+		</Row>
+		<!-- Updates to base game Districts -->
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Sebuah distrik di kota Anda yang didedikasikan untuk membuat masyarakat Anda bahagia dengan meningkatkan Fasilitas [ICON_Amenities]. Tidak dapat dibangun di kota yang memiliki Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Sebuah distrik unik di Brasil. Menggantikan distrik Kompleks Hiburan, dan menyediakan Fasilitas +2 [ICON_Amenities], dan lebih murah untuk dibangun. Tidak dapat dibangun di kota dengan Copacabana. Juga membuka proyek Karnaval, yang memberikan tambahan +1 [ICON_Amenities] Fasilitas saat berlangsung dan berbagai poin [ICON_GreatPerson] Orang Hebat setelah selesai.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

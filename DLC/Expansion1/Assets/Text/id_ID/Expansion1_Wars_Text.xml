@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GOLDEN_AGE_NAME">
+			<Text>Perang Zaman Keemasan</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_WAR_NAME">
+			<Text>Perang Darurat</Text>
+		</Row>
+		<Row Tag="LOC_WAR_OF_RETRIBUTION_NAME">
+			<Text>Perang Pembalasan</Text>
+		</Row>
+		<Row Tag="LOC_IDEOLOGICAL_WAR_NAME">
+			<Text>Perang Ideologi</Text>
+		</Row>
+	</EnglishText>
+</GameData>

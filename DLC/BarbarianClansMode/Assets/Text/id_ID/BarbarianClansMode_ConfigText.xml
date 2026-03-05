@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GAMEMODE_BARBARIAN_CLANS_NAME">
+			<Text>Mode Klan Barbar</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_BARBARIAN_CLANS_DESCRIPTION">
+			<Text>Mode permainan ini menggantikan Suku Barbar standar dengan beragam Klan, masing-masing dengan medan dan preferensi tempurnya sendiri. Selain itu, mode ini memperkenalkan tindakan pemain baru untuk interaksi damai dengan Barbarian yang memberikan peningkatan opsi strategi.</Text>
+		</Row>
+		<!--Mode Text Updates-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_CLANS_MODE_DESCRIPTION">
+			<Text>Saat Anda membubarkan Pos Luar Barbar, terima hadiah Desa Suku selain Poin Pengalaman biasa. Membayar setengah biaya biasanya untuk memungut unit negara-kota.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

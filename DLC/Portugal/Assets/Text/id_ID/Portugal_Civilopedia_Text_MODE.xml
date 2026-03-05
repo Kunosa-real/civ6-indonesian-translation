@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_CONTENT_TITLE">
+			<Text>Zombie Defense</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_WELCOME_TITLE">
+			<Text>Selamat datang</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_WELCOME_PARA_1">
+			<Text>Mode permainan Zombie Defense menghadirkan ancaman berbahaya bagi Peradaban Anda: orang mati yang tidak akan mati. Zombi dapat bangkit dari abu perang, dan saat mereka memangsa wilayah Anda dan wilayah orang lain, mereka menyebarkan kutukan mematikan mereka ke depan. Cobalah untuk mencegah mereka membanjiri kota Anda, setidaknya untuk satu kesempatan lagi!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_TITLE">
+			<Text>Zombi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_PARA_1">
+			<Text>Zombi adalah unit jarak dekat yang berkeliaran di sampah. Mereka tidak dapat menjarah Peningkatan Anda; mereka hanya tidak tertarik dengan hal itu. Tapi mereka akan langsung pergi ke unit mana pun yang berkeliaran di luar, jadi pastikan Anda tetap waspada saat meninggalkan kota. Mereka juga dapat menyerang kota Anda, mengubah Populasi yang hancur menjadi lebih banyak zombie...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_PARA_2">
+			<Text>Ketika sebuah unit mati di peta, ia memiliki peluang kecil untuk kembali sebagai unit Zombi di beberapa giliran kemudian. Namun jika suatu unit dihancurkan oleh Zombie, pastinya akan bangkit kembali pada giliran berikutnya. Namun, ancaman undead terus bertambah – setiap Zombi yang terbunuh di mana pun di dunia, Zombi yang tersisa dan Zombi baru menjadi semakin kuat. Pastikan Anda tahu apa yang Anda hadapi saat berperang melawan orang mati!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_PARA_3">
+			<Text>Situs dan Kampus Suci mengadakan solusi sementara terhadap gerombolan zombie. Menggunakan proyek Hidupkan Mayat Hidup di Situs Suci, atau proyek Sinyal Gelap di Kampus akan memungkinkan Anda mengendalikan Zombi dalam waktu singkat di dalam batas kota Anda, artinya Anda dapat mengubah gerombolan itu melawan musuh Anda. Pastikan Anda berada jauh dari jangkauan saat kendali Anda habis masa berlakunya… atau saat Anda mengakhirinya secara strategis. Selain itu, Spies Anda dapat menyebarkan kutukan mematikan kepada musuh Anda dengan aksi Zombie Outbreak.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_DEFENSES_TITLE">
+			<Text>Pertahanan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_DEFENSES_PARA_1">
+			<Text>Tanah Anda bukannya tanpa pertahanan melawan gerombolan. Selain Proyek di Situs atau Kampus Suci, pembangun Anda dapat membuat Barikade atau Perangkap untuk membantu menangkis musuh Anda (hidup atau mati). Barikade menimbulkan sejumlah kecil kerusakan pada unit musuh yang melewatinya atau ubin di dekatnya, dan Perangkap memberikan sejumlah besar kerusakan pada unit musuh yang melewatinya secara langsung. Era selanjutnya dapat memberikan kemampuan untuk membuat Barikade atau Perangkap yang lebih kuat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_DEFENSES_PARA_2">
+			<Text>Meskipun ini bisa menjadi pertahanan yang kuat melawan mayat hidup, mereka juga berguna melawan musuh Anda yang lebih – lincah – karena mereka memberikan kerusakan pada musuh apa pun. Rencanakan ini secara strategis, dan Anda mungkin akan bertahan semalaman.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ANCIENT_TOWER_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Keanehan zombie berasal dari ambiguitasnya. Apakah mereka sekadar materi yang bernyawa, atau apakah mereka sejenis makhluk hidup? Pertahanan terhadap manusia bergantung pada beberapa hal yang tidak berlaku pada mayat berjalan: rasa sakit, intimidasi, kelelahan. Kawat berduri tidak ada artinya bagi sesuatu yang tidak dapat dirasakan. Selain itu, persenjataan zombi terbatas: zombi tidak membuat trebuchet; mereka tidak menembakkan panah. Jadi pertahanan melawan orang mati memperlakukan makhluk tak hidup bukan sebagai musuh yang bisa berpikir, tapi sebagai benda yang bergerak – tongkat yang diasah bukan untuk membunuh, tapi untuk melumpuhkan, menara dengan tangga yang bisa ditarik memberikan perlindungan dari musuh yang tidak punya otak untuk memanjat tali, parit berisi musuh yang tidak bisa membangun jembatan. Setidaknya, sampai jumlahnya terlalu banyak.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MODERN_TOWER_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Orang mati berjalan tidak lelah. Ini adalah satu-satunya keuntungan besar mereka – seperti lautan, mereka terus-menerus melawan pertahanan yang dibangun untuk menghentikan mereka. Akhirnya, dinding kayu dan bambu pecah, dan bahkan dinding batu pun runtuh. Di sini, material modern – beton bertulang, baja – berperan penting. Sama seperti benteng bintang era Renaisans, dengan dinding miring, dirancang untuk menangkis dan tidak menyerap dampak tembakan meriam, pertahanan modern menekankan untuk membelokkan orang mati yang berjalan, bukan sekadar menghentikan mereka. Bahan yang fleksibel dapat ditekuk tetapi tidak patah, karena benda mati terus menekannya. Permukaan yang halus tidak dapat menahan jari-jari yang kurus, dan pintu air memungkinkan parit dan parit dibersihkan, mencegah tumpukan mayat yang dapat mengatasi bentuk pertahanan zombi yang lebih tua. Kita harus aman di balik ini. Kita seharusnya begitu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ANCIENT_TRAP_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Meskipun tembok adalah jenis pertahanan yang bertujuan untuk mengusir musuh, jebakan bertujuan untuk menghilangkan, memperlambat, atau melumpuhkan mereka. Meskipun orang mati berjalan tidak kenal lelah, mereka tidak pintar. Seorang manusia di menara, dengan otak manusianya yang cerdas, dapat bertindak sebagai umpan yang cukup untuk membawa orang mati – atau manusia bermusuhan yang ingin menghabisi musuh yang “tidak terlindungi” – ke dalam jarak dekat di mana mereka dapat ditangani. Namun pengeluaran orang mati melibatkan lebih dari sekadar berurusan dengan musuh manusia. Mereka tidak bisa diusir, atau bahkan terluka parah; mereka harus dihancurkan. Perangkap kuno bisa berupa api yang terbakar, lubang tersembunyi, atau sekadar menara yang diisi pemanah. Begitulah, sampai anak panahnya habis…</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MODERN_TRAP_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Seiring berlalunya waktu, kita telah belajar lebih banyak tentang ancaman mayat hidup. Perangkap sebelumnya melibatkan penggunaan manusia hidup (sukarela atau tidak) sebagai umpan, namun para insinyur telah mengembangkan bahan kimia atau pengganti hewani. Selain itu, peluru hollow-point atau anti-personel memberikan peningkatan kerusakan jaringan dan peningkatan akurasi. Tidak semua pemanah adalah William Tell, yang mampu membidik apel dengan baut panah, dan senapan serta teropong berarti “pembunuhan” yang lebih tepat, dan bunker dengan penembak jitu bekerja dengan baik melawan orang mati seperti halnya melawan musuh lainnya. Minyak bumi dan napalm yang dimurnikan memungkinkan zombie – atau musuh manusia – hancur dengan cara yang tidak dapat dilakukan oleh material sebelumnya. Selain itu, jebakan modern memanfaatkan kelemahan zombi: segerombolan mayat hidup yang berbaris tanpa henti dalam lingkaran, mengejar otak di jalur mekanis seperti di sirkuit balap anjing bisa jauh lebih efektif daripada lubang sederhana.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODE_ZOMBIE_CHAPTER_HISTORY_PARA_1">
+			<Text>Zombi telah menjadi salah satu kiasan horor yang paling dikenal. Namun gambaran tentang mayat yang kelaparan dan berantakan, dan terutama gagasan tentang pandemi global mayat hidup adalah sesuatu yang baru muncul dalam beberapa tahun terakhir. Dalam banyak tradisi cerita rakyat Karibia, zombi atau jumbee adalah kategori umum untuk roh jahat, yang berasal dari tradisi Afrika Barat. Namun di Haiti, zombie menjadi sesuatu yang lain – pengganti semua kengerian perbudakan. Bagi orang-orang Afrika yang diperbudak di Saint-Domingue yang saat itu merupakan koloni Perancis, kehidupan hampir tak tertahankan. Kematian, setidaknya, menjanjikan pelepasan dan kembalinya, begitulah tradisi berlanjut, sebuah surga di Afrika di mana mereka akhirnya bisa bebas. Tapi bunuh diri akan menutup pintu ini dan menyebabkan roh malang itu tetap tinggal selamanya di Karibia, selamanya diperbudak – menjadi zombie.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODE_ZOMBIE_CHAPTER_HISTORY_PARA_2">
+			<Text>Setelah Revolusi Haiti, zombie masuk ke dalam cerita rakyat setempat sebagai pelayan seorang penyihir jahat, atau, dalam beberapa cerita, seorang pendeta voudun (voodoo). Zombi, yang terpesona atau dianimasikan ulang, terus bekerja untuk tuannya, sehingga mengingatkan akan kembalinya perbudakan yang mengerikan kepada orang-orang yang telah berjuang keras untuk menjadi dan tetap bebas. Memang benar, dalam pengertian pertama inilah zombie pertama kali muncul dalam budaya pop global. Film-film Amerika menggunakan zombie sebagai simbol sihir eksotik dalam penggambaran Karibia yang sering kali bersifat rasis atau sekadar agama “lain”. Di tempat lain, zombie muncul sebagai ketakutan akan tenaga kerja seseorang yang dicuri, baik karena kembalinya perbudakan, atau sebagai metafora atas cara yang membingungkan dan eksploitatif yang diwujudkan oleh bentuk-bentuk kapitalisme baru di wilayah seperti Afrika Selatan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODE_ZOMBIE_CHAPTER_HISTORY_PARA_3">
+			<Text>Namun kebanyakan orang mungkin akrab dengan gerombolan yang dipopulerkan oleh George Romero dalam filmnya, “Malam Orang Mati Hidup.” Di sini, Romero menyajikan dunia yang terbalik, ketika orang mati yang tidak dikuburkan kembali hidup. Khususnya, Romero tidak pernah menggunakan istilah “zombie”, melainkan menyebut mereka “hantu” – yang merujuk pada roh kanibal Arab. Zombi di akhir abad ke-20 menjadi metafora baru, muncul sebagai manifestasi konsumerisme yang tidak punya pikiran dan tidak berjiwa; ketakutan akan dampak nuklir; atau ancaman pergolakan masyarakat secara besar-besaran. Pada abad ke-21, zombie sangat erat kaitannya dengan ketakutan akan penyakit dan kehancuran masyarakat. Lokus kengerian telah berubah dari ketakutan akan kehilangan kendali atas diri sendiri menjadi fantasi untuk bertahan hidup setelah segala sesuatunya tampak mati. Di sini, zombie adalah kekuatan yang sangat merusak – kehancuran yang mungkin bisa Anda manfaatkan.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

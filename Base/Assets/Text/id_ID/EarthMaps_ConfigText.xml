@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Nama dan Deskripsi -->
+		<Row Tag="LOC_TSLEARTH_NAME">
+			<Text>Lokasi Awal Historis: Bumi</Text>
+		</Row>
+		<Row Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Setiap peradaban memulai permainan di lokasi ibu kota historisnya pada peta Bumi.</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Bumi</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>Representasi Bumi dengan sumber daya, topografi, dan fitur yang ditempatkan sesuai lokasi historis.</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_HUGE_NAME">
+			<Text>Bumi Besar</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text>Representasi Bumi berukuran besar dengan sumber daya, topografi, dan fitur yang ditempatkan sesuai lokasi historis.</Text>
+		</Row>
+		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_NAME">
+			<Text>Lokasi Awal Historis: Bumi Besar</Text>
+		</Row>
+		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text>Setiap peradaban memulai permainan di lokasi ibu kota historisnya pada peta Bumi Besar.</Text>
+		</Row>
+		<Row Tag="LOC_MEDITERRANEAN_LARGE_NAME">
+			<Text>Mediterania Besar</Text>
+		</Row>
+		<Row Tag="LOC_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text>Representasi besar kawasan Mediterania dengan sumber daya, topografi, dan fitur yang ditempatkan sesuai lokasi historis.</Text>
+		</Row>
+		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_NAME">
+			<Text>Lokasi Awal Historis: Mediterania Besar</Text>
+		</Row>
+		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text>Setiap peradaban memulai permainan di lokasi ibu kota historisnya pada peta Mediterania Besar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>
