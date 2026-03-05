@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/versi-1.0.0-blue)
 ![Game](https://img.shields.io/badge/Civilization%206-compatible-green)
 ![License](https://img.shields.io/badge/lisensi-CC%20BY--NC--SA%204.0-orange)
-![Status](https://img.shields.io/badge/status-dalam%20pengerjaan-yellow)
+![Status](https://img.shields.io/badge/status-selesai-brightgreen)
 
 Mod terjemahan **Bahasa Indonesia** untuk Sid Meier's Civilization VI beserta seluruh DLC-nya.
 Dibuat dengan ❤️ untuk komunitas gamer Indonesia!
@@ -72,29 +72,29 @@ C:\Users\[NAMA_KAMU]\Documents\My Games\Sid Meier's Civilization VI\Mods\
 ## 📋 Cakupan Terjemahan
 
 ### Base Game
-- [✓] UI utama & menu
-- [✓] Teknologi & Civics
-- [✓] Unit & Bangunan
-- [✓] Pemimpin & Peradaban
-- [✓] Tooltip & Deskripsi
+- [x] UI utama & menu
+- [x] Teknologi & Civics
+- [x] Unit & Bangunan
+- [x] Pemimpin & Peradaban
+- [x] Tooltip & Deskripsi
 
 ### DLC
-- [✓] Aztec Pack
-- [✓]  Poland Pack
-- [✓] Vikings Pack
-- [✓] Australia Pack
-- [✓] Persia & Macedon Pack
-- [✓] Nubia Pack
-- [✓] Khmer & Indonesia Pack
-- [✓] Maya & Gran Colombia Pack
-- [✓] Ethiopia Pack
-- [✓] Babylon Pack
-- [✓] Vietnam & Kublai Khan Pack
-- [✓] Portugal Pack
-- [✓] Rise & Fall
-- [✓] Gathering Storm
-- [✓] New Frontier Pass
-- [✓] Leader Pass
+- [x] Aztec Pack
+- [x] Poland Pack
+- [x] Vikings Pack
+- [x] Australia Pack
+- [x] Persia & Macedon Pack
+- [x] Nubia Pack
+- [x] Khmer & Indonesia Pack
+- [x] Maya & Gran Colombia Pack
+- [x] Ethiopia Pack
+- [x] Babylon Pack
+- [x] Vietnam & Kublai Khan Pack
+- [x] Portugal Pack
+- [x] Rise & Fall
+- [x] Gathering Storm
+- [x] New Frontier Pass
+- [x] Leader Pass
 
 ---
 
@@ -144,7 +144,6 @@ Kalau mod ini membantumu, kamu bisa dukung pengembangan lebih lanjut:
 
 ### ☕ Trakteer (Lokal Indonesia)
 [![Trakteer](https://img.shields.io/badge/Trakteer-Dukung%20Saya-red?style=for-the-badge)](https://trakteer.id/fasha_muhammad_akbar)
-
 
 > Donasi tidak diwajibkan, tapi sangat membantu saya untuk terus memperbarui terjemahan! 💕
 
