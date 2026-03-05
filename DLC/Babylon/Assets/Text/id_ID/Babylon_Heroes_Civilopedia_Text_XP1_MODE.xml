@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<EnglishText>
-		<!-- Updates for XP1 - 2 -->
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_21">
-			<Text>Selain kemampuannya sendiri, Pahlawan juga merupakan perwakilan kuat peradaban Anda. Di akhir setiap giliran, unit Pahlawan menambahkan +1 Loyalitas ke semua kota dalam 2 ubin.</Text>
-		</Row>
-	</EnglishText>
-</GameData>
